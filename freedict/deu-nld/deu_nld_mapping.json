@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "markup_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "char_filter": [
+            "html_strip"
+          ],
+          "filter": [
+            "standard",
+            "lowercase"
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "entry": {
+      "_meta": {
+        "_xpaths": {
+          "id": "None",
+          "root": "//tei:entry",
+          "fields": {
+            "lemma_deu": "./tei:form/tei:orth",
+            "translation_nld": "./tei:sense/tei:cit/tei:quote",
+            "as_xml": "."
+          }
+        }
+      },
+      "properties": {
+        "lemma_deu": {
+          "type": "keyword"
+        },
+        "translation_nld": {
+          "type": "keyword"
+        },
+        "as_xml": {
+          "type": "text"
+        }
+      }
+    }
+  }
+}
