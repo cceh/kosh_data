@@ -26,7 +26,7 @@
             "lemma": "./tei:form[@type='lemma']/tei:orth",
             "variant": "./tei:form[@type='variant']/tei:orth",
             "multiword": "./tei:form[@type='multiWordUnit']/tei:orth",
-            "as_xml": "."
+            "xml": "."
           }
         }
       },
@@ -40,27 +40,7 @@
         "variant": {
           "type": "keyword"
         },
-        "as_xml": {
-          "type": "text"
-        }
-      }
-    },
-    "example": {
-      "_meta": {
-        "_xpaths": {
-          "id": "./@xml:id",
-          "root": "//tei:cit[@type='example']",
-          "fields": {
-            "example_text": "./tei:quote",
-            "as_xml": "."
-          }
-        }
-      },
-      "properties": {
-        "example_text": {
-          "type": "keyword"
-        },
-        "as_xml": {
+        "xml": {
           "type": "text"
         }
       }

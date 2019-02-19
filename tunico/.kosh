@@ -1,0 +1,7 @@
+[tunico]
+files: ["dc_aeb_eng.xml"]
+schema: dc_aeb_eng_mapping.json
+
+[tunico_example]
+files: ["dc_aeb_eng.xml"]
+schema: dc_aeb_eng_example_mapping.json

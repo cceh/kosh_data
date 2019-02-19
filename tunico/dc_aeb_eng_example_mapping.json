@@ -20,20 +20,16 @@
     "entry": {
       "_meta": {
         "_xpaths": {
-          "id": "None",
-          "root": "//tei:entry",
+          "id": "./@xml:id",
+          "root": "//tei:cit[@type='example']",
           "fields": {
-            "lemma_deu": "./tei:form/tei:orth",
-            "translation_nld": "./tei:sense/tei:cit/tei:quote",
+            "example_text": "./tei:quote",
             "xml": "."
           }
         }
       },
       "properties": {
-        "lemma_deu": {
-          "type": "keyword"
-        },
-        "translation_nld": {
+        "example_text": {
           "type": "keyword"
         },
         "xml": {

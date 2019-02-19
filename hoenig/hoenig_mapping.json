@@ -25,7 +25,7 @@
           "fields": {
             "lemma_ksh": "./tei:form/tei:orth",
             "translation_deu": "./tei:sense/tei:cit/tei:quote",
-            "as_xml": "."
+            "xml": "."
           }
         }
       },
@@ -36,7 +36,7 @@
         "translation_deu": {
           "type": "keyword"
         },
-        "as_xml": {
+        "xml": {
           "type": "text"
         }
       }

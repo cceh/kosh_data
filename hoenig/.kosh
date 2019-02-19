@@ -1,0 +1,3 @@
+[hoenig]
+files: ["hoenig.tei"]
+schema: hoenig_mapping.json
