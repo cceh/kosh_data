@@ -6,13 +6,29 @@
           "id": "./@xml:id",
           "root": "//tei:cit[@type='example']",
           "fields": {
-            "example_text": "./tei:quote"
+            "example_ar": "./tei:quote",
+            "bibl": "./tei:bibl",
+            "example_de": "./tei:cit[@type='translation'][@xml:lang='de']/tei:quote",
+            "example_en": "./tei:cit[@type='translation'][@xml:lang='en']/tei:quote",
+            "example_fr": "./tei:cit[@type='translation'][@xml:lang='fr']/tei:quote"
           }
         }
       },
       "properties": {
-        "example_text": {
+        "example_ar": {
           "type": "keyword"
+        },
+        "bibl": {
+          "type": "text"
+        },
+        "example_de": {
+          "type": "text"
+        },
+        "example_en": {
+          "type": "text"
+        },
+        "example_fr": {
+          "type": "text"
         }
       }
     }
