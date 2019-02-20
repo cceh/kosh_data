@@ -1,21 +1,4 @@
 {
-  "settings": {
-    "analysis": {
-      "analyzer": {
-        "markup_analyzer": {
-          "type": "custom",
-          "tokenizer": "standard",
-          "char_filter": [
-            "html_strip"
-          ],
-          "filter": [
-            "standard",
-            "lowercase"
-          ]
-        }
-      }
-    }
-  },
   "mappings": {
     "entry": {
       "_meta": {
@@ -25,8 +8,7 @@
           "fields": {
             "lemma": "./tei:form[@type='lemma']/tei:orth",
             "variant": "./tei:form[@type='variant']/tei:orth",
-            "multiword": "./tei:form[@type='multiWordUnit']/tei:orth",
-            "xml": "."
+            "multiword": "./tei:form[@type='multiWordUnit']/tei:orth"
           }
         }
       },
@@ -39,9 +21,6 @@
         },
         "variant": {
           "type": "keyword"
-        },
-        "xml": {
-          "type": "text"
         }
       }
     }

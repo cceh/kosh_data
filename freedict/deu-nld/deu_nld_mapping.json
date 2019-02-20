@@ -1,21 +1,4 @@
 {
-  "settings": {
-    "analysis": {
-      "analyzer": {
-        "markup_analyzer": {
-          "type": "custom",
-          "tokenizer": "standard",
-          "char_filter": [
-            "html_strip"
-          ],
-          "filter": [
-            "standard",
-            "lowercase"
-          ]
-        }
-      }
-    }
-  },
   "mappings": {
     "entry": {
       "_meta": {
@@ -24,8 +7,7 @@
           "root": "//tei:entry",
           "fields": {
             "lemma_deu": "./tei:form/tei:orth",
-            "translation_nld": "./tei:sense/tei:cit/tei:quote",
-            "xml": "."
+            "translation_nld": "./tei:sense/tei:cit/tei:quote"
           }
         }
       },
@@ -35,9 +17,6 @@
         },
         "translation_nld": {
           "type": "keyword"
-        },
-        "xml": {
-          "type": "text"
         }
       }
     }

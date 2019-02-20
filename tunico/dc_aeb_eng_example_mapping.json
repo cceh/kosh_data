@@ -1,21 +1,4 @@
 {
-  "settings": {
-    "analysis": {
-      "analyzer": {
-        "markup_analyzer": {
-          "type": "custom",
-          "tokenizer": "standard",
-          "char_filter": [
-            "html_strip"
-          ],
-          "filter": [
-            "standard",
-            "lowercase"
-          ]
-        }
-      }
-    }
-  },
   "mappings": {
     "entry": {
       "_meta": {
@@ -23,17 +6,13 @@
           "id": "./@xml:id",
           "root": "//tei:cit[@type='example']",
           "fields": {
-            "example_text": "./tei:quote",
-            "xml": "."
+            "example_text": "./tei:quote"
           }
         }
       },
       "properties": {
         "example_text": {
           "type": "keyword"
-        },
-        "xml": {
-          "type": "text"
         }
       }
     }
