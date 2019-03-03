@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "entry": {
+      "_meta": {
+        "_xpaths": {
+          "id": "None",
+          "root": "//tei:entry",
+          "fields": {
+            "lemma_bre": "./tei:form/tei:orth",
+            "sense_def" :"./tei:sense/def",
+            "translation_fra": ".//tei:sense/tei:cit[@type='translation']/tei:quote"
+          }
+        }
+      },
+      "properties": {
+        "lemma_bre": {
+          "type": "keyword"
+        },
+        "sense_def": {
+          "type": "text"
+        },
+        "translation_fra": {
+          "type": "text"
+        }
+      }
+    }
+  }
+}
