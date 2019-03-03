@@ -1,0 +1,73 @@
+default namespace = ""
+
+start =
+    element hiztegia {
+        element entry {
+            attribute id { xsd:decimal },
+            form,
+            xr?,
+            sense*,
+            element re {
+                attribute id { xsd:integer },
+                attribute type { xsd:NCName },
+                form,
+                gramGrp?,
+                sense*
+            }*
+        }+
+    }
+form =
+    element form {
+        attribute hom { xsd:integer }?,
+        element orth { text }+
+    }
+xr =
+    element xr {
+        attribute type { xsd:NCName },
+        (text
+         | lbl
+         | note
+         | element ref { text })+
+    }
+sense =
+    element sense {
+        attribute n { xsd:integer }?,
+        gramGrp*,
+        (note
+         | xr
+         | element def {
+               attribute n { xsd:integer }?,
+               (text | mentioned)+
+           }
+         | element dicteg { q, note? }
+         | element taxon { (text | mentioned)+ }
+         | element usg {
+               attribute type { xsd:NCName },
+               lbl?,
+               q
+           })*
+    }
+gramGrp =
+    element gramGrp {
+        (text
+         | element gramNote { (text | mentioned)+ }
+         | element number { (lbl | q)+ }
+         | element pos { lbl?, q }
+         | element subc {
+               attribute n { xsd:integer }?,
+               attribute type { xsd:NCName }?,
+               (text | lbl | q)+
+           })+
+    }
+note = element note { (text | mentioned | q)+ }
+lbl =
+    element lbl {
+        attribute n { xsd:integer }?,
+        text
+    }
+q = element q { (text | mentioned)+ }
+mentioned =
+    element mentioned {
+        attribute n { xsd:NCName }?,
+        text
+    }
