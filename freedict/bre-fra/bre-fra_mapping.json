@@ -7,8 +7,7 @@
           "root": "//tei:entry",
           "fields": {
             "lemma_bre": "./tei:form/tei:orth",
-            "sense_def" :"./tei:sense/def",
-            "translation_fra": ".//tei:sense/tei:cit[@type='translation']/tei:quote"
+            "translation_fra": ".//tei:sense/tei:cit[@type='trans']/tei:quote"
           }
         }
       },
@@ -16,11 +15,8 @@
         "lemma_bre": {
           "type": "keyword"
         },
-        "sense_def": {
-          "type": "text"
-        },
         "translation_fra": {
-          "type": "text"
+          "type": "keyword"
         }
       }
     }
