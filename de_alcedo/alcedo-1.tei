@@ -590,10 +590,9 @@
         </entry>
         <entry xml:id="alcedo00051">
           <form>
-            <orth type="lemma">ACAPAZINGO San Diego de ) Pueblo de la Cabecera de Partido y<placeName><roleName type="alcaldia_mayor">Alcaldía mayor</roleName> de <district key="JUNEMXCV">Cuernavaca</district></placeName>
-            </orth>
+            <orth type="lemma">ACAPAZINGO</orth>
           </form>
-          <sense/>
+          <sense>San Diego de ) Pueblo de la Cabecera de Partido y<placeName><roleName type="alcaldia_mayor">Alcaldía mayor</roleName> de <district key="JUNEMXCV">Cuernavaca</district></placeName></sense>
         </entry>
         <entry xml:id="alcedo00052">
           <form>
