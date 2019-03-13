@@ -358,7 +358,7 @@
         </gramGrp>
         <sense>
           <cit xml:lang="deu">
-            <quote>mit Erbsenstroh umwickelte Figur beim Erntefest;</quote>
+            <quote>mit Erbsenstroh umwickelte Figur beim Erntefest</quote>
           </cit>
         </sense>
       </entry>
@@ -20406,7 +20406,8 @@
         </gramGrp>
         <sense>
           <cit xml:lang="deu">
-            <quote>Beleibtheit</quote>
+            <quote>
+              heit</quote>
           </cit>
         </sense>
       </entry>
@@ -64307,6 +64308,15 @@
           <cit xml:lang="deu">
             <quote>kriegen, bekommen, erhalten, nehmen</quote>
           </cit>
+          <cit xml:lang="deu">
+            <quote>kriegen, bekommen, erhalten, nehmen</quote>
+          </cit>
+          <cit xml:lang="deu">
+            <quote>kriegen, bekommen, erhalten, nehmen</quote>
+          </cit>
+          <cit xml:lang="deu">
+            <quote>kriegen, bekommen, erhalten, nehmen</quote>
+          </cit>
         </sense>
       </entry>
       <entry xml:id="hoenig_5159">
@@ -64331,7 +64341,7 @@
         </gramGrp>
         <sense>
           <cit xml:lang="deu">
-            <quote>Kleinigkeiten, Tödel</quote>
+            <quote>Kleinigkeiten, Trödel</quote>
           </cit>
         </sense>
       </entry>
@@ -64357,7 +64367,7 @@
         </gramGrp>
         <sense>
           <cit xml:lang="deu">
-            <quote>kringel, ringeln</quote>
+            <quote>kringeln, ringeln</quote>
           </cit>
         </sense>
       </entry>
@@ -64686,7 +64696,7 @@
         </form>
         <sense>
           <cit xml:lang="deu">
-            <quote>beleibt Feist sein</quote>
+            <quote>beleibt, feist sein</quote>
           </cit>
         </sense>
       </entry>
