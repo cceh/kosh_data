@@ -244,6 +244,7 @@
             <quote>Arsch</quote>
           </cit>
         </sense>
+        <etym><lang>mhd</lang><mentioned>Ars</mentioned></etym>
       </entry>
       <entry xml:id="hoenig_16">
         <form>
@@ -436,6 +437,7 @@
             <quote>sich, sich entfernen</quote>
           </cit>
         </sense>
+        <etym><lang>frz</lang><mentioned>absenter</mentioned></etym>
       </entry>
       <entry xml:id="hoenig_31">
         <form>
@@ -75250,6 +75252,7 @@
             <quote>Medizin</quote>
           </cit>
         </sense>
+        <xr type="syn"><ptr target="#hoenig_6084"/></xr>
       </entry>
       <entry xml:id="hoenig_6024">
         <form>
@@ -75981,8 +75984,11 @@
         </sense>
       </entry>
       <entry xml:id="hoenig_6084">
-        <form>
+        <form type="lemma">
           <orth xml:lang="ksh">Midezing</orth>
+        </form>
+        <form>
+          <orth type="variant" xml:lang="ksh">Millezing</orth>
         </form>
         <gramGrp>
           <gen>f</gen>
@@ -76222,19 +76228,6 @@
         <sense>
           <cit xml:lang="deu">
             <quote>Emilie</quote>
-          </cit>
-        </sense>
-      </entry>
-      <entry xml:id="hoenig_6104">
-        <form>
-          <orth xml:lang="ksh">Millezing</orth>
-        </form>
-        <gramGrp>
-          <gen>f</gen>
-        </gramGrp>
-        <sense>
-          <cit xml:lang="deu">
-            <quote>Arznei, Medizin</quote>
           </cit>
         </sense>
       </entry>
