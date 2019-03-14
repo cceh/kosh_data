@@ -7,10 +7,10 @@
           "root": "//tei:cit[@type='example']",
           "fields": {
             "example_ar": "./tei:quote",
-            "bibl": "./tei:bibl",
-            "example_de": "./tei:cit[@type='translation'][@xml:lang='de']/tei:quote",
-            "example_en": "./tei:cit[@type='translation'][@xml:lang='en']/tei:quote",
-            "example_fr": "./tei:cit[@type='translation'][@xml:lang='fr']/tei:quote"
+            "[bibl]": "./tei:bibl",
+            "[example_de]": "./tei:cit[@type='translation'][@xml:lang='de']/tei:quote",
+            "[example_en]": "./tei:cit[@type='translation'][@xml:lang='en']/tei:quote",
+            "[example_fr]": "./tei:cit[@type='translation'][@xml:lang='fr']/tei:quote"
           }
         }
       },

@@ -7,18 +7,18 @@
           "root": "//tei:entry",
           "fields": {
             "lemma": "./tei:form[@type='lemma']/tei:orth",
-            "lemma_bibl": "./tei:form[@type='lemma']/tei:bibl",
-            "variant": ".//tei:form[@type='variant']/tei:orth",
+            "[lemma_bibl]": "./tei:form[@type='lemma']/tei:bibl",
+            "[variant]": ".//tei:form[@type='variant']/tei:orth",
             "multiword": "./tei:form[@type='multiWordUnit']/tei:orth",
-            "inflected": "./tei:form[@type='inflected']/tei:orth",
+            "[inflected]": "./tei:form[@type='inflected']/tei:orth",
             "gram_pos": "./tei:gramGrp/tei:gram[@type='pos']",
             "gram_root": "./tei:gramGrp/tei:gram[@type='root']",
-            "trans_en": "./tei:sense/tei:cit[@type='translation'][@xml:lang='en']/tei:quote",
-            "trans_de": "./tei:sense/tei:cit[@type='translation'][@xml:lang='de']/tei:quote",
-            "trans_fr": "./tei:sense/tei:cit[@type='translation'][@xml:lang='fr']/tei:quote",
-            "def_en": "./tei:sense/tei:def[@xml:lang='en']",
-            "def_de": "./tei:sense/tei:def[@xml:lang='de']",
-            "def_fr": "./tei:sense/tei:def[@xml:lang='fr']"
+            "[trans_en]": "./tei:sense/tei:cit[@type='translation'][@xml:lang='en']/tei:quote",
+            "[trans_de]": "./tei:sense/tei:cit[@type='translation'][@xml:lang='de']/tei:quote",
+            "[trans_fr]": "./tei:sense/tei:cit[@type='translation'][@xml:lang='fr']/tei:quote",
+            "[def_en]": "./tei:sense/tei:def[@xml:lang='en']",
+            "[def_de]": "./tei:sense/tei:def[@xml:lang='de']",
+            "[def_fr]": "./tei:sense/tei:def[@xml:lang='fr']"
           }
         }
       },

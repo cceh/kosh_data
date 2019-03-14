@@ -7,9 +7,9 @@
           "root": "//entry",
           "fields": {
             "lemma": "./form/orth",
-            "sense_def": "./sense/def",
-            "sense_pos": "./sense/gramGrp/pos/q",
-            "dicteg": "./sense/dicteg/q"
+            "[sense_def]": "./sense/def",
+            "[sense_pos]": "./sense/gramGrp/pos/q",
+            "[dicteg]": "./sense/dicteg/q"
           }
         }
       },
