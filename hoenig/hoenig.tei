@@ -75981,8 +75981,11 @@
         </sense>
       </entry>
       <entry xml:id="hoenig_6084">
-        <form>
+        <form type="lemma">
           <orth xml:lang="ksh">Midezing</orth>
+        </form>
+        <form>
+          <orth type="variant" xml:lang="ksh">Millezing</orth>
         </form>
         <gramGrp>
           <gen>f</gen>
@@ -76222,19 +76225,6 @@
         <sense>
           <cit xml:lang="deu">
             <quote>Emilie</quote>
-          </cit>
-        </sense>
-      </entry>
-      <entry xml:id="hoenig_6104">
-        <form>
-          <orth xml:lang="ksh">Millezing</orth>
-        </form>
-        <gramGrp>
-          <gen>f</gen>
-        </gramGrp>
-        <sense>
-          <cit xml:lang="deu">
-            <quote>Arznei, Medizin</quote>
           </cit>
         </sense>
       </entry>
