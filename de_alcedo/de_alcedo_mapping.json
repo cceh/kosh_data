@@ -1,19 +1,17 @@
 {
   "mappings": {
-    "entry": {
-      "_meta": {
-        "_xpaths": {
-          "id": "./@xml:id",
-          "root": "//tei:entry",
-          "fields": {
-            "lemma": "./tei:form/tei:orth"
-          }
+    "_meta": {
+      "_xpaths": {
+        "id": "./@xml:id",
+        "root": "//tei:entry",
+        "fields": {
+          "lemma": "./tei:form/tei:orth"
         }
-      },
-      "properties": {
-        "lemma": {
-          "type": "keyword"
-        }
+      }
+    },
+    "properties": {
+      "lemma": {
+        "type": "keyword"
       }
     }
   }

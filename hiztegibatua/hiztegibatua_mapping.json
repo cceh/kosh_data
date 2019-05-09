@@ -1,31 +1,29 @@
 {
   "mappings": {
-    "entry": {
-      "_meta": {
-        "_xpaths": {
-          "id": "./@id",
-          "root": "//entry",
-          "fields": {
-            "lemma": "./form/orth",
-            "[sense_def]": "./sense/def",
-            "[sense_pos]": "./sense/gramGrp/pos/q",
-            "[dicteg]": "./sense/dicteg/q"
-          }
+    "_meta": {
+      "_xpaths": {
+        "id": "./@id",
+        "root": "//entry",
+        "fields": {
+          "lemma": "./form/orth",
+          "[sense_def]": "./sense/def",
+          "[sense_pos]": "./sense/gramGrp/pos/q",
+          "[dicteg]": "./sense/dicteg/q"
         }
+      }
+    },
+    "properties": {
+      "lemma": {
+        "type": "keyword"
       },
-      "properties": {
-        "lemma": {
-          "type": "keyword"
-        },
-        "sense_def": {
-          "type": "text"
-        },
-        "sense_pos": {
-          "type": "text"
-        },
-        "dicteg": {
-          "type": "text"
-        }
+      "sense_def": {
+        "type": "text"
+      },
+      "sense_pos": {
+        "type": "text"
+      },
+      "dicteg": {
+        "type": "text"
       }
     }
   }

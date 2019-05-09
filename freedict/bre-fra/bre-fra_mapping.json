@@ -1,23 +1,21 @@
 {
   "mappings": {
-    "entry": {
-      "_meta": {
-        "_xpaths": {
-          "id": "None",
-          "root": "//tei:entry",
-          "fields": {
-            "lemma_bre": "./tei:form/tei:orth",
-            "translation_fra": ".//tei:sense/tei:cit[@type='trans']/tei:quote"
-          }
+    "_meta": {
+      "_xpaths": {
+        "id": "None",
+        "root": "//tei:entry",
+        "fields": {
+          "lemma_bre": "./tei:form/tei:orth",
+          "translation_fra": ".//tei:sense/tei:cit[@type='trans']/tei:quote"
         }
+      }
+    },
+    "properties": {
+      "lemma_bre": {
+        "type": "keyword"
       },
-      "properties": {
-        "lemma_bre": {
-          "type": "keyword"
-        },
-        "translation_fra": {
-          "type": "keyword"
-        }
+      "translation_fra": {
+        "type": "keyword"
       }
     }
   }
