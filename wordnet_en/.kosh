@@ -1,0 +1,7 @@
+[wordnet_en_entry]
+files: ["english-wordnet-2019.xml"]
+schema: english-wordnet-2019_entry_mapping.json
+
+[wordnet_en_synset]
+files: ["english-wordnet-2019.xml"]
+schema: english-wordnet-2019_synset_mapping.json

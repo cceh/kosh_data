@@ -1,0 +1,49 @@
+{
+  "mappings": {
+    "_meta": {
+      "_xpaths": {
+        "id": "./@id",
+        "root": "//Synset",
+        "fields": {
+          "ili": "./@ili",
+          "part_of_speech": "./@partOfSpeech",
+          "dc_subject": "./@dc:subject",
+          "definition": "./Definition",
+          "ili_definition" :"./ILIDefinition",
+          "[rel_type]":"./SynsetRelation/@relType",
+          "[target]":"./SynsetRelation/@relType",
+          "[example]":"./Example"
+        }
+      }
+    },
+    "properties": {
+      "id": {
+        "type": "keyword"
+      },
+      "ili": {
+        "type": "text"
+      },
+      "part_of_speech": {
+        "type": "keyword"
+      },
+      "dc_subject": {
+        "type": "keyword"
+      },
+      "definition": {
+        "type": "text"
+      },
+      "ili_definition": {
+        "type": "keyword"
+      },
+      "rel_type": {
+        "type": "keyword"
+      },
+      "target": {
+        "type": "keyword"
+      },
+      "example": {
+        "type": "text"
+      }
+    }
+  }
+}
