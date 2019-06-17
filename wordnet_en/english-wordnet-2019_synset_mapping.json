@@ -17,9 +17,6 @@
       }
     },
     "properties": {
-      "id": {
-        "type": "keyword"
-      },
       "ili": {
         "type": "text"
       },

@@ -16,9 +16,6 @@
       }
     },
     "properties": {
-      "id": {
-        "type": "keyword"
-      },
       "lemma_pos": {
         "type": "text"
       },
