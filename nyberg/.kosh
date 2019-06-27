@@ -1,0 +1,3 @@
+[nyberg]
+files: ["nyberg.xml"]
+schema: nyberg_mapping.json
