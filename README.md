@@ -1,8 +1,10 @@
-Here you can access lexical datasets found in <a href="http://github/cceh/kosh_data">this repository</a> via APIs created with Kosh.
+# Kosh Data
+
+Here you can access lexical datasets found in <a href="https://github.com/cceh/kosh_data">this repository</a> via APIs created with Kosh.
 
 To learn more about Kosh, visit <a href="https://kosh.uni-koeln.de">https://kosh.uni-koeln.de</a>
 
-## API Interaction:
+## API Interaction
 
 Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
@@ -111,3 +113,5 @@ Synsets Index:
 * Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_synset/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_synset/graphql>
 
+## Contact 
+If you have any questions, contact the Kosh team: info-kosh[a]uni-koeln.de
