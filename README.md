@@ -9,7 +9,7 @@ To learn more about Kosh, visit <a href="https://kosh.uni-koeln.de">https://kosh
 Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
 ### Wörterbuch der Kölner Mundart - Fritz Hönig (Kölsch-Deutsch)
-
+**10.780 Entries**
 * Swagger UI: <http://kosh.uni-koeln.de/api/hoenig/restful>
 
 * GraphiQL: <http://kosh.uni-koeln.de/api/hoenig/graphql>
@@ -24,7 +24,7 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 ```
 
 ### TuniCo - [A Dictionary of Tunis Arabic](https://arche.acdh.oeaw.ac.at/browser/oeaw_detail/id.acdh.oeaw.ac.at/uuid/175b8cdf-5d04-f4d3-a778-67910aa8fd37)
-
+**7.543 Entries**
 
 * Swagger UI: <http://kosh.uni-koeln.de/api/tunico/restful>
 
@@ -43,6 +43,8 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
 ### [Freedict German - Dutch](https://github.com/freedict/fd-dictionaries/tree/master/deu-nld)
 
+**12.812 Entries**
+
 * Swagger UI: <http://kosh.uni-koeln.de/api/freedict_deu_nld/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/freedict_deu_nld/graphql>
 ```
@@ -56,6 +58,8 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
 
 ### [Freedict Breton - French](https://github.com/freedict/fd-dictionaries/tree/master/bre-fra)
+
+**27.034 Entries**
 
 * Swagger UI: <http://kosh.uni-koeln.de/api/freedict_bre_fra/restful>
 
@@ -71,6 +75,8 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 ```
 
 ### [Hiztegi Batu Oinarriduna](http://www.euskaltzaindia.eus/dok/eaeb/hiztegibatua/hiztegibatua.xml) (Basque)
+
+**37.973 Entries**
 
 * Swagger UI: <http://kosh.uni-koeln.de/api/hiztegibatua/restful>
 
@@ -89,6 +95,8 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
 ### Diccionario Geográfico-Histórico de las Indias Occidentales ó América (1786-1789) de Antonio de Alcedo
 
+**19.010 Entries**
+
 * Swagger UI: <http://kosh.uni-koeln.de/api/de_alcedo/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/de_alcedo/graphql>
 ```
@@ -105,10 +113,14 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
 Entries Index:
 
+**160.051 Entries**
+
 * Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_entry/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_entry/graphql>
 
 Synsets Index:
+
+**117.791 Synsets**
 
 * Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_synset/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_synset/graphql>
