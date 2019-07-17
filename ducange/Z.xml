@@ -1,0 +1,2187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="ducange.rng" type="xml"?><?xml-stylesheet type="text/css" href="ducange_tei.css" title="editor"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Glossarium mediæ et infimæ latinitatis.</title>
+      <principal xml:id="AGJ">Anita Guerreau-Jalabert</principal>
+      <funder>2007-..., École nationale des chartes</funder>
+      <funder>2009-2012, Agence nationale de la recherche, ANR OMNIA</funder>
+      <funder>2008, TGE Adonis (CNRS), CRN TELMA</funder>
+      <respStmt>
+        <resp>2007/04—2010, spécifications, suivi de numérisation, balisage, exploitations applicatives et linguistiques</resp>
+        <name xml:id="FG" ref="frederic.glorieux@enc.sorbonne.fr">Frédéric Glorieux (École nationale des chartes)</name>
+      </respStmt>
+      <respStmt>
+        <resp>2007—2009, numérisation typographique</resp>
+        <name xml:id="DM" ref="dmunteanu@jouve.fr">Dana Munteanu (Société Jouve)</name>
+      </respStmt>
+      <respStmt>
+        <resp>2008/11—2009/02, corrections (unclear, doutes Jouve, validité)</resp>
+        <name xml:id="BS" ref="benoit.simonian@enc.sorbonne.fr">Benoît Simonian (École nationale des chartes)</name>
+      </respStmt>
+    </titleStmt>
+    <extent>TODO, à calculer</extent>
+    <publicationStmt>
+      <date>2009</date>
+      <idno>http://ducange.enc.sorbonne.fr/</idno>
+      <publisher>École nationale des chartes</publisher>
+      <address>
+        <addrLine>19, rue de la Sorbonne</addrLine>
+        <addrLine>75005 Paris.</addrLine>
+        <addrLine>tél. : +33 (0)1 55 42 75 00</addrLine>
+        <addrLine>http://enc.sorbonne.fr/</addrLine>
+        <addrLine>recherche@enc.sorbonne.fr</addrLine>
+      </address>
+      <availability status="restricted">
+        <p>
+L'École nationale des chartes met à disposition cette ressource électronique structurée,
+protégée par le code de la propriété intellectuelle sur les bases de données (L341-1),
+selon les termes de la licence Creative Commons :
+« Paternité - Pas d'Utilisation Commerciale - Pas de Modification ; 2.0 France ».
+Cette licence est disponible en ligne http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
+ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
+        </p>
+        <p>
+Pas d'Utilisation Commerciale : L'École nationale des chartes souhaite encourager l'utilisation et
+l'amélioration de ses ressources électroniques, pour les intérêts de l'enseignement et de la recherche.
+Toute autorisation au-delà du champ de cette licence doit être obtenue auprès de l'École nationale des chartes.
+        </p>
+        <p>
+Pas de Modification : Afin de mieux servir la communauté scientifique, l'École nationale des chartes s'engage
+à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques
+par une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer les contributions qui lui sont
+soumises (après validation par un comité scientifique), et à référencer l'origine de ces contributions.
+Toute modification de la ressource qui ne serait pas reversée à la version de référence sous l'autorité éditoriale
+de l'École nationale des chartes doit faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
+contributions et de permettre les meilleures conditions possibles de collaboration scientifique.
+        </p>
+        <p>
+Paternité : l'École nationale des chartes demande à ce que
+toute publication dérivée de ses ressources électroniques comporte :
+1) le nom de l'École nationale des chartes et, pour les publications électroniques, son logo
+2) l'URI permettant d'accéder à la page citée sur notre site, ou à la page d'accueil de la ressource
+3) la date du fichier source utilisé.
+        </p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Éditions en ligne de l'École des chartes</title>
+      <idno type="URI">http://elec.enc.sorbonne.fr/</idno>
+      <idno type="vol">18</idno>
+    </seriesStmt>
+    <sourceDesc>
+    <bibl><author>Charles du Fresne, sieur du Cange</author>, <foreign>et al.</foreign>,
+      <title>Glossarium mediae et infimae latinitatis</title>,
+      éd. augm., Niort : L. Favre, 1883‑1887,
+      10 vol. in-quarto.</bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <projectDesc>
+        <p>TODO, description scientifique</p>
+    </projectDesc>
+    <samplingDecl>
+       <p>Lettre </p>
+    </samplingDecl>
+    <editorialDecl>
+      <p>L'attitude générale à l'égard du texte imprimé a été d'établir le texte le plus utile au lecteur,
+       ainsi la fidélité n'a pas été jusqu'à conserver la mémoire
+       des coquilles qui ont été corrigées. Cependant, toute information retrouvée a été balisée, 
+      ainsi l'histoire éditoriale de l'ouvrage inscrite par des puces ou des crochets a été formalisée.
+      Les caractères qui peuvent être générés automatiquement n'ont pas été conservés.</p>
+    </editorialDecl>
+  </encodingDesc>
+  <revisionDesc>
+    <change when="2009-04-01" who="FG">TEI Council, présentation du schéma</change>
+    <change when="2008-11" who="FG">Publication O-Z</change>
+    <change when="2008-01" who="FG">Publication O, P, Q</change>
+    <change when="2007-06" who="FG">Cahier des charges Jouve</change>
+    <change when="2007-03" who="FG">Echantillon numérisé par Dataland (200 p.)</change>
+  </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+
+      <pb n="425"/>
+      <cb n="425a"/>
+      <entry rend="ducange" xml:id="Z1">
+        <dictScrap xml:id="Z1-1"><form rend="b">Z</form>. <form rend="sc">Litera</form> numeralis, quæ 2000. efficit. Unde versus : <quote xml:lang="lat">
+            <l>Ultima Z. canens finem bis mille tenebit.</l>
+          </quote> Seu ut habet Ugutio : <quote xml:lang="lat">
+            <l>Ultima Z. quæ canit finem bis mille tenere.</l>
+          </quote> Eidem literæ, si recta linea superaddatur, bis millies mille significat.</dictScrap>
+        <dictScrap xml:id="Z1-2">Z. pro X. crebro <hi rend="i">Zenia</hi>, pro <hi rend="i">Xenia</hi> :
+          <hi rend="i">Zenodochium</hi>, pro <hi rend="i">Xenodochium</hi>, in Gloss. Ælfrici pag. 62. 79.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="Z2">
+        <dictScrap xml:id="Z2-1"><form rend="b">Z</form>, pro R. sæpius in Instr. Hist. Nem. <hi rend="i">Cozona</hi>, pro Corona. <hi rend="i">Cizateca</hi>,
+          pro Chirotheca. <hi rend="i">Ceza</hi>, pro Cera, etc.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="Z3">
+        <dictScrap xml:id="Z3-1"><form rend="b">Z</form>, pro S, passim occurrit ; <hi rend="i">Zabaterius, Zandale</hi>, pro Sabaterius, Sandale,
+          etc.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZA1">
+        <dictScrap xml:id="ZA1-1"><form rend="b">ZA</form>. Charta Italica ann. 1154. apud Puricellum in Ambrosiana Basilica pag. 711. 712 :
+            <quote xml:lang="lat">Et hoc fuit ab undecim annis in Zà, et a mense in là.</quote> Infra : <quote xml:lang="lat">Et
+            hoc fuit a 40. annis in Zà, et a 25. in là.</quote> Vulgare Italicum : Galli dicunt
+            <foreign xml:lang="fro">en çà</foreign>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZABA">
+        <dictScrap xml:id="ZABA-1"><form rend="b">ZABA</form>, <form rend="sc">Zava</form>, Lorica. <bibl>Gloss. Arabico-Lat.</bibl> : <hi rend="i">Lorica</hi>,
+            <oVar>Zaba</oVar>. <cit><bibl>Papias</bibl><lbl> : </lbl><quote xml:lang="lat">Zaba, munimentum in prælio virorum
+              fortium.</quote></cit>
+          <cit>
+            <bibl>Julianus Antecessor cap. 304.</bibl>
+            <quote xml:lang="lat">Zabas, sive loricas.</quote>
+          </cit> Lexicon Gr. MS. Reg. cod. 2062 : <quote xml:lang="grc">Ζάϐα, τὸ λωρίϰιον.
+            Ζαϐαρεῖον, ἐν ᾧ αἱ ζάϐαι.</quote> Quod vero <foreign xml:lang="grc">ζαϐαρεῖον</foreign>
+          dicitur, <foreign xml:lang="grc">θήϰαι</foreign> et <foreign xml:lang="grc">θηϰάρια τῶν
+            ζαϐῶν</foreign> sunt Leoni in Tact. cap. 6. § 22. ubi ex corio bubulo esse jubentur.
+          Zabarum vero non semel meminit idem Leo ibidem cap. 6. § 22 : <quote xml:lang="grc">Ἔχειν
+            δὲ δι᾽ ἕϰαστον ἄνδρα ὅπλησιν τοιαύτην, Ζάϐας τελείας μέχρι τοῦ ἀστραγάλου ἀνασυρομένας
+            διὰ λωρίων ϰαὶ ϰριϰελλίων μετὰ τῶν θηϰαρίων αὐτῶν.</quote> Adde § 3. 13. 17. 25. et cap.
+          7. § 73. <foreign xml:lang="grc">Ζάϐας ἤτοι λωρίϰια</foreign>. Occurrit etiam vox eadem in
+          Nov. 85. et in Chronico Alexandrino pag. 782. Vide Scriverium ad Vegetium pag. 564. præter
+          Rigaltium, et Glossar. med. Græcit. in <foreign xml:lang="grc">Ζάϐα</foreign>.</dictScrap>
+        <dictScrap xml:id="ZABA-2"><form rend="sc">Zava</form>, Idem quod <ref target="ZABA">Zaba</ref>. Lex Wisigoth. lib. 9. tit. 2. § 9 :
+            <quote xml:lang="lat">Partem aliquam Zavis vel loricis munitam.</quote> Ubi <hi rend="i">Fuero juzgo</hi> lib. 9.
+          tit. 2. § 8 : <quote xml:lang="lat">Muestre los bien armados de lorigas, e pertuntes.</quote> Est igitur
+            <hi rend="i">zava</hi> idem quod <hi rend="i">perpunctum</hi>, seu <hi rend="i">gambasium</hi>. Vide in his vocibus.</dictScrap>
+        <dictScrap xml:id="ZABA-3"><form rend="sc">Sabea</form>, vel <form rend="sc">Sabeum</form>, pro <hi rend="i">Zaba</hi>. Capitula Herardi Archiep. Turon. cap. 113 :
+            <quote xml:lang="lat">Clerici....... si armis, sagis, vel Sabeis usi fuerint, deponantur.</quote></dictScrap>
+        <dictScrap xml:id="ZABA-4"><form rend="sc">Zabatus</form>. Papias : <gloss>Cristatus, galeatus, <cb n="425b"/> i. Zabatus.</gloss> Alibi :
+            <gloss>Zabatus, cristatus, galeatus.</gloss> Ubi <hi rend="i">zabam</hi> pro galea aut casside
+          videtur usurpasse : nisi per <hi rend="i">galeam</hi> intelligat <hi rend="i">loricam cucullatam</hi>, quæ et
+          corpus et caput tegebat, uti legit Meursius in Gloss.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZABALEGUM">
+        <dictScrap xml:id="ZABALEGUM-1"><form rend="b">ZABALEGUM</form>, <hi rend="i">apud Aliabatem exponitur Mastix</hi>. Glossar. MS. medic. Sim. Januens. ex Cod.
+          reg. 6959.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZABARA">
+        <dictScrap xml:id="ZABARA-1">
+          
+          <form rend="b">ZABARA</form>
+          <cit><quote xml:lang="lat">vocatur a multis vulgariter planta, unde fit aloes, imitantes Arabicum, quod
+              est Sabi,</quote><lbl> in </lbl><bibl>eodem Glossario.</bibl></cit>
+        </dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZABATERIUS">
+        <dictScrap xml:id="ZABATERIUS-1"><form rend="b">ZABATERIUS</form>, pro <hi rend="i">Sabaterius</hi> ; Calceorum sutor vel sartor. Stat. Avenion. ann. 1243.
+          cap. 149. ex Cod. reg. 4659 : <quote xml:lang="lat">Statuimus quod curia elegat duos viros legales.......
+            de Zabateriis, qui quæstiones quæ orientur inter... Zabaterios possint...
+          componere.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZABERNA">
+        <dictScrap xml:id="ZABERNA-1"><form rend="b">ZABERNA</form>, Papias : <gloss><oVar>Zaberna</oVar>, ubi vestes ponuntur, aut quodlibet aliud ; <oVar>Zaberna</oVar>,
+            arca, vel armariolum.</gloss> Gloss. MSS. : <oVar>Zaberna</oVar>, <hi rend="i">vestiarium</hi>.
+            <add rend="benedictin">Tabul. Eccl. Audomar. : <quote xml:lang="lat">Privilegia existentia
+              in superiori parte almariæ seu <oVar>Zabernæ</oVar> magnæ existentis in thesauro. In prima et
+              superiori parte mediæ seu secundæ <oVar>Zabernæ</oVar> sive almariæ,.... in tertia parte secundæ
+              <oVar>Zabernæ</oVar>, etc.</quote> Mirac. S. Udalrici cap. 25. sæc. 5. Bened. pag. 468 :
+              <quote xml:lang="lat">Interim etiam quæsivit <oVar>Zabernas</oVar> et calceamenta, et non
+            invenit.</quote></add> Hariulfus lib. 3. Chron. Centul. cap. 28. de Capsa,
+          in qua erat corpus S. Vigoris Episcopi Bajoc. : <quote xml:lang="lat">Hospitem exorat, ut <oVar>Zabernam</oVar>, quæ
+            sanctis ossibus erat onusta, diligentissimæ atque fidissimæ traderet custodiæ.</quote>
+          Et mox : <quote xml:lang="lat">Acceptam vero <oVar>Zabernam</oVar> Bernardus tali loco ponere eam nititur, quem
+            latrones adire non possent.</quote> Infra, <hi rend="i">Arca</hi> appellatur : <quote xml:lang="lat">Inquiri
+            citius jubet, cujus esset arca.</quote> <oVar>Zabernam</oVar> fortassis hoc loco usurpavit Hariulfus
+          pro taberna, seu arca aut capsa, ex tabulis ligneis compacta. <gloss>Tabernæ</gloss> enim, <cit><bibl>auctore Isidoro lib. 15. cap. 2.</bibl>
+            <quote xml:lang="lat">dictæ, quod ex tabulis ligneis essent confectæ.</quote></cit> Vide infra in voce
+            <ref target="ZABYRA">Zabyra</ref>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZABERNA-2"><form rend="sc">Taberna</form>, Eodem significatu. Drogo in Translat. S. Levinæ tom. 5. Julii pag. 617 :
+            <quote xml:lang="lat">Novo linteolo ea <note>(ossa)</note> involvit,..... hospitium venit, in una
+            suarum Tabernarum collocavit.</quote> Infra <hi rend="i">Zabernam</hi> vocat.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZABOLATICUS">
+        <dictScrap xml:id="ZABOLATICUS-1"><form rend="b">ZABOLATICUS</form>, <form rend="sc">Zabolicus</form>, <form rend="sc">Zabuliticus</form>. Vide mox in <ref target="ZABULUS">Zabulus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZABULUM">
+        <dictScrap xml:id="ZABULUM-1"><form rend="b">ZABULUM</form>, Sabulum, arena. Charta <cb n="425c"/> Henrici VII. Reg. Angl. ann. 1499. apud
+          Rymer. tom. 12. pag. 714 : <quote xml:lang="lat">Ita quod in velleribus lanarum terram, petras, fimum,
+            Zabulum, arenas, et pilos minime paccent aut involvant.</quote> Alia ann. 1533. apud
+            <hi rend="i">Madox</hi> in Formul. Anglic. pag. 151 : <quote xml:lang="lat">Cum omnibus aliis terris, pratis,
+            pasturis, et omnibus aliis pertinenciis manerio prædicto pertinentibus ; excepto Zabulo
+            et lapidibus, etc.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZABULUM-2"><form rend="sc">Zabulinus Campus</form>, Arenosus, in Inquisitione ann. 1196 apud Cencium inter Cersus Eccles.
+        Romanæ.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZABULUS">
+        <dictScrap xml:id="ZABULUS-1"><form rend="b">ZABULUS</form>, Diabolus. Sic autem Dorice aiuni appellari. Dorica quippe lingua <foreign xml:lang="grc">ζαϐάλλειν</foreign>, idem est quod <foreign xml:lang="grc">διαϐάλλειν</foreign> ; ut <foreign xml:lang="grc">ζάϰορος</foreign>, idem quod <foreign xml:lang="grc">διάϰορος</foreign>. Aliter tamen censet Possinus in notis ad orat. Nicetæ
+          in SS. Michael. et Gabriel. pag. 60. Papias : <gloss><oVar>Zabulus</oVar>, est Satanas, quod Latine
+            sonat adversarius, vel transgressor.</gloss> Glossæ vett. : <gloss><oVar>Zabulus</oVar>,
+            Satanas, contrarius.</gloss> <add rend="benedictin">Gloss. Lat. Gall.
+            Sangerm. : <gloss><oVar>Zabulus</oVar>, <foreign xml:lang="fro">contraire, transgresseur, diables.</foreign></gloss></add>
+          Glossæ aliæ MSS. : <oVar>Zabulus</oVar>, <foreign xml:lang="fro">Satan</foreign>.
+          Phœbadius Aginnensis in Epist. contra Arianos : <quote xml:lang="lat">Cibum desideravit cum tentaretur a
+            <oVar>Zabolo</oVar>.</quote> <hi rend="i">Zabolica subtilitas, Zabolicum virus,</hi> apud eumdem. Consultatio Zachæi et
+          Apollonii lib. 3 : <quote xml:lang="lat">Horum igitur merito venturum Antichristum fides certa est, immo
+            <oVar>Zabulum</oVar> sub persona hominis sæviturum.</quote> Titulus memoriæ S. Waldomeris, tom. 1.
+          Histor. Francor. pag. 513 : <quote xml:lang="lat">
+            <l>Hinc perdunt <oVar>Zabulus</oVar> vires, incendia Maurus.</l>
+          </quote> Wandelbertus in Præfat. ad Martyrologium : <quote xml:lang="lat">
+            <l>Fallens, ne <oVar>Zabuli</oVar> vincat iniquitas.</l>
+          </quote> Utuntur passim Veteres, ut et aliquot ævi inferioris Scriptores, S. Cyprianus in
+          Epist. ad Demetrianum, Auctor libri de Aleatorib. Cassianus Collat. 1. cap. 14. 21. S.
+          Hilarius in Matthæi cap. 24. cap. 26. et alibi. S. Augustinus serm. 123. de Diversis, S.
+          Ambrosius lib. 5. de Fide ad Gratianum cap. 1. Lactantius de Mortibus persecutorum cap.
+          16. S. Patricius Epist. ad Coroticum, Paulinus Nolanus pag. 28. 50. 55. 291. 498.
+          Commodianus Instr. 35. 57. 59. 60. 73. S. Eulogius lib. 1. Memorial. cap. 55. et lib. 2.
+          cap. 4. Thiotfridus Epternac. lib. 4. cap. 2. Notæ Tyronis, Gildas de Excidio Britanniæ,
+          Florus Lugdun. Diacon. carm. 4. Fridegodus<pb n="426"/>
+          <cb n="426a"/> in S. Wilfrido cap. 36. Eigil in Vita S. Sturmii n. 6. Edgarus Rex Angl. in
+          Leg. Monachorum Hydensium cap. 4. Vita S. Guthlaci cap. 18. 21. Vita S. Genulfi lib. 1.
+          cap. 3. n. 21. Ordericus Vitalis pag. 460. Hariulfus lib. 3. cap. 18. Chartæ veteres in
+          Bibliotheca Cluniacensi pag. 543. et apud Meurissium in Episcopis Metensib. pag. 349. etc.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZABULUS-2"><form rend="sc">Zabolaticus</form>, Diabolicus. Epist. encyclica apud Marten. tom. 1. Ampl. Collect. col. 354 :
+            <quote xml:lang="lat">Perplurimæ similes miseriæ, instigante Zabolatico conatu, perpetratæ
+          sunt.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZABULUS-3"><form rend="sc">Zabuliticus</form>, Eadem notione. Vita S. Guthlaci tom. 2. April. pag. 42 : <quote xml:lang="lat">Ille vero
+            Zabuliticum magisterium despiciens, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZABYRA">
+        <dictScrap xml:id="ZABYRA-1"><form rend="b">ZABYRA</form>. Abdias Babylonicus lib. 4. Hist. Apostol. pag. 46 : <quote xml:lang="lat">Et haud mora collectis
+            libris magicis, Zabyras plenas ad Apostolum attulit, cervicibus suis et discipulorum
+            impositas, et cœpit eos ignibus coram eo comburere. Sed Jacobus prohibuit, ne forte odor
+            incendii, inquit, vexet incautos. Appende Zabyris lapides, et plumbum, et mitte in
+          mare.</quote> Ubi Meursius emendat <hi rend="i">zabarias</hi>, ut fuerint <foreign xml:lang="grc">ζαϐαρεῖα</foreign>, Zabarum repositoria. Sed hic non agitur de loricis, nec de eorum
+          thecis ; sed de cistis aut capsis : unde malim legere <hi rend="i">zabernas</hi>, quomodo ex MS.
+          emendat Salmasius, et apud Ordericum Vitalem lib. 2. pag. 381. ubi eadem verba
+          describuntur, legitur. Vide <ref target="ZABERNA">Zaberna</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZACCARUM">
+        <dictScrap xml:id="ZACCARUM-1"><form rend="b">ZACCARUM</form>, Saccharum. Comput. ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag. 284 :
+            <quote xml:lang="lat">Et undecim libris et uno quartone de Zaccaro, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZACCO">
+        <dictScrap xml:id="ZACCO-1"><form rend="b">ZACCO</form>, Gladii species. Instr. apud Lam. in Delic. erudit. inter not. ad Chron. imper.
+          Leon. Urbevet. pag. 149 : <quote xml:lang="lat">Item fratrem nostrum Ugonem cum Zaccone vulneravit....
+            Item Gallum cum Zaccone in capite et auricula percussit, ita quod sanguis
+          emanavit.</quote> Vide supra <ref target="SACABUTA">Sacabuta</ref> et <ref target="SACHS">Sachs</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZACHARA">
+        <dictScrap xml:id="ZACHARA-1"><form rend="b">ZACHARA</form>, <form rend="sc">Zacharia</form>, ut <hi rend="i">Zaccarum</hi>. Hist. Orient. Jac. de Vitriaco apud
+          Marten. tom. 3. Anecd. col. 279 : <quote xml:lang="lat">Sunt ibi cannæ, ex quibus fluit fructus
+            dulcissimus, et vocantur cannamelli Zachariæ.</quote> Alter locus exstat in
+          <hi rend="i">Canamellæ</hi>. Vide ibi.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZACHARELLUS">
+        <dictScrap xml:id="ZACHARELLUS-1"><form rend="b">ZACHARELLUS</form>, Arundo, ut videtur, unde elicitur <hi rend="i">Zacharum</hi>. Charta ann. 1281. apud
+          Murator. tom. 2. Antiq. Ital. med. ævi col. 901 : <quote xml:lang="lat">De soma datilorum, Zachirelorum
+            et uvæ passæ, quatuor solidi Mutinenses auferantur.</quote> Supra col. 899 :
+            <oVar>Zacharellorum</oVar>. Vide <ref target="CANAMELLAE">Canamellæ</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZACLUS">
+        <dictScrap xml:id="ZACLUS-1"><form rend="b">ZACLUS</form>, Retis ad capiendos pisces species, quæ describitur a Petro de Crescentiis lib.
+          10. cap. 37.</dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZACLUS-2">Legendum forte
+          <hi rend="i">Zachus</hi>. Vide supra <ref target="SACHUS2">Sachus 2</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZACONES">
+        <dictScrap xml:id="ZACONES-1"><form rend="b">ZACONES</form>, pro <hi rend="i">Diacones</hi>, ut <hi rend="i">Zabolus</hi>, pro <hi rend="i">Diabolus</hi>. Commodianus Instr.
+          68 : <quote xml:lang="lat">
+            <l>Ministerium Christi, Zacones, exercete caste,</l>
+            <l>Idcirco Ministri facite præcepta Magistri.</l>
+          </quote> Sic vero hodie Lacedæmonii, vocabulo a <hi rend="i">Lacones</hi> detorto, appellantur a
+          Græcis, ut auctor est Pachymeres lib. 5. cap. 25. Nicephorus Gregoras lib. 4. pag. 70. et
+          Martin. Crusius in Turcogr. lib. 7. pag. 489. Vide Glossar. Meurs. in <foreign xml:lang="grc">Τζάϰωνες</foreign>, <add rend="benedictin">et Gl. med.
+            Græcit. in ead. voce.</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAFALMERINUS">
+        <dictScrap xml:id="ZAFALMERINUS-1"><form rend="b">ZAFALMERINUS</form>. Vide in <ref target="ZAVALMEDINA">Zavalmedina</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAFARANUM">
+        <dictScrap xml:id="ZAFARANUM-1"><form rend="b">ZAFARANUM</form>, <form rend="sc">Zaffaranum</form>, Crocus, Ital. <foreign xml:lang="ita">Zafferano</foreign>, Gall. <foreign xml:lang="fro">Safran</foreign>. Charta
+          ann. 1281. apud Murator. tom. 2. Antiq. <cb n="426b"/> Ital. med. ævi col. 901 : <quote xml:lang="lat">De
+            soma Zafarani,... sex solidi Mutinenses auferantur.</quote> Alia ann. 1382. tom. 3. Cod.
+          Ital. dipl. col. 1571 : <quote xml:lang="lat">Habeant singulo anno in Kalendis Januarii pro supradictis
+            eorum solitis et consuetis honoribus mediam libram Zaffarani, libram unam piperis,
+          etc.</quote> Vide <ref target="ZAFFRAMEN">Zafframen</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAFFARDA">
+        <dictScrap xml:id="ZAFFARDA-1"><form rend="b">ZAFFARDA</form>, Capitis operimentum apparitorum proprium, unde vocis etymon : Italis quippe
+            <hi rend="i">Zaffo</hi> est Apparitor. Vide mox <ref target="ZAFFONES">Zaffones</ref>. Statuta
+          Placent. lib. 1. fol. 10 : <quote xml:lang="lat">Portare super caput caputium vel Zaffardum de panno jano
+            cum signo ad arma communis. Quæ caputia seu Zaffarda dentur eis expensis communis
+            Placentiæ quolibet anno.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZAFFILUM">
+        <dictScrap xml:id="ZAFFILUM-1"><form rend="b">ZAFFILUM</form>. Gall. <foreign xml:lang="fro">Saphir</foreign> : <quote xml:lang="lat">Pro <oVar>Zaffilo</oVar>
+            dicte rose florenos similes de camera 10.</quote> (Mandat. Camer. Apost.
+          Arch. Vatic. f. 32, an. 1435.)</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAFUS">
+        <dictScrap xml:id="ZAFUS-1"><form rend="b">ZAFUS</form>, Ital. <foreign xml:lang="ita">Zaffiro</foreign>, Saphirus, gemma cærulei coloris, pro <hi rend="i">Zaffirus</hi>, unde
+          diminut. <hi rend="i">Zaffirellus</hi> et <hi rend="i">Zaffireolus</hi>. Invent. MS. thes. Sedis Apost. ann.
+          1295 : <quote xml:lang="lat">Item unum urceum de opere Venetico ad filum,..... cum diversis lapidibus
+            praxininis, Zaffinis et granatinis..... Item unam cupam cum... xviij. Zaffireolis de
+            podio... Item unam cupam de cristallo cum pede, in quo sunt.... xij. Zaffirelli ;....
+            coperculum etiam est de cristallo, in quo sunt iiij. esmalta, viiij. Zaphirelli.</quote>
+          Vide <ref target="SAPHIRINUS">Saphirinus</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAFFIRELLUM">
+        <dictScrap xml:id="ZAFFIRELLUM-1"><form rend="b">ZAFFIRELLUM</form>. <add rend="benedictin">Gallice <foreign xml:lang="fro">Saphir</foreign>. (B. N. MSS. L. § 180,
+            f. 49.)</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAFFONES">
+        <dictScrap xml:id="ZAFFONES-1"><form rend="b">ZAFFONES</form>, Venetis dicuntur Sagittarii, vel apparitores. Rollandinus in Chron. lib. 11. cap.
+          3 : <quote xml:lang="lat">Quidam pedites et Zaffones illi, quos vulgo Waldanam dicimus, præcedentes
+            inordinate ante militum acies, etc.</quote> Cap. 5 : <quote xml:lang="lat">Repente namque supervenerunt
+            Berroarii sive Zaffones quidam, etc.</quote> Denique cap. 16 : <quote xml:lang="lat">Cum eadem gente,
+            et quibusdam viris prudentibus alieni cupidis, quos appellamus
+        Zaffones.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAFFRAMEN">
+        <dictScrap xml:id="ZAFFRAMEN-1"><form rend="b">ZAFFRAMEN</form>, Crocus, Italis <foreign xml:lang="ita">Zafferano</foreign>, vel <hi rend="i">Zaffarano</hi>, nostris <foreign xml:lang="fro">Saffran</foreign>.
+          Sanutus lib. 2. part. 2. cap. 6 : <quote xml:lang="lat">Æs, stagnum, seu ramum, Zafframen, coralla,
+          etc.</quote> Caput 7. habet <hi rend="i">Zaffranum</hi>, quomodo forte legendum in cap. 6.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAFFRAMEN-2"><form rend="sc">Zafranum</form>, Eadem notione. Chron. Parmense ad ann. 1307. apud Murator. tom. 9. col. 867 :
+            <quote xml:lang="lat">Et propter hoc Zafranum quod ducebatur pro festo Nativitatis non inveniebatur ibi
+            nec haberi potuit.</quote> Vide <ref target="ZUFFERANA">Zufferana</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZAFIRUM">
+        <dictScrap xml:id="ZAFIRUM-1"><form rend="b">ZAFIRUM</form>. Italis <foreign xml:lang="ita">Zaffiro</foreign> : <quote xml:lang="lat">Tam pro uno
+            <oVar>Zafiro</oVar> quam auro per eum posito in rosa aurea quam nuper SS. D. N. papa
+            dedit principi della Morea.</quote> (Mandat. Camer. Apostol. an. 1460-62,
+          f. 106.)</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAGARELLA">
+        <dictScrap xml:id="ZAGARELLA-1"><form rend="b">ZAGARELLA</form>, Fimbria, Gall. <foreign xml:lang="fro">Frange</foreign>, ab Italico <foreign xml:lang="ita">Zaccherella</foreign>, diminut. a
+            <foreign xml:lang="ita">Zacchera</foreign>, Academicis Cruscanis <quote xml:lang="lat">vocabulo generico di tutte le cose di poco
+            pregio</quote>, reculæ, tricæ. Comput. ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag.
+          283 : <quote xml:lang="lat">Item, pro ornandis caputiis domini et dom. Humberti de Villariis et
+            Zagarellis aureis et setæ, <num>ii.</num> s. <num>iii.</num> d.
+        gros.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAGUS">
+        <dictScrap xml:id="ZAGUS-1"><form rend="b">ZAGUS</form>, Nomen officii palatini apud Venetos. Appendix ad Translat. SS. Pauli et Barbari
+          tom. 7. Maii pag. 772 : <quote xml:lang="lat">Capitaneus major, Zagus, ceremoniarum magister,
+          etc.</quote> Vide <ref target="ADALIDES">Adalides</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAHALMEDINA">
+        <dictScrap xml:id="ZAHALMEDINA-1"><form rend="b">ZAHALMEDINA</form>. Vide <ref target="ZAVALMEDINA">Zavalmedina</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAIBAS">
+        <dictScrap xml:id="ZAIBAS-1"><form rend="b">ZAIBAS</form>, <hi rend="i">Arabice, Argentum vivum</hi>. Glossar. MS. medic. Simon. Januens. ex Cod. reg.
+          6959. Vide infra <ref target="ZIBATUM">Zibatum</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAIRUM">
+        <dictScrap xml:id="ZAIRUM-1"><form rend="b">ZAIRUM</form>. Placit. ann. 1077. apud Murator.<cb n="426c"/> tom. 1. Antiq. Ital. med. ævi col.
+          457 : <quote xml:lang="lat">Peto vos..... ut vallis, quæ est foris hujus civitatis Patavi, quæ dicitur
+            Vallis de Mercato, quæ simul se tenet pratum et Zairo voccato, cum valle seu cum casis
+            et ortis simul se tenentibus cum prædicto Zairo, quod fuit antiquitus ædificium
+            magnum... Ut concedas mihi fodere de Zairo aliquas petras, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZALA">
+        <dictScrap xml:id="ZALA-1"><form rend="b">ZALA</form>, Incendium, <add rend="benedictin">Depopulatio.</add> In
+          Gioss. Græco-Lat. <foreign xml:lang="grc">ζάλη</foreign>, est <hi rend="i">æstus</hi>, unde forte pro
+          incendio vox usurpata : aliis est turbo, procella, agitatio maris. Capitulare Radelchisi
+          Principis Benevent. ann. 851. § 3 : <quote xml:lang="lat">Liceat per meam terram transire contra illos
+            hostiliter et cum scara ad vindicandum absque homicidio, vel incendio, et deprædatione
+            seu Zala, de populo et terra mea.</quote> Et § 19 : <quote xml:lang="lat">De nullo homicidio vel præda
+            atque Zala seu incendiis retroactis fiat aliqua requisitio vel vindicta.</quote>
+          Occurrit iterum § 21. Capitulare Adelchisi Principis Benevent. § 7 : <quote xml:lang="lat">Sed ea per
+            igne aut a Zalatione seu deprædatione perdidisset.</quote></dictScrap>
+        <dictScrap xml:id="ZALA-2"><form rend="sc">Zalare</form>, Incendere. <cit><bibl>Chronicon Anonymi Barensis ann. 1036</bibl><lbl> : </lbl><quote xml:lang="lat">Zalatæ
+              sunt casæ Joannes Icanato.</quote>
+            <bibl>Ann. 1051</bibl><lbl> : </lbl><quote xml:lang="lat">Zalavit ipse Judæam.</quote>
+            <bibl>Ann. 1070.</bibl>
+            <quote xml:lang="lat">Zalatæ sunt casæ Meli Pezzi et obrutæ.</quote></cit></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZALAMELLA">
+        <dictScrap xml:id="ZALAMELLA-1"><form rend="b">ZALAMELLA</form>, <form rend="sc">Zalamilla</form>, Instrumentum musicum. Chronic. Mutin. apud Murator. tom. 15.
+          col. 608 : <quote xml:lang="lat">Ibi fuerunt circa C. tubæ resonantes, Zalamellæ, et instrumenta alia
+            mirabiliter resonantia.</quote> Bern. Thesaurarius de Acquisit. T. S. apud eumd. tom. 7.
+          col. 834 : <quote xml:lang="lat">Volebant enim sibi facere nomen cum tubis et Zalamillis et vexillis
+            multis progressi.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZALAMELLA-2">Fistulatorius calamus,
+          idem quod <ref target="CALAMELLA1">Calamella 1.</ref> Vide in hac voce.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZALANDRIA">
+        <dictScrap xml:id="ZALANDRIA-1"><form rend="b">ZALANDRIA</form>, Navigii species. Vide <ref target="CHELANDIUM">Chelandium</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZALARE">
+        <dictScrap xml:id="ZALARE-1"><form rend="b">ZALARE</form>, Incendere. Vide <ref target="ZALA">Zala</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZALATA">
+        <dictScrap xml:id="ZALATA-1"><form rend="b">ZALATA</form>, <hi rend="i">Grando</hi>. Joh. de Janua. <hi rend="i">Grelle</hi>, in Gloss. Lat. Gall.
+        Sangerm.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZALASKA">
+        <dictScrap xml:id="ZALASKA-1"><form rend="b">ZALASKA</form>, Corylus, vox Polonica. Stat. confirm. ann. 1505. inter Leg. Polon. tom. 1. pag.
+          331 : <quote xml:lang="lat">Si aliquis aliquem provocaverit in lite pro corilo, alias Zalaska ;... tunc
+            provocatus ad corinum <note>(sic)</note>, arbitrium habebit eligendi ut sumat corilnum
+              <note>(sic)</note> sive pro tribus marcis, sive pro sex scottis.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZALDA">
+        <dictScrap xml:id="ZALDA-1"><form rend="b">ZALDA</form>. Albertinus Mussatus de gestis Italicorum post Henricum VII. lib. 5. rubrica 2 :
+            <quote xml:lang="lat">Et insuper electorum balistariorum 5. millia, lancearum cum hastis longissimis,
+            quas Zaldas vocant Italici, 2. millia, etc.</quote>
+          <add rend="benedictin">Cruscanis, <hi rend="i">Gialda</hi>,
+        lancea.</add></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZALDUS">
+        <dictScrap xml:id="ZALDUS-1"><form rend="b">ZALDUS</form>, Luteus, flavus, Ital. <foreign xml:lang="ita">Giallo</foreign>. Invent. MS. thes. Sedis Apost. ann. 1295 :
+            <quote xml:lang="lat">Item unum altare viaticum de diaspro Zaldo et rubeo.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZALGROSSEN">
+        <dictScrap xml:id="ZALGROSSEN-1"><form rend="b">ZALGROSSEN</form>, Monetæ species. Charta ann. 1356. apud Ludewig. tom. 11. Reliq. MSS. pag. 535 :
+            <quote xml:lang="lat">Emimus, rationabili emtionis et venditionis contractu hinc inde interveniente,
+            pro mille et septingentis et quinquaginta sexaginta grossorum usualium, qui Zalgrossen
+            vulgari nomine nuncupantur, undecim Hallenses pro grosso computando,
+        etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZALLA">
+        <dictScrap xml:id="ZALLA-1"><form rend="b">ZALLA</form>, Mantile, linteum quo manus exterguntur, Germ. <hi rend="i">Zwelen</hi>, a vet. Theodisco
+            <hi rend="i">Zwalla</hi>. Guidonis Discipl. Farf. cap. 16 : <quote xml:lang="lat">Pueri qui non valent portare
+            charitatem, id est fialas ad mensam, non tergant manus suas ad Zallam in die Sabbatorum
+            in capitulo.</quote> Cap. 19 : <quote xml:lang="lat">Zallam atque baciles domni Abbatis,
+        etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZALMEDINA">
+        <dictScrap xml:id="ZALMEDINA-1"><form rend="b">ZALMEDINA</form>. Vide <ref target="ZAVALMEDINA">Zavalmedina</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZALOBA">
+        <dictScrap xml:id="ZALOBA-1"><form rend="b">ZALOBA</form>, Polonica vox. Stat. Vladisl.<pb n="427"/>
+          <cb n="427a"/> Jagel. ann. 1420. inter Leg. Polon. tom. 1. pag. 77 : <quote xml:lang="lat">Provisum est
+            insuper quod postquam unamquamque quæstionem coram judicio expositam, dictam Zaloba,
+            aliquis edixerit, etiamsi plures personæ sint pro parte quarum quæstio agitatur, tantum
+            unum memoriale exigatur.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZALOUS">
+        <dictScrap xml:id="ZALOUS-1"><form rend="b">ZALOUS</form>. Chron. Tarvis. apud Murator. tom. 19. col. 803 : <quote xml:lang="lat">Qua quidem cum antenna
+            lignea totum id diversorium sustentabatur, Zalois de raza, et mirabilibus tapetis
+            stratum, etc.</quote> Leg. videtur <hi rend="i">Zattois</hi>. Vide <ref target="ZATOUY">Zatouy</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAMA">
+        <dictScrap xml:id="ZAMA-1"><form rend="b">ZAMA</form>, <hi rend="i">Genus monstri</hi>, Johanni de Janua.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAMBILOTTUS">
+        <dictScrap xml:id="ZAMBILOTTUS-1"><form rend="b">ZAMBILOTTUS</form>, Pannus ex pilis camelorum confectus : ex Ital. <foreign xml:lang="ita">Zambelotto</foreign>, Gall.
+            <foreign xml:lang="fro">Camelot</foreign>. Paulus Venetus lib. 1. cap. 64 : <quote xml:lang="lat">Fiunt quoque ibi Zambilotti
+            optimi de pilis camelorum.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAMBILOTTUS-2"><form rend="sc">Zamellettus</form>. Joh. Demussis Chron. Placent. apud Murator. tom. 16. col. 581 : <quote xml:lang="lat">Et aliqua
+            ex dictis indumentis sunt de veluto, vel de serico de grana, vel de alio colore, vel de
+            Zamelletto.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAMBILOTTUS-3"><form rend="sc">Zamellotus</form>, <form rend="sc">Zamelotus</form>. Idem Chronic. col. 580 : <quote xml:lang="lat">Et alium de Zamelloto undato,
+            etc.</quote> Statuta Placent. lib. 6. fol. 81 : <quote xml:lang="lat">Item de aliquo mantello Zendalis
+            seu Zameloti, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAMBORIUM">
+        <dictScrap xml:id="ZAMBORIUM-1"><form rend="b">ZAMBORIUM</form>. Conc. Hisp. tom. 4. pag. 176 : <quote xml:lang="lat">In festis Pentecostes non fiat
+            repræsentatio emissionis Spiritus sancti nisi in primo festo bis, horis Missæ et
+            Vesperarum, modo tunc temporis non fiant tonitrua cum ballistris quæ damnum non modicum
+            inferunt Zamborio sedis.</quote> Leg. <hi rend="i">Zimborio</hi>. Vide in <ref target="CIBORIUM">Ciborium</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAMBRA">
+        <dictScrap xml:id="ZAMBRA-1"><form rend="b">ZAMBRA</form>, vox Hispanica, Saltationis Mauricæ species. Conc. Valent. ann. 1565. inter Hisp.
+          tom. 4. pag. 68 : <quote xml:lang="lat">Neve potissimum in matrimoniis cantilenas in Machometi laudem,
+            præsertim quas Zambras et seilas dicunt, concinant.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAMBUCA">
+        <dictScrap xml:id="ZAMBUCA-1"><form rend="b">ZAMBUCA</form>, Navis Indica. Maff. Hist. Ind. lib. 9 : <quote xml:lang="lat">Zambucis, aut paronibus
+            quadraginta octo cum magna Mahometanorum cæde potitus est.</quote>
+          <add rend="carpentier">Vide <ref target="SAMBUCCA">Sambucca</ref>.</add></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAMENCOEP">
+        <dictScrap xml:id="ZAMENCOEP-1"><form rend="b">ZAMENCOEP</form>. Charta ann. 1316. in Cod. reg. 10197. 2. 2. fol. 82. r° : <quote xml:lang="lat">Officia, quæ
+            Zamencoep... Teutonice nominantur, etc.</quote> Ubi Marten. tom. 1. Ampl. Collect. col.
+          1423. edidit <hi rend="i">Zamecoop</hi>. Germ. <hi rend="i">Zahmen</hi>, domare, mansuefacere.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAMETUM">
+        <dictScrap xml:id="ZAMETUM-1"><form rend="b">ZAMETUM</form>, Pannus holosericus. Testam. Guallæ Bicherii Card. Vercell. ann. 1227. apud
+          August. <hi rend="i">de la Chieza</hi> in Hist. Eccl. Pedemont. cap. 36 : <quote xml:lang="lat">Do..... unum
+            apparatum de meis,.... scilicet planetam, dalmaticam, tunicam de Zameto rubeo.</quote>
+          Vide <ref target="EXAMETUM">Exametum</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAMMETTA">
+        <dictScrap xml:id="ZAMMETTA-1"><form rend="b">ZAMMETTA</form>, Baculus, qui vicem <hi rend="i">gambæ</hi> præstat. Vita B. Joan. Bassandi tom. 5. Aug. pag.
+          888. col. 1 : <quote xml:lang="lat">Reatina quædam mulier, Massia nomine, dum sic membris esset
+            contracta, quod vix se movere possit, de terra sua venit cum Zammetis sive potenciis ad
+            corpus venerabilis patris, etc.</quote> Vide <ref target="GAMBETTA">Gambetta</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZANBRERIUS">
+        <dictScrap xml:id="ZANBRERIUS-1"><form rend="b">ZANBRERIUS</form>, Camerarius, minister cameræ, ab Italico <hi rend="i">Zambra</hi>, camera. Charta ann. 1337.
+          in Statutis Perusiæ fol. 9 : <quote xml:lang="lat">Præsentibus testibus ad hæc specialiter convocatis
+            Peroneto Pasquali, Petro de Sancto Secundo, et Stephanino de Lugduno sartore
+            familiaribus et Zanbreriis illustris dominæ Principissæ
+        <note>(Sabaudiæ.)</note></quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZANCA">
+        <dictScrap xml:id="ZANCA-1"><form rend="b">ZANCA</form>, <form rend="sc">Zancha</form>. Vide <ref target="TZANGAE">Tzangæ</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZANCHA">
+        <dictScrap xml:id="ZANCHA-1"><form rend="b">ZANCHA</form>, Tibia. Mirac. B. Henrici Baucenens. tom. 2. Jun. pag. 376 : <quote xml:lang="lat">Ingottatus<cb n="427b"/> in manu dextera et gamba, Zancha.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZANDALE">
+        <dictScrap xml:id="ZANDALE-1"><form rend="b">ZANDALE</form>, ut <hi rend="i">Zendale</hi>. Vide <ref target="ZENDADUM">Zendadum</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZANDALIUM">
+        <dictScrap xml:id="ZANDALIUM-1"><form rend="b">ZANDALIUM</form>. Gall. <foreign xml:lang="fro">Sandale</foreign> : <quote xml:lang="lat">Quorum jussu ordinata sunt
+              <oVar>Zandalia</oVar> cum caligis, tunicella, dalmatica.</quote> (Diar.
+          Burchard. ed. Thuasne, II, 36, ann. 1493.)</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZANUS">
+        <dictScrap xml:id="ZANUS-1"><form rend="b">ZANUS</form>, f. Niger. Charta ann. 1227. apud Murator. tom. 2. Antiq. Ital. med. ævi col.
+          903 : <quote xml:lang="lat">Unum mantellum zendati Zani, coopertum de stanforte brano <note>(f.
+            bruno)</note>, etc.</quote> Vide in <ref target="ZENDADUM">Zendadum</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPA1">
+        <dictScrap xml:id="ZAPA1-1"><form rend="b"><num>1.</num> ZAPA</form>, <form rend="sc">Zaponus</form>, Ferrea solea. Statuta Montis Regal. fol. 268 : <quote xml:lang="lat">Item.
+            Statutum est quod omnes ferrarii facientes Zaponos ferreos equorum et asinorum, debeant
+            habere tantummodo pro quolibet ferro bono et sufficienti seu Zapono, et pro ferratura
+            unius ronceni et roncenæ, muli et mulæ magni corporis, solidos duos denarios novem, et
+            de asinis et muletis parvis solidos duos, pro quolibet Zapono, et de asinis et somis
+            parvis, solidum unum denarios novem, et de Zapa bovis, solidos quatuor et non
+          plus.</quote> Vide <ref target="ZAPATURA">Zapatura</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPA2">
+        <dictScrap xml:id="ZAPA2-1"><form rend="b"><num>2.</num> ZAPA</form>, <form rend="sc">Zappa</form>, Ligo, Gall. <foreign xml:lang="fro">Hoyau</foreign>, Ital. <foreign xml:lang="ita">Zappa</foreign>. Inquisitio ann.
+          1196. apud Cencium inter Census Eccl. Rom. : <quote xml:lang="lat">Item dixit quod vinea quæ fuit
+            Marcoaldi et presbyteri Rolandi... est ad <num>xii.</num> Zappas... Item dixit quod
+            vinea quæ fuit presbyteri Rollandi de Cocone est de curia et est ad <num>v.</num>
+            Zappas.</quote> Id est, tantum vineæ, quantum <num>xii.</num> vel <num>v.</num>
+          <hi rend="i">Zappis</hi> seu ligonibus coli potest in anno. Memoriale Potestat. Regiens. ad ann.
+          1218. apud Murator. tom. 8. col. 1092 : <quote xml:lang="lat">Et adduxerunt targias, et tabulas, et ostia
+            domorum, Zapas, palleas, et multos mulos oneratos herbarum, quia volebant reimplere
+            fossatum.</quote> Chron. Domin. de Gravina apud eumd. tom. 12. col. 613 : <quote xml:lang="lat">Habens
+            Zappam in collo et panem illam in bisaciolis et flascum vini, quasi iret ad vineas
+            videbatur.</quote> Anonymus in Annal. Mediol. tom. 16. col. 744 : <quote xml:lang="lat">Habebat tria
+            millia guastatorum cum Zappis et badilibus. Aratra, Zappæ, badilia, nec aliqua utensilia
+            ad laborandum terras,</quote> in Statutis criminal. Riperiæ cap. 33. fol. 11. Vide <ref target="SAPA1">Sapa 1.</ref> Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAPA2-2"><form rend="sc">Zappare</form>, Italis, Terram <hi rend="i">zappa</hi> seu ligone fodere. Statuta Castri Redaldi fol. 22.
+          v° : <quote xml:lang="lat">Statuimus et ordinamus quod omnes mezadri et terzarini teneantur et debeant
+            omnes arbores fructiferas Zapare ad pedem.</quote> Chronic. Farfense apud Murator. tom.
+          2. part. 2. col. 563 : <quote xml:lang="lat">Annuatim <note>(debet)</note> operas tres, unam ad arandum,
+            aliam ad metendum, tertiam ad Zappandum.</quote> Mirac. B. Simonis Eremitæ tom. 2.
+          April. pag. 828 : <quote xml:lang="lat">Juravit quod de anno proxime præterito de hebdomade sancta, eo
+            existente in quodam campo ad Zappandum, etc.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAPA2-3"><form rend="sc">Zappator</form>, Fossor, Italis, <hi rend="i">Zappatore</hi>. Chron. Parmense ad ann. 1308. apud Murator.
+          tom. 9. col. 872 : <quote xml:lang="lat">In publica concione more solito data fuerunt vexilla
+            vexilliferis militum, et balestrariorum, et Zappatorum per dictum dominum
+          Potestatem.</quote> Chron. Domin. de Gravina apud eumd. tom. 12. col. 613 :
+            <quote xml:lang="lat">Habebant autem nuntium eorum fidum quendam nomine Johannem Maryonum virum
+            Zappatorem et vilis conditionis.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPATURA">
+        <dictScrap xml:id="ZAPATURA-1"><form rend="b">ZAPATURA</form>, Ictus calcis equi. Mirac. B. Henrici Baucen. tom. 2. Jun. pag. 378 : <quote xml:lang="lat">Non
+            bene viderat de oculo dextro propter Zapaturam cujusdam equi.</quote> Vide <ref target="ZAPA1">Zapa 1.</ref>
+          <cb n="427c"/></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPELLA">
+        <dictScrap xml:id="ZAPELLA-1"><form rend="b">ZAPELLA</form>. Statuta Montis Regal. fol. 178 : <quote xml:lang="lat">Item statutum est, quod nulla
+            persona....... præsumat ludere infra domos conventus Fratrum Minorum, Fratrum
+            Prædicatorum, et Ecclesiæ S. Donati, ad aliquem ludum taxillorum, biglarum, pilotæ et
+            Zapellæ, nec ad aliquem ludum inhonestum.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPELLUS">
+        <dictScrap xml:id="ZAPELLUS-1"><form rend="b">ZAPELLUS</form>, Via imbribus excavata, ut videtur, Gall. <foreign xml:lang="fro">Ravin</foreign>. Statuta Mutin. rubr. 2.
+          fol. 1 : <quote xml:lang="lat">Quælibet villa sive locus districtus Mutinæ, teneatur et debeat vias,
+            pontes et Zapellos aptare.</quote> Ibidem fol. 24 : <quote xml:lang="lat">Quælibet persona teneatur
+            conferre ad laboreria pontium, Zapellorum, et aggerum.</quote> Rursum fol. 47 :
+            <quote xml:lang="lat">Statutum est quod in canali Ganaceti ubi transit strata super dictum canalem
+            fieri debeat unus pons lapideus pro communi et expensis communis, cum ibidem sit magnus
+            Zapellus, ita quod plaustra commode conduci non possunt.</quote> Statuta Castri Redaldi
+          lib. 3. fol. 47. v° : <quote xml:lang="lat">Nihilominus prætextu alicujus Zapelli nemini liceat aliquod
+            vadum vel fossatum levatum explanare.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZAPELLUS-2">Vel Fossa ad claudendum
+          facta. Stat. Avellæ ann. 1496. cap. 63. ex Cod. reg. 4624 : <quote xml:lang="lat">Si aliqua
+            persona....... quovismodo disclauserit alienum Zapellum vel alienam clausuram,... solvat
+            sol. x.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAPHIRELLUS">
+        <dictScrap xml:id="ZAPHIRELLUS-1"><form rend="b">ZAPHIRELLUS</form>. Vide supra in <hi rend="i">Zaffinus</hi>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZAPHIRUM">
+        <dictScrap xml:id="ZAPHIRUM-1"><form rend="b">ZAPHIRUM</form>. Gallis <foreign xml:lang="fro">Saphir</foreign> : <quote xml:lang="lat">Una rosa aurea cum uno
+              <oVar>Zaphiro</oVar> in capite, cum pede argenteo deaurato, quam donavit Ecclesie....
+            C. de Malatestis, sub anno D. 1428.</quote> (De Angelis Basilicæ S. M.
+          Maj....... descriptio, Romæ, 1621, p. 138.)</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPOLARE">
+        <dictScrap xml:id="ZAPOLARE-1"><form rend="b">ZAPOLARE</form>. Statuta Castri Redaldi lib. 1. fol. 20. v° : <quote xml:lang="lat">Omnes qui laborant
+            terras,.... teneantur eas terras arare per quatuor vices congruis temporibus ad minus
+            antequam seminent frumento, vel tribus vicibus antequam seminent spelta, vel hordeo, et
+            seminatas Zapolare, et si opus fuerit mundare et roncare.</quote> An idem quod <ref cRef="OCCARE">Occare</ref> ?</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPONUM">
+        <dictScrap xml:id="ZAPONUM-1"><form rend="b">ZAPONUM</form>, Pondus quoddam. Statuta Ast. de intratis portarum : <quote xml:lang="lat">Azia sive Zaponum de
+            fillo lini solvat pro libra sol. 10. Azia sive Zaponum de fillo canapis solvat pro
+            qualibet libra ponderis sol 5.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPONUS">
+        <dictScrap xml:id="ZAPONUS-1"><form rend="b">ZAPONUS</form>, Ligo. Vide supra <ref target="ZAPA2">Zapa 2</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAPPA">
+        <dictScrap xml:id="ZAPPA-1"><form rend="b">ZAPPA</form>, <form rend="sc">Zappare</form>, <form rend="sc">Zappator</form>. Vide <ref target="ZAPA2">Zapa
+        2</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAPUSTA">
+        <dictScrap xml:id="ZAPUSTA-1"><form rend="b">ZAPUSTA</form>, Polonica vox. <foreign xml:lang="pol">Gajum</foreign>, <hi rend="i">dictum Zapusta</hi>, in
+          Stat. Vladisl. Jagel. ann. 1420. inter Leg. Polon. tom. 1. pag. 80.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZARABOLLA">
+        <dictScrap xml:id="ZARABOLLA-1"><form rend="b">ZARABOLLA</form>, Bracæ, vestis qua crura et tibiæ teguntur, eadem notione qua <hi rend="i">Saraballa</hi>.
+          Decreta Placent. ad calcem Statut. fol. 97 : <quote xml:lang="lat">Ita quod qui cedit, nudus sit,
+            discalciatus, non habens aliquod vestimentum, vel velamen, excepta Zarabolla.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZARABOLLA-2"><form rend="sc">Zarabulla</form>, Eodem significatu. Joh. Demussis Chron. Placent. ad ann. 1388. apud Murator. tom.
+          16. col. 581 : <quote xml:lang="lat">Et etiam desubtus habent Zarabullas lineas
+        strictissimas.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZARABOTANA">
+        <dictScrap xml:id="ZARABOTANA-1"><form rend="b">ZARABOTANA</form>, Machinæ jaculatoriæ species. Chalcocond. lib. 7 : <quote xml:lang="lat">Vehebantur bombardæ
+            plurimæ, quas Zarabotanas nominant.</quote> Statuta criminal. Riperiæ cap. 79. fol. 16 :
+            <quote xml:lang="lat">Si quis animo percutiendi sagittaverit cum balista vel arcu, vel Zarabotana ærea,
+            vel ferri cum sagittis, etc.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZARABOTANA-2"><form rend="sc">Zarobotanus</form>, Eodem significatu, apud Gabr. Bareletam in Serm. part. 1. fol. 37. v°. col.
+        1.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZARDA1">
+        <dictScrap xml:id="ZARDA1-1"><form rend="b"><num>1.</num> ZARDA</form>, Morbus equorum, <cit>
+            <quote xml:lang="lat">quædam æstuatie ad modum ovi, vel major vel minor,<pb n="428"/>
+              <cb n="428a"/> quæ tam in parte interiori quam exteriori nascitur in garectis.</quote>
+            <bibl>Ita Petrus de Crescentiis lib. 9. de Agricult. cap. 10. et 35.</bibl>
+          </cit>
+          <foreign xml:lang="fro">Zardre</foreign>, veteri ejus interpreti Gallico.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZARDA2">
+        <dictScrap xml:id="ZARDA2-1"><form rend="b"><num>2.</num> ZARDA</form>, <hi rend="i">Alienatus</hi>, in Glossis MSS.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZARDENUS">
+        <dictScrap xml:id="ZARDENUS-1"><form rend="b">ZARDENUS</form>, <form rend="sc">Zardinus</form>, Hortus, Italis <foreign xml:lang="ita">Giardino</foreign>. Charta ann. 1388. ex Tabul.
+          Massil. : <quote xml:lang="lat">Domibus, furnis, Zardenis, tenementis, etc.</quote> Statuta Mutin. rubr.
+          371. fol. 75 : <quote xml:lang="lat">Statutum est pro custodiendis broilis et Zardinis et aliis terris
+            positis intra confines civitatis Mutinæ eligantur... custodes sive
+        saltarii.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAROBOTANUS">
+        <dictScrap xml:id="ZAROBOTANUS-1"><form rend="b">ZAROBOTANUS</form>. Vide <ref target="ZARABOTANA">Zarabotana</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZARZAPARILLA">
+        <dictScrap xml:id="ZARZAPARILLA-1"><form rend="b">ZARZAPARILLA</form>, Salsaparilla, Gall. <foreign xml:lang="fro">Salsepareille</foreign>, Italis <foreign xml:lang="ita">Sarsapariglia</foreign>. Acta SS.
+          tom. 4. Jun. pag. 1146. de Canonizat. B. Aloysii : <quote xml:lang="lat">Qui ante paucas horas ægram
+            inspexerat, eique exsiccantia medicamenta per dies <num>xi.</num> suscipienda ex ligno
+            sancto et Zarzaparilla, ut medicorum verbis utamur, præscripserat.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZATA">
+        <dictScrap xml:id="ZATA-1"><form rend="b">ZATA</form>, <form rend="sc">Zatta</form>, Italis, Navis species. Mirac. B. Henrici Baucen. tom. 2. Jun.
+          pag. 387 : <quote xml:lang="lat">Confracti fuerunt tres remi, quibus gubernabatur dicta Zata.</quote>
+          Jac. Delayto in Annal. Estens. apud Murator. tom. 18. col. 928 : <quote xml:lang="lat">Cum navigiis
+            multis belligeris et cum duabus Zatis.</quote> Ibidem col. 983 : <quote xml:lang="lat">Et paratis
+            certis navibus et constructis aliquibus Zattis de arboribus, etc.</quote> Statuta
+          Cadubrii cap. 22. fol. 56. v° : <quote xml:lang="lat">Quod mercatores forenses non possint ligare Zattas,
+            vel aliud lignamen, nisi solverint id quod tenentur sibi.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZATOUY">
+        <dictScrap xml:id="ZATOUY-1"><form rend="b">ZATOUY</form>, <form rend="sc">Zatouin</form>, Pannus sericus rasus, vulgo hodie <foreign xml:lang="fro">Satin</foreign>. <foreign xml:lang="fro">Sateyn</foreign>, in Inventario Ecclesiæ
+          Eboracensis ann. 1530. in Monastico Angl. tom. 3. pag. 77. Computus Stephani <hi rend="i">de la
+            Fontaine</hi> Argentarii Regis ann. 1350 : <quote xml:lang="fro">Pour 7. quartiers de Zatouin Ynde, et
+            7. quartiers de fort velluiau vermeil, pour faire deux cottes à armer, broudées et
+            semées de grosses perles et menues pour ledit Seigneur. Pour 3. aunes de petit cendal à
+            houçer ledit velluyau, et pour 4. aulnes de cendal vermeil et Inde à faire
+          l'envers.</quote> Crebro etiam scribitur <hi rend="i">Zatouy</hi>. <add rend="benedictin">Vide <ref target="ZALOUS">Zalous</ref>.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZATTA">
+        <dictScrap xml:id="ZATTA-1"><form rend="b">ZATTA</form>, ut <hi rend="i">Zata</hi>. Vide in hac voce.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAVA1">
+        <dictScrap xml:id="ZAVA1-1"><form rend="b"><num>1.</num> ZAVA</form>, Hominum collectio et adunatio. Lex Longobard. lib. 1. tit. 18. § 2. <add rend="henschel">Rach. 6.</add> :
+            <quote xml:lang="lat">Cognovimus enim, quod per singulas civitates mali homines Zavas, id est,
+            adunationes contra judicem suum agentes faciunt.</quote> Ita præferre tres codices
+          monuit me Stephanus Baluzius : Editio Boerii et Heroldi pag. 253. <hi rend="i">tanas</hi>,
+          Lindenbrogii <hi rend="i">zanas</hi>, <add rend="benedictin">Boherii habet
+              <hi rend="i">ronas</hi>.</add> Priorem lectionem firmat, (vel certe ita legisse
+          videtur) Papias, in ordine litt. <hi rend="i">zau</hi> : <oVar>Zavas</oVar>, <hi rend="i">id est, rutas</hi>.
+            <bibl>In uno codicum MSS. Glossa interlinearis habet</bibl>, <hi rend="i">id est, rixas</hi>. Vide
+            <ref target="RUMPERE-5 RUMPERE-13">Rupta</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAVA2">
+        <dictScrap xml:id="ZAVA2-1"><form rend="b"><num>2.</num> ZAVA</form>, pro Lorica. Vide in <ref target="ZABA">Zaba</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAVALCHENUS">
+        <dictScrap xml:id="ZAVALCHENUS-1"><form rend="b">ZAVALCHENUS</form>. Vitalis Oscensis Episcopus : <quote xml:lang="lat">Sunt et alii judices, et officiales inter
+            Judæos videlicet et Saracenos. Zavalchen enim Saracenorum judicat causas, dictus a
+            Zaval, Dominus, et Archen, id est, judiciorum. Qui Zavalchen executioni mandat
+            sententias a se latas, et facit citationes, et cæteras compulsiones, quæ in Saracenorum
+            curia imminent faciendæ. Item exercet tabellionatus officium inter eos, ita quod nullus
+            alius inter Saracenos facit publicum instrumentum, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZAVALMEDINA">
+        <dictScrap xml:id="ZAVALMEDINA-1"><form rend="b">ZAVALMEDINA</form>, <form rend="sc">Zalmedina</form>, <form rend="sc">Çalmedina</form>, etc. <hi rend="i">Prætor urbis</hi>, tametsi, ut ait
+          Blanca, in Epist. dedicatoria ad Commentar. de Reb. Aragon. non omnino respondeat id
+          muneris Prætori urbano <cb n="428b"/> apud Latinos. Idem. pag. 638 : <quote xml:lang="lat">His ergo rebus
+            compositis Alfonsus Rex novæ urbi <note>(Cæsar-Augustæ)</note> Magistratus urbanos
+            præficiendos curavit, etc. Itaque Prætorem urbanum ordinariæ causarum cognitioni
+            præfecit, quem ipso Arabico nomine retento, Zalmedinam vocari passus est.</quote>
+          Vitalis Episcopus Oscensis, apud eumdem pag. 728 : <quote xml:lang="lat">Et ipsi Rici homines in sibi
+            civitatibus assignatis, Zavalmedinas, et in villis Bajulos, quos sibi placuerint, debent
+            ponere. Qui Zavalmedinæ et Bajuli teneant et regant curias ipsorum locorum pro Ricis
+            hominibus prælibatis.</quote> Idem pag. 783 : <quote xml:lang="lat">Sunt præterea officiales Domini
+            Regis in prædictorum locorum singulis constituti, qui diversis nominibus appellantur.
+            Quidam enim Zavalmedinæ, id est, Vicedomini civitatum ; zaval enim idem est, quod
+            dominus, et medina idem, quod civitas, lingua Arabica ; a qua hoc vocabulum fuit
+            sumptum.</quote> Vide <hi rend="i">Cabet Medina</hi>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAVALMEDINA-2"><form rend="sc">Zahalmedina</form>, in charta ann. 1165. in Append. ad Marcam Hisp. col. 1343 : <quote xml:lang="lat">Homines sui
+            interfecerant quendam Sarracenum, ipsum scilicet Zahalmedina.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZAVALMEDINA-3"><form rend="sc">Cahalmedina</form>. Charta Jacobi Reg. Aragon. ann. 1232. ex Chartul. Campan. fol. 549. col. 2 :
+            <quote xml:lang="lat">Mandamus itaque firmiter præcipientes Majori domus, senioribus, bajulis,
+            vicariis, merinis, justitiis, Cahalmedinis, judicibus, etc.</quote></dictScrap>
+        <dictScrap xml:id="ZAVALMEDINA-4"><form rend="sc">Salmedina</form> appellatur in Charta Alfonsi I. Regis Aragonum, apud eumdem Blancam pag. 789. Ex
+          his emendanda Charta Adelfonsi Regis Aragonum contra Valdenses : <quote xml:lang="lat">Balivis,
+            Justitiis, Merinis et Zafalmerinis, etc.</quote> Legendum enim <hi rend="i">Zafalmetinis</hi>.
+          Aliam Adelfonsi Imperatoris Hispaniæ æræ 1156. apud Anton. <persName type="author">de Yepez</persName> in Chron. Ord.
+          S. Benedicti tom. 7. subscribit <hi rend="i">Felix Chephalmedina</hi>. Consuetudines Barcinonæ MSS. :
+            <quote xml:lang="lat">Statuimus,... quod nullus Lesdarius, Pedagiarius, Pensator, Senior, Major domus,
+            Repositarius, Merinus, Çalmedina, Justitia, vel Judex, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAVATTERIUS">
+        <dictScrap xml:id="ZAVATTERIUS-1"><form rend="b">ZAVATTERIUS</form>, Veteramentarius sutor, Italis <foreign xml:lang="ita">Zavattaro</foreign>, Gall. <foreign xml:lang="fro">Savetier</foreign>. Chron.
+          Petri Azarii apud Murator. tom. 15. col. 330 : <quote xml:lang="lat">Non solum homines Perusii
+            stipendiarii, sed etiam mulieres et barberii cum Zavatteriis
+        cucurrerunt.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAUCEA">
+        <dictScrap xml:id="ZAUCEA-1"><form rend="b">ZAUCEA</form>, <form rend="sc">Zauzea</form>, Via strata, ut videtur, Gall. <foreign xml:lang="fro">Chaussée</foreign>.
+              <cit><bibl>Statuta Ast. collat. 19. cap. 15. fol. 66</bibl><lbl> : </lbl><quote xml:lang="lat">Teneatur Potestas
+              scovari facere omnes Cauzeas sive strenitas de <num>xx.</num> diebus in <num>xx.</num>
+              diebus.</quote></cit> Infra pluries <oVar>Zaucea</oVar>. <cit><bibl>Cap. 18. fol.
+            66</bibl><lbl> : </lbl><quote xml:lang="lat">Teneatur Potestas quod si aliqua ecclesia est juxta aliquam Zauceam,
+              quod ipse Potestas teneatur fieri facere pro parte ipsius ecclesiæ vel hospitalis de
+              bonis ipsius ecclesiæ vel hospitalis ipsam Zauceam.</quote></cit></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAUFRAGIUM">
+        <dictScrap xml:id="ZAUFRAGIUM-1"><form rend="b">ZAUFRAGIUM</form>, an Balistæ lignea compages, Gall. <foreign xml:lang="fro">Affut</foreign> ? Hist. Aquil. ad ann. 1442. apud
+          Murator. tom. 6. Antiq. Ital. med. ævi col. 753. in not. : <quote xml:lang="lat">Duæ bælistæ cum
+            Zaufragiis, non minoris pretii ducatorum sex.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAUNORRES">
+        <dictScrap xml:id="ZAUNORRES-1"><form rend="b">ZAUNORRES</form>. Conc. Legion. ann. 1012. inter Hisp. tom. 3. pag. 192 : <quote xml:lang="lat">Omnes carnizarii
+            cum consensu concilii carnem porcinam, hircinam..... per pensum vendant, et dent
+            prandium concilio una cum Zaunorres.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAYMIE">
+        <dictScrap xml:id="ZAYMIE-1"><form rend="b">ZAYMIE</form>, Polonica vox, cujus sensum docent Statuta confirm. ann. 1505. inter Leg. Polon.
+          tom. 1. pag. 331 : <quote xml:lang="lat">Si aliquis alicui pecus detinet, alias Zaymie, de damno et
+            noluerit illud dare ad fidejussionem, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZAYNA">
+        <dictScrap xml:id="ZAYNA-1"><form rend="b">ZAYNA</form>, Vasis genus. Invent. ann. 1389. tom. 3. Cod. Ital. diplom. col. 365 : <cb n="428c"/>
+          <quote xml:lang="lat">Sequuntur vasa auri.... Zayna una auri cooperta cum suprascriptis
+        sursum.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZAZZARA">
+        <dictScrap xml:id="ZAZZARA-1"><form rend="b">ZAZZARA</form>, vox Italica, cæsaries, Gall. <foreign xml:lang="fro">Chevelure</foreign>. Joh. Demussis Chron. Placent. apud
+          Murator. tom. 16. col. 581 : <quote xml:lang="lat">Juvenes portant barbam rasam et collum a mediis
+            auriculis infra et ab inde supra portant Zazzaram, sive cæsariem capillorum magnam et
+            rotundam.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEBBEIP">
+        <dictScrap xml:id="ZEBBEIP-1"><form rend="b">ZEBBEIP</form>, f. mendum est pro <hi rend="i">Zewerp</hi>, ut in aliis Chartis legitur ; certe eodem
+          intellectu, Jactura maris, seu terra ex jactura maris aggesta. Charta Phil. comit. Fland.
+          pro Audomar. ann. 1211. in Reg. 61. Chartoph. reg. ch. 475 : <quote xml:lang="lat">Omnes qui childam
+            habent et ad illam pertinent et infra cingula villæ suæ manent, liberos omnes facio,...
+            et per totam terram meam a Zebbeip liberi sint.</quote> Vide infra <ref target="ZEWERP">Zewerp</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEBELINUS">
+        <dictScrap xml:id="ZEBELINUS-1"><form rend="b">ZEBELINUS</form>, <form rend="sc">Zebellinus</form>, Martes. Henricus Episc. Albanensis in Epist. ad universos
+          Prælatos : <quote xml:lang="lat">Abjiciant varia grisea, Zebelinos, et pelliculas hujusmodi grandis
+            pretii.</quote> Vide <ref target="SABELUM">Sabelum</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZEBELLINA">
+        <dictScrap xml:id="ZEBELLINA-1"><form rend="b">ZEBELLINA</form>, Gall. <foreign xml:lang="fro">Martre zibeline</foreign> : <quote xml:lang="lat">Vestem longam
+            usque ad terram de simili bruccato <oVar>Zebellinis</oVar> suffultam.</quote> (Burch. Diar. I, 166, an. 1485.)</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEBUS">
+        <dictScrap xml:id="ZEBUS-1"><form rend="b">ZEBUS</form>, pro Diebus, in vet. Inscrip. apud Mabill. Analect. edit. Paris. ann. 1723. pag.
+          572. ut <hi rend="i">Zabulus</hi>, pro Diabolus. Vide supra.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEBUTHIZ">
+        <dictScrap xml:id="ZEBUTHIZ-1"><form rend="b">ZEBUTHIZ</form>, Piscis species. Charta Phil. comit. ann. 1163. in Chartul. 1. Fland. ch. 325. ex
+          Cam. Comput. Insul. : <quote xml:lang="lat">Centum plaethiz unum denarium centum de Zebuthis
+          obolum.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZECH">
+        <dictScrap xml:id="ZECH-1"><form rend="b">ZECH</form>, Bohemis, Fraterna clericorum laicorumque sodalitas. Reinerius de Valdensibus apud
+          Freherum Script. Bohemic. pag. 225 : <quote xml:lang="lat">Confraternitatem clericorum et laicorum, quæ
+            dicitur Zech, dissuadent : et hæc omnia dicunt agi propter quæstum.</quote> Hinc
+            <hi rend="i">Zechum</hi>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZECHA">
+        <dictScrap xml:id="ZECHA-1"><form rend="b">ZECHA</form>, Officina monetaria, Ital. <foreign xml:lang="ita">Zecca</foreign> Stat. antiq. Florent. lib. 3. cap. 129. ex
+          Cod. reg. 4621 : <quote xml:lang="lat">Nullus..... aurum sive florenum auri audeat monetari,....... nisi
+            in loco Zechæ seu in Zecha dictæ civitatis.</quote></dictScrap>
+      </entry>
+
+      <entry rend="benedictin" xml:id="ZECHUM">
+        <dictScrap xml:id="ZECHUM-1"><form rend="b">ZECHUM</form>, pro Sodalitium quodvis, <add rend="carpentier">Præsertim compotantium, a Germanico <hi rend="i">Zeche</hi>, compotatio.</add>
+          in Epistolis obscurorum virorum pag. mihi 81 : <quote xml:lang="lat">Et quando sunt in Zechis ad vinum,
+            tunc jurant per Deum et blasphemant et faciunt multa scandala.</quote> Unde</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZECHUM-2"><form rend="sc">Zechare</form>, Ejusmodi sodalitia frequentare, ibidem pag. 122 : <quote xml:lang="lat">Relinquite libros
+            vestros, vos nimium studetis, debetis aliquando solatium quærere et
+        Zechare.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEDA">
+        <dictScrap xml:id="ZEDA-1"><form rend="b">ZEDA</form>, pro Scheda, apud Bern. <persName type="author">de Breydenbach</persName> Itin. Hierosol. pag.
+        230.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZEDOARIA">
+        <dictScrap xml:id="ZEDOARIA-1"><form rend="b">ZEDOARIA</form>. Jacobus de Vitriaco in Hist. Hierosol. cap. 85 : <quote xml:lang="lat">Sunt et aliæ arbores,
+            quarum radices sunt Zinziber, Galanga, et Zedoaria, quæ vulgariter Citouar
+          appellatur.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZEDOARIA-2">Gall. <foreign xml:lang="fro">Zedoaire</foreign>,
+          alias <hi rend="i">Citoual</hi> et <hi rend="i">Chitoual</hi>. <cit><bibl>Reg. Cam. Comput. Paris. sign.
+                <title>Pater</title> fol. 250. r°</bibl><lbl> : </lbl><quote xml:lang="fro">Pour la bale de Citoual, ij. s.
+              vj. den.</quote></cit> Male <hi rend="i">Citonal</hi>, in Lit. ann. 1349. tom. 2. Ordinat. reg.
+          Franc. pag. 320. art. 3. <cit><quote xml:lang="fro">Cytoal, un denier la livre</quote><lbl>, in </lbl><bibl>Chartul.
+              Latiniac. fol. 240.</bibl></cit>
+          <cit><bibl>Mirac. MSS. B. M. V. lib. 2</bibl><lbl> : </lbl><quote xml:lang="fro">
+              <l>Tant i mettent à la foie</l>
+              <l>De gingembre et de Chitoual,</l>
+              <l>De gerofle et de garingal, etc.</l>
+            </quote></cit></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZEDUARIUM">
+        <dictScrap xml:id="ZEDUARIUM-1"><form rend="b">ZEDUARIUM</form>, <hi rend="i">Cituaux</hi>. (Glos. ms. Turon. Bibl. Schol. Chart. 1869, p.
+            330.)</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEDULA">
+        <dictScrap xml:id="ZEDULA-1"><form rend="b">ZEDULA</form>, pro <hi rend="i">Schedula</hi>, Charta. Lit. ann. 1275. apud Pez. tom. 6. Anecd. part. <pb n="429"/>
+          <cb n="429a"/> 2. pag. 123. col. 2 : <quote xml:lang="lat">In cujus rei testimonium præsentem vobis
+            assignamus Zedulam, sigillorum nostrorum munimine communitam.</quote> Vide <ref target="ZEDA">Zeda</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEEWERP">
+        <dictScrap xml:id="ZEEWERP-1"><form rend="b">ZEEWERP</form>. Vide infra in <ref target="ZEWERP">Zewerp</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEHRMPFENNINGE">
+        <dictScrap xml:id="ZEHRMPFENNINGE-1"><form rend="b">ZEHRMPFENNINGE</form>, vox Germanica, ex <hi rend="i">Zehende</hi>, decimæ, et <hi rend="i">Pfennig</hi>, nummus, a Saxonico
+            <hi rend="i">Peny</hi>, denarius. Charta ann. 1233. apud Pez. tom. 6. Anecd. part. 2. pag. 84. col.
+          2 : <quote xml:lang="lat">Decimales denarios, qui vulgo dicuntur Zehrmpfenninge, similiter petiit, ut
+            dicto capellano conferremus.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEICHEN">
+        <dictScrap xml:id="ZEICHEN-1"><form rend="b">ZEICHEN</form>, Potus species. Vide <ref target="SIDEN">Siden</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZEIDLARII">
+        <dictScrap xml:id="ZEIDLARII-1"><form rend="b">ZEIDLARII</form>, junguntur cum <hi rend="i">forestariis</hi>, in Charta Henrici VII. Imp. anno 1310. et in
+          Constitutione Caroli IV. Imp. anno 1358. <cit><quote xml:lang="lat">De forestariis, et
+            Zeidlariis</quote><lbl>, apud </lbl><bibl>Goldastum tom. 1.</bibl></cit>
+          <cit><bibl>Constit. Imper. ubi cap. 1</bibl><lbl> : </lbl><quote xml:lang="lat">Imprimis, quod omnes Officiales,
+              Forestarii, et Mellicidæ, qui Zeidlarii vulgariter nuncupantur, etc.</quote></cit>
+          Vide <ref target="ZIDELWEIDA">Zidelweida</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELARE1">
+        <dictScrap xml:id="ZELARE1-1"><form rend="b"><num>1.</num> ZELARE</form>, <form rend="sc">Zelari</form>, Expetere, peroptare. Epist. S. Ludovici Reg. Franc. apud Acher.
+          tom. 2. Spicil. pag. 548 : <quote xml:lang="lat">Ut autem sæpius ad memoriam inducatur, et efficaciter
+            hujusmodi præceptum nostrum servetur, sic ut in corde gerimus et Zelamus, etc.</quote>
+          Charta ann. 1399. ex Schedis Præsid. <persName type="author">de Mazaugues</persName> : <quote xml:lang="lat">Zelantes bonum commune
+            dictæ patriæ Provinciæ, etc.</quote> Anonymus de Gestis Manfredi et Conradi Reg. apud
+          Murator. tom. 8. col. 613 : <quote xml:lang="lat">Cum esset homo probatæ fidei Zelans pacem et
+            tranquillitatem urbis toto mentis affectu.</quote> Nicolaus de Jamsilla ibid. col. 555 :
+            <quote xml:lang="lat">Qui honorem principis Zelabantur, etc.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELARE1-2"><form rend="sc">Zelare</form>, Studere, favere. Laur. Byzynii Diarium belli Hussit. apud Ludewig. tom. 6. pag.
+          150 : <quote xml:lang="lat">Nam præfati veritatis æmuli sacerdotes et laicos communionem calicis
+            Zelantes, etc.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELARE1-3"><form rend="sc">Zelare</form>, Fervere. Conc. Toletanum XVII. inter Hispan. tom. 2. pag. 756 :
+            <quote xml:lang="lat">Gloriosissimus princeps noster Egica Rex, zelo Zelans pro domino Deo exercituum,
+            inimicos veræ fidei... ita recto judicii tramite digna cernitur ultione
+          percutere.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELARE1-4"><form rend="sc">Zelare</form>, Amare ut zelotypus. Eccli. cap. 9. <hi rend="i">Non Zeles mulierem sinus tui</hi>. Vide <ref target="ZELOSUS">Zelosus</ref>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELARE1-5"><form rend="sc">Zelare</form>, <hi rend="i">Irridere</hi>, in Gloss. Gasp. Barthii apud Ludewig. tom. 3. Reliq. MSS. pag.
+          141. ex Baldrici Hist. Palæst.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZELARE2">
+        <dictScrap xml:id="ZELARE2-1"><form rend="b">ZELARE</form>, Impense protegere, tueri. Epist. Greg. III. PP. ad Carol. Martel. ann. 741. tom.
+          4. Collect. Histor. Franc. pag. 93 : <quote xml:lang="lat">Ut cognoscant omnes gentes tuam fidem et
+            puritatem, atque amorem, quem habes erga Principem Apostolorum beatum Petrum, et nos,
+            ejusque peculiarem populum, Zelando et defendendo.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELARIA">
+        <dictScrap xml:id="ZELARIA-1"><form rend="b">ZELARIA</form>, E carnibus elixis jus concretum, Gall. <foreign xml:lang="fro">Gelée</foreign>, Ital. <foreign xml:lang="ita">Zeladina</foreign>. Joh.
+          Demussis Chron. Placent. apud Murator. tom. 16. col. 582 : <quote xml:lang="lat">In æstate in cœnis dant
+            Zelariam de gallinis et capponibus, vitelli, et capredi, et carnium porci, et pullorum,
+            vel Zelariam piscium. Zelatina,</quote> ibidem col. 591. semel et iterum.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZELATIO">
+        <dictScrap xml:id="ZELATIO-1"><form rend="b">ZELATIO</form>, Attenta rei consideratio. Stat. antiq. Florent. lib. 1. cap. 61. ex Cod. reg.
+          4621. fol. 30. v° : <quote xml:lang="lat">In condempnationibus, absolutionibus, saldationibus et
+            concuisitionibus, seu Zelationibus et rationum fiendis per ipsos
+            <note>(rationerios)</note> debeant omnes, quattuor vel saltem tres ex eis invicem
+          esse.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELATOR">
+        <dictScrap xml:id="ZELATOR-1"><form rend="b">ZELATOR</form>, Cupidus, in Bulla Innocentii VI. PP. ann. 1356. apud Ludewig. tom. 6. Reliq. MSS.
+          pag. 17.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELATOR-2"><form rend="sc">Zelator</form>, Fautor. <cit><quote xml:lang="lat">Quod vos reddatis inter optimos ejusdem fidei Zelatores, in
+                <cb n="429b"/> Christi militia magis et magis gloriosos</quote><lbl>, in </lbl><bibl>Litteris
+              Synodi Constant. ann. 1416. apud eumd. Ludewig. ibid. pag. 74.</bibl></cit></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELATOR-3"><form rend="sc">Zelatores</form>, Testes synodales dicuntur ex observatione Josephi <persName type="author">de Aguirre</persName> ad calcem
+          Conc. Tolet. ann. 1582. tom. 4. Concil. Hispan. pag. 219.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELATOR-4"><form rend="sc">Zelator</form>, Æmulator, inimicus. Acta S. Urbani PP. tom. 6. Maii pag. 15 : <quote xml:lang="lat">Denique
+            impiissimus Almachius non sufferens animo, cœpit dona promittere plurima, si quis
+            investigator ac proditor Christianorum extitisset, per qualecumque ingenium aut
+            calliditatem, ejusque auribus nuntiaret. Unde factum est ut tertium post diem quidam
+            legis Dei Zelator præmiique cupidus nuntiasset ei quosdam Christianos sese reperisse,
+            etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZELATUS">
+        <dictScrap xml:id="ZELATUS-1"><form rend="b">ZELATUS</form>, Cupidus, studiosus, Ital. <foreign xml:lang="ita">Zelato</foreign>, Gall. <foreign xml:lang="fro">Zelé</foreign>. Testam. Romei de
+          Villanova ann. 1250. ex Tabul. D. Venciæ : <quote xml:lang="lat">Item constituo et ordino gadiatores meos
+            ad omnia legata et debita solvenda... dom. Grassensem episcopum et Petrum de Camerata
+            canonicum Forojuliensem, de quorum conscientiis plenius confido, quod sint fideles et
+            utiles Zelatosque salutis animæ meæ.</quote> Vide <ref target="ZELATOR">Zelator</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZELGA">
+        <dictScrap xml:id="ZELGA-1"><form rend="b">ZELGA</form>. Charta Alamannica Goldasti 69 : <quote xml:lang="lat">In omni Zelga jornale unum arare, et 3.
+            dies a secare, et 3. a madere.</quote>
+          <add rend="benedictin">Mensura agri videtur Schiltero.</add>
+          <add rend="henschel">Vide Grimm. Antiq. Jur. Germ. pag.
+            353. Gramm. Germ. tom. 3. pag. 416. Graff. Thesaur. Franc. Ling. tom. 6. col.
+            659.</add></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZELITIPUS">
+        <dictScrap xml:id="ZELITIPUS-1"><form rend="b">ZELITIPUS</form>. <oVar>Zelitipus</oVar>, jalous. (Lex. Lat.
+          Gal. Bibl. Ebroic. n. 23, <num>xiii.</num> s.)</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZELOPIDITAS">
+        <dictScrap xml:id="ZELOPIDITAS-1"><form rend="b">ZELOPIDITAS</form>, Zelotypia. Lit. remiss. ann. 1361. in Reg. 97. Chartoph. reg. ch. 588 :
+            <quote xml:lang="lat">Hugo de Metis civis et burgensis Lingonensis, cujus amasia Ysabellis prædicta
+            dicebatur, nimia Zelopiditate motus prædictæ mulieri dixit, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZELOSUS">
+        <dictScrap xml:id="ZELOSUS-1"><form rend="b">ZELOSUS</form>, Zelo ductus, plenus. Gesta S. Hugonis Episcopi Lincolniensis apud Surium 17.
+          Novemb. : <quote xml:lang="lat">Fuit vero non minus Zelosus contra quoslibet alios pauperum oppressores,
+            Ecclesiasticæque libertatis violatores, etc.</quote> Italis <foreign xml:lang="ita">Geloso</foreign>, est <hi rend="i">amore
+            flagrans</hi>, nostris <foreign xml:lang="fro">Jaloux</foreign>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELOTES">
+        <dictScrap xml:id="ZELOTES-1"><form rend="b">ZELOTES</form>, Æmulator, vel etiam zelo plenus. Exodi cap. 20. 5 : <hi rend="i">Dominus Deus tuus,
+            fortis, Zelotes.</hi> Occurrit non semel apud cum sacros tum ecclesiasticos
+          Scriptores. Gloss. Lat. Gall. Sangerm. : <gloss><oVar>Zelotes</oVar>, vel Zelosus, <foreign xml:lang="fro">amoureux, ou
+            envieux, jalous.</foreign></gloss></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELOTISSA">
+        <dictScrap xml:id="ZELOTISSA-1"><form rend="b">ZELOTISSA</form>, Quæ zelum alicujus accendit, in Actis SS. tom. 4. Jul. pag. 517.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELTER">
+        <dictScrap xml:id="ZELTER-1"><form rend="b">ZELTER</form>, Tolutarius equus, asturio, ambulator, gradarius, apud Schilter. in Gloss. Teuton.
+          ex Gold. Alam. pag. 126.</dictScrap>
+      </entry>
+      <entry rend="henschel" xml:id="ZELUM">
+        <dictScrap xml:id="ZELUM-1"><form rend="b">ZELUM</form>, Gelu. Annal. Laubac. ad ann. 764 : <hi rend="i">Zelum magnum</hi>, ubi Annal. S. Amandi
+            <hi rend="i">Gelus pessimus</hi>. Apud Pertz. Scriptor. tom. 1. pag. 10.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZELUS1">
+        <dictScrap xml:id="ZELUS1-1"><form rend="b"><num>1.</num> ZELUS</form>, Studium, amor. Litteræ Innocentii IV. PP. ad Carolum IV. Imper. ann. 1356. apud
+          Ludewig. tom. 6. pag. 19 : <quote xml:lang="lat">Quæsumus ita magnitudinem tuam, fili carissime, ut
+            nostrum et ipsius ecclesiæ ad te <oVar>Zelum</oVar> puræ caritatis attendens, etc.</quote> Gloss.
+          Lat. Gall. Sangerm. : <gloss><oVar>Zelus</oVar>, <foreign xml:lang="fro">envie, ou amour, ou ferveur bone ou male.</foreign></gloss></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELUS1-2"><form rend="sc">Zelus</form>, Iracundia. Canones pœnit. apud Acher. tom. 11. Spicil. pag. 74 : <quote xml:lang="lat">Si quæ
+            fœmina furore Zeli accensa flagellis verberaverit ancillam suam, ita ut infra tertium
+            diem animam cum cruciatu effundat.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZELUS1-3"><form rend="sc">Zelus</form>, <hi rend="i">Odium</hi>, in Gloss. Gasp. Barthii apud Ludewig. tom. 3. Reliq. MSS. pag. 197.
+          ex Baldrici Hist. Palæst. <cb n="429c"/></dictScrap>
+      </entry>
+      <entry rend="henschel" xml:id="ZELUS2">
+        <dictScrap xml:id="ZELUS2-1"><form rend="b"><num>2.</num> ZELUS</form>. Scelus. Cas. S. Galli Contin. II. cap. 3. apud Pertz. Scriptor. tom. 2. pag.
+          152 : <quote xml:lang="lat">Laicos enim quos auxiliatores sui Zeleris invenit, multis beneficiis et donis
+            ditavit.</quote> Occurrit apud Thietmar. lib. 5. cap. 20. et lib. 6. cap.
+        14.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZEMA">
+        <dictScrap xml:id="ZEMA-1"><form rend="b">ZEMA</form>, Illud est, quod nos vulgo <foreign xml:lang="fro">le bouillon</foreign>, id est, jusculum dicimus. Papiæ,
+            <oVar>Zema</oVar> est <hi rend="i">olla</hi>. Idem Papias : <gloss>Jus coquinæ vel pistorum, quam Græci
+            <oVar>Zemam</oVar> vocant.</gloss> A <foreign xml:lang="grc">ζέω</foreign>, <hi rend="i">ferveo</hi>, et
+            <hi rend="i">bullio</hi>. Unde S. Hieronymus lib. 3. in Oseam, <foreign xml:lang="grc">ἐπίζεμα</foreign>, <hi rend="i">ferventis ollæ superiores aquas</hi> dixit. <cit><bibl>Anastasius
+              Biblioth. in Vita S. Joannis Eleemos. n. 34</bibl><lbl> : </lbl><quote xml:lang="lat">Quanti vellent tingere
+              panem suum in <oVar>Zemate</oVar>, quod projiciunt coqui mei ?</quote></cit> Ubi Codex MS.
+          Aquicinctinus <oVar>Zema</oVar> interpretatur <quote xml:lang="lat">jacturam aquarum, ubi carnes coquuntur, vel
+            fermentum aut fecem</quote>. <cit><bibl>Apitius lib. 8. de Re culin. cap. 1</bibl><lbl> : </lbl><quote xml:lang="lat">Et mittitur in <oVar>Zema</oVar>, quod est decoctum.</quote> <bibl>Cap. 6</bibl><lbl> : </lbl><quote xml:lang="lat">Et bullienti
+              Zema, quod est decoctum, cum modico salis submittetur.</quote></cit> Ubi, <hi rend="i">quod est
+            decoctum</hi>, videtur esse glossema, abestque ab editione Humelbergii, qui <hi rend="i">zymam</hi>
+          reponendum censet, id est, <foreign xml:lang="grc">ζύμην</foreign>, quod fermentum est.
+          Sed aliud est <oVar>zema</oVar>, aliud <hi rend="i">zyme</hi>. <cit>
+            <bibl>Glossæ MSS.</bibl>
+            <quote xml:lang="lat">Zema, aqua saginata, ubi caro coquitur.</quote>
+          </cit>
+          <hi rend="i">Zyme, fermentum</hi>. Physica sub nomine Democriti de Tingendis purpuris : <quote xml:lang="grc">Εἶτα λαϐὼν ἀπὸ τοῦ πυρὸς τὸ ζέμα, ϐάλε εἰς λεϰάνην, προσϐαλὼν τὴν
+            πορφύραν, ϰαὶ ἐπιχέας τὸ ζέμα τῇ πορφύρᾳ ἔα βρέχεσθαι νυχθήμερον ἕν.</quote> Ubi quod
+            <foreign xml:lang="grc">ζέμα</foreign> dicitur, <hi rend="i">jus</hi> appellat Plinius lib. 35.
+          cap. 6.</dictScrap>
+        <dictScrap xml:id="ZEMA-2"><form rend="sc">Zema</form>, Cacabus, <foreign xml:lang="grc">παρὰ τοῦ ζέειν</foreign>. Servius in 3. Æneid. :
+            <quote xml:lang="lat">Lebetas, ollas æneas Græce dixit : Zemas enim vulgare est, non Latinum.</quote>
+          Epistola Valeriani apud Trebell. Pollionem in Claudio : <quote xml:lang="lat">Item in caucos, et scyphos,
+            et Zemas pondo undecim.</quote> Ita restituit Casaubonus, pro <hi rend="i">zuma</hi>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEMBLA">
+        <dictScrap xml:id="ZEMBLA-1"><form rend="b">ZEMBLA</form>, pro <hi rend="i">Embla</hi>, Jumentum sarcinarium, Z addito euphoniæ causa. Leges palat.
+          Jacobi II. Reg. Majoric. inter Acta SS. tom. 3. Jun. pag. <num>xxvi</num> : <quote xml:lang="lat">A
+            Zemblis seu saumariis nostris, illis præcipue qui nostra deferunt ornamenta, cura
+            debetur solicita, quam volumus per speciales et certos Zemblerios adhiberi.</quote> Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZEMBLA-2"><form rend="sc">Zemblerius</form> dictus Cui cura <hi rend="i">Zemblarum</hi> commissa est, ibidem : <quote xml:lang="lat">Ordinamus itaque
+            quod in officio isto quatuor assignentur idonei, ad quos nostris pertineat saumariis
+            necessaria procurare ; majorem Zemblerium super iis excitando, et eos majori Zemblerio
+            subesse volumus.</quote> Pluries ibi. Vide <ref target="EMBLA">Embla</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZENATUM">
+        <dictScrap xml:id="ZENATUM-1"><form rend="b">ZENATUM</form>. Comput. ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag. 277 : <quote xml:lang="lat">Item,
+            pro cannis septem de Zenato pro roba Johannis medici, taren. <num>xxi.</num></quote>
+          Rursum pag. 282 : <quote xml:lang="lat">Pro Zenato et seta pro robis ejusdem, gros.
+          <num>viii.</num></quote> Leg. <hi rend="i">Zendatum</hi>, vel <hi rend="i">Zentatum</hi>. Vide mox <ref target="ZENDADUM">Zendadum</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZENDADUM">
+        <dictScrap xml:id="ZENDADUM-1"><form rend="b">ZENDADUM</form>, Italis <foreign xml:lang="ita">Zendado</foreign>, Tela subserica vel pannus sericus, idem quod supra <ref target="CENDALUM">Cendalum</ref>. Vide in hac voce. Vita S. Petri Parentii tom. 5. Maii
+          pag. 89 : <quote xml:lang="lat">Seputto itaque domino Petro Parentii, non lapide, sed cultra Zendadi,
+            coopertum est modico tempore monumentum.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-2"><form rend="sc">Zendale</form>, Eodem significatu. Chron. Estense apud Murator. tom. 15. col. 337 :
+            <quote xml:lang="lat">Cremonenses dictum carrocium conduxerunt super districtum Parmæ... cum tribus
+            pariis bobum coopertis purpura et Zendali.</quote> Vide <ref target="ZAMBILOTTUS">Zambilottus</ref>.</dictScrap>
+        <dictScrap rend="favre" xml:id="ZENDADUM-3">
+          
+          <quote xml:lang="lat">Pro seta <oVar>Zendali</oVar>
+              cremesini, ac auro et argento posito super ipsis scutis.</quote> (Mandat.
+            Camer. Apostol. Arch. Vatic. 1417-21. f. 37.)
+        </dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-4"><form rend="sc">Zandale</form>, in Anonymi Annal. Mediolan.<pb n="430"/>
+          <cb n="430a"/> apud eumd. tom. 16. col. 810 : <quote xml:lang="lat">Planeta una drappi nigri ultramarini
+            fodrata Zandali nigro.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-5"><form rend="sc">Zendalium</form>. Statuta Eccl. Argentin. ann. 1435. apud Marten. tom. 4. Anecd. col. 550 :
+            <quote xml:lang="lat">Variorum, Zendaliorum et serricorum forraturas prædictorum sex monasteriorum
+            dominabus..... omnino interdicimus.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-6"><form rend="sc">Zendallum</form>, in Chron. Placent. Joh. Demussis apud Murator. tom. 16. col. 580 : <quote xml:lang="lat">Et
+            aliquæ dominæ utuntur mantellis ..... fodratis de Zendallo vel vairiis.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-7"><form rend="sc">Zendardum</form>, in Conc. Budensi cap. 3.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-8"><form rend="sc">Zendatum</form>. Testam. Hugonis Aycelini Card. ann. 1297 : <quote xml:lang="lat">Item legamus casulam,
+            dalmaticam et tunicellam, quæ sunt de Zendato duplici.... De samitis etiam et Zendatis
+            nostris quæ invenientur in cophinis nostris ordinabunt executores nostri.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZENDADUM-9"><form rend="sc">Zentatum</form>, in Computo ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag. 283 :
+            <quote xml:lang="lat">Item, pro quinque alenis de Zentato pro Dom. Andrea fllio domini ad faciendum
+            duos cursetos, <num>xxix.</num> s. Vienn.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZENGIALUS">
+        <dictScrap xml:id="ZENGIALUS-1"><form rend="b">ZENGIALUS</form>, Aper, ni fallor, ab Italico <hi rend="i">Cinghiale</hi>, Gall. <foreign xml:lang="fro">Sanglier</foreign>. Joh.
+          Demussis Chron. Placent. apud Murator. tom. 16. col. 581 : <quote xml:lang="lat">Postea dant carnes
+            assatas in magna quantitate, scilicet capponum, pullorum, faxianorum, perdicum, leporum,
+            Zengialorum, et capriolorum et aliarum carnium.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZENICUS">
+        <dictScrap xml:id="ZENICUS-1"><form rend="b">ZENICUS</form>, pro Scenicus, in Hist. Novient. Monast. apud Martenium tom. 3. Anecdot. col.
+          1127 : <quote xml:lang="lat">Ipsi cultores fanatici et idolatræ, fanum culturæ deorum suorum et in ipso
+            aram Dianæ et Mercurii construxerunt, et ludis Zenicis dedicaverunt,</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZENOBIUM">
+        <dictScrap xml:id="ZENOBIUM-1"><form rend="b">ZENOBIUM</form>, pro Cœnobium, in Chron. Episc. Merseburg. apud Ludewig. tom. 4. Reliq. MSS. pag.
+          445.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZENOLUS">
+        <dictScrap xml:id="ZENOLUS-1"><form rend="b">ZENOLUS</form>. Nodus calami. <persName type="author">Dief</persName>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZENTALA">
+        <dictScrap xml:id="ZENTALA-1"><form rend="b">ZENTALA</form>. Petrus de Crescentiis lib. 9. cap. 64 : <quote xml:lang="lat">Tenendi sunt boves in talibus
+            stabulis.... stratis et bene clausis, ut pedes ungulæ conserventur illæsi, ac ipsi
+            defendi possint a Ventalis, muscis et tabanis.</quote> Ubi vetus Gallicus Interpres :
+            <quote xml:lang="fro">Qu'ils puissent estre defendus de vers, de mouches, et autres
+          bestelettes.</quote> Italis <foreign xml:lang="ita">Zenzara</foreign>, est muscula, <foreign xml:lang="fro">mouscheron</foreign>. <add rend="benedictin">Vide <ref target="ZINZALA">Zinzala</ref>.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZENTGRAVIUS">
+        <dictScrap xml:id="ZENTGRAVIUS-1"><form rend="b">ZENTGRAVIUS</form> quis proprie nuncupatus apud Germanos, videsis Notas Eccardi ad Leg. Salicam pag.
+          87.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZENTURA">
+        <dictScrap xml:id="ZENTURA-1"><form rend="b">ZENTURA</form>, Zona, cingulum ; Gall. <foreign xml:lang="fro">Ceinture</foreign>. Charta ann. 1227. apud Murator. tom. 2.
+          Antiq. Ital. med. ævi col. 903 : <quote xml:lang="lat">Petivit namque dictus Laxatus Mutinensis a Bonizo
+            sindico Bondeni pro ipso communi, sibi restitui.... unam Zenturam arcenti <note>(f.
+              arienti)</note>, cum una vursa setæ, etc.</quote> Vide supra <ref target="CENTURA">Centura</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEPELLUS">
+        <dictScrap xml:id="ZEPELLUS-1"><form rend="b">ZEPELLUS</form>. Statuta Castri Redaldi lib. 3. fol. 90 : <quote xml:lang="lat">Portet quilibet nuntius.....
+            mazzam ligneam sine pœna in manu, ut cognoscatur, nec vadant in Zepellis.</quote> Vide
+            <ref target="ZIPELLUS">Zipellus</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZERBALARIS">
+        <dictScrap xml:id="ZERBALARIS-1"><form rend="b">ZERBALARIS <seg>Terra</seg></form>, in Bullario Casinensi tom. 2. Constit. 52. 73. pro <hi rend="i">herbalaris</hi>, seu
+          herbida. Chartæ aliæ <hi rend="i">gerbida</hi> præferunt, facili ac proclivi lapsu, pro
+          <hi rend="i">herbida</hi>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZERBIDUM">
+        <dictScrap xml:id="ZERBIDUM-1"><form rend="b">ZERBIDUM</form>, pro <hi rend="i">Herbidum</hi>, locus herbosus. <cit><bibl>Charta ann. 1033. apud Murator.
+              delle Antichita Estensi pag. 88</bibl><lbl> : </lbl><quote xml:lang="lat">De silvis, et Zerbidis juges centum.
+                <note>Infra :</note> Gerbidis.</quote></cit> Vide <ref target="GERBA1">Gerba
+          1</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZERBIUM">
+        <dictScrap xml:id="ZERBIUM-1"><form rend="b">ZERBIUM</form>, ut <hi rend="i">Zerbidum</hi>. Statuta Vercell. lib. 3. fol. 90. v° : <quote xml:lang="lat">Possint ducere
+            et duci facere per communia et Zerbia locorum et villarum ac territoriorum districtus
+            Vercellarum.</quote> Lib. 5. fol. 119. v° : <quote xml:lang="lat">Item quod nullus camparius possit
+              accusare<cb n="430b"/> in campo stipula vel Zerbio, nisi campus fuerit imblavatus, vel
+            aliquo semine seminatus.</quote> Ibidem fol. 128 : <quote xml:lang="lat">Item quod quælibet persona
+            civitatis et districtus Vercellarum possit.... seminare, ad cultum reducere....
+            possessiones quæ appellantur seghie, Zerbia, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZERBUS">
+        <dictScrap xml:id="ZERBUS-1"><form rend="b">ZERBUS</form>. Herbidus, vel locus herbosus, pascuus. Charta ann. 1007. apud Murator. tom. 4.
+          Antiq. Ital. med. ævi col. 937 : <quote xml:lang="lat">De sylvis sullareis et roboreis, seu Zerbis juges
+            decem.</quote> Alia ann. 1396. tom. 3. Cod. Ital. diplom. col. 349 : <quote xml:lang="lat">Cum omnimoda
+            jurisdiccione, terris, pratis, vineis, baschis <note>(l. boschis)</note>, Zerbis,
+            castaneis, etc.</quote> Vide <ref target="ZERBIDUM">Zerbidum</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZERLA">
+        <dictScrap xml:id="ZERLA-1"><form rend="b">ZERLA</form>, Mensuræ genus. <cit><bibl>Statuta datiaria Riperiæ cap. 2. fol. 7</bibl><lbl> ; </lbl><quote xml:lang="lat">Si aliqua persona habens bulletam conducendi vel conduci faciendi vinum,
+              reperiretur conducere ultra quantitatem comprehensam in dicta bulleta usque ad unam
+              gerulam sive Zerlam, non cadat, nec incidere intelligatur in aliquam pœnam, nisi solum
+              in amissione illius gerulæ sive Zerlæ vini, et ab inde infra.</quote></cit> Italis
+            <foreign xml:lang="ita">Zerlo</foreign>, vel <hi rend="i">Gerlo</hi> est Sporta dossuaria, Gall. <foreign xml:lang="fro">Hotte</foreign>. Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZERLA-2"><form rend="sc">Zerlator</form>, in iisdem Statutis cap. 13. fol. 10 : <quote xml:lang="lat">Quod quilibet Zerlator, seu
+            mensurator communitatis prædictæ, teneatur et debeat denuntiare seu notificare dicto
+            emptori datii prædicti quantitatem vini quod portabit.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZERNAE">
+        <dictScrap xml:id="ZERNAE-1"><form rend="b">ZERNÆ</form>, <hi rend="i">Impetigines, Feræ</hi>, quæ etiam <hi rend="i">Lichenes</hi> appellantur. Macer de
+          Virtutibus herbarum cap. 7 : <quote xml:lang="lat">
+            <l>Zernas et lepras cura compescit eadem.</l>
+          </quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEROMA">
+        <dictScrap xml:id="ZEROMA-1"><form rend="b">ZEROMA</form>, inter voces Latino-barbaras, quas collegit sine interpretatione Bern. Maria de
+          Rubeis in Monum. eccl. Aquilej. col. 747.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZESSUS">
+        <dictScrap xml:id="ZESSUS-1"><form rend="b">ZESSUS</form>. B. Odoricus Forojul. in Peregr. num. 18 : <quote xml:lang="lat">Omnes naves ibi sunt albæ sicut
+            nix Zesso depictæ.</quote>
+          <add rend="benedictin">Italis <foreign xml:lang="ita">Zesso</foreign>, pro <hi rend="i">Gesso</hi>, gypsi speciem
+              significat.</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZETA1">
+        <dictScrap xml:id="ZETA1-1"><form rend="b"><num>1.</num> ZETA</form>, Cœnaculum, ex Gr. <foreign xml:lang="grc">δίαιτα</foreign>, ut pridem docuere
+          Cujacius, Turnebus, et alii. Gloss. Græc. Latin. : <gloss><foreign xml:lang="grc">Δίαιτα τὸ
+            ὑπερῷον</foreign>, diæta, cœnaculum.</gloss> Papias : <gloss><oVar>Zetæ</oVar>, domus, quæ subtus
+            pedes habent aquas, harum aliæ hyemales, aliæ æstivales. <oVar>Zetæ</oVar> hyemales sunt, quas
+            calidas facit subducta flamma. <oVar>Zetæ</oVar> æstivales, quas frigidas facit subducta
+          aqua.</gloss> Gloss. Saxon. Ælfrici : <oVar>Zetas</oVar>
+          <hi rend="i">æstivales</hi> : sumer solde, i. æstivalis sedes. <oVar>Zetas</oVar>
+          <hi rend="i">hyemales</hi> : winter solde, i. hyemalis sedes. Zetam hyemalem <hi rend="i">triclinium
+          hyemale</hi> vocat. Sidon. lib. 2. epist. 2. Ordericus Vitalis lib. 2. pag. 412 : <quote xml:lang="lat">In
+            quinto <oVar>Zetas</oVar> hyemales, in sexto <oVar>Zetas</oVar> æstivales.</quote>
+          <add rend="benedictin">Descriptio palatii Spoletani ex Chartario Farfensi apud
+            Mabill. tom. 2. Annal. Bened. pag. 410 : <quote xml:lang="lat">In quinto <oVar>Zetæ</oVar> hiemales, id est cameræ
+              hiberno tempore competentes. In sexto <oVar>Zetæ</oVar> æstivales, id est cameræ æstivo tempori
+              competentes.</quote> Gloss. Lat. Gall. Sangerm. : <gloss><oVar>Zeta</oVar>, <foreign xml:lang="fro">maison ou
+              chambre</foreign>.</gloss> Osbernus in Vita S. Elphegi Archiep. Cantuar. tom. 2. April. pag. 634 :
+              <quote xml:lang="lat"><oVar>Zetam</oVar> vero cum veluti pransurus intraret, etc.</quote></add> Sæpius
+          usurpatur pro quolibet ædis cubiculo, ut apud Plinium lib. 2. epist. 7. lib. 6. epist. 5.
+          cui ita appellatur locus capax unius lecti cum duabus sellis, qui velis obductis et
+          reductis modo adjiciebatur cubiculo, modo auferebatur, cujusmodi sunt <hi rend="i">Alcoviæ</hi>
+          nostræ hodiernæ. Acta S. Sebastiani cap. 4 : <quote xml:lang="lat">Ubi sunt triclinia auro puro
+            radiantia, quæ ex gemmis et margaritis habent <oVar>Zetas</oVar> instructas ?</quote> Julius
+          Africanus lib. 5. Hist. Apostol. : <quote xml:lang="lat">Jam enim regnum paratum vobis, et ex
+            coruscantibus gemmis<cb n="430c"/> <oVar>Zetas</oVar> instructas, plenas gaudiis, plenas epulis,
+          etc.</quote> Lampridius in Heliogabalo : <quote xml:lang="lat">Odores Indicos sine carbonibus ad
+            vaporandas <oVar>Zetas</oVar> jubebat incendi.</quote> Aldelmus libros de Virginitate, ubi de S.
+          Babyla : <quote xml:lang="lat">Ad Palatinas ducitur <oVar>Zetas</oVar>, et Imperialis vestibuli hypodromum.</quote>
+          Translatio S. Joannis Reomaens. cap. 3. de rustico quodam : <quote xml:lang="lat">Cum maturiori pulli
+            cantu, ob boum custodiam a <oVar>Zeta</oVar> propria prosilire contingeret.</quote> <hi rend="i">Zetulam</hi> dixit
+          Erkempertuslin Hist. Longobard. cap. 46 : <quote xml:lang="lat">Et sibi in Zetula Episcopali mansionem
+            exhiberi jussit.</quote> Adde Wolphardum Presb. lib. 1. de miracul. S. Walburgis n. 19.
+            <add rend="benedictin">Fridegodum in Vita S. Wilfridi sæc. 3. Bened. part.
+            1. pag. 177. et Murator. tom. 2. part. 2. col. 1047.</add></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZETA1-2"><form rend="sc">Zetarium</form>, Triclinium, in Actis SS. tom. 5. Jun. pag. 435. ubi de SS. Petro et Paulo :
+            <quote xml:lang="lat">Juxta palatium Neronianum in Vaticano, inter Zetarium, id est triclinium
+            triumphale.</quote></dictScrap>
+        <dictScrap xml:id="ZETA1-3"><form rend="sc">Zetarius</form>. In Martyrol. 26. Martii, et in Actis S. Sebastiani Mart. n. 69. et in Vita S.
+          Castuli n. 1. idem S. Castulus Martyr dicitur fuisse <hi rend="i">Zetarius Palatii, et hospes
+            Sanctorum</hi>. Quo loco <hi rend="i">zetarium</hi> corrupte pro <hi rend="i">Diætario</hi>, seu Atriensi, dici
+          putat Fabrotus ad Cedrenum, quemadmodum <hi rend="i">zabolus</hi> pro <hi rend="i">diabolus</hi>. At rectius, ni
+          fallor, Molanus ad Usuardum, et Baronius ad Martyrol. Rom. existimant, <hi rend="i">zetarium</hi> a
+            <hi rend="i">zeta</hi> dictum : ut fuerit <hi rend="i">Zetarius Palatii</hi>, cubiculi interioris Palatii
+          Custos. Apud Paulum lib. 3. Sentent. <hi rend="i">Zetarii</hi> præterea memorantur, qui
+          <hi rend="i">Diætarii</hi> appellantur in L. quæsitum, § idem, etc. de Instruct. vel instrum. leg.
+            <add rend="henschel">Chronic. Casinense cap. 8 :
+              <quote xml:lang="lat">Sichard Beneventanorum princeps a suis interfectus, Radelchis Zetarius palatii
+              successit in principatum.</quote></add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZETA2">
+        <dictScrap xml:id="ZETA2-1"><form rend="b"><num>2.</num> ZETA</form>. Ordericus Vitalis lib. 8. pag. 674 : <quote xml:lang="lat">Castellum sancti Serenici....
+            postmodum tenuit, muris et vallis Zetisque munivit.</quote> Lib. 10. pag. 770 :
+            <quote xml:lang="lat">Copiosos pecuniæ sumptus erogavit, unde municipia ejus vallis et muris ac
+            multiplicibus Zetis undique clauderentur.</quote> Pag. 775 : <quote xml:lang="lat">Quidam ad illum de
+            sublimi Zeta lapidem projecit, etc.</quote> Denique pag. 800 : <quote xml:lang="lat">Arcem, et regiam,
+            et murum in giro, Zetasque minores atque majores jam munite, solliciteque perscrutamini,
+            aditusque servate, ne quis exeat vel ingrediatur sine vestra consideratione.</quote> Ubi
+            <hi rend="i">zetæ</hi> videntur appellari <hi rend="i">speculæ</hi>, quæ muris imminent. Ex his, ni fallor,
+          emendandus Laurentius de Leodio in Hist. Episcopor. Virdunens. pag. 316 : <quote xml:lang="lat">Post
+            prandium socios extra turrim ad ectetas antemurales vocavit, lusu aleæ ibidem eos
+            tenuit, etc.</quote> Legendum enim videtur <hi rend="i">zetas</hi>, ut apud Vitalem.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZETA3">
+        <dictScrap xml:id="ZETA3-1"><form rend="b"><num>3.</num> ZETA</form>, Vitii signum in libris. Paulus Diacon. in Epist. ad S. Adelhardum Abbatem
+          Corbeiensem, præfixa S. Gregorii M. Epistolis, quas descripserat et correxerat :
+            <quote xml:lang="lat">34. ex eis scito esse relectas, et, prout potui, emendatas esse, præter pauca
+            loca, in quibus minus inveni : et tamen meo ea sensu supplere nolui, ne viderer tanti
+            Doctoris verba immutare : quibus in locis, et forinsecus ad aurem <note>[f. ad oram]</note>
+            <oVar>Zetam</oVar>, quod est vitii signum apposui.</quote> Apud Isidorum lib. 14. cap.
+          26. <oVar>zeta</oVar> significat in ponderibus <hi rend="i">obolum</hi>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZETARIUM">
+        <dictScrap xml:id="ZETARIUM-1"><form rend="b">ZETARIUM</form>, <form rend="sc">Zetarius</form>. Vide <ref target="ZETA1">Zeta 1</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZETHONIUM">
+        <dictScrap xml:id="ZETHONIUM-1"><form rend="b">ZETHONIUM <seg>Vellus</seg></form>. Vetus Epitaphium Mediolani, apud Puccinellum pag. 106 : <quote xml:lang="lat">
+            <l>Ambrosiana diu pluvialia... venustum</l>
+            <l>Vellere Zethonie, gemmis, auroque superbum.</l>
+          </quote> Idem quod mox <pb n="431"/>
+          <cb n="431a"/></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZETONINUM">
+        <dictScrap xml:id="ZETONINUM-1"><form rend="b">ZETONINUM</form>, Pannus sericus, ex seta. Anonymus in Annal. Mediol. apud Murator. tom. 16. col.
+          810 : <quote xml:lang="lat">Lectorinus unus Zetonini albi.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZETTANINUM">
+        <dictScrap xml:id="ZETTANINUM-1"><form rend="b">ZETTANINUM</form>. Ut <hi rend="i">Zetteninum, Zetoninum</hi>, Satin : <quote xml:lang="lat">Pro una
+            pecia <oVar>Zettanini</oVar> grane pro qua misimus Lucam.</quote> (Mandat.
+          Camer. Apostol. Arch. Vatic. 1417-21. f. 66.)</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZETULA">
+        <dictScrap xml:id="ZETULA-1"><form rend="b">ZETULA</form>, diminut. a <hi rend="i">Zeta</hi>, Cœnaculum. Vide in hac voce.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEUS">
+        <dictScrap xml:id="ZEUS-1"><form rend="b">ZEUS</form>, Piscis genus. Vide supra <ref target="CITULA">Citula</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEWERP">
+        <dictScrap xml:id="ZEWERP-1"><form rend="b">ZEWERP</form>, Jactura maris, idem quod <ref target="SWERP">Swerp</ref>. Vide in hac voce.
+          Charta Philippi Comit. Flandr. ann. 1211 : <quote xml:lang="lat">Ad portum Graveningiis et per totam
+            terram meam a Zewerp liberi sint.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZEWERP-2">Seu potius Terra ex jactura
+          maris aggesta ; a Flandrico <hi rend="i">Zée</hi>, mare, et <hi rend="i">Werp</hi>, jactus. Charta ann. 1267. in
+          Chartul. 1. Fland. ex Cam. Comput. Insul : <quote xml:lang="lat">Totam terram meam, quæ dicitur
+          Zéewerp.</quote> Alia Guid. comit. Fland. ann. 1282. tom. 4. Ordinat. reg. Franc. pag.
+          260. art. 1 : <quote xml:lang="fro">Soient franc tout partout par ma terre et de
+        Zewerp.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZEZI">
+        <dictScrap xml:id="ZEZI-1"><form rend="b">ZEZI</form>, pro Giezi. Epist. Ægidii Tuscul. Episc. adv. Patriarcham Antiochenum apud
+          Ludewig. tom. 2. Reliq. MSS. pag. 455 : <quote xml:lang="lat">Utinam apperiret Dominus oculos tuos, sicut
+            aperuit Zezi ; videres multo plures nobiscum esse quam tecum.</quote> Ubi respicere
+          videtur ad cap. 6. lib. 4. Reg. v. 16.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZEZOLIUM">
+        <dictScrap xml:id="ZEZOLIUM-1"><form rend="b">ZEZOLIUM</form>, f. ab. Italico <hi rend="i">Zezzo</hi>, Extremus, postremus, Locus retro positus. Stat.
+          Taurin. ann. 1360. cap. 93. ex Cod. reg. 4622. A : <quote xml:lang="lat">Item statuerunt super facto
+            Zezoliorum factorum per beccarios retro bancas beccariæ interea, quod ipsa Zezolia infra
+            tertiam diem post publicationem præsentem destruantur,..... ad evitandum fraudes
+            beccariorum ; quoniam multa committuntur et committi possunt in ipsis Zezoliis ; et quod
+            de cetero fieri non possint dicta Zezolia.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIA">
+        <dictScrap xml:id="ZIA-1"><form rend="b">ZIA</form>, <form rend="sc">Zianus</form>. Vide <ref target="ZIUS">Zius</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIBATUM">
+        <dictScrap xml:id="ZIBATUM-1"><form rend="b">ZIBATUM</form>, <gloss>alicubi Stephanis scripsit pro Argento vivo</gloss>, in Glossar. MS. medic. Sim.
+          Januens. ex Cod. reg. 6959. Vide supra <ref target="ZAIBAS">Zaibas</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIBELLINUS">
+        <dictScrap xml:id="ZIBELLINUS-1"><form rend="b">ZIBELLINUS</form>, Pellis muris Pontici, Ital. <foreign xml:lang="ita">Zibellino</foreign>, Gall. <foreign xml:lang="fro">Zibelline</foreign>. Stat.
+          datiar. Riper. fol. 4. r° : <quote xml:lang="lat">De qualibet fodra ..... Zibellinorum, foinorum,.....
+            denarii sex.</quote> Vide <ref target="ZEBELINUS">Zebelinus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIBETHUM">
+        <dictScrap xml:id="ZIBETHUM-1"><form rend="b">ZIBETHUM</form>, Italis <foreign xml:lang="ita">Zibetto</foreign>, Gall. <foreign xml:lang="fro">Civette</foreign>, Aromatis genus. Locus est in
+            <hi rend="i">Lascopitium</hi>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIBIBUM">
+        <dictScrap xml:id="ZIBIBUM-1"><form rend="b">ZIBIBUM</form>, ab Italico <hi rend="i">Zibibo</hi>, Cruscanis, <hi rend="i">Spezie d'uva ottima a seccare</hi>, Passa
+          uva. Joh. Demussis Chron. Placent. apud Murator. tom. 16. col. 582 : <quote xml:lang="lat">Secunda die in
+            nuptiis dant primo longetos de pasta cum caxeo, et croco, et Zibibo, et
+          speciebus.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIBYNNUS">
+        <dictScrap xml:id="ZIBYNNUS-1"><form rend="b">ZIBYNNUS</form>, <form rend="sc">Zipina</form>. Suidas : <quote xml:lang="grc">Ζιϐύνη, ὁλοσιδήριον ἀϰόντιον,
+            λόγχη, σπάθη. Ζιϐύνη</quote> et <foreign xml:lang="grc">ζηϐύνη</foreign>,
+          <hi rend="i">venabulum</hi>, in vett. Glossis. <hi rend="i">Missile</hi>, dicitur in Nov. Justiniani 85. Ubi
+          Julianus Antecessor, Constit. 79. § 4 : <quote xml:lang="lat">Zybynos, quos Missilia vocant.</quote></dictScrap>
+        <dictScrap xml:id="ZIBYNNUS-2"><form rend="sc">Zipina</form>, <hi rend="i">Lancea</hi>, in Glossis MSS. Papias : <hi rend="i">Zimbina, lancea</hi>. Ita enim MS. Vide
+          Glossaria Antonii Augustini et Francisci Pithœi ad Julianum Antecess. præterea Gloss.
+          Rigaltii, Meursii <add rend="benedictin">et med. Græcit. in <foreign xml:lang="grc">Ζηϐύνη</foreign>.</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIDELWEIDA">
+        <dictScrap xml:id="ZIDELWEIDA-1"><form rend="b">ZIDELWEIDA</form>, <add rend="benedictin">Glandes quernæ, quibus pascuntur porci.
+            Meichelbeco interprete, tom. 1. Hist. Frising. pag. 191.</add>
+          <add rend="henschel">Locus, ubi apes curantur. Vide
+            Schmelleri Glossar. Bavar. tom. 4 pag. 226. voce <foreign xml:lang="gmh">Zeideln</foreign>, 1. supra <ref target="CIDALARIUS">Cidalarius</ref>.</add>
+          <cb n="431b"/> Charta Ottonis Imp. ann. 995. in Metropoli Saliburgensi tom. 1. pag. 138 :
+            <quote xml:lang="lat">Cum curtiferis, areis, pratis,... venationibus, piscationibus, Zidelweida,
+            molendinis, exitibus, reditibus, viis et inviis, etc.</quote> In alia Charta ann. 996.
+          pag. 136. habetur <hi rend="i">Zudulweden</hi>. In alia, pag. 143. <hi rend="i">Zidilreidis</hi>. Pag. 144.
+            <hi rend="i">Zidelvreidis</hi>. Tom. 3. pag. 458. <hi rend="i">Sidelvreidis, Sildelweiden</hi>, tom. 1. pag.
+          140. German. <hi rend="i">Weide</hi>, est ager pascuus.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIFFRAE">
+        <dictScrap xml:id="ZIFFRAE-1"><form rend="b">ZIFFRÆ</form>, Notæ numerales, Gall. <foreign xml:lang="fro">Chiffres</foreign>, Ital. <foreign xml:lang="ita">Ziffera</foreign>. Chron. Mellic. ad
+          ann. 1471. pag. 481 : <quote xml:lang="lat">Collectæ vero, lectiones et evangelia per Ziffras seu numeros
+            notentur, ubi reperiantur.</quote> Statuta Montis Regal. fol. 192 : <quote xml:lang="lat">Item
+            statuerunt et ordinaverunt quod domini jus dicentes in decretationibus et
+            condemnationibus bannorum per eos fiendis, non utantur Ziffris seu aliis literis
+            brevibus.</quote> Vide <ref target="CIFRAE">Cifræ</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIGAR">
+        <dictScrap xml:id="ZIGAR-1"><form rend="b">ZIGAR</form>, <cit>
+            <quote xml:lang="lat">vetus Alamannorum nomen, notat variarum specierum compositionem.</quote>
+            <bibl>Hæc Goldastus ipsomet vade ex Schiltero in Gloss. Teuton.</bibl>
+          </cit></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIGEUNI">
+        <dictScrap xml:id="ZIGEUNI-1"><form rend="b">ZIGEUNI</form> et <form rend="sc">Zygeni</form>, apud Krantzium in Saxonica Historia ad ann. 1417. iidem qui
+          Gallis <hi rend="i">Ægyptii</hi> seu <hi rend="i">Bohemi</hi>, Italis <foreign xml:lang="ita">Zingani</foreign> vel <hi rend="i">Zingari</hi>, Hisp.
+            <foreign xml:lang="spa">Gittani</foreign> nuncupantur. Errones, præstigiatores, qui fictionibus et mendaciis
+          imperitæ multitudini imponunt. Consule Murator. tom. 5. Antiq. Ital. med. ævi col. 68. et
+          seqq.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZILENTI">
+        <dictScrap xml:id="ZILENTI-1"><form rend="b">ZILENTI</form>, <hi rend="i">Nisus</hi>, in Gloss. ad calcem vet. Collect. Can. Apost. ex Bibl. DD.
+            <hi rend="i">Chauvelin</hi> Regiorum sigillorum Custodis. <add rend="henschel">Vide Graff. Thesaur. Ling. Fr. tom. 5. col.
+            657.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZILIUM">
+        <dictScrap xml:id="ZILIUM-1"><form rend="b">ZILIUM</form>, Lilium, Italis <foreign xml:lang="ita">Giglio</foreign>. Anonymus in Annal. Mediolan. apud Murator. tom. 16.
+          col. 807 : <quote xml:lang="lat">Corona una auri cum Ziliis sex magnis, et Ziliis sex parvis, super cujus
+            friso sunt saphiri sex grossi.</quote> Et col. 808 : <quote xml:lang="lat">Filum unum paternostrorum
+            auri,.... cum certis aliis perlis in capite dicti fili, in quibus sunt botoni
+              <num>lxxxiv.</num> Januenses et Zilii sex albi.</quote> Funus Joh. Galeaz. ibid. col.
+          1035 : <quote xml:lang="lat">Erant enim prima duo scuta cum sola aquila nigra in auro, alia duo cum
+            Ziliis et vipera in quarteriis.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIMA">
+        <dictScrap xml:id="ZIMA-1"><form rend="b">ZIMA</form>, <hi rend="i">Fermentum, levame, Prov</hi>. Glossar. Provinc. Lat. ex Cod. reg. 7657. Vide
+            <hi rend="i">Zymus 1.</hi></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIMERA">
+        <dictScrap xml:id="ZIMERA-1"><form rend="b">ZIMERA</form>, Pinna, galeæ ornamentum. Anonym. Leob. in Chron. ad ann. 1336. apud Pez. tom. 1.
+          Script. Austr. col. 945 : <quote xml:lang="lat">Quem <note>(comitem)</note> dux Otto sibi in
+            familiaritatem militaris contubernii combinavit, galeæque suæ decus, quod pinnam sive
+            Zimeram vel glareotam dicunt, in bellis, tornesis et hastiludiis utendum contradidit,
+            coronam scilicet aureæ resplendentiæ galeæ circumductam.</quote>
+          <add rend="henschel">Germ.
+          <hi rend="i">Zimier</hi>.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIMUS1">
+        <dictScrap xml:id="ZIMUS1-1"><form rend="b"><num>1.</num> ZIMUS</form>, <hi rend="i">Fermentum</hi>, in Gloss. ad Doctrinale Alexandri de Villa-Dei. Vide <ref target="ZEMA">Zema</ref> et <hi rend="i">Zymus</hi>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIMUS2">
+        <dictScrap xml:id="ZIMUS2-1"><form rend="b"><num>2.</num> ZIMUS</form>. Alex. Iatrosoph. MS. lib. 2. Passion. cap. 112 : <gloss>Accipiant pullos et
+            gallinas non satis pingues, inopozimatas, magis quam <oVar>Zimas</oVar>.</gloss> Ubi Glossæ : <hi rend="i">i.
+            cum jure</hi>. Vide <ref target="ZEMA">Zema</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIMZIBERATUM">
+        <dictScrap xml:id="ZIMZIBERATUM-1"><form rend="b">ZIMZIBERATUM</form>, Zinziber, Gall. <foreign xml:lang="fro">Gingembre</foreign>. Acta Inquisit. Tolos. ad ann. 1244. inter
+          Probat. tom. 3. Hist. Occit. col. 441 : <quote xml:lang="lat">Ipse testis habuit inde unam pixidem de
+            Zimziberato.</quote> Vide <ref target="ZINZIBER">Zinziber</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZINARUS">
+        <dictScrap xml:id="ZINARUS-1"><form rend="b">ZINARUS</form>. Apud Petrum de Crescentiis lib. 5. extremo.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZINDARUM">
+        <dictScrap xml:id="ZINDARUM-1"><form rend="b">ZINDARUM</form>, ut supra <ref target="ZENDADUM">Zendadum</ref>. Testam. ann. 1518. apud Rocchum
+          Pirrum Siciliæ sacræ pag. 187 : <quote xml:lang="lat">Vestis una Zindari ad instar jubbæ, etc.</quote>
+          <cb n="431c"/></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZINDOR">
+        <dictScrap xml:id="ZINDOR-1"><form rend="b">ZINDOR</form>, vox vulgaris, qua Auris significatur. Lit. remiss. ann. 1466. in Reg. 202.
+          Chartoph. reg. ch. 110 : <quote xml:lang="fro">De laquelle pierre il le frappa en la teste en la Zindor,
+            qui est à dire l'oye, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZINESTRA">
+        <dictScrap xml:id="ZINESTRA-1"><form rend="b">ZINESTRA</form>, Genista, Italis <foreign xml:lang="ita">Ginestra</foreign>, Gall. <foreign xml:lang="fro">Genêt</foreign>. Funus Joh. Galeaz apud
+          Murator. tom. 16. col. 1035 : <quote xml:lang="lat">Alia duo <note>(scuta)</note> cum divisa Imperatoris
+            videlicet uno capitergio cum una gassa ; alia duo cum Zinestra.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZINGANI">
+        <dictScrap xml:id="ZINGANI-1"><form rend="b">ZINGANI</form>, <form rend="sc">Zingari</form>. Vide supra <ref target="ZIGEUNI">Zigeuni</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZINNIRI">
+        <dictScrap xml:id="ZINNIRI-1"><form rend="b">ZINNIRI</form>, An idem quod <hi rend="i">Essoniari</hi>, excusari ? Vide in <ref target="SUNNIS">Sunnis</ref>. Charta Phil. comit. Fland. pro libert. castel. Brug. ex Cam. Comput.
+          Insul. : <quote xml:lang="lat">Qui alterum in causam traxerit, tractus potest plegiari usque ad Sabbatum,
+            et non amplius. Et tunc si non venerint, debet banniri et plegius ejus. Nullus in
+            placito hoc potest Zinniri.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZINSILLA">
+        <dictScrap xml:id="ZINSILLA-1"><form rend="b">ZINSILLA</form>. <quote xml:lang="lat">Bibio vel <oVar>Zinsilla</oVar>,
+            <oVar>Cincelle</oVar>.</quote> (Glos. Lat. Gal. Bibl. Insul. E. 36,
+            <num>xv.</num> s.)</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZINSTIAS">
+        <dictScrap xml:id="ZINSTIAS-1"><form rend="b">ZINSTIAS</form>, Lanceas. <persName type="author">Dief</persName>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZINURDONES">
+        <dictScrap xml:id="ZINURDONES-1"><form rend="b">ZINURDONES</form>. Chronicon Montis-Sereni anno 1171 : <quote xml:lang="lat">Erat hic de familia Ecclesiæ ex eo
+            genere hominum, qui Zinurdones appellantur, tantæ superbiæ, ut mirum esset, rusticam
+            mentem angustis rebus et paupertati assuetam, tantum inflari
+        potuisse.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZINZALA">
+        <dictScrap xml:id="ZINZALA-1"><form rend="b">ZINZALA</form>, <cit>
+            <quote xml:lang="lat">Parva musca, i. culex : unde zinzalarium, conopeum ad eas arcendas.</quote>
+            <bibl>Ugutio.</bibl>
+          </cit>
+          <add rend="benedictin"><gloss><oVar>Zinzala</oVar>, <foreign xml:lang="fro">petite
+              mousche</foreign>, <foreign xml:lang="fro">cincerelle</foreign>,</gloss> in Gloss. Lat. Gall.
+            Sangerm. Vide supra <ref target="ZENTALA">Zentala</ref>.</add></dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZINZALA-2">Glossar. Gall. Lat. ex Cod.
+          reg. 7674 : <gloss><foreign xml:lang="fro">Cincenelle. Cincenaude, une petite mouche ainsi appellée,</foreign> <oVar>Zinzala</oVar>.
+            <foreign xml:lang="fro">Cincenaudier</foreign>, Zinzalarium.</gloss></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZINZIBER">
+        <dictScrap xml:id="ZINZIBER-1"><form rend="b">ZINZIBER</form>, <foreign xml:lang="fro">Gingimbre</foreign>, in iisdem Gloss. Lat. Gall. Comput. ab ann. 1333. ad ann. 1336.
+          tom. 2. Hist. Dalph. pag. 284 : <quote xml:lang="lat">Item, pro quinque libris de pipere, quinque de
+            Zinzibero, etc.</quote> Adde Rymer. tom. 7. pag. 233.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZINZIBRUM">
+        <dictScrap xml:id="ZINZIBRUM-1"><form rend="b">ZINZIBRUM</form>, <gloss><foreign xml:lang="fro">Gingenbre</foreign></gloss>. (Glos. Lat. Gal. Bibl. Insul. E. 36, <num>xv.</num>
+            s.)</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZINZICLA">
+        <dictScrap xml:id="ZINZICLA-1"><form rend="b">ZINZICLA</form>, Spongia, ut videtur. Hist. Belli sacri apud Mabill. tom. 1. Musei Ital. pag.
+          141 : <quote xml:lang="lat">Alii qui remanserunt vivi, fugerunt in castrum. Quod Turci obsederunt
+            continuo, eisque abstulerunt aquam, fueruntque nostri in tanta afflictione sitis, quod
+            flebothomari faciebant suos equos et asinos, quorum sanguinem bibebant. Alii mittebant
+            Zinziclas in piscinam, et ea deprimebant in os suum.</quote>
+          <add rend="henschel">Apud Bongars. pag. 2. lin. 7 :
+              <quote xml:lang="lat">mittebant zonas atque panniculos in, etc.</quote> Vide <ref target="CINCIDES">Cincides</ref>.</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZINZINARE">
+        <dictScrap xml:id="ZINZINARE-1"><form rend="b">ZINZINARE</form>, <hi rend="i">proprium pardorum</hi>, Ugutioni.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZINZITARE">
+        <dictScrap xml:id="ZINZITARE-1"><form rend="b">ZINZITARE</form>, Merulæ vox. Carmen de Philomela ad calcem Cod. reg. 6816 : <quote xml:lang="lat">
+            <l>Et merulus modulans tam pulchris Zinzitat odis,</l>
+            <l>  Nocte ruente timet, cantica nulla canit.</l>
+          </quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZINZIZULARE">
+        <dictScrap xml:id="ZINZIZULARE-1"><form rend="b">ZINZIZULARE</form>, Avium vox, quarum mentio fit in eod. Carm. : <quote xml:lang="lat">
+            <l>Regulus atque merops et rubro pectore prognes</l>
+            <l>  Consimili modulo Zinzizulare sciunt.</l>
+          </quote> Vide <ref target="ZINZULARE">Zinzulare</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZINZULARE">
+        <dictScrap xml:id="ZINZULARE-1"><form rend="b">ZINZULARE</form>, Merulæ vocem edere. Histor. Elevat. S. Zenonis tom. 2. April. pag. 75 : <quote xml:lang="lat">At
+            in itinere positum merula avis strepera voce Zinzulans, callem transvolans, quasi
+            sinistrum omen significans, ab incepto revocabat.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIOPIA">
+        <dictScrap xml:id="ZIOPIA-1"><form rend="b">ZIOPIA</form>, <form rend="sc">Ziopius</form>, in Gloss. Arabico-Latino.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIPELLUS">
+        <dictScrap xml:id="ZIPELLUS-1"><form rend="b">ZIPELLUS</form>. Statuta Placent. lib. 6. <pb n="432"/>
+          <cb n="432a"/> fol. 82 : <quote xml:lang="lat">Et si fuerint zochulæ magnæ et altæ cum Zipello quarto ab
+            hominibus sive a fœminabus et cum corollis largis non possint accipere de pari ultra
+              <num>ii.</num> sol.</quote> Vide <ref target="ZEPELLUS">Zepellus</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIPINA">
+        <dictScrap xml:id="ZIPINA-1"><form rend="b">ZIPINA</form>. Vide <ref target="ZIBYNNUS">Zibynnus</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIPO">
+        <dictScrap xml:id="ZIPO-1"><form rend="b">ZIPO</form>, Tunica ex maculis contexta. Stat. Ferrar. ann. 1279. apud Murator. tom. 2. Antiq.
+          Ital. med. ævi col. 487 : <quote xml:lang="lat">Quod quilibet custos deputatus ad aliquam custodiam
+            alicujus castri vel loci civitatis Ferrariæ vel districtus, teneatur et debeat toto
+            tempore custodiæ habere Ziponem, collarium de ferro, etc.</quote> Vide <ref target="GIPO">Gipo</ref> et <ref target="ZUPA2">Zuppa 2</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIPPULA">
+        <dictScrap xml:id="ZIPPULA-1"><form rend="b">ZIPPULA</form>, Placenta, Italis <foreign xml:lang="ita">Fogaccia</foreign>. <add rend="benedictin"><hi rend="i">Zeppola</hi>, Gall. <foreign xml:lang="fro">Bignet</foreign>.</add> Pelagius libello 4.
+          n. 59 : <quote xml:lang="lat">Fecit de farinula lenticulam et Zippulas.</quote> Quo loco Ruffinus lib. 3.
+          Vit. SS. n. 51. habet <hi rend="i">placentas</hi>. Occurrit rursum apud eumdem Pelagium libello 8. n.
+          15.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIRBUS">
+        <dictScrap xml:id="ZIRBUS-1"><form rend="b">ZIRBUS</form>, Omentum, Græcis <foreign xml:lang="grc">ἐπίπλοον</foreign>, pars stomachi. Vide
+          Anatomiam Mundini pag. 70.</dictScrap>
+        <dictScrap rend="carpentier" xml:id="ZIRBUS-2">Glossar. MS. medic. Simon.
+          Januens. ex Cod. reg. 6959 : <gloss><oVar>Zirbus</oVar>, pinguedo involvens intestina.</gloss> Aliud
+          Lat. Gall. ann. 1352. ex Cod. reg. 4120 : <gloss><oVar>Zirbus</oVar>, Gall. <foreign xml:lang="fro">Oins</foreign>.</gloss> Italis <foreign xml:lang="ita">Zirbo</foreign>. <add rend="henschel">Reinard. Vulp. lib. 3. vers. 1929 : <quote xml:lang="lat">
+              <l>Viscera fissuro non imperat ille cachinno,</l>
+              <l>  Terque cachinnantur, quinque quaterque novem.</l>
+              <l>Jam conante cavas Zirbo transponere fauces,</l>
+              <l>  Affuit hic abbas, etc.</l>
+            </quote></add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIRO">
+        <dictScrap xml:id="ZIRO-1"><form rend="b">ZIRO</form>, Propugnaculi species, Italis. Charta anno 1158. apud Ughell. tom. 2. pag. 368.
+          369 : <quote xml:lang="lat">Cum plebe et capellis suis et curte sua in integro, et toto Zirone supradicti
+            castri, etc.</quote> Rollandinus in Chron. lib. 5. cap. 15 : <quote xml:lang="lat">Unde in præsenti
+            Dominus Ecelinus fecit fieri unum Zironem in Anoale, et tres Zirones in Mestre, ubi
+            suprastantibus et custodibus constitutis, et licentiato exercitu, reversus est ipse
+            Paduam.</quote> Cap. 17 : <quote xml:lang="lat">Fecit quoque fieri Zirones in campo franco, ibique
+            positis suprastantibus et custodibus, etc.</quote>
+          <add rend="benedictin">Paris de Cereta in Chron. Veron. ad ann. 1242. apud
+            Murator. tom. 8. col. 632 : <quote xml:lang="lat">Dom. Henricus de Egna Potestas Veronæ et dom.
+              Icerinus de Romano cum Veronensibus in eam terram Montagnanæ intraverunt et eam
+              mitigaverunt, et unum Zironem seu rocham fecerunt in
+        ea.</quote></add></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIRONUM">
+        <dictScrap xml:id="ZIRONUM-1"><form rend="b">ZIRONUM</form>, idem quod <ref target="ZIRO">Ziro</ref>, Propugnaculi species. Chron. Patav. ad
+          ann. 1221. apud Murator. tom. 4. Antiq. Ital. med. ævi col. 1129 : <quote xml:lang="lat">Completum fuit
+            Zironum castri de Cittadella.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIRUM">
+        <dictScrap xml:id="ZIRUM-1"><form rend="b">ZIRUM</form>. Charta Dalmatica ann. 1069. apud Joan. Lucium lib. 2. de regno Dalmat. cap. 6 :
+            <quote xml:lang="lat">De sororibus autem, quæ nunc Domino servituræ ibi ingrediuntur, et quæ eodem
+            invitante ingressuræ aderint suis facultatibus, * vino territoriis libera cuncta, quæ in
+            præfato monasterio obtulerint territoria, volumus adesse ab humano cuncta servitia 1. et
+            ab illo, quod vulgo Zirum dicitur,</quote> Italis <foreign xml:lang="ita">Ziro</foreign>, est amphora olearia
+          major.</dictScrap>
+      </entry>
+
+      <entry rend="favre" xml:id="ZISAMUM">
+        <dictScrap xml:id="ZISAMUM-1"><form rend="b">ZISAMUM</form>. Sesamum : <quote xml:lang="lat">Recipe radices asparagi siccas et
+            pulverizatas et cum oleo de <oVar>Zisamo</oVar> misceantur.</quote> (B. N.
+          Ms. Lat. 10272, p. 286.)</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZITATA">
+        <dictScrap xml:id="ZITATA-1"><form rend="b">ZITATA</form>, <form rend="sc">Zittata</form>, Italis <foreign xml:lang="ita">Gittata</foreign>, Jactus, mensura agraria. Statuta
+          Placent. lib. 4. fol. 40 : <quote xml:lang="lat">Ad detegendos et evitandos malefactores qui secus
+            stratas occultantur, firmiter statuimus quod omnes boschi...... existentes juxta stratum
+            Romeam per <num>l.</num> Zitatas</quote> (exscindantur.) Anonymus in Annal. Mediolan.
+          apud Murator. tom. 16. col. 735 : <quote xml:lang="lat">Quælibet <cb n="432b"/> Zittata dicti Navilii
+            constabat florenis quatuor.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIUS">
+        <dictScrap xml:id="ZIUS-1"><form rend="b">ZIUS</form>, Patruus, <foreign xml:lang="grc">θεῖος</foreign>, <hi rend="i">Zio</hi>, Italis. Notitia
+          Judicati in Tabulario Casauriensi : <quote xml:lang="lat">Et cum ipso Ildegario Zio nostro, qui erat
+            Advocatus istius Petri.</quote> In Actis S. Susannæ V. et M. seu Maximi Mart. n. 5.
+          Caius PP. dicitur fuisse <hi rend="i">zius</hi> S. Susannæ, qui supra n. 3. ejus <hi rend="i">Patruus</hi>
+          nuncupatur.</dictScrap>
+        <dictScrap xml:id="ZIUS-2"><form rend="sc">Zia</form>, Amita. Bernaldus Presb. de Reconciliatione lapsorum : <quote xml:lang="lat">Nec otiose notandum,
+            quod multa nobis obscura per diversarum collationem editionum sæpenumero declarantur, ut
+            illud de Nicæno Concilio ; quid sit subintroducta mulier. Hoc alia editio apertius
+            ponit, id est, extraneam, ac si dicat : Clericus nullam feminam habeat secum extraneam ;
+            sed tantum matrem, vel sororem, vel Ziam, quam iterum alia editio apertius vocat amitam.
+            Tusci enim pro amita, dicunt Ziam.</quote></dictScrap>
+        <dictScrap xml:id="ZIUS-3"><form rend="sc">Zianus</form>, Idem qui <hi rend="i">Zius</hi>. Petrus Diac. lib. 4. Chron. Casin. cap. 24 :
+            <quote xml:lang="lat">Henricus frater ejus concesserat prius cuidam Ziano suo terras,
+        etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIZANEA">
+        <dictScrap xml:id="ZIZANEA-1"><form rend="b">ZIZANEA</form>, Lolium, Ital. <foreign xml:lang="ita">Zizzania</foreign>. Glossar. Lat. Gall. ann. 1352. ex Cod. reg. 4120 :
+            <gloss><oVar>Zizania</oVar>, <foreign xml:lang="fro">Gergerie</foreign>, est quædam herba.</gloss></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZIZANIA">
+        <dictScrap xml:id="ZIZANIA-1"><form rend="b">ZIZANIA</form>. Herba perversa. <persName type="author">Dief</persName>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZIZANIUM">
+        <dictScrap xml:id="ZIZANIUM-1"><form rend="b">ZIZANIUM</form>, Discordia, a Gr. <foreign xml:lang="grc">ζιζάνιον</foreign>, lolium. Monachus
+          Patav. in Chron. apud Murator. tom. 8. col. 697 : <quote xml:lang="lat">Humani generis inimicus seminavit
+            Zizania inter eos.</quote> Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZIZANIUM-2"><form rend="sc">Zizaniator</form>, Qui <hi rend="i">zizania</hi> interserit. Charta Nicolai <hi rend="i">d'Estouteville</hi> ad calcem
+          tom. 4. Hist. Harcur. post <hi rend="i">Errata</hi> : <quote xml:lang="lat">Et ut ille Zizaniator charitati fidelium
+            invidens, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIZERIUM">
+        <dictScrap xml:id="ZIZERIUM-1"><form rend="b">ZIZERIUM</form>, pro <hi rend="i">Gigerium</hi>, quo nomine Latini appellant gallinarum intestina, et quæ cum
+          iis coquuntur : Galli <foreign xml:lang="fro">Zizier</foreign>. Apitius lib. 5. de Re culinaria cap. 3 :
+            <quote xml:lang="lat">Jecinora et Zizeria pullorum in cacabum mittes.</quote> Humelbergius ad lib. 4.
+          ejusdem Apitii observat legi in vett. codd. <hi rend="i">cizeria</hi>, ubi editi perperam præferunt
+            <hi rend="i">cirema</hi>, pag. 89. Lucil. <quote xml:lang="lat">Gigera sunt sine allio, his vescamur alacriter</quote>.
+          Gloss. Lat. Græc. <gloss>Gilerus gallinarum, <foreign xml:lang="grc">τὸ ἄϰρον τῶν
+          ὀρνίθων</foreign></gloss>. Reponit. Salmasius, <hi rend="i">Gigerus</hi>, <foreign xml:lang="grc">τὸ
+          ἀϰρῶον</foreign>, etc.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZIZYPHA">
+        <dictScrap xml:id="ZIZYPHA-1"><form rend="b">ZIZYPHA</form>, <foreign xml:lang="grc">Σιριϰά</foreign> in Glossis Gr. Lat. Codex MS. S. Germani
+          habet <hi rend="i">Zizifa</hi>. <add rend="benedictin">Genus est minoris pruni vel olivæ
+            medicis notum vulgo <foreign xml:lang="fro">Jujube</foreign>. Sebast. Perus. in Vita B. Columbæ Reatinæ tom. 5.
+            Maii pag. 342 : <quote xml:lang="lat">Porrexitque illis Zizyphas, jujubas dicunt, quas servabat in
+              gremio.</quote></add></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZIZYPHA-2"><form rend="sc">Ziziphum</form>, Eadem notione. Acta S. Onuphrii tom. 2. Jun. pag. 526 : <quote xml:lang="lat">Erant autem
+            fructus illarum arborum multæ palmæ, citri, punica, sycamina, <oVar>Zizipha</oVar> et vites.</quote>
+          Vide Gloss. med. Græcit. in <foreign xml:lang="grc">Ζίτζιφα</foreign>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZIZZA">
+        <dictScrap xml:id="ZIZZA-1"><form rend="b">ZIZZA</form>, vox Italica, Mamma. Proces. de B. Jacobo Bitect. tom. 3. Apr. pag. 538. col. 2 :
+            <quote xml:lang="lat">In una mamillarum patiens incurabile malum, etc.</quote> Ubi <hi rend="i">Zizza</hi> habet
+          originale instrumentum, ut notant docti Editores.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOA">
+        <dictScrap xml:id="ZOA-1"><form rend="b">ZOA</form>, Anima, ex <foreign xml:lang="grc">ζωή</foreign>, vita. Vita S. Udalrici Episc.
+          August. cap. 21 : <quote xml:lang="lat">Zoam in ultimis temporibus suam salvare cupiendo, etc.</quote>
+          <add rend="benedictin">Fridegodus in Vita S. Wilfridi sæc. 3. Bened. part. 1.
+            pag. 176 : <quote xml:lang="lat">
+              <l>Utpote præteritæ recolens choragia Zoæ.</l>
+            </quote> Ubi pro vita usurpatur.</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOBELLINA">
+        <dictScrap xml:id="ZOBELLINA-1"><form rend="b">ZOBELLINA <seg>Pellis</seg></form>. Vide <ref target="SABELUM">Sabelum</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOCA">
+        <dictScrap xml:id="ZOCA-1"><form rend="b">ZOCA</form>, Stipes, truncus, Ital. <foreign xml:lang="ita">Zocco</foreign>. <cb n="432c"/> Stat. Avenion. ann. 1243.
+          cap. 35. ex Cod. reg. 4659 : <quote xml:lang="lat">Operarius ultra conventionem non audeat accipere
+            ligna, vel vites, vel Zocas, vel gavellos, vel quodcumque aliud.</quote> Vide <ref target="ZOCCHUS">Zoccus</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOCCHUS">
+        <dictScrap xml:id="ZOCCHUS-1"><form rend="b">ZOCCHUS</form>, Stipes, truncus, Italis <foreign xml:lang="ita">Zocco</foreign>. Innocentius III. lib. 13. Epist. 95 :
+            <quote xml:lang="lat">Truncos arborum, quos ipsi <note>(Ravennates)</note> Zoccos, vel
+          capitones</quote> vocant, etc. <add rend="benedictin">Statuta Mutin. rubr.
+            170. fol. 31 : <quote xml:lang="lat">Cum per navigium Mutinæ naves commode conduci non possint propter
+              impedimenta plurium Zoccorum, palorum,... statutum est quod... Zoccos et palos in
+              dicto navigio existentes..... teneatur idem Potestas et debeat incidi facere,
+              deradicari, etc.</quote></add> Vide Bullarium Casinense tom. 2. pag. 241.
+          Ab Italis hausere Græci recentiores, <foreign xml:lang="grc">τζόϰος</foreign>, eadem
+          notione, quæ vox occurrit apud Joannem Cananum pag. 194. Adde Meursium in <foreign xml:lang="grc">Τζόϰος</foreign>. Vide <ref target="ZUCHEUS">Zucheus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZOCHOLAE">
+        <dictScrap xml:id="ZOCHOLAE-1"><form rend="b">ZOCHOLÆ</form>, <form rend="sc">Zochulæ</form>, Calones, crepidæ ligneæ ; Zocholarius, earum artifex ; voces
+          Italicæ, Gallis <foreign xml:lang="fro">Patins</foreign>, <foreign xml:lang="fro">galoches</foreign>, <foreign xml:lang="fro">soques</foreign>. Statuta Vercell. lib. 3.
+          fol. 101. v° : <quote xml:lang="lat">Vannum, corbes, ceppos Zocholarum, sapas, etc.</quote> Statuta
+          Placent. lib. 6. fol. 82 : <quote xml:lang="lat">Item provisum est quod Zocholarii et facientes seu
+            vendentes Zochulas non possint accipere videlicet de pari Zochularum ab homine sive a
+            fœmina ultra <num>xx.</num> denar.</quote> Vide <ref target="ZIPELLUS">Zipellus</ref>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZOCHOLAE-2"><form rend="sc">Zocholi</form>, Eadem notione, in Serm. Gabr. Bareletæ part. 1. fol. 34. col. 2 : <quote xml:lang="lat">Exemplum
+            de muliere Bergomensi quæ ivit colligere ficus in Zocholo, cecidit tibiis fractis, quæ
+            dixit : Maledictus sit Diabolus... Respondit demon : Maledicta sis tu, non ego. Non scis
+            si in Zocholis debet iri super ficum.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOCUS">
+        <dictScrap xml:id="ZOCUS-1"><form rend="b">ZOCUS</form>, ejusdem originis ac <hi rend="i">Zoca</hi>, pro stolidus, ineptus, nostris etiam
+          <hi rend="i">Buche</hi>, eadem notione, ut et Latinis, truncus. Barel. serm. 2. in Dom. 1. Quadr. :
+            <quote xml:lang="lat">Vos, cives, me appellatis Zocum ob damnabile gulæ vitium ; ut video, in pluvia
+            crucior.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZODIACTEUS">
+        <dictScrap xml:id="ZODIACTEUS-1"><form rend="b">ZODIACTEUS</form>, Ad Zodiacum pertinens. Epist. Gunzonis ad Augienses ann. 969. apud Marten. tom.
+          1. Ampl. Collect. col. 310 : <oVar>Zodiactea</oVar>
+          <hi rend="i">peragratio</hi>. Occurrit etiam apud Mart. Capellam lib. 1. pag. 3.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZODOARE">
+        <dictScrap xml:id="ZODOARE-1"><form rend="b">ZODOARE</form>, <hi rend="i">Citoal</hi>. (Glos. Lat. Gal. Bibl. Insul. E. 36, <num>xv.</num>
+            s.)</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOEKARLE">
+        <dictScrap xml:id="ZOEKARLE-1"><form rend="b">ZOEKARLE</form>, Nautæ, in Charta Waldemari Danorum Regis ann. 1326. apud Isaacum Pontanum lib. 7.
+          Hist. Danicæ : <quote xml:lang="fro">Nec per aurigas, qui dicuntur Wounkarle, nec per nautas, qui
+            Zoëkarle, vel Scudemen nuncupantur, etc.</quote> Vide <ref target="HUSCARLA">Huscarla</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZOELLE">
+        <dictScrap xml:id="ZOELLE-1"><form rend="b">ZOELLE</form>, ut <hi rend="i">Zoll</hi> infra. Vide in hac voce.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZOETA">
+        <dictScrap xml:id="ZOETA-1"><form rend="b">ZOETA</form>. Vita S. Johannis Abb. Reomaens. tom. 2. Jan. pag. 867 : <quote xml:lang="lat">Cum maturiori
+            pulli cantu ad boum custodiam a Zoeta propria prosilire contingeret, etc.</quote>
+          Ronerius legendum censet <hi rend="i">Cœta</hi>, lectulo, quasi a <foreign xml:lang="grc">ϰοίτη</foreign> : at nihil emendandum esse haud male colligitur ex voce <ref target="ZOTHECA">Zotheca</ref> infra.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOGOLATUS">
+        <dictScrap xml:id="ZOGOLATUS-1"><form rend="b">ZOGOLATUS</form>, perperam, ni fallor, pro <hi rend="i">Zoiolatus</hi> vel <hi rend="i">Zoiellatus</hi>. Vide mox <ref target="ZOIELLARE">Zoiellare</ref>. Charta ann. 1389. tom. 3. Cod. Ital. diplom. col.
+          359 : <quote xml:lang="lat">Comes Virtutum pater noster mittet dictam Valentinam consortem nostram bene
+            Zogolatam, ornatam et jocalibus munitam.</quote> Vide in <ref target="ZOIA">Zoia</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOIA">
+        <dictScrap xml:id="ZOIA-1"><form rend="b">ZOIA</form>, ex Italico <hi rend="i">Zoia</hi>, in Statut. Mediolanensibus part. 2. cap. 110. idem quod
+            <ref target="IOCALIA">Jocalia</ref>, <add rend="benedictin">Monilia, gemmæ,
+            annuli, <pb n="433"/>
+            <cb n="433a"/> aliaque id genus pretiosa.</add> Vide in hac voce.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZOIA-2"><form rend="sc">Zoiellus</form>, Eodem intellectu, Ital. <foreign xml:lang="ita">Gioiello</foreign>. Statuta datiaria Riperiæ cap. 13. fol.
+          5. v° : <quote xml:lang="lat">Exceptis Zoiellis, lapidibus pretiosis, de quibus nihil solvatur.</quote>
+          Anonymus in Annal. Mediolan. apud Murator. tom. 16. col. 807 : <quote xml:lang="lat">Zoiellus unus auri
+            pro ponendo ad visum cum robinis <num>v.</num> diamantibus <num>vi.</num></quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZOIA-3"><form rend="sc">Zojolatus</form>, Ital. <foreign xml:lang="ita">Gioiellato</foreign>. Ejusmodi pretiosis ornatus, instructus. Idem Anonymus
+          ibid. col. 806 : <quote xml:lang="lat">Quod præfatus dominus Comes Virtutum pater noster mittit
+            Valentinam consortem nostram bene Zojolatam, ornatam et jocalibus munitam, etc.</quote>
+          Eadem mox repetuntur.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOIELLARE">
+        <dictScrap xml:id="ZOIELLARE-1"><form rend="b">ZOIELLARE</form>, Monilibus, gemmis, annulis aliisque id genus pretiosis instruere, nostris alias
+            <hi rend="i">Enjoieller</hi>. Contract. matrim. inter Ludov. ducem Turon. et Valent. Mediol. ann.
+          1439. ex Bibl. reg. : <quote xml:lang="lat">Dominus Joannes Galeas mittet dictam dominam Valentinam bene
+            Zoiellatam, ornatam et jocalibus munitam.</quote> Artic. matrim. inter Joan. Armaniac.
+          et Blanch. de Brit. ann. 1406. ex ead. Bibl. : <quote xml:lang="fro">Item mondit seigneur de Bretagne
+            vestera, ornera et Enjoiellera madite dame Blanche sa sœur.</quote> Vide supra <ref target="IOELLUS">Joellus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZOLL">
+        <dictScrap xml:id="ZOLL-1"><form rend="b">ZOLL</form>, Vectigal, idem quod <ref target="TELON">Telon</ref>. Vide in hac voce. Charta
+          Henrici IV. Imper. ann. 1073. apud Ludewig. tom. 2. Reliq. MSS. pag. 277 :
+            <quote xml:lang="lat">Thelonium si quidem, quod Theutonica lingua interpretatum est <oVar>Zoll</oVar>, quod in
+            omnibus locis regiæ potestati adsignantur...... Judæi et ceteri Wormatienses solvere
+            prætereuntes debiti erant, Wormatienses ne ulterius solvant Zoll, remisimus.</quote>
+          Infra : <quote xml:lang="lat">Quam firmationem super præfati <oVar>Zoll</oVar> remissione factam, ut nullus
+            successorum nostrorum infirmare velit, rogamus.</quote> <hi rend="i">Zollantuome</hi>, teloneo, in Gloss.
+          Mons. pag. 399.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZOLL-2"><form rend="sc">Zoelle</form>, Eodem significatu, in Charta ann. 1259. apud Eccardum in Origin. Habsburgo Austr.
+          col. 246 : <quote xml:lang="lat">Item pedagia, seu thelonea, quæ vulgo dicuntur Zœlle, in Dietinckon
+            hactenus solvi consueta, juri nostro et dominio specialiter excipimus et
+          reservamus.</quote> Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZOLL-3"><form rend="sc">Zolenarius</form>, Qui <hi rend="i">zoll</hi> exigit, portitor, Germ. <hi rend="i">Zoller</hi>. Charta Chunradi Reg. apud
+          Pezium tom. 1. Anecd. part. 3. col. 47 : <quote xml:lang="lat">Pro honore Dei sancto Emmerammo
+            concessimus de nostro jure decimam partem vectigalium, id est de ministerio Zollenarii
+            ad concinnanda luminaria.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOLTE">
+        <dictScrap xml:id="ZOLTE-1"><form rend="b">ZOLTE</form>, Polonis, Glaucus. Vide supra in <ref target="IUDAEI">Judæi</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOMA">
+        <dictScrap xml:id="ZOMA-1"><form rend="b">ZOMA</form>, Corpus. Vide <ref target="SOMA1">Soma 1</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZONA1">
+        <dictScrap xml:id="ZONA1-1"><form rend="b"><num>1.</num> ZONA</form>, seu Cingulum. Vestis Sacerdotalis. Alcuinus lib. de Offic. divin. :
+            <quote xml:lang="lat">Sequitur Zona, quæ cingulum dicitur, qua restringitur poderis, etc.</quote>
+          Riculfus Episcopus Suession. in Statut. ann. 989. cap. 7 : <quote xml:lang="lat">Cum orariis, id est,
+            stolis duabus nitidis, item Zonis duabus, id est, cinctoriis, ac mappulis totidem
+            nitidis, etc.</quote> Vide Durandi Ration. lib. 3. cap. 4.</dictScrap>
+        <dictScrap xml:id="ZONA1-2"><form rend="sc">Zona Romana</form> dicitur, quod ab Ecclesia Romana zonæ usus in cæteras Ecclesias profluxerit.
+          Alcuinus lib. de Offic. divin. : <quote xml:lang="lat">Pro baltheo nunc Zonarum, quas Romanas appellant,
+            usus receptus est.</quote></dictScrap>
+        <dictScrap xml:id="ZONA1-3"><form rend="sc">Zona Pellicea</form>, inter vestes monachicas reponitur, apud Bedam in Vita S. Cuthberti Episcopi num.
+          37. 38. <add rend="benedictin">Cujus<cb n="433b"/> Zonæ necessarium monachis
+            usum docet S. Basilius, cap. 11. Reg. § 4. exemplis Eliæ et S.
+          Johannis.</add> B. Dorotheus Doctr. : <quote xml:lang="grc">Κολόϐιον μὴ ἔχον
+            χειρίδια, ϰαὶ ζώνη δερματίνη, ϰαὶ ἀνάλαϐος, ϰαὶ ϰουϰούλιον.</quote> Infra, de ejus
+          significatu : <quote xml:lang="grc">Ἡ ζώνη, ἣν φοροῦμεν, σύμϐολόν ἐστι πρῶτον μὲν ὅτι
+            ἔσμεν εὐτρεπισμένοι εἰς ἔργον. Ἕϰαστος γὰρ θέλων ἐργάσασθαι, πρῶτον ζώννυται, ϰαὶ οὕτως
+            ἄρχεται τοῦ ἔργου, <note>etc.</note></quote> Adde Palladium in Hist. Laus. cap. 38. Vide
+          Glossar. med. Græcitat. in <foreign xml:lang="grc">Ζώνη</foreign>, col. 470.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZONA1-4"><form rend="sc">Zona</form>, Corrigia, lorum. Statuta Equitum Teuton. apud R. Duellium tom. 2. Miscell. pag.
+          23 : <quote xml:lang="lat">Calceos habeant sine <oVar>Zonis</oVar>, fibulis et rostris.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZONA2">
+        <dictScrap xml:id="ZONA2-1"><form rend="b"><num>2.</num> ZONA</form>, Ignis sacri species, quæ medium hominem ambit, cingitque, Gr. <foreign xml:lang="grc">ἕρπες</foreign>, et <foreign xml:lang="grc">ζωστήρ</foreign>. Scribonius
+          Largus pag. 7 : <quote xml:lang="lat">Facit hoc medicamentum ad carbunculos, et ad ignem sacrum, et ad
+            Zonam, quam Græci <foreign xml:lang="grc">ἕρπετα</foreign> dicunt.</quote> Eadem habet
+          pag. 28. ut et Marcellus Empiricus pag. 89. et 156. Constantinus Africanus lib. 4. de
+          Morbor. cogn. et curat. cap. 17. de Colica passione : <quote xml:lang="lat">Locus ejus est in dextra
+            parte inferioris ventri, circum cingens sicut zona usque in partem sinistram.</quote>
+          Vide Plinium lib. 3. de Medic. cap. 33.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZONA3">
+        <dictScrap xml:id="ZONA3-1"><form rend="b"><num>3.</num> ZONA <seg>Reginæ</seg></form>, Præstationis species. <add rend="benedictin">Chron. Corn.
+              <hi rend="i">Zantfliet</hi> apud Marten. tom. 5. Ampl. Collect. col. 328 : <quote xml:lang="lat">Eo tempore
+                <note>(ann. 1385.)</note> Rex Francorum accepit in conjugem filiam ducis Bavariæ,
+              juvenculam speciosam admodum et moribus ornatam, quam postmodum coronari fecit
+              Parisius, advocatis ab Avenione duobus Cardinalibus de obedientia Clementis. Et
+              imposuit Rex talliam magnam toti regno pro Cinctura Reginæ, velut ex antiqua
+              consuetudine fieri famabatur.</quote></add> Regestum Memorialium Cameræ
+          Comput. Paris. signatum E. fol. 217 : <quote xml:lang="lat">Zona Reginæ dicta, la taille du pin et du
+            vin, de tribus annis videlicet 600. ll. pro anno 1389.</quote> Meminit præterea ejusce
+          præstationis Arestum ann. 1415. quod describitur in 2. Regesto <hi rend="i">des Mestiers de
+          Paris</hi>, in Camera Comput. Paris. ex quo constat, de dicto subsidio 6. denarios <hi rend="i">pro
+            qualibet cauda vini</hi>, et 3. denarios Paris. <quote xml:lang="lat">pro quolibet modio seu poinsono vini
+            villam Parisiensem per aquam sive terram intrante exsolutas</quote>. Post hoc Arestum
+          subjungitur titulus ita conceptus : <quote xml:lang="fro">Taille du pain et du vin, dite la Ceinture la
+            Royne, qui se lieve de trois ans en trois ans, etc.</quote> Huc referenda, quæ habet
+          Eustathius in Iliad. pag. 258. edit. Rom.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZONA4">
+        <dictScrap xml:id="ZONA4-1"><form rend="b"><num>4.</num> ZONA</form>, Circuitus, ambitus. Reg. capit. Carnot. ad ann. 1518 : <quote xml:lang="lat">Ordinavit capitulum
+            quod domini operis..... faciant albo et nigro super telam depingi exemplaria imaginum in
+            Zona ecclesiæ ponendorum.</quote> Et ad ann. 1519 : <quote xml:lang="lat">Visis in capitulo duobus
+            exemplaribus....... pro perfectione Zonæ seu clausuræ chori, etc.</quote> Galli dicimus,
+            <hi rend="i">Le tour du chœur</hi>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZONA5">
+        <dictScrap xml:id="ZONA5-1"><form rend="b"><num>5.</num> ZONA <seg>de Spe</seg></form>, Ordo militaris a Carolo VI. ann. 1390. institutus Tolosæ in ecclesia
+          Carmelitarum, sub invocatione Virginis Mariæ de Spe. Quæ fuerit hujusce institutionis
+          causa et origo, videsis apud <hi rend="i">Vaissete</hi> tom. 4. Hist. Occit. pag. 396. et inter
+          Probat. col. 380.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZONARIA">
+        <dictScrap xml:id="ZONARIA-1"><form rend="b">ZONARIA</form>, Perperam pro <hi rend="i">Tonnaria</hi>, Vivarium, piscaria tynnorum. Vide <ref target="TUNNARIA">Tunnaria</ref>. Statuta Massil. lib. 6. cap. 17 : <quote xml:lang="lat">Statuimus
+            quod nemini liceat, piscem vel pisces emere in Massilia, vel ejus districtu de nocte vel
+            de die causa revendendi in Massilia, vel in territorio ejus, nisi essent tunni, locustæ,
+            seu qui caperentur in Zonaria, et pisces minuti.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZONATOR">
+        <dictScrap xml:id="ZONATOR-1"><form rend="b">ZONATOR</form>, <hi rend="i">Zonarum</hi> seu cingulorum <cb n="433c"/> artifex. Lit. remiss. ann. 1350. in
+          Reg. 80. Chartoph. reg. ch. 57 : <quote xml:lang="lat">Johannes de Floriaco pictor et Johannes de
+            Floriaco Zonator ejus frater.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZONCA">
+        <dictScrap xml:id="ZONCA-1"><form rend="b">ZONCA</form>, <form rend="sc">Zoncata</form>, Placentæ species. Joh. Demussis Chron. Placent. apud Murator.
+          tom. 16. col. 581 : <quote xml:lang="lat">Postea dant turtas et Zoncatas cum trazea zuchari desupra... et
+            aliqui loco turtarum et Zoncarum dant in principio prandii turtas, quas appellant turtas
+            factas de ovibus, et caxeo, et lacte, et zucharo.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZONCA-2"><form rend="sc">Zonchata</form>, Pari intellectu. Annal. Placent. ad ann. 1447. apud Murator. tom. 20. col. 891 :
+            <quote xml:lang="lat">Die 3. Junii duo ex stipendiariis Alexandri de regno Neapolitano ad domum de
+            Rocho propter Zonchatam ad arma venerunt.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZONCHARE">
+        <dictScrap xml:id="ZONCHARE-1"><form rend="b">ZONCHARE</form>, Cædere, forte <hi rend="i">Zocas</hi>, stipites, truncos eradicare. Stat. Vallis-Ser. cap.
+          67. ex Cod. reg. 4619. fol. 117. v° : <quote xml:lang="lat">Possint ire per totum montem...... ad
+            Zonchandum de lignis.</quote> Et cap. 92. fol. 124. r° : <quote xml:lang="lat">Non sit aliqua
+            persona....... quæ audeat... incidere.... sive Zonchare aliqua ligna in
+          nemoribus.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZONIA">
+        <dictScrap xml:id="ZONIA-1"><form rend="b">ZONIA</form>, <hi rend="i">Decoctio</hi>, in Gloss. ad Alex. Iatrosoph. MS. lib. 1. Passion. cap. 136 :
+            <gloss>Furfurum et caricarum <oVar>Zoniam</oVar> dabis ad gargarizandum.</gloss></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZONICA">
+        <dictScrap xml:id="ZONICA-1"><form rend="b">ZONICA</form>, <foreign xml:lang="fro">Trouce</foreign>. (Glos. Lat. Gal. Bibl. Insul. E 36, <num>xv.</num>
+            s.)</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZONOPELICIA">
+        <dictScrap xml:id="ZONOPELICIA-1"><form rend="b">ZONOPELICIA</form>, Vestis de pellibus facta. <persName type="author">Dief</persName>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZONOXALE">
+        <dictScrap xml:id="ZONOXALE-1"><form rend="b">ZONOXALE</form>, Armaturæ genus. Charta ann. 1370. apud Murator. tom. 2. Antiq. Ital. med. ævi
+          col. 535 : <quote xml:lang="lat">Et sit caporalis armatus a capite usque ad pedes ; et habeat equitatorem
+            unum armatum pancitono, capello, Zonoxalibus, etc.</quote> Ab Italico fortassis
+            <hi rend="i">Ginocchiello</hi>, genuale, quod genua defendat. Vide supra <ref target="GENUALIA">Genualia</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZOPULUS">
+        <dictScrap xml:id="ZOPULUS-1"><form rend="b">ZOPULUS</form>. Laur. Byzynius in Diario belli Hussit. apud Ludewig. tom. 6. Reliq. MSS. pag.
+          168 : <quote xml:lang="lat">Multotiens enim quinque aut decem ex Pragensibus solum Zopulis induti magnam
+            multitudinem armatorum fugabant.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOQUERIUS">
+        <dictScrap xml:id="ZOQUERIUS-1"><form rend="b">ZOQUERIUS</form>, <hi rend="i">Zocholarum</hi> artifex. Stat. Avenion. ann. 1243. cap. 129. ex Cod. reg.
+          4659 : <quote xml:lang="lat">Statuimus quod de calopedibus sive soccis clavi pedum sint ultrerii et
+            integri, et teneantur Zoquerii dicere ementibus, interrogantibus vel non, quod pata est
+            corii veteris vel novi.</quote> Vide <ref target="ZOCHOLAE">Zocholæ</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZORA">
+        <dictScrap xml:id="ZORA-1"><form rend="b">ZORA</form>, Sorbum, Gall. <foreign xml:lang="fro">Corme</foreign>. Synodus Limensis ann. 1604. inter Concil. Hispan.
+          tom. 4. pag. 761 : <quote xml:lang="lat">Item reservamus nobis absolutionem Hispanorum qui vendiderint
+            chicha solius Zoræ, vel mistam yuca.</quote> Vide supra <ref target="SORA">Sora</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZOSTRA">
+        <dictScrap xml:id="ZOSTRA-1"><form rend="b">ZOSTRA</form>, Italis <foreign xml:lang="ita">Giostra</foreign>, Monomachia ludicra, idem quod <ref target="IUSTA1">Justa
+            1.</ref> Vide in hac voce. Chron. Andreæ Danduli apud Murator. tom. 12. col. 492 :
+            <quote xml:lang="lat">Quod mandatum fiat domino Peregrino de Partis et domino Bajamonti Teupulo, quod
+            non faciant simul Zostram in hac terra, nec in districtu Venetiarum.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOTHECA">
+        <dictScrap xml:id="ZOTHECA-1"><form rend="b">ZOTHECA</form>, Atticis <foreign xml:lang="grc">Ζωθήϰη</foreign>, quasi <foreign xml:lang="grc">ζωοθήϰη</foreign>, Cella, in qua saginantur viva animalia, ut turdi, gallinæ et alia :
+            <foreign xml:lang="grc">ὀρνιθοτροφεῖον.</foreign> Ita Salmasius ad Solinum. Vetus
+          Inscriptio : <quote xml:lang="lat">S. Sulpitius Trophimus ædem, Zothecam, culinam, pecunia sua a solo
+            restituit, <add rend="benedictin">K. Decembr. L. Turpilio Dexro M. Mœcio
+              Rufo Cos. id est, anno Christi 225.</add></quote> Postea
+          <oVar>zothecam</oVar> pro quolibet <foreign xml:lang="grc">οἰϰίσϰῳ</foreign>, et parvo
+          conclavi usurparunt. <add rend="henschel">Vide
+              Forcellin.</add></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZOTHECA-2"><form rend="sc">Zothecula</form>, diminut. a <hi rend="i">Zotheca</hi>. Sidonius lib. 8. Epist. 16 : <quote xml:lang="lat">Per armariola et
+            Zotheculas nostras non remanserunt digna prolatu.</quote> Et lib. 9. Epist. 11 :
+              <quote xml:lang="lat">Tamdiu<pb n="434"/>
+            <cb n="434a"/> potes uti libello, ut eum non amplius Zothecula tua, quam memoria
+            includat.</quote> Vide ibi Notas Sirmondi.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZOUGENZUHT">
+        <dictScrap xml:id="ZOUGENZUHT-1"><form rend="b">ZOUGENZUHT</form>. Decretum Tassilonis de Legibus popularibus cap. 13 : <quote xml:lang="lat">Qui furtivum, quod
+            Zougenzuht dicitur, super furem comprobaverit, furtivo componat more. Suht,</quote>
+          inquit Lindenbrogius, <hi rend="i">scrutinium</hi> notat, quid <hi rend="i">zougen</hi>, non liquet. <add rend="benedictin"><hi rend="i">Zougenzuht</hi>, vel <hi rend="i">Zougenzunt</hi> est Testium
+            productio. <hi rend="i">Zeugenziehen</hi>, interprete Schiltero in Gloss. Teuton.</add>
+          <add rend="henschel">Vide Graff. Thesaur. Ling. Franc.
+            tom. 5. col. 617.</add></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZOZENGA">
+        <dictScrap xml:id="ZOZENGA-1"><form rend="b">ZOZENGA</form>, Offæ species, Consuet. MSS. S. Crucis Burdeg. ante ann. 1305 : <quote xml:lang="lat">Dat
+            piscionarius..... offas factas de astes de porc, nuncupatæ vulgariter Zozenga... Similes
+            offas dat cellerarius, quando facit infirmarias suas.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZRZEBCA">
+        <dictScrap xml:id="ZRZEBCA-1"><form rend="b">ZRZEBCA</form>, Polonica vox. Stat. Casimiri ann. 1347. inter Leg. Polon. tom. 1. pag. 46 :
+            <quote xml:lang="lat">Ubi vero tertii, quarti vel quinti anni poledrum, vulgariter Zrzebca, occiderit,
+            etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUANUS">
+        <dictScrap xml:id="ZUANUS-1"><form rend="b">ZUANUS</form>, Mensuræ species. Charta Andreæ Reg. Hungar. ann. 1233. apud Cencium inter Census
+          Eccles. Rom. : <quote xml:lang="lat">Pro salibus vero terrestribus dabimus unam marcham pro centum
+            Zuanis..... Ecclesiæ vero retinebunt de salibus suis ad usus suos hoc modo : abbacia de
+            Egris tres timinos ; Præpositus Orodiensis cum capitulo suo duo millia lapidum,
+            monasterium S. Gothardi duo milia et quingentos Zuanos.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUBER">
+        <dictScrap xml:id="ZUBER-1"><form rend="b">ZUBER</form>, Vas vinarium ligneum majus. <cit><bibl>S. Wilhelmi Constit. Hirsaug. lib. 1. cap.
+              15</bibl><lbl> : </lbl><quote xml:lang="lat">Pro signo vasis vinarii, quod a plebe Zuber nuncupatur, generali
+              præmisso, rursum indicem utrumque supradicto modo incurva, quod commune est omnium
+              vasorum, quæ binas aures habere videntur, signumque vini ad ultimum adde.</quote></cit>
+          <add rend="henschel">Vide Graff. Thesaur. Ling. Franc.
+            tom. 3. col. 149. voce <foreign xml:lang="fro">Zuibar</foreign>.</add></dictScrap>
+      </entry>
+      <entry rend="henschel" xml:id="ZUCANISTRIUM">
+        <dictScrap xml:id="ZUCANISTRIUM-1"><form rend="b">ZUCANISTRIUM</form>, Gr. <foreign xml:lang="grc">Σζυϰανιστήριον</foreign>, Locus Constantinopoli in
+          quo pilas ludebant in equis, apud Luitprand. Antapod. lib. 5. cap. 21. Vide Glossar. med.
+          Græcit. col. 1576.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUCARA">
+        <dictScrap xml:id="ZUCARA-1"><form rend="b">ZUCARA</form>, Saccharum, Gallice <hi rend="i">Sucre</hi>, in Litteris Philippi Pulchri Reg. Franc. ann.
+          1304. tom. 1. Ordinat. pag. 422. Vita B. Lidwinæ tom. 2. April. pag. 274 : <quote xml:lang="lat">Interdum
+            sumebat modicum Zucaræ vel cynnamomi.</quote> Limborchius Sent. Inquisit. Tolos. pag.
+          173 : <quote xml:lang="lat">Bibebat aquam cum Zucara quam ipsa ministrabat.</quote> Vide <ref target="ZUCCURA">Zuccura</ref> et <ref target="ZUCRUM">Zucrum</ref>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUCARA-2"><form rend="sc">Zuccarum</form>, Eadem notione. Comput. ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag.
+          278 : <quote xml:lang="lat">De Zuccaro albo libras 12. taren. 11.</quote> Adde Statuta urbis Saonæ.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUCARA-3"><form rend="sc">Zuchar</form>, <form rend="sc">Zucharum</form>, Pari intellectu. Leges palat. Jacobi II. Reg. Majoric. inter
+          Acta SS. tom. 3. Jun. pag. <num>xx</num> : <quote xml:lang="lat">In dicto reservatorio rerum infra
+            scriptarum copia inveniatur, videlicet Zucharis, ziziberi, et aliarum specierum
+            tritarum.</quote> Bern. Thesaurar. de Acquisitione T. S. apud Murator. tom. 7. col.
+          759 : <quote xml:lang="lat">Horti in quibus oriuntur cannamellæ, ex quibus nascitur Zucharum.</quote>
+          Vide in <ref target="CANAMELLAE">Canamellæ</ref>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUCARA-4"><form rend="sc">Zucaratus</form>, Saccharo mixtus. Processus de B. Petro de Luxemburgo tom. 1. Jul. pag. 593 :
+            <quote xml:lang="lat">Excepto quod ponebatur sibi cum pluma aqua Zucarata in ore.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUCCA">
+        <dictScrap xml:id="ZUCCA-1"><form rend="b">ZUCCA</form>. Inquisitio ann. 1196. apud Cencium inter Census Eccl. Rom. : <quote xml:lang="lat">Item dixit
+            quod campum zabulinum... est inter viam Guidonis monaci et Zuccam.</quote> Italis
+            <foreign xml:lang="ita">Zucca</foreign> est cucurbita, Gall. <foreign xml:lang="fro">Citrouille</foreign>. <cb n="434b"/></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZUCCURA">
+        <dictScrap xml:id="ZUCCURA-1"><form rend="b">ZUCCURA</form>, Saccharum, Ital. <foreign xml:lang="ita">Zucchero</foreign>. Vita S. Elzear. tom. 7. Sept. pag. 584. col.
+          2 : <quote xml:lang="lat">Unde retulit semel suæ sanctæ consorti, quod, cum Corpus Christi sumeret,
+            videbatur sibi in sapore, quod optimam Zuccuram deglutiret.</quote> Vide <ref target="ZUCARA">Zucara</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZUCHARUM">
+        <dictScrap xml:id="ZUCHARUM-1"><form rend="b">ZUCHARUM</form>. Zaccharum : <cit><quote xml:lang="lat">Cum pulvis et
+              <oVar>Zuchari</oVar> Sicilie non habeant mutam, sed veniant quocumque tempore, et
+                <oVar>Zuchari</oVar> levantis non, et bonum sit omnes <oVar>Zuchari</oVar> tractare
+              equaliter, vadit pars quod pulvis et <oVar>Zuchari</oVar> levantis, ab hoc anno in
+              antea, non sint subjecti alicui mute, sed conduci et venire possint, quocumque
+              tempore, ut possunt <oVar>Zuchari</oVar> Sicilie.</quote> <bibl>Venise
+                <title>Senato. Misti.</title>
+              <num>lvii</num>, f. 1475, an. 1429.</bibl></cit></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZUCHEUS">
+        <dictScrap xml:id="ZUCHEUS-1"><form rend="b">ZUCHEUS</form>, Stipes siccus et aridus, Italis <foreign xml:lang="ita">zocco</foreign>. Charta Edw. III. Reg. ann. 4. apud
+          Spelm. : <quote xml:lang="lat">Rex....... quia non est ad damnum,....... si concedamus Ricardo de Strelly
+            omnes Zucheos aridos, qui Anglice vocantur Stovene, infra hayam nostram de Breskewode,
+            quæ est infra forestam nostram de Shirewode, etc.</quote> Alia ejusdem Regis ann. 22 :
+            <quote xml:lang="lat">Rex concessit Thomæ de Colvile omnes Zucheos aridos, stubbes, arborum succisorum
+            in foresta de Galtres, ibidem capiendos per visum..... custodum forestæ ultra
+          Trentam.</quote> Vide <hi rend="i">Zoccus</hi>.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUCHEUS-2"><form rend="sc">Zuchus</form>, <form rend="sc">Zucus</form>, Eodem sensu. Charta ann. 4. Henrici III. Reg. apud Th.
+          <hi rend="i">Blount</hi> in Nomolex. : <quote xml:lang="lat">Auxilium faciendum burgensibus Salop. de veteris Zuchis
+            et de mortuo bosco, etc.</quote> Statuta Montis Regal. fol. 251 : <quote xml:lang="lat">Teneantur
+            auferre omnes trabes et Zucos ibi positos in bealeriis prædictis, sub pœna
+          juramenti.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUCRUM">
+        <dictScrap xml:id="ZUCRUM-1"><form rend="b">ZUCRUM</form>, <form rend="sc">Zucurium</form>, Saccharum. Charta ann. 1393. apud Rymer. tom. 7. pag. 745 :
+            <quote xml:lang="lat">Centum triginta et duas libras de Zucurio, etc.</quote> Locus alter exstat in
+            <hi rend="i">Canamellæ</hi>. Vide <ref target="ZUCARA">Zucara</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUCUS">
+        <dictScrap xml:id="ZUCUS-1"><form rend="b">ZUCUS</form>, ut <hi rend="i">Zucheus</hi>. Vide in hac voce.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZUDA1">
+        <dictScrap xml:id="ZUDA1-1"><form rend="b"><num>1.</num> ZUDA</form>, Castellum. Charta Raymundi Comit. Barcinon. et Aragonum Princip. ann. 10. Regni
+          Leovici Senioris : <quote xml:lang="lat">Dono tibi fideli meo Guillelmo Raimundo Dapifero urbem Tortosam,
+            ut tu teneas ipsam Zudam, et habeas senioraticum de ipsa civitate et de ipsa villa, etc.</quote>
+          <add rend="benedictin">Charta ann. 1165. in Append. ad Marcam Hispan. col.
+            1342 : <quote xml:lang="lat">In primis conquestus est de Guillelmo Raimundi quod ei Zudam Dertosa non
+              custodiebat sicut in carta suæ donationis resonabat... Visa igitur carta ac perlecta,
+              judicavit Barchinonensis curia quod ipsam Zudam procul dubio guardare ac custodire
+              debebat...... Tenere autem Zudam, hoc est potestatem de ipsa habere, ita ut per eam
+              possit totam civitatem distringere, et quotiescumque Comes, qui eam sibi donaverat,
+              ipsam requisierit, libere possit eam reddere.</quote></add></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZUDA2">
+        <dictScrap xml:id="ZUDA2-1"><form rend="b"><num>2.</num> ZUDA</form>, Tribunal, forte quod intra castellum sedebat, vel in loco, qui vallo vel sudibus
+          claudebatur, sic dictum. Vide <ref target="SUDA">Suda</ref>. Charta Joan. reg. Bohem. ann.
+          1336. inter Probat. tom. 1. Annal. Præmonst. col. 525 : <quote xml:lang="lat">Quod ipsum monasterium et
+            homines ipsorum, bonorum occasione eorum non possint nec debeant trahi ad judicia vel
+            Zudas terrestria, seu etiam provincialia quoquo modo.</quote> Hinc</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZUDARIUS">
+        <dictScrap xml:id="ZUDARIUS-1"><form rend="b">ZUDARIUS</form>, Hujus tribunalis judex, vel Castellanus. Charta Caroli IV. imper. ann. 1358.
+          ibid. col. 526 : <quote xml:lang="lat">Incolas omnium bonorum præfati Doxanensis monasterii a
+            jurisdictione et judiciis quorumlibet extraneorum secularium judicum, Zudariorum,
+            beneficiariorum et officialium Pragensium....... eximimus.</quote> Vide <ref target="ZUDA1">Zuda 1.</ref> et in <ref target="ZUPA1">Zupa</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUDULWEDEN">
+        <dictScrap xml:id="ZUDULWEDEN-1"><form rend="b">ZUDULWEDEN</form>. Vide <hi rend="i">Zildelweida</hi>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZUETA">
+        <dictScrap xml:id="ZUETA-1"><form rend="b">ZUETA</form>, inter aves nocturnas recensetur,<cb n="434c"/> in Dialogo creaturarum dial. 82.
+          forte a Gallico <foreign xml:lang="fro">Chouette</foreign>, monedula.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUFFERANA">
+        <dictScrap xml:id="ZUFFERANA-1"><form rend="b">ZUFFERANA</form>, Crocus, Italis <foreign xml:lang="ita">Zafferano</foreign>. Vide <ref target="ZAFFRAMEN">Zafframen</ref>.
+          Comput. ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag. 284 : <quote xml:lang="lat">Una libra cum
+            dimidio de Zufferana, una libra de gariofolio, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUFFUS">
+        <dictScrap xml:id="ZUFFUS-1"><form rend="b">ZUFFUS</form>, ab Italico <hi rend="i">Zuffo</hi>, Gall. <foreign xml:lang="fro">Toupet</foreign>, Cirrus. Joh. de Bazano in Chron.
+          Mutin. apud Murator. tom. 15. col. 606 : <quote xml:lang="lat">Venit Mutinam quidam Franciscus de Castro
+            Montagnæ cum quodam mirabili animali, quod appellabatur Tassi Barbarinum,...
+            habebat..... Zuffum a latere superiori ad modum barbæ caprinæ, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUGLARESIUS">
+        <dictScrap xml:id="ZUGLARESIUS-1"><form rend="b">ZUGLARESIUS</form>, <form rend="sc">Zuglarius</form>, <form rend="sc">Zuglarissa</form>, Mimus, scurra, joculator, ut opinor, ab
+          Italico <hi rend="i">Giullaro</hi>. Statuta Vercell. lib. 3. fol. 84. v° : <quote xml:lang="lat">Quod bannum sit
+            cuilibet bibenti et comedenti duplicatum post ultimum sonum campanæ custodiam noctis :
+            exceptis tamen Zuglariis et Zuglaresiis, preconizatoribus et aliis personis quibus dono
+            datum fuerit sine fraude.</quote> Ibidem fol. 96. v° : <quote xml:lang="lat">Item quod nullus de
+            civitate Vercellarum, vel districtu livret aliquem Zuglarium, vel aliquem hominem de
+            curte, vel Zuglarissam in aliqua curia, vel nuptiis, vel in aliquo convivio, vel
+          festo.</quote> Rursum lib. 7. fol. 147 : <quote xml:lang="lat">Item quod nullus Zuglarius vel Zuglarissa
+            non habens salarium a communi Vercellarum ponatur in extimo communis Vercellarum nec
+            fodrum, taleam, vel cavalariciam persolvat.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUMALZISIUS">
+        <dictScrap xml:id="ZUMALZISIUS-1"><form rend="b">ZUMALZISIUS</form>, Mulus. Vide <ref target="AZEMILA">Azemila</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZUNFTA">
+        <dictScrap xml:id="ZUNFTA-1"><form rend="b">ZUNFTA</form>, <add rend="benedictin"><mentioned rend="sc">Zunffta</mentioned>, Cœtus, conventus ad
+            tractanda negotia, Germ. <hi rend="i">Zunfft</hi>, idem quod alibi <ref target="IUNCTA1-4">Juncta</ref>.
+            Vide in hac voce. Chron. Wormat. ad ann. 1424. apud Ludewig. tom. 2. Reliq. MSS. pag.
+            152 : <quote xml:lang="lat">Dominica die sequenti duo magistri civium hanc litteram Ruperti Regis
+              legent in singulis Zunfftis civitatis.</quote></add> Albertus
+          Argentinensis in Chron. pag. 113 : <quote xml:lang="lat">Hic ordinavit, quod cum uno anno Basileæ
+            Psittacus esset Magister civium, eodem anno Stellifer esset Zunftarum magister,
+          etc.</quote> Occurrit ibi rursum. <add rend="henschel">Vide Graff. Thesaur. Ling. Franc. tom. 5. col. 666. voce <foreign xml:lang="gmh">Zumft</foreign>.</add></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZUPA1">
+        <dictScrap xml:id="ZUPA1-1"><form rend="b">ZUPA</form>, <form rend="sc">Zuppa</form>, <form rend="sc">Jupa</form>, <form rend="sc">Juppa</form>, dicitur hodie apud Croatos et
+          Dalmatas, Regio aliqua habitata, vel ejusdem regionis homines congregati. Charta Cresimiri
+          Regis Croatiæ et Dalmatiæ ann. 1071. apud Joan. Lucium lib. 3. cap. 12 :
+            <quote xml:lang="lat">Volumus,....... ut dicta Ecclesia habeat suas parochias, scilicet Juppam, quæ
+            fuit sub Alpibus a castro... Murula, etc.</quote> Et infra : <quote xml:lang="lat">Dedimus Episcopo
+            Novensi Juppam Licchæ, Juppam Buchani, etc.</quote> Alia Suinimiri Regis ann. 1078. apud
+          eumdem Lucium cap. 15 : <quote xml:lang="lat">Juppam eam, quam Centenam aiunt.</quote> Croatia vero et
+          aliæ Slavorum provinciæ in <hi rend="i">Zupanias</hi> distinguntur, quibus, qui præsunt,
+          <hi rend="i">Zupani</hi> dicti. <add rend="henschel">Vide Haltaus.
+            Glossar. German. voce <foreign xml:lang="gmh">Saup</foreign>, et seq. col.
+            1596.</add></dictScrap>
+        <dictScrap xml:id="ZUPA1-2"><form rend="sc">Jupa</form>, Idem quod <oVar>Zupa</oVar> : <hi rend="i">Jupania</hi>, ut <hi rend="i">zupania</hi>. Thomas
+          Archidiac. in Hist. Salonit. cap. 15 : <quote xml:lang="lat">Castrum Sibinicense cum tota sua
+          Jupa.</quote> Occurrit etiam non semel in Charta Calomani Regis Hungariæ anni 1111. apud
+          Lucium ad Vitam S. Joan. Episcopi Traguriensis.</dictScrap>
+        <dictScrap xml:id="ZUPA1-3"><form rend="sc">Zupanus</form>, Regionis præpositus, <foreign xml:lang="grc">ζουπάνος</foreign> Græcis
+          Scriptoribus : vox hac notione familiaris Sclavonicis populis, ut auctor est Constantinus
+          de Administr. Imp. cap. 29. quod etiam firmat Innocentius III. PP. lib. 2. Epistolarum
+          pag. 577. edit. Venetæ, <hi rend="i">Zupanos</hi> vero Comitum vicem obtinuisse auctor est Presbyter
+          Diocleates in Hist. Dalmat. ut <pb n="435"/>
+          <cb n="435a"/>
+          <hi rend="i">Banos</hi> Ducum ; quo loco <hi rend="i">Comites</hi> intelligit urbium aut regionum Præfectos, qui
+          pro arbitratu Principis mittebantur, quo urbes aut regiones regerent. Hos autem ad omne
+          Concilium vocatos, simulque cum Ducibus, deinde Regibus, jus deliberandi vel consulendi
+          habuisse, ex veteribus Tabulis tradit Joan. Lucius lib. 2. de Regno Dalmat. cap. 15. unde
+          idem lib. 6. cap. 1. scribit, <hi rend="i">Zupanos</hi> loco Comitum nominari in antiquis Chartis. At
+          postquam Croatia et Dalmatia in jura Hungaricorum Regum concesserunt, Zupanorum
+          jurisdictiones Comitibus attributæ sunt, atque inde Zupanorum viluit appellatio, quæ
+          minoribus Præfectis concessa deinceps legitur, vel etiam Judicibus.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUPA1-4"><form rend="sc">Jupanus</form>, in Charta ann. 1171. tom. 1. Corp. Diplom. pag. 89. col. 1 : <quote xml:lang="lat">Si eorum
+            Jupanus aut judex nobis rectum judicium non judicaverit, sive justitiam non fecerit,
+            etc.</quote></dictScrap>
+        <dictScrap xml:id="ZUPA1-5"><form rend="sc">Supani</form> præsertim appellati Serviæ Principes, <foreign xml:lang="grc">Ζουπάνοι</foreign>
+          Nicetæ in Isaacio lib. 3. n. 4. Willelmus Tyrius lib. 20. cap. 4. de Serviis : <quote xml:lang="lat">Hi
+            Magistratus habent, quos Suppanos vocant.</quote>
+          <foreign xml:lang="grc">Ζουπάνοι γέροντες</foreign> Constantino de administrando Imperio
+          cap. 29. <foreign xml:lang="grc">Ἐϰϰρίτοι τῶν Ζουπάνων</foreign>, Annæ Comnenæ lib. 9.
+          Alexiados pag. 265 : <foreign xml:lang="grc">Ἀρχιζουπάνοι τῶν Σερϐίων</foreign>, Cinnamo,
+          et aliis. Iidem et</dictScrap>
+        <dictScrap xml:id="ZUPA1-6"><form rend="sc">Megajupani</form>, dicti, in Actis Innocentii III. PP. pag. 65. ex quibus emendanda eadem Acta pag.
+          68. ubi perperam editum <hi rend="i">Magnippanus Serviæ</hi>, nisi legendum sit <hi rend="i">Magnus
+          Jupanus</hi>. Stephani Regis Serviæ sigillum apud Jo. Lucium lib. 5. de Regno Dalmat. pag.
+          256 : <quote xml:lang="grc">Σφραγὶς Στεφάνου Μεγάλου Ζουπάνου Νεμανία,</quote> id est,
+            <hi rend="i">Stephani Nemanis Magni Zupani sigillum</hi>. Idem Stephanus <hi rend="i">Megajupanus</hi> dicitur
+          Thomæ Archid. in Histor. Salonitana cap. 26 : <quote xml:lang="lat">Stephanus Dominus Serviæ, sive
+            Rasciæ, qui Megajuppanus appellabatur. <foreign xml:lang="grc">Ἀρχιζούπανος</foreign>,</quote> Nicetæ in Manuele lib. 2. num. 7.</dictScrap>
+        <dictScrap xml:id="ZUPA1-7">Neque apud Dalmatas et Servios tantum hæc dignitas obtinuit ;
+          sed et apud Hungaros, quibus ita appellati, quibus proxima a Rege potestas erat, ut auctor
+          est Cinnamus lib. 6. cap. 4. qui Hungaricorum <foreign xml:lang="grc">Ζουπάνων</foreign>
+          præterea meminit lib. 5. cap. 20. et alibi.</dictScrap>
+        <dictScrap xml:id="ZUPA1-8"><hi rend="i">Supanos</hi>, vel <hi rend="i">Sopanos</hi>, etiam habuere Bohemi, ut est
+          apud Godefridum Monachum S. Pantaleonis anno 1212. et in Historia Australi ann. 1285. et
+          1290. <cb n="435b"/> Vide Chronicon Montis-Sereni ann. 1109. et Notas nostras ad Alexiadem
+          pag. 347.</dictScrap>
+        <dictScrap xml:id="ZUPA1-9"><form rend="sc">Postzupani</form>, Zupanorum substituti, Vicarii, vel vicem gerentes. Vide Joannem Lucium pag. 96.
+          97. 132.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUPARELLUS">
+        <dictScrap xml:id="ZUPARELLUS-1"><form rend="b">ZUPARELLUS</form>, <form rend="sc">Zuponarius</form>. Vide <ref target="ZUPA2">Zuppa 2</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZUPPA">
+        <dictScrap xml:id="ZUPPA-1"><form rend="b"><num>1.</num> ZUPPA <seg>Salis</seg></form>, Fodina salis. Joh. Longinus in Vita B. Kingæ tom. 5. Jul. pag. 743 :
+            <quote xml:lang="lat">Montes salinos seu Zuppas salis .... cum incendisset ignis, latiusque manans
+            incendium, singulas cameras montium irremediabiliter torreret.</quote> Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUPPA-2"><form rend="sc">Zupparius</form>, Ejusmodi <hi rend="i">zupparum</hi> præfectus, ibidem pag. 745. Charta Uladislai Reg.
+          Poloniæ ann. 1413. in Append. ad Bullar. Carmelit. pag. 617 : <quote xml:lang="lat">Fratribus monasterii
+            prædicti de viginti marcis annui salarii, in Zuppis nostris Bochnensibus et
+            Wieliciensibus, salis providimus, et providemus tenore præsentium mediante, mandantes
+            tibi Petro Pykarano moderno et aliis, qui pro tempore prædicti salis fuerint Zupparii,
+            quatenus, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZUPA2">
+        <dictScrap xml:id="ZUPA2-1"><form rend="b"><num>2.</num> ZUPA</form>, Sagum militare, ex Gallico <foreign xml:lang="fro">Juppe</foreign>. Sanutus lib. 2. part. 4. cap. 8 :
+            <quote xml:lang="lat">Est necessarium, quod quilibet homo armatæ prædictæ habeat Zuppam unam aptam et
+            dextram protinus ad ferendum.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUPA2-2"><form rend="sc">Zuppa</form>, Italis <foreign xml:lang="ita">Giubba</foreign>, Tunica. Statuta Placent. lib. 6. fol. 81 : <quote xml:lang="lat">Item de
+            aliqua Zuppa ab homine cusita per longum sive traversum cum reppo <num>x.</num>
+          sol.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUPA2-3"><form rend="sc">Zuparellus</form>, Italis <foreign xml:lang="ita">Giubberello</foreign>, diminut. a <hi rend="i">Zuppa</hi>. Joh. Demussis Chron. Placent.
+          apud Murator. tom. 16. col. 581 : <quote xml:lang="lat">Salvo quod portant caligas de panno sic longas
+            ligatas in quinque partibus ad Zuparellos curtos et strictos, quos portant de subtus
+            alia indumenta, quæ cooperiunt totas nates, membrum et genitalia cum dictis
+          caligis.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZUPA2-4"><form rend="sc">Zuponarius</form>, <hi rend="i">Giuponaro</hi> Italis, Ejusmodi vestium sarcinator. Statuta criminalia Riperiæ
+          cap. 126. fol. 19. v° : <quote xml:lang="lat">Idem intelligatur de quolibet pilipario, seu strazarolo,
+            vel Zuponario circa prædicta delinquente.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZURA">
+        <dictScrap xml:id="ZURA-1"><form rend="b">ZURA</form>, Confœderatio, conjuratio, <hi rend="i">Giura</hi>, eadem notione dicunt Itali. Statuta
+          Vercell. lib. 4. fol. 68 : <quote xml:lang="lat">Item quod nulla societas, conspiratio seu monopolium,
+            sive Zura aliquo modo vel ingenio fiat, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZURAME">
+        <dictScrap xml:id="ZURAME-1"><form rend="b">ZURAME</form>. Charta Alfonsi III. Regis Portugalliæ ann. 1289 : <quote xml:lang="lat">Quicumque acceperit
+            alicui cappam, Zurame, pellem, aut aliquam vestem, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZURB">
+        <dictScrap xml:id="ZURB-1"><form rend="b">ZURB</form>, seu <form rend="sc">Zurba</form>, <hi rend="i">Cespes, terra avulsa</hi>, <cb n="435c"/> in Gloss.
+          Latino-Theotisco. Unde cespites ignei <hi rend="i">turbes</hi>, vel <hi rend="i">tourbes</hi>. Lex Alamannorum
+          tit. 84 : <quote xml:lang="lat">Tollat de ipsa terra, quod Alamanni Zurb dicunt.</quote> Alii Codd.
+          habent <hi rend="i">zturf</hi>, alii <hi rend="i">curffodi</hi>. <add rend="henschel">Vide Graff. Thesaur. Ling. Franc. tom. 5. col.
+        706.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZURGIARE">
+        <dictScrap xml:id="ZURGIARE-1"><form rend="b">ZURGIARE</form>, Mulorum clamor. Vide <ref target="BAULARE">Baulare</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZURRA">
+        <dictScrap xml:id="ZURRA-1"><form rend="b">ZURRA</form>, vel <form rend="sc">Zurrus</form>, Ogerii Panis Annal. Genuens. ad ann. 1204. apud Murator.
+          tom. 6. col. 389 : <quote xml:lang="lat">Navis quæ vocabatur Regina, et navis quæ vocabatur Dulcis
+            fortuito casu ipso die naufragium passæ fuerunt.... ultra ballas <num>cccl.</num>
+            pannorum et baldinellarum invenerunt, et de Zurris piperis et lanæ, atque saccis
+            bombaciis maximam quantitatem.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZUZUM">
+        <dictScrap xml:id="ZUZUM-1"><form rend="b">ZUZUM</form>, Deorsum, Ital. <foreign xml:lang="ita">Giuso</foreign>. Charta ann. 1228. apud Murator. tom. 2. Antiq. Ital.
+          med. ævi col. 29 : <quote xml:lang="lat">Quod Francigena undecumque veniat sive de Zuzum, sive de sursum,
+            cum quacumque negotiatione in suo adventu quocumque veniat aut vadat, solvat de avere a
+            soma superius.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="ZWOD">
+        <dictScrap xml:id="ZWOD-1"><form rend="b">ZWOD</form>, Tributi species apud Bohemos. Occurrit in Charta Ottocari Regis anno 1221. in
+          Bohemia pia lib. 6. pag. 88.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZWYNANCIA">
+        <dictScrap xml:id="ZWYNANCIA-1"><form rend="b">ZWYNANCIA</form>, Angina, Gall. <foreign xml:lang="fro">Esquinancie</foreign>. <cit>
+            <bibl>Buschius de Reformat. Monast. apud Leibnit. tom. 2. Script. Brunsvic.</bibl>
+            <quote xml:lang="lat">Tandem in quandam incidit infirmitatem quam Zwynanciam vocamus, etc.</quote>
+          </cit></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZYGARUS">
+        <dictScrap xml:id="ZYGARUS-1"><form rend="b">ZYGARUS</form>. Advena, avicula. <persName type="author">Dief</persName>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZYGENI">
+        <dictScrap xml:id="ZYGENI-1"><form rend="b">ZYGENI</form>. Vide supra <ref target="ZIGEUNI">Zigeuni</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="ZYGOSTATES">
+        <dictScrap xml:id="ZYGOSTATES-1"><form rend="b">ZYGOSTATES</form>, Magistratus per singulas civitates a Juliano constitutus, qui exortas de solidis
+          controversias dirimeret, in Cod. Theod. l. 2. de ponderat. (12,7.) Gloss. Gr. Lat. :
+            <foreign xml:lang="grc">Ζυγοστάτης</foreign>, <hi rend="i">Libripendens, ponderator</hi>. Alius
+          ejusdem nominis exstitit Alexandriæ, qui admittendo frumento Alexandriam convecto præerat,
+          de quo in leg. 1. de frum. Alexandr. (14,26.) Vide Gothofredum.</dictScrap>
+        <dictScrap rend="benedictin" xml:id="ZYGOSTATES-2"><form rend="sc">Zygostasium</form>, <hi rend="i">Zygostatæ</hi> munus, ibidem.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="ZYMA">
+        <dictScrap xml:id="ZYMA-1"><form rend="b">ZYMA</form>. Fermentum, peccatum, locus secretus.
+        <persName type="author">Dief</persName>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZYTHEPSA">
+        <dictScrap xml:id="ZYTHEPSA-1"><form rend="b">ZYTHEPSA</form>, Cerevisiæ coctor a <hi rend="i">Zythum</hi>, cerevisia, et <foreign xml:lang="grc">πέπτω</foreign>, coquo, ut notant docti Editores ad Mirac. S. Magni tom. 2. Sept. pag.
+          764. col. 2 : <quote xml:lang="lat">Vilsii quædam Maria Ostlerin, ancilla Johannis Hoss Zythepsæ
+          fuit.</quote> Hinc</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="ZYTHOPOEIA">
+        <dictScrap xml:id="ZYTHOPOEIA-1"><form rend="b">ZYTHOPŒIA</form>, Officina cerevisiaria, ibid. pag. 766. col. 2 : <quote xml:lang="lat">Ac deinde Zythopœiæ
+            admotus, in tollendis portandisque oneribus, corporis viribus strenue uteretur,
+          etc.</quote></dictScrap>
+      </entry>
+    </body>
+  </text>
+</TEI>

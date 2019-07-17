@@ -1,0 +1,30 @@
+{
+  "mappings": {
+    "_meta": {
+      "_xpaths": {
+        "fields": {
+          "[ref_cRef]": ".//tei:ref/@cRef",
+          "[ref_target]": ".//tei:ref/@target",
+          "[rend_sc]": "./tei:dictScrap/tei:form[@rend='sc']",
+          "rend_b": "./tei:dictScrap/tei:form[@rend='b']"
+        },
+        "id": "./@xml:id",
+        "root": "//tei:entry"
+      }
+    },
+    "properties": {
+      "ref_cRef": {
+        "type": "keyword"
+      },
+      "ref_target": {
+        "type": "keyword"
+      },
+      "rend_b": {
+        "type": "text"
+      },
+      "rend_sc": {
+        "type": "text"
+      }
+    }
+  }
+}

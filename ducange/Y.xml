@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="ducange.rng" type="xml"?><?xml-stylesheet type="text/css" href="ducange_tei.css" title="editor"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossarium mediæ et infimæ latinitatis.</title>
+        <principal xml:id="AGJ">Anita Guerreau-Jalabert</principal>
+        <funder>2007-..., École nationale des chartes</funder>
+        <funder>2009-2012, Agence nationale de la recherche, ANR OMNIA</funder>
+        <funder>2008, TGE Adonis (CNRS), CRN TELMA</funder>
+        <respStmt>
+          <resp>2007/04—2010, spécifications, suivi de numérisation, balisage, exploitations applicatives et linguistiques</resp>
+          <name xml:id="FG" ref="frederic.glorieux@enc.sorbonne.fr">Frédéric Glorieux (École nationale des chartes)</name>
+        </respStmt>
+        <respStmt>
+          <resp>2007—2009, numérisation typographique</resp>
+          <name xml:id="DM" ref="dmunteanu@jouve.fr">Dana Munteanu (Société Jouve)</name>
+        </respStmt>
+        <respStmt>
+          <resp>2008/11—2009/02, corrections (unclear, doutes Jouve, validité)</resp>
+          <name xml:id="BS" ref="benoit.simonian@enc.sorbonne.fr">Benoît Simonian (École nationale des chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <extent>TODO, à calculer</extent>
+      <publicationStmt>
+        <date>2009</date>
+        <idno>http://ducange.enc.sorbonne.fr/</idno>
+        <publisher>École nationale des chartes</publisher>
+        <address>
+          <addrLine>19, rue de la Sorbonne</addrLine>
+          <addrLine>75005 Paris.</addrLine>
+          <addrLine>tél. : +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>http://enc.sorbonne.fr/</addrLine>
+          <addrLine>recherche@enc.sorbonne.fr</addrLine>
+        </address>
+        <availability status="restricted">
+          <p> L'École nationale des chartes met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence Creative Commons : « Paternité - Pas d'Utilisation Commerciale - Pas de Modification ; 2.0 France ». Cette licence est disponible en ligne http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA. </p>
+          <p> Pas d'Utilisation Commerciale : L'École nationale des chartes souhaite encourager l'utilisation et l'amélioration de ses ressources électroniques, pour les intérêts de l'enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès de l'École nationale des chartes. </p>
+          <p> Pas de Modification : Afin de mieux servir la communauté scientifique, l'École nationale des chartes s'engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer les contributions qui lui sont soumises (après validation par un comité scientifique), et à référencer l'origine de ces contributions. Toute modification de la ressource qui ne serait pas reversée à la version de référence sous l'autorité éditoriale de l'École nationale des chartes doit faire l'objet de l'accord de celle-ci, afin de ne pas disperser les contributions et de permettre les meilleures conditions possibles de collaboration scientifique. </p>
+          <p> Paternité : l'École nationale des chartes demande à ce que toute publication dérivée de ses ressources électroniques comporte : 1) le nom de l'École nationale des chartes et, pour les publications électroniques, son logo 2) l'URI permettant d'accéder à la page citée sur notre site, ou à la page d'accueil de la ressource 3) la date du fichier source utilisé. </p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Éditions en ligne de l'École des chartes</title>
+        <idno type="URI">http://elec.enc.sorbonne.fr/</idno>
+        <idno type="vol">18</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl><author>Charles du Fresne, sieur du Cange</author>, <foreign>et al.</foreign>, <title>Glossarium mediae et infimae latinitatis</title>, éd. augm., Niort : L. Favre, 1883‑1887, 10 vol. in-quarto.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>TODO, description scientifique</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>Lettre </p>
+      </samplingDecl>
+      <editorialDecl>
+        <p>L'attitude générale à l'égard du texte imprimé a été d'établir le texte le plus utile au lecteur, ainsi la fidélité n'a pas été jusqu'à conserver la mémoire des coquilles qui ont été corrigées. Cependant, toute information retrouvée a été balisée,  ainsi l'histoire éditoriale de l'ouvrage inscrite par des puces ou des crochets a été formalisée. Les caractères qui peuvent être générés automatiquement n'ont pas été conservés.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2009-04-01" who="FG">TEI Council, présentation du schéma</change>
+      <change when="2008-11" who="FG">Publication O-Z</change>
+      <change when="2008-01" who="FG">Publication O, P, Q</change>
+      <change when="2007-06" who="FG">Cahier des charges Jouve</change>
+      <change when="2007-03" who="FG">Echantillon numérisé par Dataland (200 p.)</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="421"/>
+      <cb n="421a"/>
+      <entry rend="ducange" xml:id="Y1">
+        <dictScrap xml:id="Y1-1"><form rend="b">Y</form>. <form rend="sc">Litera</form> numeralis, quæ 150. denotat. Unde versus : <quote xml:lang="lat"><l>Argolicus centum quinquaginta facitque character.</l></quote> Ita Ugutio, et Notæ numerorum antiquæ. At Baronius versum sequentem habet : <quote xml:lang="lat"><l>Y. dat centenos et quinquaginta novenos.</l></quote> Id est, 159. Eidem literæ si recta linea superaddatur, 150. millia significat.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="Y2">
+        <dictScrap xml:id="Y2-1"><form rend="b">Y</form>. Otfridus in Epist. præfixa Evangeliis Theotiscis : <quote xml:lang="lat">Ea etiam hoc elementum <note>(Y)</note> lingua hæc <note>(Theotisca)</note> horrescit interdum, nulli se characteri aliquotiens in quodam sono nisi difficiliter jungens.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="Y3">
+        <dictScrap xml:id="Y3-1"><form rend="b">Y</form>. instar signi Crucis insertum fortasse est in Monogrammatis regiis, et ab Episcopis in suis subscriptionibus usurpatum. Vide Mabill. Diplom. lib. 2. cap. 10. num. 13.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="Y4">
+        <dictScrap xml:id="Y4-1"><form rend="b">Y</form>, nude, ut mox <ref target="YA">Ya</ref>, ex Onomastico ad calcem tom. 3. Act. SS. Julii.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YA">
+        <dictScrap xml:id="YA-1"><form rend="b">YA</form>, Ita : vox Saxonica, ut na, non. Charta Adelstani Regis Anglor. tom. 1. Monastici Anglic. pag. 173 : <quote xml:lang="lat">Et quod homines<cb n="421b"/> sint credendi et per suum Ya, et per suum na. Ya,</quote> pro <hi rend="i">Ita</hi>, obtinet etiam apud omnes Germanicas nationes, imo etiam apud Armoricos et Guallenses.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YBENNS">
+        <dictScrap xml:id="YBENNS-1"><form rend="b">YBENNS</form>, Ligni species, Ebenus, Gall. <foreign xml:lang="fro">Ebene</foreign>. Inventar. S. Capellæ Paris. ann. 1363. ex Bibl. Reg. : <quote xml:lang="lat">Item unus baculus de Ybenus ornatus argento esmaillatus armis Franciæ et Burgondiæ,.... pro officio cantoris dictæ S. Capellæ. Baculus de Ybenns</quote> rursus in Inventar. ann. 1376. Inventar. Gall. : <quote xml:lang="fro">Item un baston de Ybenns aorné d'argent, esmaillé aus armes de France et de Bourgoigne..... pour l'office du Chantre.</quote> Aliud incerti anni : <quote xml:lang="lat">Item unus baculus de Ysbernis, etc.</quote> Quod facile ex allatis emendatur.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YBERNAGIUM">
+        <dictScrap xml:id="YBERNAGIUM-1"><form rend="b">YBERNAGIUM</form>, supra <ref target="HYBERNAGIUM">Hybernagium</ref>. Vide in hac vode.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YBURPANANSECA">
+        <dictScrap xml:id="YBURPANANSECA-1"><form rend="b">YBURPANANSECA</form>, Furtum vituli vel arietis, vel quantum quis supra dorsum suum poterit portare de cibo, in Regiam Majestatem lib. 4. cap. 16. Vocis origo Skenæo ignota : quem vide præterea lib. de Verbor. significat. Spelmannus <cb n="421c"/> vero ait, compositam ex <hi rend="i">y</hi>, pro <hi rend="i">te</hi>, prænomen, byryin, <hi rend="i">onus</hi>, et seca, <hi rend="i">saccus</hi>, quasi dicas <hi rend="i">onerum saccus</hi>. Vide <ref target="BYRTHINSAK">Byrthinsak</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YCHIGARE">
+        <dictScrap xml:id="YCHIGARE-1"><form rend="b">YCHIGARE</form>, Redditum annuum dividere, solvere, a voce vulgari <foreign xml:lang="fro">Ychide</foreign>, Reditus seu proventus annuus. Consuet. Labourt. tit. 17. art. 4 : <quote xml:lang="fro">Si par le contrat de l'engagement a esté accordé que le creancier doive donner ou payer à celui de qui est la terre durant l'engagement certaine rente par an, vulgairement appellé Ychide, etc. Ychide ou agrer,</quote> in Consuet. Solensi tit. 31. art. 4. Consuet. Brageriac. art. 115 : <quote xml:lang="lat">Item, si quis receperit animalia quæcumque nutrienda ad lucrum et damnum et ad certum cabal ut supra ; dominus dictorum animalium quotiescumque ei visum fuerit poterit mandare dictum nutritorem de Yshic exegar, quo mandato dictus nutritor tenetur et debet post octo dies a tempore dictæ mandationis computandos, adducere dicta animalia in foro seu in villa Brageriaci, ubi dictus dominus animalium maluerit <pb n="422"/> <cb n="422a"/> adducenda, et ea ipsi domino adhibere et Ychigare <note>(alias <hi rend="i">Yshiguare</hi>.)</note> Et nihilominus dare bonos et competentes fidejussores de tenendo, complendo, solvendo dictum Yshic sive lucrum, si quod sit domino memorato.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="YCHIGARE-2">Vulgo <foreign xml:lang="fro">Exiguer</foreign>, quod de re pecuaria rationem facere, proprie sonat. Vide <ref target="CAPITALE4">Capitale 4</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YCHONIA">
+        <dictScrap xml:id="YCHONIA-1"><form rend="b">YCHONIA</form>, Imago, Gr. <foreign xml:lang="grc">εἰϰών</foreign>. Necrolog. B. M. de Argentolio fol. 56 : <quote xml:lang="lat">Contulit ecclesiæ Ychoniam Beatæ Mariæ cum cæteris imaginibus.</quote> Vide <ref target="HYCONIA">Hyconia</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YCONA">
+        <dictScrap xml:id="YCONA-1"><form rend="b">YCONA</form>. Confer <hi rend="i">Icône</hi> : <quote xml:lang="lat">Una <oVar>Ycona</oVar> greca, in qua est factus Jhesus Christus usque ad medium.</quote> <bibl>Inv. card. Barbo, ex Transcript. Müntz, 1457.</bibl></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YCONOMUS">
+        <dictScrap xml:id="YCONOMUS-1"><form rend="b">YCONOMUS</form>, pro <hi rend="i">Oeconomus</hi>. <cit><bibl>Vitæ Abbatum S. Albini</bibl><lbl> : </lbl><quote xml:lang="lat">In Ecclesia illa Rex Offa vices agens Yconomi et Custodis specialis, etc.</quote></cit><add rend="benedictin"><cit><quote xml:lang="lat">Alexius pincerna et Yconomus D. Adriani summi Pontificis,</quote><lbl> in </lbl><bibl>Charta ann. 1158.</bibl></cit><cit><quote xml:lang="lat">Procurator seu Yconomus monasterii Saxivivi,</quote><lbl> in </lbl><bibl>Charta Innocentii IV. PP. ann. 1243. apud Fontanin. in Antiquit. Hortæ pag. 405.</bibl></cit> Infra : <hi rend="i">Yconimus.</hi></add> Utuntur etiam Scriptores alii e recentioribus. <add rend="benedictin">Occurrit apud Murator. tom. 2. pag. 143. Georg. Christianum tom. 2. Rer. Mogunt. pag. 887. Kenett. in Antiquit. Ambrosd. pag. 616. Rymer. tom. 3. pag. 460. Marten. tom. 3. Anecd. col. 1739. etc.</add> <add rend="henschel"><hi rend="i">Ykonomus</hi>, apud Ekkeh. IV. Casus S. Galli cap. 16. Pertz. Scriptor. tom. 2. pag. 141. lin. 25.</add></dictScrap>
+        <dictScrap rend="benedictin" xml:id="YCONOMUS-2"><form rend="sc">Yconomis</form>, Eodem intellectu. Charta Henrici Comit. Blesensis apud Marten. tom. 1. Ampliss. Collect. col. 622 : <quote xml:lang="lat">Sive per Yconomem suum decreverint, etc.</quote></dictScrap>
+        <dictScrap rend="benedictin" xml:id="YCONOMUS-3"><form rend="sc">Ychonomus</form>, in Charta Stephani Episc. Tornac. ann. 1197. apud Miræum tom. 2. pag. 1202. col. 1.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YDAM">
+        <dictScrap xml:id="YDAM-1"><form rend="b">YDAM</form>, <gloss>Arabice, pulmentum</gloss>, in Glossar. MS. medic. Simon. Januens. ex Cod. reg. 6959.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YDEMPTITAS">
+        <dictScrap xml:id="YDEMPTITAS-1"><form rend="b">YDEMPTITAS</form>, pro <hi rend="i">Indemnitas</hi>, in Charta ann. 1240. ex parvo Reg. S. Germ. Prat. fol. 30. v°. col. 1.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YDIOTA">
+        <dictScrap xml:id="YDIOTA-1"><form rend="b">YDIOTA</form>, Stolidus. <quote xml:lang="lat">Alienatum a mente et factum penitus Ydiotam</quote>, in Litteris ann. 1353. ex Regesto 82. Chartophylacii Reg. Ch. 61.</dictScrap>
+      </entry>
+      <entry rend="henschel" xml:id="YDOLAGIA">
+        <dictScrap xml:id="YDOLAGIA-1"><form rend="b">YDOLAGIA</form>, Idololatria. Folcuin. Gesta Abbat. Lobiens. in Prolog. : <quote xml:lang="lat">Franci... Ydolagiam in christi tyrocinium commutaverunt.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YDONEUM">
+        <dictScrap xml:id="YDONEUM-1"><form rend="b">YDONEUM</form>, Præstatio quælibet, jus quodvis aut tributum legitimum jurique consonum. Pariag. inter reg. et abb. monast. S. Andr. Avenion. ann. 1292. in Reg. 93. Chartoph. reg. ch. 133 : <quote xml:lang="lat">Item si contingeret dare leudam, sextayragium, portanagium, vel aliud Ydoneum, quod sit commune sicut jurisdictio, etc.</quote> Vide supra <ref target="IDONEARE">Idoneare</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YDONEUS">
+        <dictScrap xml:id="YDONEUS-1"><form rend="b">YDONEUS</form>, pro Idoneus, in Charta ann. 1204. ex Tabul. Episc. Paris. fol. <num>ciii.</num> et alia Caroli Comit. Provinc. ann. 1290. ex Cod. MS. D. <hi rend="i">Brunet</hi> fol. 76. v°. Occurrit non semel alibi.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YDRIA">
+        <dictScrap xml:id="YDRIA-1"><form rend="b">YDRIA</form>, pro <hi rend="i">Hydria</hi>, Mensura vini, semel et iterum apud Hansiz. tom. 1. Germ. sacræ pag. 276.</dictScrap>
+        <dictScrap rend="carpentier" xml:id="YDRIA-2">Metreta frumentaria, interdum liquidorum et vini. <foreign xml:lang="fro">Ydrie</foreign>, pro <foreign xml:lang="fro">Cruche</foreign>, Urceus, in Testam. Renati reg. Sicil. ann. 1474. tom. 2. Cod. Ital. diplom. col. 1279 : <quote xml:lang="fro">Une des Ydries, esquelles nostre Seigneur fist miracle en conversion d'eaue en vin ès nopces d'Architriclin.</quote> Vide supra <ref target="HYDRIA">Hydria</ref>. Hinc</dictScrap>
+        <dictScrap rend="carpentier" xml:id="YDRIA-3"><form rend="sc">Ydriata</form>, Quantum <hi rend="i">ydria</hi> continetur. Lit. remiss. ann. 1355. in Reg. 84. Chartoph. reg. ch. 166 : <quote xml:lang="lat">In vindemiis, unam Ydriatam vini, quam in alieno hereditagio<cb n="422b"/> ceperat, in dicta domo sua apportaverat.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YEMERIA">
+        <dictScrap xml:id="YEMERIA-1"><form rend="b">YEMERIA</form>. Pactum inter comitis. et capitul. S. Quint. ann. 1211. in Reg. 34. bis Chartoph. reg. part. 1. fol. 84. v° : <quote xml:lang="lat">Item ex parte comitissæ propositum est, quod burgenses S. Quintini nullam debent emendam pro excommunicatione, nisi peccoris tunsionem et Yemeriam.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YEMS">
+        <dictScrap xml:id="YEMS-1"><form rend="b">YEMS</form>, pro Hiems, apud <hi rend="i">Madox</hi> Formul. Angl. pag. 138. <hi rend="i">Yemale semen</hi>, in Charta apud <hi rend="i">Blount</hi> in Nomolexico Anglicano.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YERACA">
+        <dictScrap xml:id="YERACA-1"><form rend="b">YERACA</form>, Hiera, compositionis medicinalis species. Lit. Joan. Presbyt. ad Emanuel. imper. ann. circ. 1165. apud Pez. tom. 6. Anecd. part. 2. pag. 21. col. 1 : <quote xml:lang="lat">Magnificentia mea eorum, quæ ad gaudia pertinent, copiam indigentiæ tuæ per apocrisiarios nostros largiflue transmittet. Accipe Yeracam in nomine meo, et utere tibi.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="YERACA-2"><foreign xml:lang="fro">Yerre</foreign> nostris alias, pro <foreign xml:lang="fro">Lierre</foreign>, Hedera. Hist. S. Germ. Prat. inter Instr. part. 2. pag. 149. col. 2 : <quote xml:lang="lat">Interdum quod erimus ad processionem, subeleemosynarius debet facere chorum juncari de Yerre, etc.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="YERACA-3"><foreign xml:lang="fro">Yeulage</foreign> vero, Acclamatio, ut videtur, in Recognit. feud. MS. terræ <hi rend="i">de Bovincourt</hi> ann. 1269 : <quote xml:lang="fro">Et chil le sire de ledite ville arrive prisme en sedite ville, iront en devant les hommes et les fillettes en faisant et criant l'Yeulage, comme de droit est.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YEROPHAGIA">
+        <dictScrap xml:id="YEROPHAGIA-1"><form rend="b">YEROPHAGIA</form>, male pro <hi rend="i">Xerophagia</hi>, in Consuetud. MSS. Cluniac. ex Tabul. B. M. Deauratæ Tolos.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YFFANTARIUS">
+        <dictScrap xml:id="YFFANTARIUS-1"><form rend="b">YFFANTARIUS</form>, Erro, qui infantes alienos abducit. Libert. Montis-oliviann. 1312. tom. 7. Ordinat. reg. Franc. pag. 505. art. 38 : <quote xml:lang="lat">Latrones autem publici et fautores ipsorum, bucellarii, Yffantarii, et alii insignes latrones, quibuscunque nominibus censeantur, severitati legum subiciantur.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YGUMINUS">
+        <dictScrap xml:id="YGUMINUS-1"><form rend="b">YGUMINUS</form>, pro <hi rend="i">Hegumenus</hi>, <foreign xml:lang="grc">ἡγούμενος</foreign>, Abbas. Utitur non semel Thiotfridus Abbas Epternacensis in Florib. epitaphii Sanctorum in proœmio libri 1. eod. lib. cap. 6. et alibi.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YINGEMAN">
+        <dictScrap xml:id="YINGEMAN-1"><form rend="b">YINGEMAN</form>. Leges Henrici I. cap. 16 : <quote xml:lang="lat">Danagildum, quod aliquando Yingeman dabatur, i. 12. den. de una quaque hida per annum, si ad terminum non redditur, wita emendetur.</quote> Sic Cottonianus codex et noster, inquit Spelmannus ; sed utrique fidem suspectam habeo, ne mendose forte pro <hi rend="i">Ynglisman</hi> vel <hi rend="i">Englisman</hi>, i. Anglico. <add rend="henschel">Thorp. Pingemannis, cap. 15. Vide ibi not.</add></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YLARITAS">
+        <dictScrap xml:id="YLARITAS-1"><form rend="b">YLARITAS</form>. <oVar>Ylaritas</oVar>, <hi rend="i">virilitas, liberalitas</hi>. <bibl>B. N. MS. Lat. 16089. f. <num>112<hi rend="sup">a</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YLIA">
+        <dictScrap xml:id="YLIA-1"><form rend="b">YLIA</form>. Ilia : <oVar>Yliis</oVar> <hi rend="i">simiorum comparata</hi>. <bibl>B. N. MS. Lat. 16089. f. <num>107<hi rend="sup">b</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YLLA">
+        <dictScrap xml:id="YLLA-1"><form rend="b">YLLA</form>, Insula, Gall. <foreign xml:lang="fro">Isle</foreign>. Charta ann. 1295 : <quote xml:lang="lat">Item tres fessoriatas prati cum verneto, sitas in Yllas retro molendinos suos.</quote> Alia ann. 1321. in Reg. 60. Chartoph. reg. ch. 177 : <quote xml:lang="lat">Retentis etiam domino regi altis et bassis justitiis, mero et mixto imperio in Yllis sive insulis prædictis.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YMACHINATIO">
+        <dictScrap xml:id="YMACHINATIO-1"><form rend="b">YMACHINATIO</form>, Instigatio, Impulsio. Lit. remiss. ann. 1364. in Reg. 98. Chartoph. reg. ch. 4 : <quote xml:lang="lat">Cum eidem Johanni impositum extitisset dominos Petrum Ruffi et Guillelmum Ferrals ad jussum seu Ymachinationem dicti Johannis furatos fuisse, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YMACHINATUS">
+        <dictScrap xml:id="YMACHINATUS-1"><form rend="b">YMACHINATUS</form>, Qui vices alterius in rebus gerendis implet, et <hi rend="i">imaginem</hi> quodammodo refert, supposititius, in iisd. Lit. : <quote xml:lang="lat">Idem Johannes tractavit malitiose et calidiose cum quodam alio homine, <cb n="422c"/> qui se fingens se procuratorem dicti Guillelmi,.... ipsum Johannem quittaret ab omnibus, quæ occasione societatis seu comandæ... tenebat... Qui Johannes una cum dicto homine Ymachinato accessit, per quem se quittari fecit.</quote> Vide <ref target="IMAGINARIUS">Imaginarius</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMAGINACIO">
+        <dictScrap xml:id="YMAGINACIO-1"><form rend="b">YMAGINACIO</form>, Cogitatio. Elmham. in Vita Henrici V. Reg. Angl. cap. 36. pag. 91 : <quote xml:lang="lat">Regalis nobilitas Ymaginacione multiplici toto corde deliberat et exquirit, quomodo antiqua jura recuperet.</quote> Instrum. ann. 1406. ex Bibl. Reg. : <quote xml:lang="fro">Un des serviteurs de Messire Guil. Belier vint dire audit Rigolet que il s'en venist tantost en la sainte Chapelle, et que l'uys en estoit ouvert.... Ils apperçurent que les lampiers, qui estoient d'argent en estoient ostez et considererent comment ce pooit avoir esté fait et trouverent par Ymagination que ce avoit esté fait tant comme l'en disnoit en cloistre.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YMAGINATIO">
+        <dictScrap xml:id="YMAGINATIO-1"><form rend="b">YMAGINATIO</form>. <quote xml:lang="lat">Ratione <oVar>Ymaginationis</oVar> fortis tempore conventionis.</quote> <bibl>B. N. MS. Lat. 16089. f. <num>112<hi rend="sup">c</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMAGINATOR">
+        <dictScrap xml:id="YMAGINATOR-1"><form rend="b">YMAGINATOR</form>, Phrygio, <foreign xml:lang="fro">Brodeur</foreign>, recensetur in Catalogo Sodalitatis B. M. Deauratæ Tolos.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMAGINATURA">
+        <dictScrap xml:id="YMAGINATURA-1"><form rend="b">YMAGINATURA</form>, Imago acupicta. Inventar. Eccl. Noviom. ann. 1419 : <quote xml:lang="lat">Una cappa de Cardinali de Limoges panni aurei cum orfretis de broderie et Ymaginaturis Apostolorum, operata auro et serico.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YMAGINATUS">
+        <dictScrap xml:id="YMAGINATUS-1"><form rend="b">YMAGINATUS</form>, Imaginibus adorna tus, sculptus, nostris <foreign xml:lang="fro">Ymaginé</foreign> ; unde <hi rend="i">Ymaginerie</hi>, Sculptura seu opus scuptile, et <foreign xml:lang="fro">Ymaginette</foreign>, Parva imago, figura. Charta ann. 1351. in Reg. 80. Chartoph. reg. ch. 503 : <quote xml:lang="lat">Item gobeletum unum cum tribus pedibus, Ymaginatum de uno gallo sursum et tribus cavaillieriis.</quote> Inventar. MS. Jocal. Eduardi I. reg. Angl. ann. 1297 : <quote xml:lang="fro">Item une coupe d'argent dorée, dont le piés est une rose à six fuelles, s'est Ymaginée de rois.... Item un pot lavoir d'argent à Ymaginettes..... Item un autre <note>(pot)</note> purement dorei et portrait d'Ymaginerie sans esmail.</quote> Lit. remiss. ann. 1353. in Reg. 81. ch. 766 : <quote xml:lang="fro">Un gobelet d'argent, esmaillié et doré, à quatre piez, Ymaginez à trois pelerins. Ymagerié,</quote> Acupictus, vulgo <foreign xml:lang="fro">Brodé</foreign>, in Testam. Petri ducis Brit. ann. 1457. ex Bibl. reg. : <quote xml:lang="fro">Deux paremens d'autel de tapisserie d'Arras,..... Ymageriez de la Passion, et esquels sommes nous et nostre compagne en presentation.</quote> Vide <ref target="IMAGINATUS">Imaginatus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMATHINATIO">
+        <dictScrap xml:id="YMATHINATIO-1"><form rend="b">YMATHINATIO</form>, mendose pro <hi rend="i">Intimatio</hi>, declaratio. <hi rend="i">Ad jussum seu Ymathinationem</hi>, in Litteris ann. 1364. ex Regesto 98. Chartophylacii Reg. Ch. 4.</dictScrap>
+        <dictScrap rend="carpentier" xml:id="YMATHINATIO-2">Male lectum pro <hi rend="i">Ymachinatio</hi>. Vide supra in hac voce.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMBERNAGIUM">
+        <dictScrap xml:id="YMBERNAGIUM-1"><form rend="b">YMBERNAGIUM</form>, ut supra <ref target="HYBERNAGIUM">Hybernagium</ref>. Charta Petri Episc. Meld. ann. 1226. ex Chartul. ejusdem Eccles. : <quote xml:lang="lat">Habebit autem capellanus, pro victu et vestitu suo et clerici sui de bonis dictæ domus duos modios bladi Ymbernagii rationabilis.</quote> Occurrit rursum in Charta ann. 1229. Locus est in <hi rend="i">Grenerium</hi>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMIUS1">
+        <dictScrap xml:id="YMIUS1-1"><form rend="b"><num>1.</num> YMIUS</form>, comparat. ab Imus, in Chron. Johan. Whethamstedii pag. 405 : <quote xml:lang="lat">Dum transisset sabbatum sive solstitium anni istius, descendissetque sol Ymius et Ymius, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YMIUS2">
+        <dictScrap xml:id="YMIUS2-1"><form rend="b"><num>2.</num> YMIUS</form>, Fossilis. <hi rend="i">Terra Ymia</hi>, idem quod Cadmia, Gall. <foreign xml:lang="fro">Calamine</foreign>. Charta ann. 1281. apud Murator. tom. 2. Antiq. Ital. med. ævi col. 902 : <quote xml:lang="lat">Ferri non laborati, plumbi, stagni, rammi, terræ Ymiæ, de qua fit anchalchum <note>(pro <hi rend="i">aurichalcum</hi>)</note>.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMNISFITH">
+        <dictScrap xml:id="YMNISFITH-1"><form rend="b">YMNISFITH</form>, Porcellus ablactatus, Schiltero in Gloss. Teuton. Vocem corruptam esse censet Eccardus in Notis <pb n="423"/><cb n="423a"/> ad Leg. Sal. tit. 2. § 5. ubi <hi rend="i">Ymnis</hi>, vel potius <hi rend="i">Ynnis</hi> solidum interpretatur.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMNIZARE">
+        <dictScrap xml:id="YMNIZARE-1"><form rend="b">YMNIZARE</form>, a Gr. <foreign xml:lang="grc">ὑμνίζειν</foreign>, Laudare, prædicare, hymnos cantare. Pontificale antiquissimum : <quote xml:lang="lat">Perveniens <note>(Rex consecrandus)</note> ad ecclesiam prosternat se coram altare et Ymnizetur</quote> Te Deum laudamus, Te Dominum confitemur, <hi rend="i">finetenus</hi> : <quote xml:lang="lat">quo Ymnizato erigatur de solo, etc.</quote> Dudo de Ducibus Normannorum : <quote xml:lang="fro"><l>Ymnizante melos psallere voce queas.</l></quote> Vide <hi rend="i">Hymnizare</hi> in <ref target="HYMNUS">Hymnus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMNODIA">
+        <dictScrap xml:id="YMNODIA-1"><form rend="b">YMNODIA</form>, Canticum. Bibl. Heilsbr. pag. 63 : <quote xml:lang="lat"><l>Sit Jesu laus, et gloria sit Virgini Mariæ</l><l>Quod completum est carmen hujus Ymnodiæ.</l></quote> Vide <ref target="HYMNODIA">Hymnodia</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMPNARE">
+        <dictScrap xml:id="YMPNARE-1"><form rend="b">YMPNARE</form>, Liber hymnos continens, apud Will. Thorn. pag. 1935.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YMPNUS">
+        <dictScrap xml:id="YMPNUS-1"><form rend="b">YMPNUS</form>, pro <hi rend="i">Hymnus</hi>, <cit><lbl>apud </lbl><bibl>Elmham. in Vita Henrici V. Reg. Angl. cap. 124. pag. 321</bibl><lbl> : </lbl><quote xml:lang="lat">Laudum Ympnos concinit.</quote></cit></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YMPRECEPS">
+        <dictScrap xml:id="YMPRECEPS-1"><form rend="b">YMPRECEPS</form>. Præceps : <oVar>Ympreceps</oVar>, <foreign xml:lang="fro">trebuchans</foreign>. <bibl>Lex. Lat. Gal. Bibl. Ebroic. n. 23. XIII. s.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YNDARDUS">
+        <dictScrap xml:id="YNDARDUS-1"><form rend="b">YNDARDUS</form>, Autissiodorensibus <hi rend="i">Indard</hi>, Intrumentum quo naves adverso flumines navigant : unde <hi rend="i">Yndardus</hi> nuncupatur quidquid ea ratione exsolvitur. Codex censualis Episcopat. Autiss. ann. circ. 1290 : <quote xml:lang="lat">Yndardi et aqua circa <num>xii<hi rend="sup">xx</hi></num>. lib. Yndardus S. Mariani circa <num>xvi.</num> lib.</quote> Vide <ref target="INDARDUS">Indardus</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YNDEMPTITAS">
+        <dictScrap xml:id="YNDEMPTITAS-1"><form rend="b">YNDEMPTITAS</form>. Indemnitas : <quote xml:lang="lat">Idcirco nos <oVar>Yndemptitati</oVar> providere volentes.</quote> <bibl>Mandat. Camer. Apost. Arch. Vatic. f. 85. an. 1434-39.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YNOLATUS">
+        <dictScrap xml:id="YNOLATUS-1"><form rend="b">YNOLATUS</form>. Statuta Vercell. lib. 5. fol. 123. v° : <quote xml:lang="lat">Item quod fiant singulis sex mensibus duo libri Ynolati pro parte pusterne et parte ursonis, qui vocentur Memoriale.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YNSPURUS">
+        <dictScrap xml:id="YNSPURUS-1"><form rend="b">YNSPURUS</form>, pro Impurus, nothus. Locus est supra in <ref target="VASTARDUS">Vastardus</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YOCRUS">
+        <dictScrap xml:id="YOCRUS-1"><form rend="b">YOCRUS</form>. Alex. Iatrosoph. MS. lib. 2. Passion. cap. 11 : <quote xml:lang="lat">Si infirmus colore Yocro fuerit, i. colore siligeneo, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YOPA">
+        <dictScrap xml:id="YOPA-1"><form rend="b">YOPA</form>, Germ. <hi rend="i">Yopen</hi>, Vestimenti genus. Privil. sartor. ann. 1288. apud Ludewig. tom. 11. Reliq. MSS. pag. 637 : <quote xml:lang="lat">Præsertim volumus quod nullus deferat tunicas crustatas, seu capucia, aut coltas vel Yopas in foro rerum venalium venales, præter in nundinas, quod interpretatur forum annuale.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPA">
+        <dictScrap xml:id="YPA-1"><form rend="b">YPA</form>. <foreign xml:lang="fro">Souppe en Yawe</foreign>. <bibl>Gloss. Lat. Gal. Bibl. Insul. E. 36. XV. s.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPAPANTI">
+        <dictScrap xml:id="YPAPANTI-1"><form rend="b">YPAPANTI</form>, Festum Purificationis Beatæ Mariæ. Vide supra <ref target="HYPAPANTI">Hypapanti</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPATUS">
+        <dictScrap xml:id="YPATUS-1"><form rend="b">YPATUS</form>, Gr. <foreign xml:lang="grc">ὕπατος</foreign>. Vide <ref target="HYPATUS">Hypatus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPEPA">
+        <dictScrap xml:id="YPEPA-1"><form rend="b">YPEPA</form>, Locus vel prædium a majori dependens, ut videtur. Descriptio bonorum domini de Eska ex Tabular. Audomar. : <quote xml:lang="lat">In territorio et dominio villæ de Eska et aliarum Ypeparum circumjacentium.... Dividitur namque tota terra de Eska et de suis antedictis Ypepis, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPERLIRICUS">
+        <dictScrap xml:id="YPERLIRICUS-1"><form rend="b">YPERLIRICUS</form>, Vox Græca vim comparativi habens a lyricus. Elmham. in Vita Henrici V. Regis Angl. cap. 12. pag. 23 : <quote xml:lang="lat">Ubi totidem tubarum tumultuosus strepitus partes æthereas tonitruoso rugitu reboare cogebat, citharædorumque Yperlirica melodia, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPERPERATA">
+        <dictScrap xml:id="YPERPERATA-1"><form rend="b">YPERPERATA</form>, <form rend="sc">Yperperus</form>. Vide <ref target="HYPERPERUM">Hyperperum</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPERPERUM">
+        <dictScrap xml:id="YPERPERUM-1"><form rend="b">YPERPERUM</form>. Moneta Venetorum : <quote xml:lang="lat">In Corphoy vero et Mothono, sibi presententur de rebus comestilibus pro valore <oVar>Yperperorum</oVar> <num>L<hi rend="sup">ta</hi></num>.</quote> <bibl>Venise, <title>Senato misti</title>, LX. f. 218. an. 1440.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPERUS">
+        <dictScrap xml:id="YPERUS-1"><form rend="b">YPERUS</form>, ut <hi rend="i">Hyperperum</hi>, Moneta Imperatorum Byzantinorum aurea. <cb n="423b"/> Bern. Thesaurarius de acquisitione T. S. apud Murator. tom. 7. col. 777 : <quote xml:lang="lat">Jussit solium in palatio deferri, et Balduinum in eo sedentem, Yperis aureis usque ad verticem cooperiri sive circumdari.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPIA">
+        <dictScrap xml:id="YPIA-1"><form rend="b">YPIA</form>, <gloss>Morsus gallinæ</gloss>, in Glossar. MS. medic. Simon. Januens. ex Cod. reg. 6959.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOCAMISIUM">
+        <dictScrap xml:id="YPOCAMISIUM-1"><form rend="b">YPOCAMISIUM</form>, Vestimentum quod subtus camisium est. Vide <ref target="HYPOCAMISIUM">Hypocamisium</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOCARE">
+        <dictScrap xml:id="YPOCARE-1"><form rend="b">YPOCARE</form>, pro <hi rend="i">Ypothecare</hi>. Obligare, oppignerare. Charta ann. 1308. in Histor. Tull. pag. 470 : <quote xml:lang="lat">Spontanee confessus est se jam dudum Ypocasse et pignorasse venerabili patri et DD. Conrado tunc Episcopo Tullensi....... medietatem villæ de Vannis.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOCISIS">
+        <dictScrap xml:id="YPOCISIS-1"><form rend="b">YPOCISIS</form>, <gloss>Aggregatio humidorum circa pupillam densatorum</gloss>, in Glossis ad Alex. Iatrosoph. MS. lib. 1. Passion. cap. 94 : <gloss>Adhuc autem et senioribus ætate defectum visifici spiritus reparant <note>(axydorcica)</note> et renovationem faciunt visui, et incipientes Ypocisis solverunt.</gloss></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOCOERCIUM">
+        <dictScrap xml:id="YPOCOERCIUM-1"><form rend="b">YPOCOERCIUM</form>, vox ibrida, Locus ubi soleis ferreis equorum pedes muniuntur. Vide supra <ref target="HIPPOCOERCIUM">Hippocoercium</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOCRASIUM">
+        <dictScrap xml:id="YPOCRASIUM-1"><form rend="b">YPOCRASIUM</form>, a Gallico <foreign xml:lang="fro">Hypocras</foreign>, Submistum vinum. Proces. Egid. <persName type="author">de Rays</persName> ann. 1440. ex Bibl. reg. : <quote xml:lang="lat">Dictus Ægidius de Rays reus cibariis et vinis delicatis, etiam Ypocrasio et clareto vulgariter nuncupato,... usus fuit.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPODECANUS">
+        <dictScrap xml:id="YPODECANUS-1"><form rend="b">YPODECANUS</form>, Subdecanus. <hi rend="i">Erlanus Ypodecanus</hi> subscribit Chartam Theotolonis Archiepisc. Turon. ann. 943. apud Marten. tom. 1. Anecdot. col. 74.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPODIAC">
+        <dictScrap xml:id="YPODIAC-1"><form rend="b">YPODIAC</form>, Subdiaconus. Charta Ludov. Pii ann. 824. tom. 2. Geneal. Diplom. aug. gentis Habsburg. pag. 20 : <quote xml:lang="lat">Ego itaque Cospreht immerens Ypodiac... rogatus scripsi et subscripsi.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPODROMIUM">
+        <dictScrap xml:id="YPODROMIUM-1"><form rend="b">YPODROMIUM</form>, <foreign xml:lang="fro">Travail</foreign> (equestre). <bibl>Glos. Lat. Gal. Bibl. Insul. E 36, <num>xv.</num> s.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPODROMUM">
+        <dictScrap xml:id="YPODROMUM-1"><form rend="b">YPODROMUM</form>, <form rend="sc">Ypodromus</form>. Vide <ref target="HYPODROMUM">Hypodromum</ref>, et <ref target="SPIDROMUM">Spidromum</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPODROMUS">
+        <dictScrap xml:id="YPODROMUS-1"><form rend="b">YPODROMUS</form>, <gloss>Latrina, privada, Prov</gloss>. Glossar. Provinc. Lat. ex Cod. reg. 7657.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOGAMUS">
+        <dictScrap xml:id="YPOGAMUS-1"><form rend="b">YPOGAMUS</form>, Navis species, f. pro <hi rend="i">Ypogavus</hi>, in eod. Glossar. Hippegus, navis qua equi transvehuntur. Vide <ref target="YPOGAUBIN">Ypogaubin</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YPOGAUBIN">
+        <dictScrap xml:id="YPOGAUBIN-1"><form rend="b">YPOGAUBIN</form>, <form rend="sc">Ypogavus</form>, Navis, <foreign xml:lang="grc">ἵππηγος</foreign>, Papiæ, <gloss>Navis, in qua equos vehere solitum est</gloss>. Glossar. Saxon. Ælfrici : <hi rend="i">Ypogavus</hi>, horsa scip, i. ad verbum, <hi rend="i">equi navis</hi>. Somnerus <hi rend="i">Hippagus</hi>, vel <hi rend="i">Hippago</hi> restituit. <add rend="benedictin">Vide <ref target="HUISSERIUM">Huisserium</ref>.</add></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOGLOTIA">
+        <dictScrap xml:id="YPOGLOTIA-1"><form rend="b">YPOGLOTIA</form>, <gloss>Paulo pillulæ, quæ sub lingua tenentur, quæ bekikiæ dicuntur.</gloss><bibl>Glossar. MS. medic. Simon. Januens. ex Cod. reg. 6959.</bibl></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPOMENUM">
+        <dictScrap xml:id="YPOMENUM-1"><form rend="b">YPOMENUM</form>. <hi rend="i">Cordial</hi> : <oVar>Ypomenis</oVar> miscent aconita. <bibl>Du Méril, Poes. lat. med. æt. p. 164.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOPANTON">
+        <dictScrap xml:id="YPOPANTON-1"><form rend="b">YPOPANTON</form>, pro <hi rend="i">Ypapanti</hi>, in Charta Paschalis II. PP. ann. 1104. inter Instrum. tom. 1. Gall. Christ. novæ edit. pag. 66. et in Charta Alexandri III. PP. apud Rocchum Pirrum in Sicilia sacra pag. 28. Vide <ref target="HYPAPANTI">Hypapanti</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOPIA">
+        <dictScrap xml:id="YPOPIA-1"><form rend="b">YPOPIA</form>, <gloss>Aggregatio nigri sanguinis ex percussura</gloss>, in Glossis ad Alex. Iatrosoph. MS. lib. 1. Passion. cap. 93 : <gloss>Nescio an hoc melius sit ad <oVar>Ypopias</oVar> aliud collirium.</gloss> Et cap. 100 : <gloss>Ad <oVar>Ypopias</oVar> et myocephala facit cum ovi liquore albo inunctum... Si autem myocephala aut Ypopius <note>(sic)</note> fuerit, post inunctionem ligabis oculos aut linteo in aqua infuso frigida, aut spongia in ipsa aqua infusa.</gloss> Glossar. MS. medic. Simon. Januens. ex Cod. reg. 6959 : <gloss><oVar>Ypopium</oVar>. Theod. Priscianus cap. de Ægritudinibus oculorum : sed aut, <cb n="423c"/> inquit, declinantibus oculorum doloribus, quidam tumor circa inferiorem angulum apparuit, quam Ypopisi <note>(sic)</note> dicimus.</gloss></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOPIRGIUM">
+        <dictScrap xml:id="YPOPIRGIUM-1"><form rend="b">YPOPIRGIUM</form>, Area. Glossar. Lat. Gall. ann. 1352. ex Cod. Reg. 4120 : <gloss><oVar>Ypopirgium</oVar>, <foreign xml:lang="fro">Aire</foreign></gloss>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOPYRGIUM">
+        <dictScrap xml:id="YPOPYRGIUM-1"><form rend="b">YPOPYRGIUM</form>, Gall. <foreign xml:lang="fro">Andier</foreign>, in Glossar. Lat. Gall. ex Cod. reg. 521. Aliud Provinc. Lat. ex Cod. 7657. <hi rend="i">Guachafaec, Prov.</hi><oVar>Ypopyrgium</oVar>. Vide supra <ref target="IPOPIGERIUM">Ipopigerium</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOROGIUM">
+        <dictScrap xml:id="YPOROGIUM-1"><form rend="b">YPOROGIUM</form>. Vide infra <ref target="YVORYE">Yvorye</ref>.</dictScrap>
+      </entry>
+      <entry rend="henschel" xml:id="YPOSTASIS">
+        <dictScrap xml:id="YPOSTASIS-1"><form rend="b">YPOSTASIS</form>, Gr. <foreign xml:lang="grc">ὑπόστασις</foreign>, Substantia, res. Liutprand. Antapod. lib. 3. cap. 41 : <quote xml:lang="lat">Gezo cum omni sua Ypostasi meis tradatur in manibus.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPOSTOR">
+        <dictScrap xml:id="YPOSTOR-1"><form rend="b">YPOSTOR</form>. <oVar>Ypostor</oVar>, <foreign xml:lang="fro">coton</foreign>. <bibl>Lex. Lat. Gal. Bibl. Ebroic. n. 23, <num>xiii.</num> s.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOTECA">
+        <dictScrap xml:id="YPOTECA-1"><form rend="b">YPOTECA</form>, <form rend="sc">Ypotheca</form>, Oppigneratio, obligatio, apud Rymer. tom. 2. pag. 303. Charta ann. 1282. apud Lobinell. tom. 3. Hist. Paris. pag. 272. col. 2 : <quote xml:lang="lat">Obligaverit titulo specialis Ypothecæ.</quote> Alii ann. 1477. ex Tabul. B. M. de Bononuntio Rotomag. : <quote xml:lang="lat">Sub suorum omnium et singulorum Ypotheca et obligatione bonorum mobilium et immobilium.</quote></dictScrap>
+        <dictScrap rend="favre" xml:id="YPOTECA-2"><quote xml:lang="lat">Dictas triginta quinque libras Cluniacenses sub prestito sacramento et sub <oVar>Ypotheca</oVar> rerum suarum omnium ecclesie Cluniacensi totaliter restitueret.</quote> (Chart. Cluniac. Coll. Burgund. B. N. t. 82, n° 333, an. 1255.) </dictScrap>
+        <dictScrap rend="benedictin" xml:id="YPOTECA-3"><form rend="sc">Ypotecaria</form>, Fundus oppigneratus, Gall. <foreign xml:lang="fro">Hypothecaire</foreign>. Charta ann. 1195. apud Cencium inter Census Eccl. Rom. : <quote xml:lang="lat">Quodcumque itaque jus et quamcumque actionem personalem et in rem sive Ypotecariam adversus Romanam ecclesiam, etc.</quote> Hinc</dictScrap>
+        <dictScrap rend="benedictin" xml:id="YPOTECA-4"><form rend="sc">Ypotecare</form>, <form rend="sc">Ypothecare</form>, Oppignerare, <foreign xml:lang="fro">Hypotequer</foreign>, apud Rymer. loco laudato, Marten. tom. 7. Ampl. Collect. col. <num>iiii.</num> et Lobinell. tom. 5. Hist. Paris. pag. 655. Vide <ref target="HYPOTHECARE">Hypothecare</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOTHECARIUS">
+        <dictScrap xml:id="YPOTHECARIUS-1"><form rend="b">YPOTHECARIUS</form>, pro <hi rend="i">Apothecarius</hi>. Vide in hac voce. Computus ab ann. 1333. ad ann. 1336. tom. 2. Hist. Dalph. pag. 283 : <quote xml:lang="lat">Item, cuidam Lombardo per manus Michaelis Ypothecarii domini pro muscato empto per dominum, <num>xii.</num> flor.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOTHETICE">
+        <dictScrap xml:id="YPOTHETICE-1"><form rend="b">YPOTHETICE</form>, Jure <hi rend="i">ypothecario</hi> seu oppignerationis. Charta ann. 1246. ex Tabul. Episc. Paris. fol. <num>ccxiii</num> : <quote xml:lang="lat">Eidem Episcopo Ypothetice titulo specialiter obligavit.</quote> Alia ann. 1256. ex Tabul. S. Crispini in Cavea : <quote xml:lang="lat">Pro qua summa <num>x.</num> lib. Ypothetice obligavit dimidium bladi hyemalis.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YPOVICARIUS">
+        <dictScrap xml:id="YPOVICARIUS-1"><form rend="b">YPOVICARIUS</form>, <form rend="sc">Yppovicarius</form>, Subvicarius, qui Vicarii vices agit. Vide in <ref target="VICARIUS">Vicarius</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YPOYCARIA">
+        <dictScrap xml:id="YPOYCARIA-1"><form rend="b">YPOYCARIA</form>. Charta ann. 1322. in Reg. 61. Chartoph. reg. ch. 126 : <quote xml:lang="lat">Habent ab aliis personis diversas summas pecuniæ in operatoriis suis, tam de payreria quam de Ypoycaria.</quote> Melius infra : <hi rend="i">Ypothecaria</hi> ; pro <hi rend="i">Apothecarii</hi> seu pharmacopolæ officina. Vide <ref target="YPOTHECARIUS">Ypothecarius</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPROBARE">
+        <dictScrap xml:id="YPROBARE-1"><form rend="b">YPROBARE</form>. Improbare : <oVar>Yprobare</oVar>, <foreign xml:lang="fro">desprover</foreign>. <bibl>Lex. Lat. Gal. Bibl. Ebroic. n. 23, <num>xiii.</num> s.</bibl></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YPSIVREMETA">
+        <dictScrap xml:id="YPSIVREMETA-1"><form rend="b">YPSIVREMETA</form>, ex Gr. <foreign xml:lang="grc">ὑψιϐρεμέτης</foreign>, Altitonans. Epitaphium Crescentii, qui obiit ann. 1010. apud Baronium ann. 996. n. 11 : <quote xml:lang="lat"><l>Dic rogo, dic lacrimis pietatis clausula, Jesu,</l><l>  Parce tuo famulo Ypsivremeta pie.</l></quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YPULTIO">
+        <dictScrap xml:id="YPULTIO-1"><form rend="b">YPULTIO</form>, Impulsio : <oVar>Ypultio</oVar>, <foreign xml:lang="fro">haitement</foreign>. <bibl>Lex. Lat. Gal. Bibl. Ebroic. n. 23, <num>xiii.</num> s.</bibl></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YRANEA">
+        <dictScrap xml:id="YRANEA-1"><form rend="b">YRANEA</form>. Aranea : <quote xml:lang="lat">Et reperte fuerunt ab infra circum circa lymacie <pb n="424"/> <cb n="424a"/> et <oVar>Aranee</oVar>.</quote> <bibl><persName type="author">Chevalier</persName>, Visit. episc. Gratianop. p. 57.</bibl></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YRCINUS">
+        <dictScrap xml:id="YRCINUS-1"><form rend="b">YRCINUS</form>. Hircinus : <quote xml:lang="lat">Barba <oVar>Yrcina</oVar>, paucorum pilorum ; spadoni enim similatur.</quote> <bibl>B. N. ms. lat. 16089, f. <num>110<hi rend="sup">b</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YRCUS">
+        <dictScrap xml:id="YRCUS-1"><form rend="b">YRCUS</form>, pro Hircus. Statuta Arelat. MSS. art. 37 : <quote xml:lang="lat">Et pro quolibet porco et porca, ove seu mutone, Yrco et capra dent 11. den.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YRENEUS">
+        <dictScrap xml:id="YRENEUS-1"><form rend="b">YRENEUS</form>, Pacificus, Gr. <foreign xml:lang="grc">εἰρηνιϰός</foreign>. Acta S. Frederici tom. 4. Jul. pag. 461 : <quote xml:lang="lat">Episcopum oportet esse irreprehensibilem, sobrium,... doctorem, Yreneum, non vinolentum, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YRIAS">
+        <dictScrap xml:id="YRIAS-1"><form rend="b">YRIAS</form>. Indiculus superstitionum et Paganiarum cap. 24 : <quote xml:lang="lat">De pagano cursu, quem Yrias nominant, scissis pannis, vel calceis.</quote></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YRONICE">
+        <dictScrap xml:id="YRONICE-1"><form rend="b">YRONICE</form>. Ironice : <quote xml:lang="lat">De aliis obloquens <oVar>Yronice</oVar>.</quote> <bibl>B. N. ms. lat. 16089, f. <num>110<hi rend="sup">b</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YRSUTUS">
+        <dictScrap xml:id="YRSUTUS-1"><form rend="b">YRSUTUS</form>. Hirsutus : <quote xml:lang="lat"><oVar>Yrsuta</oVar> nimium et rugosa, cute tamen circumdata exili.</quote> <bibl>B. N. ms. lat. 16089, f. <num>107<hi rend="sup">b</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YSADRA">
+        <dictScrap xml:id="YSADRA-1"><form rend="b">YSADRA</form>, EA. <quote xml:lang="lat"><oVar>Ysadree</oVar> vitree fracte sunt...... in <oVar>Ysadris</oVar> non sunt vitree.</quote> <bibl><persName type="author">Chevalier</persName>, Visit. episc. Gratianop. p. 131.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSARNODORI">
+        <dictScrap xml:id="YSARNODORI-1"><form rend="b">YSARNODORI</form>, Ostium ferreum, lingua Teutonica seu veteri Gallica, ex Vita S. Eugendi tom. 1. Jan. pag. 50. col. 1.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSBERNUS">
+        <dictScrap xml:id="YSBERNUS-1"><form rend="b">YSBERNUS</form>. Vide supra <ref target="YBENNS">Ybenns</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSEMBRUNUS">
+        <dictScrap xml:id="YSEMBRUNUS-1"><form rend="b">YSEMBRUNUS</form>, Panni species. Vide <ref target="ISEMBRUNUS">Isembrunus</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSENGRINI">
+        <dictScrap xml:id="YSENGRINI-1"><form rend="b">YSENGRINI</form>, Populi quidam de quibus in Hist. Viconiensis Monast. apud Marten. tom. 6. Ampl. Collect. col. 303 : <quote xml:lang="lat">Sic Spiritus sunctigratia in vita exstitit debriatus <note>(Ægidius Abbas)</note> ut meruerit pacem inter Ysengrinos et Flaventinos, vel Flampedes in partibus Hollandiæ et Zelandiæ, et Flandriæ, quam nullus hominum attentare quibat, sive Rex, sive Comes, aut Baro reformare.</quote></dictScrap>
+        <dictScrap rend="carpentier" xml:id="YSENGRINI-2">Furnensis tractus in Flandria incolæ, factiosi virtute bellica præstantes sub Philippo Augusto, nostris <foreign xml:lang="fro">Ingrins</foreign> ; quare vero ita appellati, vide in <ref target="ISENGRINUS">Isengrinus</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSHARTUS">
+        <dictScrap xml:id="YSHARTUS-1"><form rend="b">YSHARTUS</form>. Vide mox in <ref target="YSSARTUM">Yssartum</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSHIC">
+        <dictScrap xml:id="YSHIC-1"><form rend="b">YSHIC</form>, <form rend="sc">Yshiguare</form>. Vide <ref target="YCHIGARE">Ychigare</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSHIDA">
+        <dictScrap xml:id="YSHIDA-1"><form rend="b">YSHIDA</form>, Vectigalis species, et maxime illud, quod pro evehendis vinis aliisque mercibus ex aliquo loco persolvitur. Vide supra <ref target="ISSHAC">Isshac</ref>.</dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSICIUS">
+        <dictScrap xml:id="YSICIUS-1"><form rend="b">YSICIUS</form>, Salmo. Vita S. Kentigerni tom. 1. Jan. pag. 820 : <quote xml:lang="lat">Nuntio cum hamo ad ripam fluminis Clyd festinare præcepit, et piscem primo extractum scilicet Ysicium, qui et Salmo dicitur, ad se reportare.</quote> Codex MS. Rames. apud Spelman. : <quote xml:lang="lat">In capite autem Quadragesima, octo fratribus Ysicios, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSITARE">
+        <dictScrap xml:id="YSITARE-1"><form rend="b">YSITARE</form>, Exhaurire, ni fallor. Charta ann. 1293. ex Tabul. Montispessul. : <quote xml:lang="lat">Dominus Raymundus de Polano archidiaconus Fenolheti in ecclesia Narbonensi habens potestatem plenariam..... agotandi scilicet, Ysitandi ac desiccandi stagnum Castri-novi in Narbonesio, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSMIRALLUS">
+        <dictScrap xml:id="YSMIRALLUS-1"><form rend="b">YSMIRALLUS</form>, Smaragdus, Ital. <foreign xml:lang="ita">Smeraldo</foreign>, Gall. <foreign xml:lang="fro">Emeraude</foreign>. Invent. ann. 1314. apud Cl. V. Garamp. in Disquis. de sigil. Garfagn. pag. 87 : <quote xml:lang="lat">Item una mitra solemnis.... cum zaphiris, balatiis, perlis, Ysmirallis, etc.</quote> Vide supra <ref target="ESMARAUDUS">Esmaraudus</ref>, <cb n="424b"/></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSNECA">
+        <dictScrap xml:id="YSNECA-1"><form rend="b">YSNECA</form>, Navigii species, scapha. Nostris <foreign xml:lang="fro">Esneche</foreign> ; idem quod <ref target="NACA1">Naca 1.</ref> Vide in hac voce. Statuta Massil. lib. 4. cap. 1 : <quote xml:lang="lat">Puniatur inde taliter quod pro nave qualibet, et Ysneca, vel coca compellatur dare communi Massiliæ pœnam arbitrio rectoris, vel consulum Massiliæ.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSOLUS">
+        <dictScrap xml:id="YSOLUS-1"><form rend="b">YSOLUS</form>, Parva insula, Gall. <foreign xml:lang="fro">Islot</foreign>. Charta ann. 1258. ex Tabul. S. Victoris Massil. : <quote xml:lang="lat">De meridie de dicto verdono descendit usque ad Ysolum, et de Ysolo in verdono.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSON">
+        <dictScrap xml:id="YSON-1"><form rend="b">YSON</form>. Dialog. creatur. dial. 73 : <quote xml:lang="lat">Yson, dicit Brito, avis est de genere vulturis, alba et minor quam vultur, sed rapacissima.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSOPUM">
+        <dictScrap xml:id="YSOPUM-1"><form rend="b">YSOPUM</form>, Aspersorium, Gall. <foreign xml:lang="fro">Goupillon</foreign>. Vide <ref cRef="FERRATUM">Ferratum</ref> et <ref target="HYSOPUS">Hysopus</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YSOPUS">
+        <dictScrap xml:id="YSOPUS-1"><form rend="b">YSOPUS</form>, <foreign xml:lang="fro">Ysope</foreign>. <bibl>Glos. Lat. Gal. Bibl. Insul. E 36, <num>xv.</num> s.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSOTONUM">
+        <dictScrap xml:id="YSOTONUM-1"><form rend="b">YSOTONUM</form>, ut <hi rend="i">Ysopum</hi>, mendose, ut suspicor, scriptum in Inventario ann. 1341. ex Tabul. S. Victoris Massil. : <quote xml:lang="lat">Item feiratum unum cum Ysotono.</quote></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSPIA">
+        <dictScrap xml:id="YSPIA-1"><form rend="b">YSPIA</form>, Explorator ; unde <hi rend="i">Yspiare</hi>, explorare. Comput. ann. 1362. inter Probat. tom. 2. Hist. Nem. pag. 259. col. 2 : <quote xml:lang="lat">Cum diceretur quod in loco Lunelli erat capta una Yspia, quod vellet eos certifficare de confessione sua, etc.</quote> Ibid. pag. 260. col. 1 : <quote xml:lang="lat">Ad indagandum et Yspiandum quid in patria faciebant inimici.</quote> Vide <ref target="ESPIA">Espia</ref> et <ref target="ISPIA">Ispia</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSSAC">
+        <dictScrap xml:id="YSSAC-1"><form rend="b">YSSAC</form>, Vectigalis species, et maxime illud, quod pro evehendis vinis aliisque mercibus ex aliquo loco persolvitur. Vide supra <ref target="ISSHAC">Isshac</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YSSAROP">
+        <dictScrap xml:id="YSSAROP-1"><form rend="b">YSSAROP</form>, Gall. <foreign xml:lang="fro">Sirop</foreign> : <quote xml:lang="lat">Pro <num>i.</num> libra de <oVar>Yssarop</oVar>... pro pulvere posito in conserva de bryola.</quote> <bibl>Arch. histor. de la Gironde, t. 22. p. 331.</bibl></dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSSARTUM">
+        <dictScrap xml:id="YSSARTUM-1"><form rend="b">YSSARTUM</form>, <form rend="sc">Ysshartum</form>, <form rend="sc">Yshartus</form>, Ager exaratus, dumetis purgatus ; unde <hi rend="i">Ysshartare</hi>, Interlucare silvas, Gall. <foreign xml:lang="fro">Essarter</foreign>. Charta ann. 1341. in Reg. 72. Chartoph. reg. ch. 368 : <quote xml:lang="lat">Idem procurator dicebat quamplurima Yssharta et ignis commissiones quamplurimas in diversis nemoribus et dumis... eos immisisse, et ad novam culturam reduxisse....... Prædictis consulibus <note>(S. Amancii)</note> asserentibus se esse in possessione.... Ysshartandi, extra tamen forestas supradictas, Yssharta et campos faciendi.</quote> Alia ejusd. ann. in Reg. 80. ch. 466 : <quote xml:lang="lat">Quod homines castri sive loci de Cabrayrolis... Yssharta quamplurima... inde fecerant et terras ad culturas redegerant.</quote> Charta ann. 1361. in Reg. 103. ch. 78 : <quote xml:lang="lat">Hæredes Guillelmi Raimundi serviunt unum sextarium frumenti pro quadam Yshartu, loco dicto ad Caverias.</quote> Vide <ref target="EXARTUS">Exartus</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSSEMBRUNUS">
+        <dictScrap xml:id="YSSEMBRUNUS-1"><form rend="b">YSSEMBRUNUS</form>, Panni species. Charta Maurit. Cenoman. episc. ann. 1227. ex Tabul. monial. S. Juliani de Prato : <quote xml:lang="lat">Mantellis etiam non utantur, nisi de præfatis pannis, aut de Yssembruno, aut de essaio de sancto Dionysio.</quote> Vide supra <ref target="ISEMBRUNUS">Isembrunus</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSSERTUS">
+        <dictScrap xml:id="YSSERTUS-1"><form rend="b">YSSERTUS</form>, a Gallico, ut videtur, <hi rend="i">Issue</hi>, Transitus, exitus. Lit. Lancel. de Roya magist. forest. et aquar. in Occit. ann. 1394. ex Reg. 146. Chartoph. reg. ch. 121 : <quote xml:lang="lat">In paxeria molendinorum Badacley Tholosæ nullus erat passus sive Yssertus, per quem dicti querelantes cum suis gabarrotis et parvis navibus navigando<cb n="424c"/> per flumen Guaronæ... libere transire poterant nec valebant... Concedimus licentiam..... in dictis Ysserto sive Ysserthis tendere et pisces regales....... capere.</quote> Vide supra <ref target="PASSUS4">Passus 4</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSSHIDIA">
+        <dictScrap xml:id="YSSHIDIA-1"><form rend="b">YSSHIDIA</form>, <form rend="sc">Yssida</form>, Vectigalis species, et maxime illud, quod pro evehendis vinis aliisque mercibus ex aliquo loco persolvitur. Vide supra <ref target="ISSHAC">Isshac</ref>.</dictScrap>
+      </entry>
+      <entry rend="favre" xml:id="YSTORIA">
+        <dictScrap xml:id="YSTORIA-1"><form rend="b">YSTORIA</form>. <quote xml:lang="lat"><oVar>Ystorias</oVar>, fabulas et comestionis querit habundantiam.</quote> <bibl>B. N. ms. lat. 16089, f. <num>110<hi rend="sup">d</hi></num>.</bibl></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSTORIATUS">
+        <dictScrap xml:id="YSTORIATUS-1"><form rend="b">YSTORIATUS</form>, Intextus figuris, ornatus, Nostris <foreign xml:lang="fro">Historié</foreign>. Inventar. ann. 1416. ex Tabul. S. Victoris Massil. : <quote xml:lang="lat">Cum duobus retaulis desuper Ystoriatis... Item duas postes modicas Ystoriatas nativitatis Domini et Veronissæ.</quote> Vide <ref target="HISTORIATUS">Historiatus</ref>.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YSTRAICUS">
+        <dictScrap xml:id="YSTRAICUS-1"><form rend="b">YSTRAICUS</form>, Funestus. Isidorus Pacensis Episcopus, in Chron. æra 780 : <quote xml:lang="lat">Sed quia nequaquam eam ignorat omnis Hispania, ideo illa minime recensiti tam Ystraica bella ista decrevit historia, quia jam il alia Epitoma qualiter cuncta extiterunt gesta patenter et paginaliter manent nostro stylo conscripta.</quote> Ex Lat. forte <hi rend="i">Oestraicus</hi>. <add rend="henschel">In edit. ann. 1729. <hi rend="i">stragica</hi>, a Strages.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YSTRIO1">
+        <dictScrap xml:id="YSTRIO1-1"><form rend="b"><num>1.</num> YSTRIO</form>, Leno, ut videtur. Statuta Astens. collat. 11. cap. 8. fol. 27. v° : <quote xml:lang="lat">Ystrio, vel publicus lecator, vel publica meretrix.</quote> Vide <ref target="HISTRIONES">Histriones</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YSTRIO2">
+        <dictScrap xml:id="YSTRIO2-1"><form rend="b"><num>2.</num> YSTRIO</form>, pro <hi rend="i">Histrio</hi>, qui buccinas inflabat, vel musica instrumenta pulsabat. Lit. remiss. ann. 1355. in Reg. 84. Chartoph. reg. ch. 470 : <quote xml:lang="lat">Cum Robinus pauper Ystrio sive menestrellus pro ludendo de suo artificio cum corneto ivisset, etc.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YUCA">
+        <dictScrap xml:id="YUCA-1"><form rend="b">YUCA</form>, Plantæ seu radicis species in America. <cit><quote xml:lang="lat">Nemo vel Hispanus vel Indus... faciat azua ex fora cum mistura Yucæ,</quote><lbl> in </lbl><bibl>Synodo Limensi ann. 1585. inter Conc. Hispan. t. 4. p. 426. Occurrit rursum p. 761.</bibl></cit></dictScrap>
+        <dictScrap rend="carpentier" xml:id="YUCA-2">Battata Indica in Diction. Hispan. ad hanc vocem.</dictScrap>
+      </entry>
+      <entry rend="ducange" xml:id="YVERNAGIUM">
+        <dictScrap xml:id="YVERNAGIUM-1"><form rend="b">YVERNAGIUM</form>. Vide <ref target="HYBERNAGIUM">Hybernagium</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YVERNALE">
+        <dictScrap xml:id="YVERNALE-1"><form rend="b">YVERNALE</form>, f. Ager <hi rend="i">yvernagio</hi> seu secali satus. Charta Joan. ducis Bitur. ann. 1401. in Reg. ejusd. ex Cam. Comput. Paris. fol. 179. r° : <quote xml:lang="lat">Molendina nostra... cum eorum saltibus, aquis, ripperiis, exclusis, alberiis, alberiatis, piscaturis, Yvernalibus, aquæductis, etc.</quote> Vide supra <ref target="HYBERNAGIUM">Hybernagium</ref>.</dictScrap>
+      </entry>
+      <entry rend="carpentier" xml:id="YVORYE">
+        <dictScrap xml:id="YVORYE-1"><form rend="b">YVORYE</form>. Joan. Germ. Cabillon. episc. in vita Phil. III. ducis Burg. apud Ludewig. tom. 11. Reliq. MSS. pag. 124 : <quote xml:lang="lat">Jussionem principis completurus per alpes Cottias et montem Jura viam capit, per yporogium, quam Yvorye appellant ad plana Lumbardiæ se confert.</quote> <add rend="henschel">Eporedia, hodie <hi rend="i">Ivrea</hi>.</add></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YYESIA">
+        <dictScrap xml:id="YYESIA-1"><form rend="b">YYESIA</form>, f. Cæcus paterni animi affectus in filium, a Gr. <foreign xml:lang="grc">ὑιός</foreign>, filius. Hugonis Cetelli Epist. 54. tom. 2. Monument. sacr. Antiquit. pag. 411 : <quote xml:lang="lat">Nescis prorsus quid sit Yyesia, vir es discretionis, homo est pacis, nihil inmaniter, nihil inhumaniter agis.</quote></dictScrap>
+      </entry>
+      <entry rend="benedictin" xml:id="YZANES">
+        <dictScrap xml:id="YZANES-1"><form rend="b">YZANES</form>, inter supellectilem lecti recensetur, in Charta Hispanica æræ 1060. apud Ant. <persName type="author">de Yepez</persName> in Chron. Ordin. S. Bened. tom. 5. pag. 435 : <quote xml:lang="fro">Literius 3. Yzanes 2. etc.</quote></dictScrap>
+      </entry>
+    </body>
+  </text>
+</TEI>
