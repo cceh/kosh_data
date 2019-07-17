@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?oxygen RNGSchema="ducange.rng" type="xml"?>
 <?xml-stylesheet type="text/css" href="ducange_tei.css" title="editor"?>
 <!-- ?xml-stylesheet type="text/xsl" href="../transform/ducange_html.xsl" title="editor"? -->
@@ -109,7 +109,7 @@ toute publication dérivée de ses ressources électroniques comporte :
       <pb n="480"/>
       <cb n="480a"/>
       <entry xml:id="K" rend="ducange">
-        <dictScrap xml:id="K-1"><form rend="b">K</form>. <form rend="sc">Littera</form> numeralis, quæ 150. denotat, unde versus : <quote xml:lang="lat">
+        <form><orth type="lemma">K</orth></form><dictScrap xml:id="K-1"><form rend="b">K</form>. <form rend="sc">Littera</form> numeralis, quæ 150. denotat, unde versus : <quote xml:lang="lat">
             <l>K. quoque centenos, et quinquaginta tenebit.</l>
           </quote> Seu, ut habet Ugutio : <quote xml:lang="lat">
             <l>K. centenarium, medium conservat et unum.</l>
@@ -128,7 +128,7 @@ toute publication dérivée de ses ressources électroniques comporte :
           minus notæ aliæ mutationes quas idcirco silebimus.</dictScrap>
       </entry>
       <entry xml:id="KAAGIUM" rend="benedictin">
-        <dictScrap xml:id="KAAGIUM-1"><form rend="b">KAAGIUM</form>, Tributum, quod pro facultate onerandi et exonerandi naves in littore conceditur,
+        <form><orth type="lemma">KAAGIUM</orth></form><dictScrap xml:id="KAAGIUM-1"><form rend="b">KAAGIUM</form>, Tributum, quod pro facultate onerandi et exonerandi naves in littore conceditur,
           nostris <foreign xml:lang="lat">Quaiage</foreign>, a Gall. <foreign xml:lang="lat">Quai</foreign>. Monasticum Anglic. tom. 1. pag. 976 :
             <quote xml:lang="lat">De Kaagio, muragio, paagio, barbicanagio, et de operationibus castrorum,
           etc.</quote> Vide <foreign xml:lang="lat">Caiagium</foreign> in <ref target="CAYA">Caya</ref>.</dictScrap>
@@ -142,16 +142,16 @@ toute publication dérivée de ses ressources électroniques comporte :
           in <ref target="CAYA">Caya</ref> et <ref target="CAIUM">Caium</ref>.</dictScrap>
       </entry>
       <entry xml:id="KABELLUM" rend="carpentier">
-        <dictScrap xml:id="KABELLUM-1"><form rend="b">KABELLUM</form>. Vide <ref target="HABELLUM">Habellum</ref>.</dictScrap>
+        <form><orth type="lemma">KABELLUM</orth></form><dictScrap xml:id="KABELLUM-1"><form rend="b">KABELLUM</form>. Vide <ref target="HABELLUM">Habellum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KADIMIA" rend="carpentier">
-        <dictScrap xml:id="KADIMIA-1"><form rend="b">KADIMIA</form>. Vide infra <ref target="KATIMIA">Katimia</ref>.</dictScrap>
+        <form><orth type="lemma">KADIMIA</orth></form><dictScrap xml:id="KADIMIA-1"><form rend="b">KADIMIA</form>. Vide infra <ref target="KATIMIA">Katimia</ref>.</dictScrap>
       </entry>
       <entry xml:id="KADORISTAS" rend="carpentier">
-        <dictScrap xml:id="KADORISTAS-1"><form rend="b">KADORISTAS</form>, <foreign xml:lang="lat">Inseparabilia</foreign>. Glossar. vet. ex Cod. reg. 7613.</dictScrap>
+        <form><orth type="lemma">KADORISTAS</orth></form><dictScrap xml:id="KADORISTAS-1"><form rend="b">KADORISTAS</form>, <foreign xml:lang="lat">Inseparabilia</foreign>. Glossar. vet. ex Cod. reg. 7613.</dictScrap>
       </entry>
       <entry xml:id="KADRAGESIMA" rend="benedictin">
-        <dictScrap xml:id="KADRAGESIMA-1"><form rend="b">KADRAGESIMA</form>, pro <foreign xml:lang="lat">Quadragesima</foreign>, in Charta Jacobi Regis Aragon. ann. 1228. tom. 8.
+        <form><orth type="lemma">KADRAGESIMA</orth></form><dictScrap xml:id="KADRAGESIMA-1"><form rend="b">KADRAGESIMA</form>, pro <foreign xml:lang="lat">Quadragesima</foreign>, in Charta Jacobi Regis Aragon. ann. 1228. tom. 8.
           Spicileg. Acher. pag. 383.</dictScrap>
         <dictScrap xml:id="KADRAGESIMA-2" rend="favre">
           
@@ -166,24 +166,24 @@ toute publication dérivée de ses ressources électroniques comporte :
         </dictScrap>
       </entry>
       <entry xml:id="KAERE" rend="benedictin">
-        <dictScrap xml:id="KAERE-1"><form rend="b">KAERE</form>, <foreign xml:lang="lat">Cæsar, amicus</foreign>. Gloss. Isidori ; ubi Grævius : Lege <foreign xml:lang="grc">χαῖρε</foreign>, <mentioned>Cæsar, Cæsar ave</mentioned>. Persius in Prologo : <quote xml:lang="lat">Quis expedivit
+        <form><orth type="lemma">KAERE</orth></form><dictScrap xml:id="KAERE-1"><form rend="b">KAERE</form>, <foreign xml:lang="lat">Cæsar, amicus</foreign>. Gloss. Isidori ; ubi Grævius : Lege <foreign xml:lang="grc">χαῖρε</foreign>, <mentioned>Cæsar, Cæsar ave</mentioned>. Persius in Prologo : <quote xml:lang="lat">Quis expedivit
             psittaco suum <foreign xml:lang="grc">χαῖρε</foreign>.</quote> Martialis : <quote xml:lang="lat">
             <l>Psittacus a vobis aliorum nomina discam,</l>
             <l>Hic per me didici dicere, Cæsar ave.</l>
           </quote></dictScrap>
       </entry>
       <entry xml:id="KAESIUS" rend="ducange">
-        <dictScrap xml:id="KAESIUS-1"><form rend="b">KAESIUS</form>, pro <foreign xml:lang="lat">Cæsius</foreign>, Equi color, in vet. Inscriptione, 342.</dictScrap>
+        <form><orth type="lemma">KAESIUS</orth></form><dictScrap xml:id="KAESIUS-1"><form rend="b">KAESIUS</form>, pro <foreign xml:lang="lat">Cæsius</foreign>, Equi color, in vet. Inscriptione, 342.</dictScrap>
       </entry>
       <entry xml:id="KAEYUM" rend="benedictin">
-        <dictScrap xml:id="KAEYUM-1"><form rend="b">KAEYUM</form>, Salictum, Gall. <foreign xml:lang="fro">Saussaie</foreign>. Chartularium S. Vandreg. tom. 1. pag. 976 :
+        <form><orth type="lemma">KAEYUM</orth></form><dictScrap xml:id="KAEYUM-1"><form rend="b">KAEYUM</form>, Salictum, Gall. <foreign xml:lang="fro">Saussaie</foreign>. Chartularium S. Vandreg. tom. 1. pag. 976 :
             <quote xml:lang="lat">Unam pechiam terræ.... sitam in prædicta parochia de Calido-Becco intra Kaeyum
             dictorum Religiosorum in uno latere et terram Johannis le Serrurier in alio.</quote>
           Vide <ref target="KANEIUM">Kaneium</ref>.</dictScrap>
         <dictScrap xml:id="KAEYUM-2" rend="benedictin"><form rend="sc">Kaheir</form>, <form rend="sc">Kaheium</form>, Eadem notione. Vide <ref target="KANEIUM">Kaneium</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAFICIUM" rend="carpentier">
-        <dictScrap xml:id="KAFICIUM-1"><form rend="b">KAFICIUM</form>, Idem quod <ref target="CAFICIUM">Caficium</ref>, Mensuræ frumentariæ apud Hispanos species,
+        <form><orth type="lemma">KAFICIUM</orth></form><dictScrap xml:id="KAFICIUM-1"><form rend="b">KAFICIUM</form>, Idem quod <ref target="CAFICIUM">Caficium</ref>, Mensuræ frumentariæ apud Hispanos species,
           nostris, <foreign xml:lang="lat">Kafis</foreign>. Charta ann. 1317. in Reg. 54. Chartoph. reg. fol. 36. r°. :
             <quote xml:lang="lat">Dominus rex confirmavit donationem...... de quinquaginta Kaficiis tritici ad
             mensuram Pampilonensem.</quote> Stat. pro reformat. regni Navar. ann. 1322. in Reg. A.
@@ -200,53 +200,53 @@ toute publication dérivée de ses ressources électroniques comporte :
             rouo iiij. quartalia, etc.</quote> Pluries ibi.</dictScrap>
       </entry>
       <entry xml:id="KAIA" rend="carpentier">
-        <dictScrap xml:id="KAIA-1"><form rend="b">KAIA</form>, Domus, apud Spelman. et <name>Blount</name>. Glossar. S. Germ. Prat. sign. 501 :
+        <form><orth type="lemma">KAIA</orth></form><dictScrap xml:id="KAIA-1"><form rend="b">KAIA</form>, Domus, apud Spelman. et <name>Blount</name>. Glossar. S. Germ. Prat. sign. 501 :
             <gloss>Cancelli, <oVar>Kai</oVar>.</gloss> Vide supra <ref cRef="CAIA">Caia</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAIAGIUM" rend="benedictin">
-        <dictScrap xml:id="KAIAGIUM-1"><form rend="b">KAIAGIUM</form>, <form rend="sc">Kailagium</form>, Idem quod <ref target="KAAGIUM">Kaagium</ref>. Litteræ Ricardi II. Regis
+        <form><orth type="lemma">KAIAGIUM</orth></form><dictScrap xml:id="KAIAGIUM-1"><form rend="b">KAIAGIUM</form>, <form rend="sc">Kailagium</form>, Idem quod <ref target="KAAGIUM">Kaagium</ref>. Litteræ Ricardi II. Regis
           Angliæ ann. 1379. apud Rymer. tom. 7. pag. 221 : <quote xml:lang="lat">Semper hactenus quieti esse
             consueverant de Theolonio, pontagio, muragio, pavagio.... Kailagio..... theolonii,
             pontagii... Kaiagii, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KAIUM" rend="carpentier">
-        <dictScrap xml:id="KAIUM-1"><form rend="b">KAIUM</form>, Lapideus ad fluvii ripam agger, Gall. <foreign xml:lang="lat">Quai</foreign>. Lit. Alfonsi comit. Pictav.
+        <form><orth type="lemma">KAIUM</orth></form><dictScrap xml:id="KAIUM-1"><form rend="b">KAIUM</form>, Lapideus ad fluvii ripam agger, Gall. <foreign xml:lang="lat">Quai</foreign>. Lit. Alfonsi comit. Pictav.
           ann. 1269. in Reg. 11. Chartoph. reg. fol. 44. r°. : <quote xml:lang="lat">Pro Kaio aquæ Wltin reficiendo
             sex denarios ab eisdem mercatoribus exigunt.</quote> Vide <ref target="CAYA">Caya</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAKENUS" rend="carpentier">
-        <dictScrap xml:id="KAKENUS-1"><form rend="b">KAKENUS</form>, <foreign xml:lang="lat">Arabice, Cignus</foreign>, in Glossar. Medic. MS. Simon. Januens. ex Cod. reg.
+        <form><orth type="lemma">KAKENUS</orth></form><dictScrap xml:id="KAKENUS-1"><form rend="b">KAKENUS</form>, <foreign xml:lang="lat">Arabice, Cignus</foreign>, in Glossar. Medic. MS. Simon. Januens. ex Cod. reg.
         6959.</dictScrap>
       </entry>
       <entry xml:id="KAKER" rend="benedictin">
-        <dictScrap xml:id="KAKER-1"><form rend="b">KAKER</form>, vox Germanica quæ opprobrium sonat, Flandris <foreign xml:lang="lat">Kacker</foreign>. Laur. Byzinius de
+        <form><orth type="lemma">KAKER</orth></form><dictScrap xml:id="KAKER-1"><form rend="b">KAKER</form>, vox Germanica quæ opprobrium sonat, Flandris <foreign xml:lang="lat">Kacker</foreign>. Laur. Byzinius de
           Origine Belli Hussitici apud Ludewig. tom. 6. Reliq. MSS. pag. 168 : <quote xml:lang="lat">Hi ergo
             quotidie in vertice montis supra flumen, ex opposito Monasterii sanctæ <pb n="481"/>
             <cb n="481a"/> Crucis et Ecclesiæ S. Valentini stantes contra civitatem ha ! ha ! hus !
             hus ! Kaker ! Kaker ! velut canes ululabant.</quote></dictScrap>
       </entry>
       <entry xml:id="KAKIA" rend="carpentier">
-        <dictScrap xml:id="KAKIA-1"><form rend="b">KAKIA</form>, a Græco <foreign xml:lang="grc">ϰαϰία</foreign>, Malitia, apud Fridegod. in vita
+        <form><orth type="lemma">KAKIA</orth></form><dictScrap xml:id="KAKIA-1"><form rend="b">KAKIA</form>, a Græco <foreign xml:lang="grc">ϰαϰία</foreign>, Malitia, apud Fridegod. in vita
           S. Wilfr. sæc. 3. Bened. part. 1. pag. 185 : <quote xml:lang="lat">
             <l>Non contenta suæ virus fudisse Kakiæ, etc.</l>
           </quote></dictScrap>
       </entry>
       <entry xml:id="KAKIMIA" rend="benedictin">
-        <dictScrap xml:id="KAKIMIA-1"><form rend="b">KAKIMIA</form>, vox Chimica. <hi rend="i">Est</hi>, inquit Rochus <foreign xml:lang="fro">le Baillif</foreign>, in Dictionariolo
+        <form><orth type="lemma">KAKIMIA</orth></form><dictScrap xml:id="KAKIMIA-1"><form rend="b">KAKIMIA</form>, vox Chimica. <hi rend="i">Est</hi>, inquit Rochus <foreign xml:lang="fro">le Baillif</foreign>, in Dictionariolo
           Spagyr. <foreign xml:lang="lat">cujuscumque metalli immatura minera, quæ adhuc in primo suo ente consistit, ut
             infans in utero matris suæ</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KAKO" rend="henschel">
-        <dictScrap xml:id="KAKO-1"><form rend="b">KAKO</form>, Columna infamis, ad quam malefici spectandi populo exponuntur, Germ. <foreign xml:lang="gmh">Kaak</foreign>.
+        <form><orth type="lemma">KAKO</orth></form><dictScrap xml:id="KAKO-1"><form rend="b">KAKO</form>, Columna infamis, ad quam malefici spectandi populo exponuntur, Germ. <foreign xml:lang="gmh">Kaak</foreign>.
           Vide Haltaus. Glossar. German. in hac voce, col. 1056. Vetus Liber Erfurt. : <gloss>Item
             idem advocatus habet facere seu fieri patibulum, domum lictoris, <oVar>Kakonem</oVar>,
         etc.</gloss></dictScrap>
       </entry>
       <entry xml:id="KALCANDACH" rend="benedictin">
-        <dictScrap xml:id="KALCANDACH-1"><form rend="b">KALCANDACH</form>. Vide <ref target="KALENDAE">Kalendæ</ref>.</dictScrap>
+        <form><orth type="lemma">KALCANDACH</orth></form><dictScrap xml:id="KALCANDACH-1"><form rend="b">KALCANDACH</form>. Vide <ref target="KALENDAE">Kalendæ</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALCULUM" rend="benedictin">
-        <dictScrap xml:id="KALCULUM-1"><form rend="b">KALCULUM</form>, <foreign xml:lang="lat">Kartulum quo mortui afferuntur alibi</foreign>. Gloss. Isid. ubi Grævius : Pro
+        <form><orth type="lemma">KALCULUM</orth></form><dictScrap xml:id="KALCULUM-1"><form rend="b">KALCULUM</form>, <foreign xml:lang="lat">Kartulum quo mortui afferuntur alibi</foreign>. Gloss. Isid. ubi Grævius : Pro
             <foreign xml:lang="lat">Kartulum</foreign> lege <foreign xml:lang="lat">Capulum</foreign>, aut <foreign xml:lang="lat">Kapulum</foreign>. Nam capulus est sarcophagus. In
           Papia æque corrupte legitur, <foreign xml:lang="lat">Kalculum in quo mortui deferuntur, vel vestimentum
             detritum seu linteum</foreign>. Nec minus in Glossis Arabico-Latinis, pro <foreign xml:lang="lat">Cattulum,
@@ -254,14 +254,14 @@ toute publication dérivée de ses ressources électroniques comporte :
             <foreign xml:lang="lat">efferuntur</foreign>. Vide <ref target="KALTULUM">Kaltulum</ref>. <add rend="carpentier">Vide supra <ref target="CAPULUS2">Capulus 2.</ref></add></dictScrap>
       </entry>
       <entry xml:id="KALENDA1" rend="carpentier">
-        <dictScrap xml:id="KALENDA1-1"><form rend="b"><num>1.</num> KALENDA</form>, Congregatio cujusdam piæ societatis Hallensis, quæ <foreign xml:lang="lat">Kalendis</foreign> singulorum
+        <form><orth type="lemma">KALENDA</orth><num>1.</num></form><dictScrap xml:id="KALENDA1-1"><form rend="b"><num>1.</num> KALENDA</form>, Congregatio cujusdam piæ societatis Hallensis, quæ <foreign xml:lang="lat">Kalendis</foreign> singulorum
           mensium potissime conveniebat. <foreign xml:lang="lat">Kalende</foreign>, eadem acceptione, in Charta ann. 1339. ex
           Reg. 71. Chartoph. reg. ch. 234 : <quote xml:lang="fro">Oye et entendue la supplication des confreres et
             sœurs de la confrairie de la Kalende d'Avrenchin, etc.</quote> Vide supra <foreign xml:lang="lat">Fratres
             Kalendarum</foreign> in <ref target="FRATER">Frater</ref> et post <foreign xml:lang="lat">Kalendæ</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KALENDA2" rend="carpentier">
-        <dictScrap xml:id="KALENDA2-1"><form rend="b"><num>2.</num> KALENDA</form>, Martyrologium, cui addebantur obituarium et ordo officii peragendi. Reg. visitat.
+        <form><orth type="lemma">KALENDA</orth><num>2.</num></form><dictScrap xml:id="KALENDA2-1"><form rend="b"><num>2.</num> KALENDA</form>, Martyrologium, cui addebantur obituarium et ordo officii peragendi. Reg. visitat.
           Odon. archiep. Rotomag. ex Cod. reg. 1245. fol. 574 : <quote xml:lang="lat">Præcipimus quod matriculam
             seu Kalendam cotidie legi facerent.</quote> Stat. ant. eccl. cathed. S. Petri Redon.
           cap. 6. ex Cod. reg. 9612. L. : <quote xml:lang="lat">Ultimo receptus canonicus tenebitur Calendam
@@ -275,17 +275,17 @@ toute publication dérivée de ses ressources électroniques comporte :
             Natalitia Sanctorum pronuntiabit.</quote> Vide <ref target="KALENDARIUM2">Kalendarium 2</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALENDA3" rend="carpentier">
-        <dictScrap xml:id="KALENDA3-1"><form rend="b"><num>3.</num> KALENDA</form>, Initium cujusvis rei, puta, Locus ubi territorium aliquod incipit. Charta Andr.
+        <form><orth type="lemma">KALENDA</orth><num>3.</num></form><dictScrap xml:id="KALENDA3-1"><form rend="b"><num>3.</num> KALENDA</form>, Initium cujusvis rei, puta, Locus ubi territorium aliquod incipit. Charta Andr.
           reg. Hungar. ann. 1214. inter Probat. tom. 2. Annal. Præmonstr. col. 19 : <quote xml:lang="lat">Cujus
             prædii primæ metæ incipiunt a Kalenda Vidze.... Veniunt iterum ad primas metas in loco
             superius nominato, Kalendaviz <note>(sic)</note> nominatæ.</quote></dictScrap>
       </entry>
       <entry xml:id="KALENDA4" rend="benedictin">
-        <dictScrap xml:id="KALENDA4-1"><form rend="b"><num>4.</num> KALENDA</form>. Vide post
+        <form><orth type="lemma">KALENDA</orth><num>4.</num></form><dictScrap xml:id="KALENDA4-1"><form rend="b"><num>4.</num> KALENDA</form>. Vide post
         <ref target="KALENDAE">Kalendæ</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALENDAE" rend="ducange">
-        <dictScrap xml:id="KALENDAE-1"><form rend="b">KALENDÆ</form>, seu <form rend="i">Festum Kalendarum</form>, Wlug Beigo in Epochis cap. 7. <form rend="i">Festum Kalcandach</form> ; ita appellant Scriptores, publicas illas ac 
+        <form><orth type="lemma">KALENDÆ</orth></form><dictScrap xml:id="KALENDAE-1"><form rend="b">KALENDÆ</form>, seu <form rend="i">Festum Kalendarum</form>, Wlug Beigo in Epochis cap. 7. <form rend="i">Festum Kalcandach</form> ; ita appellant Scriptores, publicas illas ac 
           superstitiosas lætitias, quas
           Kalendis Januarii, quibus annus aperitur, exhibuere primum Gentiles, usurpavere etiam
           postmodum Christiani, et quas utrique indecoris choreis, mulierumque aut ferarum assumptis
@@ -832,7 +832,7 @@ toute publication dérivée de ses ressources électroniques comporte :
         <ref target="ANNUS">Annus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALENDARES" rend="benedictin">
-        <dictScrap xml:id="KALENDARES-1"><form rend="b">KALENDARES <seg>Menses</seg></form>, Qui a Kalendis ad finem usque numerabantur, menses integri. Notum est Scriptores
+        <form><orth type="lemma">KALENDARES Menses</orth></form><dictScrap xml:id="KALENDARES-1"><form rend="b">KALENDARES <seg>Menses</seg></form>, Qui a Kalendis ad finem usque numerabantur, menses integri. Notum est Scriptores
           post annum 1000. menses integros in duas distinxisse partes, quarum prima a Kalendis
           incipiebat ; altera a die decimo sexto. <hi rend="i">Kalendares</hi> itaque <mentioned>menses</mentioned> dicebant,
           cum menses integros, nulla adhibita divisione, significare ipsis animus erat : ita, ni
@@ -841,12 +841,12 @@ toute publication dérivée de ses ressources électroniques comporte :
             Kalendares efficaciter observari.</quote> Vide <ref target="MENSIS">Mensis</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALENDARIS" rend="benedictin">
-        <dictScrap xml:id="KALENDARIS-1"><form rend="b">KALENDARIS</form>, Anni initium. Tabularium Casæ Dei : <quote xml:lang="lat">Dono duos mansos... ex quibus exeunt
+        <form><orth type="lemma">KALENDARIS</orth></form><dictScrap xml:id="KALENDARIS-1"><form rend="b">KALENDARIS</form>, Anni initium. Tabularium Casæ Dei : <quote xml:lang="lat">Dono duos mansos... ex quibus exeunt
             duo agni censi et duo solidi inter Kalendares et paschales et majenses et meisonegs et
             duo cartales avenæ.</quote></dictScrap>
       </entry>
       <entry xml:id="KALENDARIUM1" rend="ducange">
-        <dictScrap xml:id="KALENDARIUM1-1"><form rend="b"><num>1.</num> KALENDARIUM</form>, Data, temporis nota. Fori Aragon. lib. 3. de Fide instrumentor. : <quote xml:lang="lat">Notarius
+        <form><orth type="lemma">KALENDARIUM</orth><num>1.</num></form><dictScrap xml:id="KALENDARIUM1-1"><form rend="b"><num>1.</num> KALENDARIUM</form>, Data, temporis nota. Fori Aragon. lib. 3. de Fide instrumentor. : <quote xml:lang="lat">Notarius
             quilibet teneatur scribere in principio cujuslibet instrumenti duas lineas de sua
             propria manu, et nihilominus testium nomina per literas extensas, et Calendarium,
           etc.</quote> Adde lib. 4. de Tabellion. et tit. de Depositis et Observantias Regni Aragon.
@@ -860,14 +860,14 @@ toute publication dérivée de ses ressources électroniques comporte :
           1404. ex Reg. 159. Chartoph. reg. ch. 218.</dictScrap>
       </entry>
       <entry xml:id="KALENDARIUM2" rend="benedictin">
-        <dictScrap xml:id="KALENDARIUM2-1"><form rend="b"><num>2.</num> KALENDARIUM</form>, Martyrologium. <cb n="485c"/> Ordinarium Canon. Regul. S. Laudi Rotomag. ad
+        <form><orth type="lemma">KALENDARIUM</orth><num>2.</num></form><dictScrap xml:id="KALENDARIUM2-1"><form rend="b"><num>2.</num> KALENDARIUM</form>, Martyrologium. <cb n="485c"/> Ordinarium Canon. Regul. S. Laudi Rotomag. ad
           calcem libri Johan. Abrinc. de Offic. Eccl. pag. 292 : <quote xml:lang="lat">Sicque facto signo, surgant,
             capitulum intrent, ubi pronuntiato Kalendario, isti Sancti et omnes alii, etc.</quote>
           Hinc etiamnum Moniales S. Petri de Casis in Arvernia martyrologium vocant <foreign xml:lang="fro">La
           Calande</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KALENDARIUM3" rend="benedictin">
-        <dictScrap xml:id="KALENDARIUM3-1"><form rend="b"><num>3.</num> KALENDARIUM</form>, Catalogus, index. Conventus Episcoporum apud Caspem ann. 1412. tom. 3. Conc.
+        <form><orth type="lemma">KALENDARIUM</orth><num>3.</num></form><dictScrap xml:id="KALENDARIUM3-1"><form rend="b"><num>3.</num> KALENDARIUM</form>, Catalogus, index. Conventus Episcoporum apud Caspem ann. 1412. tom. 3. Conc.
           Hisp. pag. 645 : <quote xml:lang="lat">Qui de auctoritate, facultate et potestate dictorum dominorum
             deputatorum et aliis per Calendaria tactis et expressatis... facimus authenticam et
             veredicam fidem.</quote>
@@ -878,13 +878,13 @@ toute publication dérivée de ses ressources électroniques comporte :
               cxj. sol.</quote></add></dictScrap>
       </entry>
       <entry xml:id="KALENDARIUM4" rend="favre">
-        <dictScrap xml:id="KALENDARIUM4-1"><form rend="b"><num>4.</num> KALENDARIUM</form>. Gallice <foreign xml:lang="lat">Calendrier</foreign> : <quote xml:lang="lat">Data per manus
+        <form><orth type="lemma">KALENDARIUM</orth><num>4.</num></form><dictScrap xml:id="KALENDARIUM4-1"><form rend="b"><num>4.</num> KALENDARIUM</form>. Gallice <foreign xml:lang="lat">Calendrier</foreign> : <quote xml:lang="lat">Data per manus
             Bornonis monachi, in mense januario, in <oVar>Kalendario</oVar> Quinto
             <oVar>Kalendas</oVar> febroarii. (Cartul. S. Audr. Vienn. ed. Chevalier, p. 199, an.
             1081.</quote>)</dictScrap>
       </entry>
       <entry xml:id="KALENDARIUS1" rend="benedictin">
-        <dictScrap xml:id="KALENDARIUS1-1"><form rend="b"><num>1.</num> KALENDARIUS <seg>Dies</seg></form>, Primus cujuslibet mensis. Guidonis Discipl. Farfensis cap. 39 : <quote xml:lang="lat">Si vero
+        <form><orth type="lemma">1. KALENDARIUS Dies</orth></form><dictScrap xml:id="KALENDARIUS1-1"><form rend="b"><num>1.</num> KALENDARIUS <seg>Dies</seg></form>, Primus cujuslibet mensis. Guidonis Discipl. Farfensis cap. 39 : <quote xml:lang="lat">Si vero
             Dies Kalendarius secunda et tertia vel quarta feria venerit, incipiant responsorium de
             Prophetis anteriore die Dominica, similiter et lectiones de Propheta.</quote></dictScrap>
         <dictScrap xml:id="KALENDARIUS1-2" rend="benedictin"><form rend="sc">Kalendarius</form>, pro quovis die mensis. Vita S. Menelei Abb. tom. 5. Julii pag. 319 : <quote xml:lang="lat">Et
@@ -892,105 +892,105 @@ toute publication dérivée de ses ressources électroniques comporte :
         Kalendario.</quote></dictScrap>
       </entry>
       <entry xml:id="KALENDARIUS2" rend="benedictin">
-        <dictScrap xml:id="KALENDARIUS2-1"><form rend="b"><num>2.</num> KALENDARIUS</form>. <foreign xml:lang="lat">Calendariorum</foreign> in quadam inscriptione veteri quam cum cæteris in Hispania
+        <form><orth type="lemma">KALENDARIUS</orth><num>2.</num></form><dictScrap xml:id="KALENDARIUS2-1"><form rend="b"><num>2.</num> KALENDARIUS</form>. <foreign xml:lang="lat">Calendariorum</foreign> in quadam inscriptione veteri quam cum cæteris in Hispania
           repertis Adolphus Occo medicus Augustanus edidit, pag. 2. n. 9. mentio fit. Quos non alios
           fuisse existimo quam qui in Theodosiano codice lib. 12. tit. 11. <foreign xml:lang="lat">Calendarii
           curatores</foreign> appellantur, et quorum munus <foreign xml:lang="lat">Kalendarii curatio</foreign> Arcadio JC. L. 18. §
           2. D. de muneribus et honoribus (50, 4.) dicitur. Ita Faber in Thesauro.</dictScrap>
       </entry>
       <entry xml:id="KALENDATICUM" rend="ducange">
-        <dictScrap xml:id="KALENDATICUM-1"><form rend="b">KALENDATICUM</form>, Præstatio, quæ Januarii Kalendis fiebat. Charta Rogerii Siciliæ Regis ann. 1187.
+        <form><orth type="lemma">KALENDATICUM</orth></form><dictScrap xml:id="KALENDATICUM-1"><form rend="b">KALENDATICUM</form>, Præstatio, quæ Januarii Kalendis fiebat. Charta Rogerii Siciliæ Regis ann. 1187.
           apud Falconem Beneventanum pag. 315 : <quote xml:lang="lat">Angarias, terraticum, herbaticum, carnaticum,
             Kalendaticum, vinum, olivas, relevum, etc. <foreign xml:lang="grc">Καλανδιϰόν</foreign>,</quote> in Justiniani edicto 13.</dictScrap>
       </entry>
       <entry xml:id="KALENDATIM" rend="benedictin">
-        <dictScrap xml:id="KALENDATIM-1"><form rend="b">KALENDATIM</form>, Per Kalendas. Vita S. Gregorii. PP. tom. 2. Martii pag. 147 : <quote xml:lang="lat">Ubi
+        <form><orth type="lemma">KALENDATIM</orth></form><dictScrap xml:id="KALENDATIM-1"><form rend="b">KALENDATIM</form>, Per Kalendas. Vita S. Gregorii. PP. tom. 2. Martii pag. 147 : <quote xml:lang="lat">Ubi
             Kalendatim diversas species erogat.</quote></dictScrap>
       </entry>
       <entry xml:id="KALENDATUS" rend="ducange">
-        <dictScrap xml:id="KALENDATUS-1"><form rend="b">KALENDATUS</form>, Kalendis, seu die ac anno notatus, in Translat. S. Angeli Carmelitæ apud
+        <form><orth type="lemma">KALENDATUS</orth></form><dictScrap xml:id="KALENDATUS-1"><form rend="b">KALENDATUS</form>, Kalendis, seu die ac anno notatus, in Translat. S. Angeli Carmelitæ apud
           Papebrochium, <add rend="benedictin">et in Conc. Hispan. tom. 4. pag.
               462.</add></dictScrap>
       </entry>
       <entry xml:id="KALENGIA" rend="carpentier">
-        <dictScrap xml:id="KALENGIA-1"><form rend="b">KALENGIA</form>, Actio in jure, qua quis rem suam repetit. Bulla Urbani PP. III. ann. 1186. inter
+        <form><orth type="lemma">KALENGIA</orth></form><dictScrap xml:id="KALENGIA-1"><form rend="b">KALENGIA</form>, Actio in jure, qua quis rem suam repetit. Bulla Urbani PP. III. ann. 1186. inter
           Instr. tom. 11. Gall. Christ. col. 247 : <quote xml:lang="lat">Omnia quæ de Kalengiis suis relaxavit
             infra burgum Exaquii et in vicinia tota, et in aliis locis et villis eidem
             pertinentibus, libera et quieta. V.</quote>
           <ref target="CALLENGIA">Callengia</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALIBS" rend="benedictin">
-        <dictScrap xml:id="KALIBS-1"><form rend="b">KALIBS</form>. Gloss. Isidori : <gloss><oVar>Karibs</oVar>, furca pœnalis, alias <oVar>Kalibs</oVar>.</gloss></dictScrap>
+        <form><orth type="lemma">KALIBS</orth></form><dictScrap xml:id="KALIBS-1"><form rend="b">KALIBS</form>. Gloss. Isidori : <gloss><oVar>Karibs</oVar>, furca pœnalis, alias <oVar>Kalibs</oVar>.</gloss></dictScrap>
       </entry>
       <entry xml:id="KALKATORIUM" rend="benedictin">
-        <dictScrap xml:id="KALKATORIUM-1"><form rend="b">KALKATORIUM</form>, <foreign xml:lang="lat">a calcando dictum, id est, torcular</foreign>. Gloss. MS. Sangerm. Vide
+        <form><orth type="lemma">KALKATORIUM</orth></form><dictScrap xml:id="KALKATORIUM-1"><form rend="b">KALKATORIUM</form>, <foreign xml:lang="lat">a calcando dictum, id est, torcular</foreign>. Gloss. MS. Sangerm. Vide
             <ref target="CALCATORIUM">Calcatorium</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALO" rend="benedictin">
-        <dictScrap xml:id="KALO-1"><form rend="b">KALO</form>, <foreign xml:lang="lat">Negotiator</foreign>. Papias et Gloss. MS. Sangerman. n. 501. <foreign xml:lang="fro">Kalo, Porteur de
+        <form><orth type="lemma">KALO</orth></form><dictScrap xml:id="KALO-1"><form rend="b">KALO</form>, <foreign xml:lang="lat">Negotiator</foreign>. Papias et Gloss. MS. Sangerman. n. 501. <foreign xml:lang="fro">Kalo, Porteur de
             buche</foreign>, in Gloss. Lat. Gall. Sangerm. Vide <ref target="CALONES">Calones</ref>. <pb n="486"/>
           <cb n="486a"/></dictScrap>
       </entry>
       <entry xml:id="KALODAEMON" rend="carpentier">
-        <dictScrap xml:id="KALODAEMON-1"><form rend="b">KALODÆMON</form>. Vide supra <ref target="CALODAEMON">Calodæmon</ref>.</dictScrap>
+        <form><orth type="lemma">KALODÆMON</orth></form><dictScrap xml:id="KALODAEMON-1"><form rend="b">KALODÆMON</form>. Vide supra <ref target="CALODAEMON">Calodæmon</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALONES" rend="benedictin">
-        <dictScrap xml:id="KALONES-1"><form rend="b">KALONES</form>, <foreign xml:lang="lat">Gallicæ militum</foreign>. Gloss. Isid. ubi Grævius : <oVar>Calones,</oVar> teste
+        <form><orth type="lemma">KALONES</orth></form><dictScrap xml:id="KALONES-1"><form rend="b">KALONES</form>, <foreign xml:lang="lat">Gallicæ militum</foreign>. Gloss. Isid. ubi Grævius : <oVar>Calones,</oVar> teste
           Festo, sunt calcei ex ligno facti. <foreign xml:lang="lat">Gallicæ</foreign> sunt calcei militares, ut superius
           vidimus, qui antiquioribus <foreign xml:lang="lat">Caligæ</foreign> nominantur. Potuisset tamen etiam scribere
           Isidorus, <foreign xml:lang="lat">Calones, caculæ militum</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KALOPODES" rend="carpentier">
-        <dictScrap xml:id="KALOPODES-1"><form rend="b">KALOPODES</form>. Vide supra in <ref target="CALOPEDES-3">Calopedia</ref>.</dictScrap>
+        <form><orth type="lemma">KALOPODES</orth></form><dictScrap xml:id="KALOPODES-1"><form rend="b">KALOPODES</form>. Vide supra in <ref target="CALOPEDES-3">Calopedia</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALT" rend="carpentier">
-        <dictScrap xml:id="KALT-1"><form rend="b">KALT</form>, Frigidus, apud Schilter. in Glossar. Teuton. ad v. <foreign xml:lang="gmh">Chalt</foreign>.</dictScrap>
+        <form><orth type="lemma">KALT</orth></form><dictScrap xml:id="KALT-1"><form rend="b">KALT</form>, Frigidus, apud Schilter. in Glossar. Teuton. ad v. <foreign xml:lang="gmh">Chalt</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KALTELUS" rend="carpentier">
-        <dictScrap xml:id="KALTELUS-1"><form rend="b">KALTELUS</form>, <foreign xml:lang="lat">Benivolo</foreign>, in Glossar. Lat. Ital. Ms.</dictScrap>
+        <form><orth type="lemma">KALTELUS</orth></form><dictScrap xml:id="KALTELUS-1"><form rend="b">KALTELUS</form>, <foreign xml:lang="lat">Benivolo</foreign>, in Glossar. Lat. Ital. Ms.</dictScrap>
       </entry>
       <entry xml:id="KALTULUM" rend="benedictin">
-        <dictScrap xml:id="KALTULUM-1"><form rend="b">KALTULUM</form>, <foreign xml:lang="lat">In quo mortui deferuntur, vel vestimentum detritum seu lineum</foreign>. Papias MS.
+        <form><orth type="lemma">KALTULUM</orth></form><dictScrap xml:id="KALTULUM-1"><form rend="b">KALTULUM</form>, <foreign xml:lang="lat">In quo mortui deferuntur, vel vestimentum detritum seu lineum</foreign>. Papias MS.
           Eccl. Bitur. et Gloss. MS. Sangerm. n. 501. Vide <ref target="KALCULUM">Kalculum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KALVARES" rend="benedictin">
-        <dictScrap xml:id="KALVARES-1"><form rend="b">KALVARES</form>, <foreign xml:lang="lat">Aquæ sunt</foreign>. Papias.</dictScrap>
+        <form><orth type="lemma">KALVARES</orth></form><dictScrap xml:id="KALVARES-1"><form rend="b">KALVARES</form>, <foreign xml:lang="lat">Aquæ sunt</foreign>. Papias.</dictScrap>
       </entry>
       <entry xml:id="KALUMNIA" rend="benedictin">
-        <dictScrap xml:id="KALUMNIA-1"><form rend="b">KALUMNIA</form>
+        <form><orth type="lemma">KALUMNIA</orth></form><dictScrap xml:id="KALUMNIA-1"><form rend="b">KALUMNIA</form>
           <foreign xml:lang="lat">per K scribendum, quod est jurgium, lis, etc</foreign>. Papias. Vide
         <ref target="CALUMNIA1-14">Calumnia</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAMAHUTUS" rend="benedictin">
-        <dictScrap xml:id="KAMAHUTUS-1"><form rend="b">KAMAHUTUS</form>, Sardonyx, Gallis <foreign xml:lang="fro">Camayeu</foreign>, in Inventario Ecclesiæ S. Pauli Londin. ann.
+        <form><orth type="lemma">KAMAHUTUS</orth></form><dictScrap xml:id="KAMAHUTUS-1"><form rend="b">KAMAHUTUS</form>, Sardonyx, Gallis <foreign xml:lang="fro">Camayeu</foreign>, in Inventario Ecclesiæ S. Pauli Londin. ann.
           1295. tom. 3. Monast. Anglic. pag. 309. Vide <ref target="CAMAEUS">Camaeus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAMERARIUS" rend="benedictin">
-        <dictScrap xml:id="KAMERARIUS-1"><form rend="b">KAMERARIUS</form>, in Constitutione Caroli Crassi Imper. de Expeditione Romana § 6. Vide
+        <form><orth type="lemma">KAMERARIUS</orth></form><dictScrap xml:id="KAMERARIUS-1"><form rend="b">KAMERARIUS</form>, in Constitutione Caroli Crassi Imper. de Expeditione Romana § 6. Vide
             <ref target="CAMERARIUS1-77 CAMERARIUS1-79 CAMERARIUS1-88 CAMERARIUS1-90 CAMERARIUS1-91">Camerarius</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAMINATA" rend="ducange">
-        <dictScrap xml:id="KAMINATA-1"><form rend="b">KAMINATA</form>. Vide <ref target="CAMINATA1-2">Caminata</ref>.</dictScrap>
+        <form><orth type="lemma">KAMINATA</orth></form><dictScrap xml:id="KAMINATA-1"><form rend="b">KAMINATA</form>. Vide <ref target="CAMINATA1-2">Caminata</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAMINUS" rend="benedictin">
-        <dictScrap xml:id="KAMINUS-1"><form rend="b">KAMINUS</form>, Via, iter, Gallis <foreign xml:lang="lat">Chemin</foreign>. Chartularium S. Vandreg. tom. 2. pag. 2120 :
+        <form><orth type="lemma">KAMINUS</orth></form><dictScrap xml:id="KAMINUS-1"><form rend="b">KAMINUS</form>, Via, iter, Gallis <foreign xml:lang="lat">Chemin</foreign>. Chartularium S. Vandreg. tom. 2. pag. 2120 :
             <quote xml:lang="lat">Et aboutat ad Kaminum Domini Regis ad unum caput.</quote> Tabul. B. M. de
           Bono-nuntio Rotomag. : <quote xml:lang="lat">Testis juratus dixit quod... vidit eos
             <note>(Religiosos)</note> utentes de brevibus... et de divisione Kaminorum.</quote> Vide
             <ref cRef="CAMINUS">Caminus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAMISIA" rend="benedictin">
-        <dictScrap xml:id="KAMISIA-1"><form rend="b">KAMISIA <seg>Ultramarina</seg></form>, Interulæ crassioris genus. Tabularium Capituli S. Audomari : <quote xml:lang="lat">In ea retro
+        <form><orth type="lemma">KAMISIA Ultramarina</orth></form><dictScrap xml:id="KAMISIA-1"><form rend="b">KAMISIA <seg>Ultramarina</seg></form>, Interulæ crassioris genus. Tabularium Capituli S. Audomari : <quote xml:lang="lat">In ea retro
             ratione ut res cunctæ superius comprehensæ ad opus Monachorum in prædicto Monasterio
             degentium vestimenta comparentur ad Kamisias ultramarinas, quæ vulgo Bernescrist
             vocitantur sicut in voluntate continetur vestra.</quote> Vide
         <ref target="BERNISCRIST">Berniscrist</ref>.</dictScrap>
       </entry>
       <entry xml:id="KANARIDES" rend="carpentier">
-        <dictScrap xml:id="KANARIDES-1"><form rend="b">KANARIDES</form>, <foreign xml:lang="lat">L'antiqua fede</foreign>, in eod. Glossar.</dictScrap>
+        <form><orth type="lemma">KANARIDES</orth></form><dictScrap xml:id="KANARIDES-1"><form rend="b">KANARIDES</form>, <foreign xml:lang="lat">L'antiqua fede</foreign>, in eod. Glossar.</dictScrap>
       </entry>
       <entry xml:id="KANEIUM" rend="ducange">
-        <dictScrap xml:id="KANEIUM-1"><form rend="b">KANEIUM</form>. Lex Bajwar. tit. 51. § 6 : <quote xml:lang="lat">Si vero de minutis silvis, de wic, vel
+        <form><orth type="lemma">KANEIUM</orth></form><dictScrap xml:id="KANEIUM-1"><form rend="b">KANEIUM</form>. Lex Bajwar. tit. 51. § 6 : <quote xml:lang="lat">Si vero de minutis silvis, de wic, vel
             quocunque Kaneio vegetum reciderit, cum solido et simili componat.</quote> Ubi Editio
           Heroldi cap. 30. § 3. <hi rend="i">vel quæcunque Kaneovicton</hi> habet : Tiliana <hi rend="i">Kaheir</hi> ;
           Baluz. <foreign xml:lang="lat">Kaheio</foreign>. Lindenbrogius, <foreign xml:lang="lat">Kneium</foreign> seu <hi rend="i">Keye</hi>, Germanicum, quod
@@ -998,59 +998,59 @@ toute publication dérivée de ses ressources électroniques comporte :
         silvula.</dictScrap>
       </entry>
       <entry xml:id="KANIFER" rend="benedictin">
-        <dictScrap xml:id="KANIFER-1"><form rend="b">KANIFER</form>, <ref target="SENEX">Senex</ref>. Gloss. Isidor. ubi Grævius : Leg. <foreign xml:lang="lat">Casnar</foreign>. Festus :
+        <form><orth type="lemma">KANIFER</orth></form><dictScrap xml:id="KANIFER-1"><form rend="b">KANIFER</form>, <ref target="SENEX">Senex</ref>. Gloss. Isidor. ubi Grævius : Leg. <foreign xml:lang="lat">Casnar</foreign>. Festus :
             <quote xml:lang="lat">Casnar, senex Oscorum lingua.</quote>
           <add rend="carpentier">Glossar. Lat. Ital. Ms. :
               <gloss>Kanifex, <foreign xml:lang="ita">vechio egente</foreign>.</gloss></add></dictScrap>
       </entry>
       <entry xml:id="KANNA" rend="benedictin">
-        <dictScrap xml:id="KANNA-1"><form rend="b">KANNA</form>, Cantharus, poculum, Gall. <foreign xml:lang="lat">Canne</foreign>. Vide <ref target="CANNA4">Canna 4</ref>.</dictScrap>
+        <form><orth type="lemma">KANNA</orth></form><dictScrap xml:id="KANNA-1"><form rend="b">KANNA</form>, Cantharus, poculum, Gall. <foreign xml:lang="lat">Canne</foreign>. Vide <ref target="CANNA4">Canna 4</ref>.</dictScrap>
       </entry>
       <entry xml:id="KANROTIUM" rend="benedictin">
-        <dictScrap xml:id="KANROTIUM-1"><form rend="b">KANROTIUM</form>, Currus. Epist. Frederici Imp. ann. 1165. apud Marten. tom. 1. Anecd. col. 474 :
+        <form><orth type="lemma">KANROTIUM</orth></form><dictScrap xml:id="KANROTIUM-1"><form rend="b">KANROTIUM</form>, Currus. Epist. Frederici Imp. ann. 1165. apud Marten. tom. 1. Anecd. col. 474 :
             <quote xml:lang="lat">Pridie Nonas prædicti mensis <note>(Martii)</note> universus populus civitatis
             cum vexillo S. Ambrosii, quod miro artificio egregiæ molis et altitudinis ferebant in
             Kanrotio quem juga boum non pauca trahebant.</quote> Vide <ref target="CARROCIUM">Carrocium</ref>. <add rend="carpentier">Putum mendum est pro
               <foreign xml:lang="lat">Karrotium</foreign>.</add></dictScrap>
       </entry>
       <entry xml:id="KANTREF" rend="benedictin">
-        <dictScrap xml:id="KANTREF-1"><form rend="b">KANTREF</form>, Ruris portio, continens centum villas. Monast. Anglic. tom. 1. pag. 319 :
+        <form><orth type="lemma">KANTREF</orth></form><dictScrap xml:id="KANTREF-1"><form rend="b">KANTREF</form>, Ruris portio, continens centum villas. Monast. Anglic. tom. 1. pag. 319 :
             <quote xml:lang="fro">Le premer conquerur des treys Kantrefs de la terre de Brekenoch estoyt Bernard de
             Nefmarche, etc.</quote> Vide <ref target="CANTREDUS">Cantredus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KANZIR" rend="benedictin">
-        <dictScrap xml:id="KANZIR-1"><form rend="b">KANZIR</form>, f. Canticum, Cantilena, ab Italico <foreign xml:lang="lat">Canzone</foreign>. Vide
+        <form><orth type="lemma">KANZIR</orth></form><dictScrap xml:id="KANZIR-1"><form rend="b">KANZIR</form>, f. Canticum, Cantilena, ab Italico <foreign xml:lang="lat">Canzone</foreign>. Vide
         <ref target="CANZIR">Canzir</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAPADINARIUS" rend="benedictin">
-        <dictScrap xml:id="KAPADINARIUS-1"><form rend="b">KAPADINARIUS</form>, <foreign xml:lang="lat">Voluntarius</foreign>. Papias et Gloss. MS. Sangerman. n. 501. f. pro <cb n="486b"/>
+        <form><orth type="lemma">KAPADINARIUS</orth></form><dictScrap xml:id="KAPADINARIUS-1"><form rend="b">KAPADINARIUS</form>, <foreign xml:lang="lat">Voluntarius</foreign>. Papias et Gloss. MS. Sangerman. n. 501. f. pro <cb n="486b"/>
           <foreign xml:lang="lat">Cupedinarius</foreign>, qui cupiditati suæ obtemperat.</dictScrap>
       </entry>
       <entry xml:id="KAPAX" rend="benedictin">
-        <dictScrap xml:id="KAPAX-1"><form rend="b">KAPAX</form>, <foreign xml:lang="lat">Memoriosus</foreign>. Papias et Gloss. Isidor. ubi Grævius : pro <foreign xml:lang="lat">Capax</foreign>, cujus
+        <form><orth type="lemma">KAPAX</orth></form><dictScrap xml:id="KAPAX-1"><form rend="b">KAPAX</form>, <foreign xml:lang="lat">Memoriosus</foreign>. Papias et Gloss. Isidor. ubi Grævius : pro <foreign xml:lang="lat">Capax</foreign>, cujus
           memoria multa capit.</dictScrap>
       </entry>
       <entry xml:id="KAPEDO" rend="benedictin">
-        <dictScrap xml:id="KAPEDO-1"><form rend="b">KAPEDO</form>, <foreign xml:lang="lat">Cupiditas, ardor</foreign>. Papias. f. <foreign xml:lang="lat">Cupido</foreign>.</dictScrap>
+        <form><orth type="lemma">KAPEDO</orth></form><dictScrap xml:id="KAPEDO-1"><form rend="b">KAPEDO</form>, <foreign xml:lang="lat">Cupiditas, ardor</foreign>. Papias. f. <foreign xml:lang="lat">Cupido</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KAPIDINES" rend="benedictin">
-        <dictScrap xml:id="KAPIDINES-1"><form rend="b">KAPIDINES</form>, <foreign xml:lang="lat">Animalia dicta quod manu capiantur</foreign>. Papias. Supra legitur
+        <form><orth type="lemma">KAPIDINES</orth></form><dictScrap xml:id="KAPIDINES-1"><form rend="b">KAPIDINES</form>, <foreign xml:lang="lat">Animalia dicta quod manu capiantur</foreign>. Papias. Supra legitur
             <ref target="CAPEDINES">Capedines</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAPITE" rend="benedictin">
-        <dictScrap xml:id="KAPITE-1"><form rend="b">KAPITE <seg>Census</seg></form>, <foreign xml:lang="lat">Vicaria administratione</foreign>. Papias MS. Bituric. pro <foreign xml:lang="lat">Capite census</foreign> quod
+        <form><orth type="lemma">KAPITE Census</orth></form><dictScrap xml:id="KAPITE-1"><form rend="b">KAPITE <seg>Census</seg></form>, <foreign xml:lang="lat">Vicaria administratione</foreign>. Papias MS. Bituric. pro <foreign xml:lang="lat">Capite census</foreign> quod
           proprie est censui obnoxius.</dictScrap>
       </entry>
       <entry xml:id="KAPLERE" rend="benedictin">
-        <dictScrap xml:id="KAPLERE-1"><form rend="b">KAPLERE</form>, <foreign xml:lang="lat">Cædendum proferre. Kaplosus, Elisus</foreign>. Papias. Vide
+        <form><orth type="lemma">KAPLERE</orth></form><dictScrap xml:id="KAPLERE-1"><form rend="b">KAPLERE</form>, <foreign xml:lang="lat">Cædendum proferre. Kaplosus, Elisus</foreign>. Papias. Vide
         <ref target="CAPULARE">Capulare</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAPOS" rend="favre">
-        <dictScrap xml:id="KAPOS-1"><form rend="b">KAPOS</form>. Legitur in MS. Lat. B. N. MS. 16089, f. <num>99<hi rend="sup">c</hi></num> : <quote xml:lang="lat">Cujus quidem oculorum color valde niger ad flavum tendens existit aut sit
+        <form><orth type="lemma">KAPOS</orth></form><dictScrap xml:id="KAPOS-1"><form rend="b">KAPOS</form>. Legitur in MS. Lat. B. N. MS. 16089, f. <num>99<hi rend="sup">c</hi></num> : <quote xml:lang="lat">Cujus quidem oculorum color valde niger ad flavum tendens existit aut sit
             color <oVar>Kapos</oVar>.</quote></dictScrap>
       </entry>
       <entry xml:id="KAPPE-HETTE" rend="carpentier">
-        <dictScrap xml:id="KAPPE-HETTE-1"><form rend="b">KAPPE-HETTE</form>, Tegumenti genus. Chron. Danic. ad ann. 1308. apud Ludewig. tom. 9. Reliq. Mss.
+        <form><orth type="lemma">KAPPE-HETTE</orth></form><dictScrap xml:id="KAPPE-HETTE-1"><form rend="b">KAPPE-HETTE</form>, Tegumenti genus. Chron. Danic. ad ann. 1308. apud Ludewig. tom. 9. Reliq. Mss.
           pag. 162 : <quote xml:lang="lat">Eodem tempore Dani primum cœperunt habere usum capitiorum, dicta
             Kappe-Hette, quod non solum caput tegebant, sed et pectus capiebant.</quote> Vide supra
             <ref target="CAPITIUM1">Capitium 1</ref>.</dictScrap>
@@ -1060,17 +1060,17 @@ toute publication dérivée de ses ressources électroniques comporte :
           bourg de Bruges)</note>.</quote> Ubi idem videtur quod nostrum <foreign xml:lang="fro">Caque</foreign>, Doliolum.</dictScrap>
       </entry>
       <entry xml:id="KARACHA" rend="benedictin">
-        <dictScrap xml:id="KARACHA-1"><form rend="b">KARACHA</form>, Onus <foreign xml:lang="lat">carri</foreign>, quantum <foreign xml:lang="lat">carro</foreign> vehi potest, Gall. <foreign xml:lang="fro">Charetée</foreign>. Rer.
+        <form><orth type="lemma">KARACHA</orth></form><dictScrap xml:id="KARACHA-1"><form rend="b">KARACHA</form>, Onus <foreign xml:lang="lat">carri</foreign>, quantum <foreign xml:lang="lat">carro</foreign> vehi potest, Gall. <foreign xml:lang="fro">Charetée</foreign>. Rer.
           Mogunt. tom. 2. pag. 544 : <quote xml:lang="lat">Sunt terræ arabiles in tribus bundis ad tres equos, et
             duo prata ad quinque Karachas.</quote> Vide <ref target="CARRADA">Carrada</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARACHARES" rend="benedictin">
-        <dictScrap xml:id="KARACHARES-1"><form rend="b">KARACHARES <seg>Herbæ</seg></form>, Herbæ præstigiis, ut putabant, aptæ. Libellus Pirminii Abb. apud Mabillon. tom.
+        <form><orth type="lemma">KARACHARES Herbæ</orth></form><dictScrap xml:id="KARACHARES-1"><form rend="b">KARACHARES <seg>Herbæ</seg></form>, Herbæ præstigiis, ut putabant, aptæ. Libellus Pirminii Abb. apud Mabillon. tom.
           4. Analect. pag. 586 : <quote xml:lang="lat">Karachares herbas succino nolite vobis vestris
           appendere.</quote> Vide <ref target="CARAGUS">Caragus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARACTER" rend="benedictin">
-        <dictScrap xml:id="KARACTER-1"><form rend="b">KARACTER</form>, Signum, seu sigillum quod chartis appendebant. Charta ann. 1135. apud Mabill.
+        <form><orth type="lemma">KARACTER</orth></form><dictScrap xml:id="KARACTER-1"><form rend="b">KARACTER</form>, Signum, seu sigillum quod chartis appendebant. Charta ann. 1135. apud Mabill.
           Diplom. pag. 601 : <quote xml:lang="lat">Hoc audito gavisi sunt : et ne in posterum oblivioni traderetur,
             scripto et Karactere ut confirmaretur laudaverunt.</quote> Vide <ref cRef="CHARACTER">Character</ref>.</dictScrap>
         <dictScrap xml:id="KARACTER-2" rend="carpentier">Monogramma. Charta Phil.
@@ -1087,26 +1087,26 @@ toute publication dérivée de ses ressources électroniques comporte :
         <ref target="CRUX">Crux</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARADIS" rend="carpentier">
-        <dictScrap xml:id="KARADIS-1"><form rend="b">KARADIS</form>, <foreign xml:lang="lat">Idoneo</foreign>, in Glossar. Lat. Ital. Ms.</dictScrap>
+        <form><orth type="lemma">KARADIS</orth></form><dictScrap xml:id="KARADIS-1"><form rend="b">KARADIS</form>, <foreign xml:lang="lat">Idoneo</foreign>, in Glossar. Lat. Ital. Ms.</dictScrap>
       </entry>
       <entry xml:id="KARAGIUM" rend="benedictin">
-        <dictScrap xml:id="KARAGIUM-1"><form rend="b">KARAGIUM</form>, Tributi species. Charta Henrici VIII. Regis Angl. ann. 1526. apud Rymer tom. 14.
+        <form><orth type="lemma">KARAGIUM</orth></form><dictScrap xml:id="KARAGIUM-1"><form rend="b">KARAGIUM</form>, Tributi species. Charta Henrici VIII. Regis Angl. ann. 1526. apud Rymer tom. 14.
           pag. 165 : <quote xml:lang="lat">De... pontagio, Karagio, muragio, etc.</quote> Haud scio an idem sit
           quod <ref target="KAAGIUM">Kaagium</ref>. Vide <ref target="CARAGIUM">Caragium</ref> in <ref target="CARREDA">Carreda</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARAGIUS" rend="benedictin">
-        <dictScrap xml:id="KARAGIUS-1"><form rend="b">KARAGIUS</form>, Sortilegus, præstigiator. Libellus Pirminii Abbat. apud Mabillon.<cb n="486c"/>
+        <form><orth type="lemma">KARAGIUS</orth></form><dictScrap xml:id="KARAGIUS-1"><form rend="b">KARAGIUS</form>, Sortilegus, præstigiator. Libellus Pirminii Abbat. apud Mabillon.<cb n="486c"/>
           tom. 4. Analect. pag. 586 : <quote xml:lang="lat">Præcantatores et sortilegos, Karagios, aruspices,
             divinos, etc.</quote> Vide <ref target="CARAGUS">Caragus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARAVENNA" rend="ducange">
-        <dictScrap xml:id="KARAVENNA-1"><form rend="b">KARAVENNA</form>. Vide <ref target="CARAVANNA">Caravanna</ref>.</dictScrap>
+        <form><orth type="lemma">KARAVENNA</orth></form><dictScrap xml:id="KARAVENNA-1"><form rend="b">KARAVENNA</form>. Vide <ref target="CARAVANNA">Caravanna</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARAXARE" rend="ducange">
-        <dictScrap xml:id="KARAXARE-1"><form rend="b">KARAXARE</form>, <form rend="sc">Karaxatura</form>. Vide <ref target="CHARAXARE">Charaxare</ref>.</dictScrap>
+        <form><orth type="lemma">KARAXARE</orth></form><dictScrap xml:id="KARAXARE-1"><form rend="b">KARAXARE</form>, <form rend="sc">Karaxatura</form>. Vide <ref target="CHARAXARE">Charaxare</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARENA" rend="benedictin">
-        <dictScrap xml:id="KARENA-1"><form rend="b">KARENA</form>, Quadragesimale jejunium, seu publica pœnitentia, qua quis jejunare spatio 40.
+        <form><orth type="lemma">KARENA</orth></form><dictScrap xml:id="KARENA-1"><form rend="b">KARENA</form>, Quadragesimale jejunium, seu publica pœnitentia, qua quis jejunare spatio 40.
           dierum tenetur : est etiam remissio seu indulgentia ejusmodi pœnitentiæ Instrum. ann.
           1293. inter Acta SS. tom. 2. Aprilis pag. 717 : <quote xml:lang="lat">Quadraginta dies cum una Karena de
             injunctis sibi pœnitentiis misericorditer relaxamus.</quote> Charta Conradi Episc.
@@ -1129,21 +1129,21 @@ toute publication dérivée de ses ressources électroniques comporte :
             jour des Qaaresmeaux, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KARF" rend="carpentier">
-        <dictScrap xml:id="KARF-1"><form rend="b">KARF</form>, <foreign xml:lang="lat">Arabice, Testa figuli, secundum Avicennam</foreign>. Glossar. medic. Ms. Simon.
+        <form><orth type="lemma">KARF</orth></form><dictScrap xml:id="KARF-1"><form rend="b">KARF</form>, <foreign xml:lang="lat">Arabice, Testa figuli, secundum Avicennam</foreign>. Glossar. medic. Ms. Simon.
           Januens. ex Cod. reg. 6959.</dictScrap>
       </entry>
       <entry xml:id="KARFOS" rend="carpentier">
-        <dictScrap xml:id="KARFOS-1"><form rend="b">KARFOS</form>, <foreign xml:lang="lat">Arabice, Vespertilio</foreign>, in eod. Glossar.</dictScrap>
+        <form><orth type="lemma">KARFOS</orth></form><dictScrap xml:id="KARFOS-1"><form rend="b">KARFOS</form>, <foreign xml:lang="lat">Arabice, Vespertilio</foreign>, in eod. Glossar.</dictScrap>
       </entry>
       <entry xml:id="KARIAGIUM" rend="benedictin">
-        <dictScrap xml:id="KARIAGIUM-1"><form rend="b">KARIAGIUM</form>, Vectura cum carro, servitutis species. Litteræ Balduini Abbat. Ursicampi ann.
+        <form><orth type="lemma">KARIAGIUM</orth></form><dictScrap xml:id="KARIAGIUM-1"><form rend="b">KARIAGIUM</form>, Vectura cum carro, servitutis species. Litteræ Balduini Abbat. Ursicampi ann.
           1203. ex Tabular. Compend. : <quote xml:lang="lat">Moverunt calumpniam super Kariagio bladi quod singulis
             annis reponitur in grangia de Marolio, quod videlicet Kariagium exigebatur a Canonicis
             pro quibusdam terris, quas de dominio S. Cornelii tenere noscuntur.</quote> Vide
             <ref target="CARIAGIUM1-2">Cariagium</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARIDA" rend="carpentier">
-        <dictScrap xml:id="KARIDA-1"><form rend="b">KARIDA</form>, Vecturæ onus, ut videtur. Charta ann. 996. tom. 1. Hist. Trevir. Joan. Nic. ab
+        <form><orth type="lemma">KARIDA</orth></form><dictScrap xml:id="KARIDA-1"><form rend="b">KARIDA</form>, Vecturæ onus, ut videtur. Charta ann. 996. tom. 1. Hist. Trevir. Joan. Nic. ab
             <foreign xml:lang="lat">Hontheim</foreign> pag. 335. col. 1 : <quote xml:lang="lat">Ut omni anno mihi dentur duæ Karidæ vini ante
             festivitatem S. Martini.</quote> Vide <ref target="CARREDA">Carreda</ref>. Nisi dolii genus putes, quod
             <foreign xml:lang="lat">Karisel</foreign> nuncupatur, in Charta Phil. VI. ann. 1339. ex Reg. B. 2. Cam. Comput.
@@ -1151,39 +1151,39 @@ toute publication dérivée de ses ressources électroniques comporte :
             trois deniers du vendeur.</quote> Vide <ref target="CARRADA">Carrada</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARIGA" rend="carpentier">
-        <dictScrap xml:id="KARIGA-1"><form rend="b">KARIGA</form>, pro Carica, Gall. <foreign xml:lang="fro">Figue grasse</foreign>. Dipl. Chilper. II. ann. 716. tom. 4.
+        <form><orth type="lemma">KARIGA</orth></form><dictScrap xml:id="KARIGA-1"><form rend="b">KARIGA</form>, pro Carica, Gall. <foreign xml:lang="fro">Figue grasse</foreign>. Dipl. Chilper. II. ann. 716. tom. 4.
           Collect. Histor. Franc. pag. 694 : <quote xml:lang="lat">Karigas libras</quote> 100,
         <foreign xml:lang="lat">etc</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KARINSIA" rend="ducange">
-        <dictScrap xml:id="KARINSIA-1"><form rend="b">KARINSIA</form>. Contractus Navigii Dom. Regis cum Venetis ann. 1268. tom. 5. Hist. Franc. pag.
+        <form><orth type="lemma">KARINSIA</orth></form><dictScrap xml:id="KARINSIA-1"><form rend="b">KARINSIA</form>. Contractus Navigii Dom. Regis cum Venetis ann. 1268. tom. 5. Hist. Franc. pag.
           435 : <quote xml:lang="lat">Et uno puero pro custodia equi, et pro viandia, et Karinsiis suis portandis,
             etc.</quote> Puto legendum <foreign xml:lang="lat">garnisiis</foreign>. Vide in hac voce.</dictScrap>
       </entry>
       <entry xml:id="KARINUM" rend="carpentier">
-        <dictScrap xml:id="KARINUM-1"><form rend="b">KARINUM</form>, an Via publica, per quam carri transeunt ? Charta ann. 1162. ex Chartul. Thenol.
+        <form><orth type="lemma">KARINUM</orth></form><dictScrap xml:id="KARINUM-1"><form rend="b">KARINUM</form>, an Via publica, per quam carri transeunt ? Charta ann. 1162. ex Chartul. Thenol.
           fol. 25. v° : <quote xml:lang="lat">Et <pb n="487"/>
             <cb n="487a"/> de fonte usque ad fontem juxta Karinum, ubi fossatum
         terminatur.</quote></dictScrap>
       </entry>
       <entry xml:id="KARIONS" rend="carpentier">
-        <dictScrap xml:id="KARIONS-1"><form rend="b">KARIONS</form>, vox vulgaris, Jus carro ducendi. Vide <ref target="CARIO">Cario</ref>. Charta ann. 1255. ex
+        <form><orth type="lemma">KARIONS</orth></form><dictScrap xml:id="KARIONS-1"><form rend="b">KARIONS</form>, vox vulgaris, Jus carro ducendi. Vide <ref target="CARIO">Cario</ref>. Charta ann. 1255. ex
           Tabul. S. Autberti Camerac. : <quote xml:lang="lat">Werpiverunt bene et legitime ecclesiæ S. Autberti jus
             bigandi, quod vulgariter appellatur Karions.</quote></dictScrap>
       </entry>
       <entry xml:id="KARISMA" rend="benedictin">
-        <dictScrap xml:id="KARISMA-1"><form rend="b">KARISMA</form>, Præstantia, benignitas, Græce <foreign xml:lang="grc">χάρισμα</foreign>, donum,
+        <form><orth type="lemma">KARISMA</orth></form><dictScrap xml:id="KARISMA-1"><form rend="b">KARISMA</form>, Præstantia, benignitas, Græce <foreign xml:lang="grc">χάρισμα</foreign>, donum,
           gratia, munificentia. Egidius Parisiensis MS. lib. 1. Karolini : <quote xml:lang="lat">
             <l>Gratia, quæ nulli plus affluit, addidit usum</l>
             <l>Nominis, et Karolo fecere Karismata nomen.</l>
           </quote></dictScrap>
       </entry>
       <entry xml:id="KARISTARE" rend="benedictin">
-        <dictScrap xml:id="KARISTARE-1"><form rend="b">KARISTARE</form>, <form rend="sc">Karitare</form>. Papias MS. Bituric. : <gloss><oVar>Karitat</oVar> proprie, alloquitur
+        <form><orth type="lemma">KARISTARE</orth></form><dictScrap xml:id="KARISTARE-1"><form rend="b">KARISTARE</form>, <form rend="sc">Karitare</form>. Papias MS. Bituric. : <gloss><oVar>Karitat</oVar> proprie, alloquitur
             plebem.</gloss></dictScrap>
       </entry>
       <entry xml:id="KARITAS1" rend="benedictin">
-        <dictScrap xml:id="KARITAS1-1"><form rend="b"><num>1.</num> KARITAS</form>, Extraordinaria refectio ; est etiam mensura vini. Charta Christiani Archiep.
+        <form><orth type="lemma">KARITAS</orth><num>1.</num></form><dictScrap xml:id="KARITAS1-1"><form rend="b"><num>1.</num> KARITAS</form>, Extraordinaria refectio ; est etiam mensura vini. Charta Christiani Archiep.
           Mogunt. ann. 1168. tom. 2. Rer. Mogunt. pag. 753 : <quote xml:lang="lat">Pro obitu predicte matrone
             Godelindis et patris sui Madelbodonis... singulis annis in singulis singulorum
             anniversariis, pro salute animarum, Fratribus quatuor uncie denariorum solvantur ad
@@ -1193,10 +1193,10 @@ toute publication dérivée de ses ressources électroniques comporte :
         3</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARITAS2" rend="carpentier">
-        <dictScrap xml:id="KARITAS2-1"><form rend="b"><num>2.</num> KARITAS</form>. Sacrum sodalitium. Vide supra <ref target="CARITAS12">Caritas 12</ref>.</dictScrap>
+        <form><orth type="lemma">KARITAS</orth><num>2.</num></form><dictScrap xml:id="KARITAS2-1"><form rend="b"><num>2.</num> KARITAS</form>. Sacrum sodalitium. Vide supra <ref target="CARITAS12">Caritas 12</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARLE" rend="benedictin">
-        <dictScrap xml:id="KARLE-1"><form rend="b">KARLE</form>, Homo simpliciter, et pro famulo. Inde Saxonibus <foreign xml:lang="lat">Buscarlus</foreign>, homo nauticus :
+        <form><orth type="lemma">KARLE</orth></form><dictScrap xml:id="KARLE-1"><form rend="b">KARLE</form>, Homo simpliciter, et pro famulo. Inde Saxonibus <foreign xml:lang="lat">Buscarlus</foreign>, homo nauticus :
             <foreign xml:lang="lat">Huscarlus,</foreign> homo domesticus, famulus. Sane <hi rend="i">Kearle</hi> etiam hodie
           accipitur ab Alamannis de homine probo, bono, utili, strenuo, ut notat Goldastus ad
           Eckehardi jun. cap. 1. Carolumque inde dici opinatur : et pro homine simpliciter in Suecia
@@ -1204,28 +1204,28 @@ toute publication dérivée de ses ressources électroniques comporte :
           Spelmannus. Vide <ref target="CEORLUS">Ceorlus</ref>, <add rend="henschel">et Graff. Thesaur. Ling. Franc. tom. 4. col. 492.</add></dictScrap>
       </entry>
       <entry xml:id="KARLENSES" rend="benedictin">
-        <dictScrap xml:id="KARLENSES-1"><form rend="b">KARLENSES</form>, Secunda stirps Regum Franciæ. Epistola Willelmi Abb. Monast. Andrens. tom. 9.
+        <form><orth type="lemma">KARLENSES</orth></form><dictScrap xml:id="KARLENSES-1"><form rend="b">KARLENSES</form>, Secunda stirps Regum Franciæ. Epistola Willelmi Abb. Monast. Andrens. tom. 9.
           Spicileg. Acher. pag. 338 : <quote xml:lang="lat">In 2. libro Reges descriptos Karlenses
           appellat.</quote> Vide <ref target="KAROLINGI">Karolingi</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARLOTUS" rend="carpentier">
-        <dictScrap xml:id="KARLOTUS-1"><form rend="b">KARLOTUS</form>, diminut. a <foreign xml:lang="lat">Karolus</foreign> ; quomodo a <foreign xml:lang="fro">Charles, Charlot</foreign> dicimus. Lit. ann.
+        <form><orth type="lemma">KARLOTUS</orth></form><dictScrap xml:id="KARLOTUS-1"><form rend="b">KARLOTUS</form>, diminut. a <foreign xml:lang="lat">Karolus</foreign> ; quomodo a <foreign xml:lang="fro">Charles, Charlot</foreign> dicimus. Lit. ann.
           1294. quibus Phil. Pulc. regem Angl. ad curiam vocat, in Reg. sign. <foreign xml:lang="lat">Pater</foreign> Cam.
           Comput. Paris. fol. 325. r°. : <quote xml:lang="lat">Dicentes <note>(ministri regis Angliæ)</note> hoc
             facimus in despectum regis Francorum et Karloti fratris sui.</quote> Vide
           <ref target="KARLE">Karle</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARMET" rend="carpentier">
-        <dictScrap xml:id="KARMET-1"><form rend="b">KARMET</form>, Pondus quoddam. Vide supra <ref target="CARMET">Carmet</ref>.</dictScrap>
+        <form><orth type="lemma">KARMET</orth></form><dictScrap xml:id="KARMET-1"><form rend="b">KARMET</form>, Pondus quoddam. Vide supra <ref target="CARMET">Carmet</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARNEUS" rend="benedictin">
-        <dictScrap xml:id="KARNEUS-1"><form rend="b">KARNEUS</form>, Pinna muri, Gallis, <foreign xml:lang="lat">Carneau</foreign>. Vide <ref target="QUARNELLUS">Quarnellus</ref>.</dictScrap>
+        <form><orth type="lemma">KARNEUS</orth></form><dictScrap xml:id="KARNEUS-1"><form rend="b">KARNEUS</form>, Pinna muri, Gallis, <foreign xml:lang="lat">Carneau</foreign>. Vide <ref target="QUARNELLUS">Quarnellus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAROLA" rend="carpentier">
-        <dictScrap xml:id="KAROLA-1"><form rend="b">KAROLA</form>, Clathrus, Gallice <foreign xml:lang="fro">Grille</foreign>. Vide supra <ref target="CAROLA1">Carola 1</ref>.</dictScrap>
+        <form><orth type="lemma">KAROLA</orth></form><dictScrap xml:id="KAROLA-1"><form rend="b">KAROLA</form>, Clathrus, Gallice <foreign xml:lang="fro">Grille</foreign>. Vide supra <ref target="CAROLA1">Carola 1</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAROLINGI" rend="ducange">
-        <dictScrap xml:id="KAROLINGI-1"><form rend="b">KAROLINGI</form>, dicti a Germanis Reges Francorum a Carolo Martello et Carolo M. genus ducentes.
+        <form><orth type="lemma">KAROLINGI</orth></form><dictScrap xml:id="KAROLINGI-1"><form rend="b">KAROLINGI</form>, dicti a Germanis Reges Francorum a Carolo Martello et Carolo M. genus ducentes.
           Ita Lotharius Ludovici Ultramarini filius, <foreign xml:lang="lat">Karolingorum Rex</foreign> dicitur apud Ditmarum
           lib. 3. cap. 6. <add rend="henschel">Non reges sed populus
             Francorum occidentalium. <foreign xml:lang="lat">Karelingorum</foreign> legit Lappenb. ap. Ditmarum. Widukindus
@@ -1237,7 +1237,7 @@ toute publication dérivée de ses ressources électroniques comporte :
       </entry>
       <entry xml:id="KAROPOTUS" rend="favre">
 
-        <dictScrap xml:id="KAROPOTUS-1"><form rend="b">KAROPOTUS</form>. Glaucus : <quote xml:lang="lat">Cum minime sint glauci, grece dicti
+        <form><orth type="lemma">KAROPOTUS</orth></form><dictScrap xml:id="KAROPOTUS-1"><form rend="b">KAROPOTUS</form>. Glaucus : <quote xml:lang="lat">Cum minime sint glauci, grece dicti
               <oVar>Karopoti</oVar>
             <cb n="487b"/> (oculi) insanie et dementie ascribuntur.</quote> (B. N. Ms. Lat. 16089, f. <num>103<hi rend="sup">b</hi>.</num>) - Oculi <oVar>Karopoti</oVar>. (Ibid. f.
           <num>107<hi rend="sup">d</hi>.</num>) - Oculi emicantes
@@ -1245,7 +1245,7 @@ toute publication dérivée de ses ressources électroniques comporte :
         
       </entry>
       <entry xml:id="KARPIE" rend="ducange">
-        <dictScrap xml:id="KARPIE-1"><form rend="b">KARPIE</form>. Vitæ Abbatum S. Albani. pag. 32 : <quote xml:lang="lat">Minutis autem, qui de sua consuetudine
+        <form><orth type="lemma">KARPIE</orth></form><dictScrap xml:id="KARPIE-1"><form rend="b">KARPIE</form>. Vitæ Abbatum S. Albani. pag. 32 : <quote xml:lang="lat">Minutis autem, qui de sua consuetudine
             pastillis carneis vescebantur, esus subtraxit inordinatos, et pro carne, de allece et
             liborum cedullis <note>(eduliis)</note> congestum quoddam serculum (cujus solum nomen
             remansit) ipsis in communi cumulavit, quod more Normannorum Karpie, quasi Karempie
@@ -1257,46 +1257,46 @@ toute publication dérivée de ses ressources électroniques comporte :
         supra.</dictScrap>
       </entry>
       <entry xml:id="KARRALE" rend="benedictin">
-        <dictScrap xml:id="KARRALE-1"><form rend="b">KARRALE</form>, Vectura, plaustrum. Fori Bigorrenses art. 14 : <quote xml:lang="lat">Liberi pacem habeant, et
+        <form><orth type="lemma">KARRALE</orth></form><dictScrap xml:id="KARRALE-1"><form rend="b">KARRALE</form>, Vectura, plaustrum. Fori Bigorrenses art. 14 : <quote xml:lang="lat">Liberi pacem habeant, et
             ter in anno in Karrali Comitali radant.</quote> Translatio S. Savini Mart. :
             <quote xml:lang="lat">Ducilis a fundo Karralis egressus in terram nemine considerante
           prosiliit.</quote> Vide <ref target="CARREDA">Carreda</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRATA" rend="benedictin">
-        <dictScrap xml:id="KARRATA-1"><form rend="b">KARRATA</form>. Vide in <ref target="CARRADA-1">Carrado</ref>.</dictScrap>
+        <form><orth type="lemma">KARRATA</orth></form><dictScrap xml:id="KARRATA-1"><form rend="b">KARRATA</form>. Vide in <ref target="CARRADA-1">Carrado</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARREAGIUM" rend="benedictin">
-        <dictScrap xml:id="KARREAGIUM-1"><form rend="b">KARREAGIUM</form>. Idem quod <ref target="KARIAGIUM">Kariagium</ref>. Charta Henrici II. Regis Angliæ apud <foreign xml:lang="lat">Madox</foreign>
+        <form><orth type="lemma">KARREAGIUM</orth></form><dictScrap xml:id="KARREAGIUM-1"><form rend="b">KARREAGIUM</form>. Idem quod <ref target="KARIAGIUM">Kariagium</ref>. Charta Henrici II. Regis Angliæ apud <foreign xml:lang="lat">Madox</foreign>
           Formul. Angl. pag. 47 : <quote xml:lang="lat">Quare volo et firmiter præcipio quod... habeant terras
             illas.... cum libertate et quietantia de exercitibus... et de Karreagio, siris et
             hundredis, etc.</quote> Vide <ref target="CARIAGIUM1-2">Cariagium</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRENA" rend="carpentier">
-        <dictScrap xml:id="KARRENA-1"><form rend="b">KARRENA</form>. Vide supra <ref target="KARENA">Karena</ref>.</dictScrap>
+        <form><orth type="lemma">KARRENA</orth></form><dictScrap xml:id="KARRENA-1"><form rend="b">KARRENA</form>. Vide supra <ref target="KARENA">Karena</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRIGIUM" rend="favre">
-        <dictScrap xml:id="KARRIGIUM-1"><form rend="b">KARRIGIUM</form>. Ut <form rend="sc">Carrigium</form> 2 : <quote xml:lang="lat">Quatuor denarios ad
+        <form><orth type="lemma">KARRIGIUM</orth></form><dictScrap xml:id="KARRIGIUM-1"><form rend="b">KARRIGIUM</form>. Ut <form rend="sc">Carrigium</form> 2 : <quote xml:lang="lat">Quatuor denarios ad
             messiones et receptum et quatuor denarios pro <oVar>Karrigio</oVar> et per oblias ad
             kalendas <num>iiii.</num></quote> (Cartular. Conchar. Ruthen. p. 296, XI.
             sæc.)</dictScrap>
       </entry>
       <entry xml:id="KARRINA1" rend="ducange">
-        <dictScrap xml:id="KARRINA1-1"><form rend="b"><num>1.</num> KARRINA</form>, ut <foreign xml:lang="lat">Karena</foreign>. Vide <ref target="CARENA2">Carena 2</ref>.</dictScrap>
+        <form><orth type="lemma">KARRINA</orth><num>1.</num></form><dictScrap xml:id="KARRINA1-1"><form rend="b"><num>1.</num> KARRINA</form>, ut <foreign xml:lang="lat">Karena</foreign>. Vide <ref target="CARENA2">Carena 2</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRINA2" rend="benedictin">
-        <dictScrap xml:id="KARRINA2-1"><form rend="b"><num>2.</num> KARRINA</form>, Convicium, objurgatio, exprobatio. Eckeardus Jun. in Casib. S. Galli cap. 13 :
+        <form><orth type="lemma">KARRINA</orth><num>2.</num></form><dictScrap xml:id="KARRINA2-1"><form rend="b"><num>2.</num> KARRINA</form>, Convicium, objurgatio, exprobatio. Eckeardus Jun. in Casib. S. Galli cap. 13 :
             <quote xml:lang="fro">Necis tuæ reus Karrinas tot ferre non potero.</quote> Balbus Cathol. :
             <quote xml:lang="lat">Carinare, arguere, convitiare, illudere.</quote> Hæc Spelmannus. Vide <ref target="CARINA1">Carina
             1</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRITO" rend="carpentier">
-        <dictScrap xml:id="KARRITO-1"><form rend="b">KARRITO</form>, Qui carrum ducit. Vide supra in <ref target="CARRITO">Carrito</ref>.</dictScrap>
+        <form><orth type="lemma">KARRITO</orth></form><dictScrap xml:id="KARRITO-1"><form rend="b">KARRITO</form>, Qui carrum ducit. Vide supra in <ref target="CARRITO">Carrito</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRNEL" rend="benedictin">
-        <dictScrap xml:id="KARRNEL-1"><form rend="b">KARRNEL</form>, Pinna muri. Vide <ref target="QUARNELLUS">Quarnellus</ref>.</dictScrap>
+        <form><orth type="lemma">KARRNEL</orth></form><dictScrap xml:id="KARRNEL-1"><form rend="b">KARRNEL</form>, Pinna muri. Vide <ref target="QUARNELLUS">Quarnellus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRUGA" rend="carpentier">
-        <dictScrap xml:id="KARRUGA-1"><form rend="b">KARRUGA</form>, Aratrum, Gall. <foreign xml:lang="fro">Charrue</foreign>. Charta ann. 1229. in Chartul. Aremar. ch. 31 :
+        <form><orth type="lemma">KARRUGA</orth></form><dictScrap xml:id="KARRUGA-1"><form rend="b">KARRUGA</form>, Aratrum, Gall. <foreign xml:lang="fro">Charrue</foreign>. Charta ann. 1229. in Chartul. Aremar. ch. 31 :
             <quote xml:lang="lat">Notum facimus..... quod nobilis vir Erardus de Chacia.... omnes terras
             communitatis, quas nos et homines nostri ad nostras Karrugas tenebamus, nobis
           concessit.</quote> Hinc <foreign xml:lang="fro">Kéruier</foreign>, qui aratro terram colit. Redit. comital. Namurc.
@@ -1305,73 +1305,73 @@ toute publication dérivée de ses ressources électroniques comporte :
             manovrier j. den. a Noiel.</quote> Vide <ref target="CARRUCA3">Carruca 3</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARRUS" rend="benedictin">
-        <dictScrap xml:id="KARRUS-1"><form rend="b">KARRUS</form>, Currus, plaustrum, Gallis, <foreign xml:lang="fro">Chariot</foreign>. Charta. ann. 1110. ex Tabul.
+        <form><orth type="lemma">KARRUS</orth></form><dictScrap xml:id="KARRUS-1"><form rend="b">KARRUS</form>, Currus, plaustrum, Gallis, <foreign xml:lang="fro">Chariot</foreign>. Charta. ann. 1110. ex Tabul.
           Floriac. : <quote xml:lang="lat">Dimisit Abbati Floriacensi omnes malas consuetudines quas usurparat,
             videlicet talliam denariorum, raptum, incendium.... vaccam de Karro, tripedicam,
           etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KARTICIUM" rend="carpentier">
-        <dictScrap xml:id="KARTICIUM-1"><form rend="b">KARTICIUM <seg>Privilegium</seg></form>, Quod <hi rend="i">Chartæ</hi> seu scripto mandatum est, in Charta Gerardi episc. Camerac.
+        <form><orth type="lemma">KARTICIUM Privilegium</orth></form><dictScrap xml:id="KARTICIUM-1"><form rend="b">KARTICIUM <seg>Privilegium</seg></form>, Quod <hi rend="i">Chartæ</hi> seu scripto mandatum est, in Charta Gerardi episc. Camerac.
           ann. 1083. ex Tabul. S. Autberti.</dictScrap>
       </entry>
       <entry xml:id="KARTRA" rend="benedictin">
-        <dictScrap xml:id="KARTRA-1"><form rend="b">KARTRA</form>, Charta. Tabularium S. Petri de Cella-Froini : <quote xml:lang="lat">Signum Henrico Rege,
+        <form><orth type="lemma">KARTRA</orth></form><dictScrap xml:id="KARTRA-1"><form rend="b">KARTRA</form>, Charta. Tabularium S. Petri de Cella-Froini : <quote xml:lang="lat">Signum Henrico Rege,
             Gauffredus Comite civitate Engolisma...<cb n="487c"/> Bernardus Sacerdos qui fecit
             scribere ista Kartra.</quote> Vide <ref target="CHARTA1-8">Charta</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARUCHATA" rend="benedictin">
-        <dictScrap xml:id="KARUCHATA-1"><form rend="b">KARUCHATA</form>, Modus agri. Charta apud <foreign xml:lang="lat">Madox</foreign> Formul. Anglic. pag. 50 : <quote xml:lang="lat">Sciatis me
+        <form><orth type="lemma">KARUCHATA</orth></form><dictScrap xml:id="KARUCHATA-1"><form rend="b">KARUCHATA</form>, Modus agri. Charta apud <foreign xml:lang="lat">Madox</foreign> Formul. Anglic. pag. 50 : <quote xml:lang="lat">Sciatis me
             concessisse.... scilicet illam Karuchatam terræ quam idem Gilebertus tenuit die illa qua
             pater meus R. fuit vivus et mortuus.</quote> Vide <ref target="CARRUCATA-4">Carucata</ref>.</dictScrap>
       </entry>
       <entry xml:id="KARXABET" rend="benedictin">
-        <dictScrap xml:id="KARXABET-1"><form rend="b">KARXABET</form>, <foreign xml:lang="lat">Amat, osculatur, amplectitur</foreign>. Papias MS. Bituric.</dictScrap>
+        <form><orth type="lemma">KARXABET</orth></form><dictScrap xml:id="KARXABET-1"><form rend="b">KARXABET</form>, <foreign xml:lang="lat">Amat, osculatur, amplectitur</foreign>. Papias MS. Bituric.</dictScrap>
       </entry>
       <entry xml:id="KAS" rend="carpentier">
-        <dictScrap xml:id="KAS-1"><form rend="b">KAS</form>, <foreign xml:lang="lat">Arabice, Lactuca</foreign>. Glossar. medic. MS. Simon. Januens. ex Cod. reg.
+        <form><orth type="lemma">KAS</orth></form><dictScrap xml:id="KAS-1"><form rend="b">KAS</form>, <foreign xml:lang="lat">Arabice, Lactuca</foreign>. Glossar. medic. MS. Simon. Januens. ex Cod. reg.
         6959.</dictScrap>
       </entry>
       <entry xml:id="KASAB" rend="carpentier">
-        <dictScrap xml:id="KASAB-1"><form rend="b">KASAB</form>, <foreign xml:lang="lat">Arabice, Arundo, canna</foreign>, in eod. Glossar.</dictScrap>
+        <form><orth type="lemma">KASAB</orth></form><dictScrap xml:id="KASAB-1"><form rend="b">KASAB</form>, <foreign xml:lang="lat">Arabice, Arundo, canna</foreign>, in eod. Glossar.</dictScrap>
       </entry>
       <entry xml:id="KASAETUS" rend="carpentier">
-        <dictScrap xml:id="KASAETUS-1"><form rend="b">KASAETUS</form>, Pirata ; si tamen non est nomen proprium. Charta ann. 1243. tom. 4. Cod. Ital.
+        <form><orth type="lemma">KASAETUS</orth></form><dictScrap xml:id="KASAETUS-1"><form rend="b">KASAETUS</form>, Pirata ; si tamen non est nomen proprium. Charta ann. 1243. tom. 4. Cod. Ital.
           diplom. col. 1571 : <quote xml:lang="lat">Tenentur sub debito juramenti facere vivam guerram de sanguine
             et foco omnibus Kasaetis et deprædatoribus maris, et specialiter
         Jadertinis.</quote></dictScrap>
       </entry>
       <entry xml:id="KASKERIA" rend="carpentier">
-        <dictScrap xml:id="KASKERIA-1"><form rend="b">KASKERIA</form>, ut supra <ref target="GASCHERIA">Gascheria</ref>. Charta ann. 1244. ex Tabul. S. Autberti Camerac. :
+        <form><orth type="lemma">KASKERIA</orth></form><dictScrap xml:id="KASKERIA-1"><form rend="b">KASKERIA</form>, ut supra <ref target="GASCHERIA">Gascheria</ref>. Charta ann. 1244. ex Tabul. S. Autberti Camerac. :
             <quote xml:lang="lat">Salvis.... redemptionibus ipsius ecclesiæ ad martium et
         Kaskeriam.</quote></dictScrap>
       </entry>
       <entry xml:id="KASKETTUM" rend="benedictin">
-        <dictScrap xml:id="KASKETTUM-1"><form rend="b">KASKETTUM</form>, Mendose pro <foreign xml:lang="lat">Baskettum</foreign> ; Anglis enim <foreign xml:lang="lat">Basket</foreign> est Sporta, cophinus,
+        <form><orth type="lemma">KASKETTUM</orth></form><dictScrap xml:id="KASKETTUM-1"><form rend="b">KASKETTUM</form>, Mendose pro <foreign xml:lang="lat">Baskettum</foreign> ; Anglis enim <foreign xml:lang="lat">Basket</foreign> est Sporta, cophinus,
           corbis, canistrum, Gall. <foreign xml:lang="fro">Panier, Corbeille</foreign>. Mandatum Eduardi IV. Regis Angliæ ann.
           1461. apud Rymer. tom. 11. pag. 481 : <quote xml:lang="lat">Cum... auro... bogeis, manticis, Kaskettis,
             fardellis, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KASTVOGT" rend="carpentier">
-        <dictScrap xml:id="KASTVOGT-1"><form rend="b">KASTVOGT</form>, Castri tutor, idem qui <foreign xml:lang="lat">Advocatus</foreign>. Vide in <ref target="ADVOCATI">Advocati</ref>.</dictScrap>
+        <form><orth type="lemma">KASTVOGT</orth></form><dictScrap xml:id="KASTVOGT-1"><form rend="b">KASTVOGT</form>, Castri tutor, idem qui <foreign xml:lang="lat">Advocatus</foreign>. Vide in <ref target="ADVOCATI">Advocati</ref>.</dictScrap>
       </entry>
       <entry xml:id="KATABULUM" rend="benedictin">
-        <dictScrap xml:id="KATABULUM-1"><form rend="b">KATABULUM</form>, Fossa. Vide <ref target="CATABULUM">Catabulum</ref>.</dictScrap>
+        <form><orth type="lemma">KATABULUM</orth></form><dictScrap xml:id="KATABULUM-1"><form rend="b">KATABULUM</form>, Fossa. Vide <ref target="CATABULUM">Catabulum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KATAPAN" rend="benedictin">
-        <dictScrap xml:id="KATAPAN-1"><form rend="b">KATAPAN</form>, Præses, Præfectus provinciæ vel civitatis. Vide <ref target="CATAPANUS">Catapanus</ref>.</dictScrap>
+        <form><orth type="lemma">KATAPAN</orth></form><dictScrap xml:id="KATAPAN-1"><form rend="b">KATAPAN</form>, Præses, Præfectus provinciæ vel civitatis. Vide <ref target="CATAPANUS">Catapanus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KATELCOSTE" rend="benedictin">
-        <dictScrap xml:id="KATELCOSTE-1"><form rend="b">KATELCOSTE</form>. Wildebrandus ab Oldenborg. in Itiner. Terræ sanctæ, ubi de Armeniis :
+        <form><orth type="lemma">KATELCOSTE</orth></form><dictScrap xml:id="KATELCOSTE-1"><form rend="b">KATELCOSTE</form>. Wildebrandus ab Oldenborg. in Itiner. Terræ sanctæ, ubi de Armeniis :
             <quote xml:lang="lat">Specialem habent Papam, quem ipsi sua lingua Katelcoste appellant.</quote> Ubi
           legendum indubie <foreign xml:lang="lat">Katolich</foreign>, uti monet D. Cangius in voce
         <ref cRef="CATHOLICUS">Catholicus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KATHEDRATICUM" rend="benedictin">
-        <dictScrap xml:id="KATHEDRATICUM-1"><form rend="b">KATHEDRATICUM</form>, Pensio, quæ Episcopo ab Ecclesiis quotannis exsolvitur in signum subjectionis.
+        <form><orth type="lemma">KATHEDRATICUM</orth></form><dictScrap xml:id="KATHEDRATICUM-1"><form rend="b">KATHEDRATICUM</form>, Pensio, quæ Episcopo ab Ecclesiis quotannis exsolvitur in signum subjectionis.
           Vide <ref target="CATHEDRATICUM">Cathedraticum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KATHERANI" rend="ducange">
-        <dictScrap xml:id="KATHERANI-1"><form rend="b">KATHERANI</form>. Statuta Roberti II. Regis Scotiæ cap. 16 : <quote xml:lang="lat">Qui transierint ut Katherani,
+        <form><orth type="lemma">KATHERANI</orth></form><dictScrap xml:id="KATHERANI-1"><form rend="b">KATHERANI</form>. Statuta Roberti II. Regis Scotiæ cap. 16 : <quote xml:lang="lat">Qui transierint ut Katherani,
             comedendo patriam, et consumendo bona Comitatuum, et capiendo per vim et violentiam bona
             et victualia, etc.</quote> Ubi loci Skeneus annotat, <foreign xml:lang="lat">Katheranos</foreign>, Hybernis
           nuncupari, montanos Hybernos, qui in inferiores partes Regni Scotiæ descendere soliti,
@@ -1380,17 +1380,17 @@ toute publication dérivée de ses ressources électroniques comporte :
               <ref target="KERNYS">Kernys</ref>.</add></dictScrap>
       </entry>
       <entry xml:id="KATIMIA" rend="carpentier">
-        <dictScrap xml:id="KATIMIA-1"><form rend="b">KATIMIA</form>, <foreign xml:lang="lat">Arabice est idem quod Græce vocatur Kadimia, Latine vero vulgariter Calmitia
+        <form><orth type="lemma">KATIMIA</orth></form><dictScrap xml:id="KATIMIA-1"><form rend="b">KATIMIA</form>, <foreign xml:lang="lat">Arabice est idem quod Græce vocatur Kadimia, Latine vero vulgariter Calmitia
             seu lapis calaminaris, quo æs tangitur et in auricalcum vertitur</foreign>. Glossar. medic.
           MS. Simon. Januens. ex Cod. reg. 6959.</dictScrap>
       </entry>
       <entry xml:id="KATOPAPA" rend="carpentier">
-        <dictScrap xml:id="KATOPAPA-1"><form rend="b">KATOPAPA</form>, f. pro <foreign xml:lang="lat">Cacopapa</foreign>, Malus Papa, a Græco <foreign xml:lang="grc">ϰαϰός</foreign>, malus, ut notant docti Editores ad vit. B. Vict. III. PP. tom. 5. Sept.
+        <form><orth type="lemma">KATOPAPA</orth></form><dictScrap xml:id="KATOPAPA-1"><form rend="b">KATOPAPA</form>, f. pro <foreign xml:lang="lat">Cacopapa</foreign>, Malus Papa, a Græco <foreign xml:lang="grc">ϰαϰός</foreign>, malus, ut notant docti Editores ad vit. B. Vict. III. PP. tom. 5. Sept.
           pag. 431. col. 2 : <quote xml:lang="lat">Viginti milia hominum et eo amplius in diversis regionibus,
             Katopapa Guiberto cooperante, cæsa sunt.</quote></dictScrap>
       </entry>
       <entry xml:id="KATRICOLATUM" rend="benedictin">
-        <dictScrap xml:id="KATRICOLATUM-1"><form rend="b">KATRICOLATUM</form>, Repagulum ferreum in modum cratis, Gall. <foreign xml:lang="fro">Grille</foreign>. De S. Attone Episc. tom.
+        <form><orth type="lemma">KATRICOLATUM</orth></form><dictScrap xml:id="KATRICOLATUM-1"><form rend="b">KATRICOLATUM</form>, Repagulum ferreum in modum cratis, Gall. <foreign xml:lang="fro">Grille</foreign>. De S. Attone Episc. tom.
           5. Maii pag. 199 : <quote xml:lang="lat">Et fuit missum et depositum <note>(corpus)</note> in quadam
             capsa Katricolata de ferro, ita quod a cuncta gente clare videri poterat.... Et sequenti
             die missum et positum fuit in sacristia Operæ suprascriptæ, et ibi retentum fuit, donec
@@ -1398,7 +1398,7 @@ toute publication dérivée de ses ressources électroniques comporte :
             <cb n="488a"/> Katricolatum juxta capellam Sancti suprascripti.</quote></dictScrap>
       </entry>
       <entry xml:id="KAVALLUS" rend="benedictin">
-        <dictScrap xml:id="KAVALLUS-1"><form rend="b">KAVALLUS</form>, Equus. Instrum. ann. 873. apud Mabill. Diplom. pag. 543 : <quote xml:lang="lat">Probter vinos,
+        <form><orth type="lemma">KAVALLUS</orth></form><dictScrap xml:id="KAVALLUS-1"><form rend="b">KAVALLUS</form>, Equus. Instrum. ann. 873. apud Mabill. Diplom. pag. 543 : <quote xml:lang="lat">Probter vinos,
             et annonas, argentum, mulo et Kavallos, vel vestimenta, quod præstavit.</quote> Vide
             <ref target="CABALLUS">Caballus</ref>.</dictScrap>
         <dictScrap xml:id="KAVALLUS-2" rend="carpentier">Occurrit præterea in
@@ -1409,7 +1409,7 @@ toute publication dérivée de ses ressources électroniques comporte :
           orloefs.</quote> Vide <ref cRef="CABALLARIA">Caballaria</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAVATICUM" rend="benedictin">
-        <dictScrap xml:id="KAVATICUM-1"><form rend="b">KAVATICUM</form>, Census capitalis, Gall. <foreign xml:lang="fro">Chevage</foreign>. Codex MS. Irminonis Abb. Sangerman. fol.
+        <form><orth type="lemma">KAVATICUM</orth></form><dictScrap xml:id="KAVATICUM-1"><form rend="b">KAVATICUM</form>, Census capitalis, Gall. <foreign xml:lang="fro">Chevage</foreign>. Codex MS. Irminonis Abb. Sangerman. fol.
           19 : <quote xml:lang="lat">Tempore donni Walonis Abbatis fuerunt duo fratres in Antoniaco villa, quorum
             unus major noster erat, nomine Gunfredus, alter vero Fulbertus, qui gloriabantur se esse
             nobiles, quos adquisivit donnus Walo Abbas, dicens eos esse servos S. Germani et faciens
@@ -1420,15 +1420,15 @@ toute publication dérivée de ses ressources électroniques comporte :
           den.</quote> Vide <ref target="CAPITALE1">Capitale 1</ref>.</dictScrap>
       </entry>
       <entry xml:id="KAVILLA" rend="carpentier">
-        <dictScrap xml:id="KAVILLA-1"><form rend="b">KAVILLA</form>, Clavus ligneus vel ferreus, Gall. <foreign xml:lang="fro">Cheville</foreign>. Comput. fabr. S. Petri Insul.
+        <form><orth type="lemma">KAVILLA</orth></form><dictScrap xml:id="KAVILLA-1"><form rend="b">KAVILLA</form>, Clavus ligneus vel ferreus, Gall. <foreign xml:lang="fro">Cheville</foreign>. Comput. fabr. S. Petri Insul.
           ann. 1366 : <quote xml:lang="lat">Item pro quadam rondella ferrea et Kavilla ejusdem, etc.</quote> Hinc
             <foreign xml:lang="fro">Kevillier</foreign>, pro <foreign xml:lang="fro">Cheviller</foreign>, Clavis figere, in Vita J. C. MS.</dictScrap>
       </entry>
       <entry xml:id="KAURSUS" rend="carpentier">
-        <dictScrap xml:id="KAURSUS-1"><form rend="b">KAURSUS</form>, <foreign xml:lang="lat">Brusato</foreign>, in Glossar. Lat. Ital. MS.</dictScrap>
+        <form><orth type="lemma">KAURSUS</orth></form><dictScrap xml:id="KAURSUS-1"><form rend="b">KAURSUS</form>, <foreign xml:lang="lat">Brusato</foreign>, in Glossar. Lat. Ital. MS.</dictScrap>
       </entry>
       <entry xml:id="KAYS" rend="ducange">
-        <dictScrap xml:id="KAYS-1"><form rend="b">KAYS</form>, <foreign xml:lang="lat">Cancelli</foreign>. Ita Glossæ MSS.</dictScrap>
+        <form><orth type="lemma">KAYS</orth></form><dictScrap xml:id="KAYS-1"><form rend="b">KAYS</form>, <foreign xml:lang="lat">Cancelli</foreign>. Ita Glossæ MSS.</dictScrap>
         <dictScrap xml:id="KAYS-2" rend="carpentier">Hinc, ut opinor, <foreign xml:lang="fro">Keste</foreign>,
           Clathrus, vulgo <foreign xml:lang="fro">Grille</foreign>. Charta ann. 1281. in Chartul. Mont. S. Mart. part. 7. fol.
           124. r°. col. 1 : <quote xml:lang="fro">Consent ke li abbés et li couvens... pussent... faire nouviaus
@@ -1438,7 +1438,7 @@ toute publication dérivée de ses ressources électroniques comporte :
             qui là pouroit kair.</quote> Vide supra <ref target="KAIA">Kaia</ref>.</dictScrap>
       </entry>
       <entry xml:id="KE" rend="benedictin">
-        <dictScrap xml:id="KE-1"><form rend="b">KE</form>, Quod, Gall. <foreign xml:lang="fro">Que</foreign>. Chartarium Ecclesiæ Auxitanæ : <quote xml:lang="lat">Dixit quia jam non
+        <form><orth type="lemma">KE</orth></form><dictScrap xml:id="KE-1"><form rend="b">KE</form>, Quod, Gall. <foreign xml:lang="fro">Que</foreign>. Chartarium Ecclesiæ Auxitanæ : <quote xml:lang="lat">Dixit quia jam non
             faceret Ke forcia facta habebat ad patrem Ezguilem. Et judicaverunt Guilem-Garcias de
             Sancta Christina, Efortlub Deciun. et Garciabrasc de la Nux Ke quale pactum Guilem
             Airemon factum habebat cum Austendo Archiepiscopo.</quote>
@@ -1446,29 +1446,29 @@ toute publication dérivée de ses ressources électroniques comporte :
             in Consil. Petri de Font. pag. 77. et alibi passim.</add></dictScrap>
       </entry>
       <entry xml:id="KEAFICIUM" rend="carpentier">
-        <dictScrap xml:id="KEAFICIUM-1"><form rend="b">KEAFICIUM</form>. Vide supra <ref target="KAFICIUM">Kaficium</ref>.</dictScrap>
+        <form><orth type="lemma">KEAFICIUM</orth></form><dictScrap xml:id="KEAFICIUM-1"><form rend="b">KEAFICIUM</form>. Vide supra <ref target="KAFICIUM">Kaficium</ref>.</dictScrap>
       </entry>
       <entry xml:id="KECHRES" rend="carpentier">
-        <dictScrap xml:id="KECHRES-1"><form rend="b">KECHRES</form> vel <form rend="sc">Kethres</form>. Charta ann. 1225. in Chartul. eccl. Glasguens. ex Cod. reg.
+        <form><orth type="lemma">KECHRES</orth></form><dictScrap xml:id="KECHRES-1"><form rend="b">KECHRES</form> vel <form rend="sc">Kethres</form>. Charta ann. 1225. in Chartul. eccl. Glasguens. ex Cod. reg.
           5540. fol. 70. r°. : <quote xml:lang="lat">Corredum ad opus servientum suorum, qui Kethres nuncupantur, a
             clericis non exiget memoratis. Kechres,</quote> in Ch. ann. 1226. ibid. fol. 90. r°.
           Anglis <foreign xml:lang="lat">Kitchin</foreign> culinam sonat ; unde fortean <ref target="KETHRES">Kethres</ref>, famuli
         coquinarii.</dictScrap>
       </entry>
       <entry xml:id="KEIMINUS" rend="benedictin">
-        <dictScrap xml:id="KEIMINUS-1"><form rend="b">KEIMINUS</form>, Via, iter, in Charta ann. 1283. ex Chartul. S. Vandreg. tom. 1. pag.
+        <form><orth type="lemma">KEIMINUS</orth></form><dictScrap xml:id="KEIMINUS-1"><form rend="b">KEIMINUS</form>, Via, iter, in Charta ann. 1283. ex Chartul. S. Vandreg. tom. 1. pag.
         132.</dictScrap>
       </entry>
       <entry xml:id="KEKENGI" rend="carpentier">
-        <dictScrap xml:id="KEKENGI-1"><form rend="b">KEKENGI</form>, <foreign xml:lang="lat">Arabice, Species solatri proferens granum rubicundum simile ceraso, in vesica
+        <form><orth type="lemma">KEKENGI</orth></form><dictScrap xml:id="KEKENGI-1"><form rend="b">KEKENGI</form>, <foreign xml:lang="lat">Arabice, Species solatri proferens granum rubicundum simile ceraso, in vesica
             inclusum, citrina in colore, quare a multis vesicaria vocatur</foreign>. Glossar. medic. MS.
           Simon. Januens. ex Cod. reg. 6959.</dictScrap>
       </entry>
       <entry xml:id="KELCHEN" rend="benedictin">
-        <dictScrap xml:id="KELCHEN-1"><form rend="b">KELCHEN</form>. Vide <ref target="KELCHYN">Kelchyn</ref>.</dictScrap>
+        <form><orth type="lemma">KELCHEN</orth></form><dictScrap xml:id="KELCHEN-1"><form rend="b">KELCHEN</form>. Vide <ref target="KELCHYN">Kelchyn</ref>.</dictScrap>
       </entry>
       <entry xml:id="KELCHYN" rend="ducange">
-        <dictScrap xml:id="KELCHYN-1"><form rend="b">KELCHYN</form>. Triplex apud Scotos occisori<cb n="488b"/> mulcta imponebatur, <foreign xml:lang="fro">le Cro, le
+        <form><orth type="lemma">KELCHYN</orth></form><dictScrap xml:id="KELCHYN-1"><form rend="b">KELCHYN</form>. Triplex apud Scotos occisori<cb n="488b"/> mulcta imponebatur, <foreign xml:lang="fro">le Cro, le
             Galnes</foreign>, et <foreign xml:lang="fro">le Kelchyn</foreign>. De duabus prioribus diximus suis locis. De
           <name>Kelchyn</name> agit Regiam Majestatem lib. 4. cap. 38 : <quote xml:lang="lat">Kelchyn unius Comitis est
             sexaginta sex et duæ partes unius vaccæ. Item le Kalchyn filii Comitis aut Thani et 44.
@@ -1485,24 +1485,24 @@ toute publication dérivée de ses ressources électroniques comporte :
           minor est mulcta, quæ interdum domino, interdum parentibus penditur.</dictScrap>
       </entry>
       <entry xml:id="KELEDEI" rend="ducange">
-        <dictScrap xml:id="KELEDEI-1"><form rend="b">KELEDEI</form>, <add rend="benedictin">Monachi apud veteres Scotos sic
+        <form><orth type="lemma">KELEDEI</orth></form><dictScrap xml:id="KELEDEI-1"><form rend="b">KELEDEI</form>, <add rend="benedictin">Monachi apud veteres Scotos sic
             dicti.</add> Vide <ref target="COLIDEI">Colidei</ref>.</dictScrap>
       </entry>
       <entry xml:id="KELTEN" rend="benedictin">
-        <dictScrap xml:id="KELTEN-1"><form rend="b">KELTEN</form>. Vide <ref target="KELCHYN">Kelchyn</ref>.</dictScrap>
+        <form><orth type="lemma">KELTEN</orth></form><dictScrap xml:id="KELTEN-1"><form rend="b">KELTEN</form>. Vide <ref target="KELCHYN">Kelchyn</ref>.</dictScrap>
       </entry>
       <entry xml:id="KEMAT" rend="ducange">
-        <dictScrap xml:id="KEMAT-1"><form rend="b">KEMAT</form>, Centuria, vox Cambrica seu Wallica in Legibus Hoeli Boni Regis Walliæ in Præfat.
+        <form><orth type="lemma">KEMAT</orth></form><dictScrap xml:id="KEMAT-1"><form rend="b">KEMAT</form>, Centuria, vox Cambrica seu Wallica in Legibus Hoeli Boni Regis Walliæ in Præfat.
             <add rend="benedictin">Melius forte <foreign xml:lang="lat">Kentat</foreign>, a <hi rend="i">Cant</hi> centum,
             Gall. <foreign xml:lang="fro">Centaine</foreign>.</add></dictScrap>
       </entry>
       <entry xml:id="KEMBELN" rend="carpentier">
-        <dictScrap xml:id="KEMBELN-1"><form rend="b">KEMBELN</form>. Gloss. Cæsar. Heisterbac. in Reg. Prum. tom. 1. Hist. Trevir. Joan. Nic. ab
+        <form><orth type="lemma">KEMBELN</orth></form><dictScrap xml:id="KEMBELN-1"><form rend="b">KEMBELN</form>. Gloss. Cæsar. Heisterbac. in Reg. Prum. tom. 1. Hist. Trevir. Joan. Nic. ab
             <foreign xml:lang="lat">Hontheim</foreign> pag. 671. col. 1 : <quote xml:lang="lat">cc. geren seu Kembeln, quibus venna
           paratur.</quote></dictScrap>
       </entry>
       <entry xml:id="KEMINUS" rend="benedictin">
-        <dictScrap xml:id="KEMINUS-1"><form rend="b">KEMINUS</form>, <form rend="sc">Keminum</form>, Via, iter, Picardis nostris <foreign xml:lang="lat">Kemin</foreign>. Scacarium S.
+        <form><orth type="lemma">KEMINUS</orth></form><dictScrap xml:id="KEMINUS-1"><form rend="b">KEMINUS</form>, <form rend="sc">Keminum</form>, Via, iter, Picardis nostris <foreign xml:lang="lat">Kemin</foreign>. Scacarium S.
           Michaelis apud Falesiam ann. 1207. Lib. S. Justi fol. 13. apud D. <foreign xml:lang="fro">Brussel</foreign> de Usu
           feud. tom. 1. pag. 603 : <quote xml:lang="lat">Judicatum est quod Callot Judæus poterit sequi Abraham
             Judæum, per duellum de Kemino.</quote> Charta ann. 1258. ex Tabul. B. M. de Bono-nuntio
@@ -1510,28 +1510,28 @@ toute publication dérivée de ses ressources électroniques comporte :
             <ref cRef="CAMINUS">Caminus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KEMROD" rend="benedictin">
-        <dictScrap xml:id="KEMROD-1"><form rend="b">KEMROD</form>, Præstationis genus. Vox Armorica. Chartularium Kemperleg. : <quote xml:lang="lat">De hoc autem
+        <form><orth type="lemma">KEMROD</orth></form><dictScrap xml:id="KEMROD-1"><form rend="b">KEMROD</form>, Præstationis genus. Vox Armorica. Chartularium Kemperleg. : <quote xml:lang="lat">De hoc autem
             quod dicitur Kemrod, quod ipse, ut dicebat, non debebat reddere : statutum est ut
             quolibet anno de unoquoque ciato mellis sex nummos reddat..... cum quatuor insuper
             nummis et uno obolo, pro eo quod dicitur Kemrod.</quote> Vide
         <ref target="KEVROD">Kevrod</ref>.</dictScrap>
       </entry>
       <entry xml:id="KERATES" rend="carpentier">
-        <dictScrap xml:id="KERATES-1"><form rend="b">KERATES</form>, <foreign xml:lang="lat">Pondus sumptum a semine xilocaratæ, et secundum Avicennam ponderans grana
+        <form><orth type="lemma">KERATES</orth></form><dictScrap xml:id="KERATES-1"><form rend="b">KERATES</form>, <foreign xml:lang="lat">Pondus sumptum a semine xilocaratæ, et secundum Avicennam ponderans grana
             ordei quatuor</foreign>. Glossar. medic. MS. Simon. Januens. ex Cod. reg. 6959.</dictScrap>
       </entry>
       <entry xml:id="KERECHET" rend="benedictin">
-        <dictScrap xml:id="KERECHET-1"><form rend="b">KERECHET</form>, Avis aquatica, ut videtur, quam Galli <foreign xml:lang="fro">Crecelle</foreign> vocant. Thwroczius 1. part.
+        <form><orth type="lemma">KERECHET</orth></form><dictScrap xml:id="KERECHET-1"><form rend="b">KERECHET</form>, Avis aquatica, ut videtur, quam Galli <foreign xml:lang="fro">Crecelle</foreign> vocant. Thwroczius 1. part.
           Chron. Hungar. cap. 5 : <quote xml:lang="lat">Aves Legisfalck, quæ, vulgo Kerechet vocantur, pullos
             generare posuerunt.</quote></dictScrap>
       </entry>
       <entry xml:id="KERELARE" rend="benedictin">
-        <dictScrap xml:id="KERELARE-1"><form rend="b">KERELARE</form>, Causam, litem coram judice intentare. Chartarium Ecclesiæ Auxitanæ : <quote xml:lang="lat">Venit
+        <form><orth type="lemma">KERELARE</orth></form><dictScrap xml:id="KERELARE-1"><form rend="b">KERELARE</form>, Causam, litem coram judice intentare. Chartarium Ecclesiæ Auxitanæ : <quote xml:lang="lat">Venit
             Ezguilem et clamavit et Kerelavit ad Geraldum Comitem.</quote> Vide
           <ref target="QUERELARE">Querelare</ref>.</dictScrap>
       </entry>
       <entry xml:id="KERHERE" rend="ducange">
-        <dictScrap xml:id="KERHERE-1"><form rend="b">KERHERE</form>. In Bundello Eschaet. de anno 3. Edw. I. n. 29. sic legitur : <quote xml:lang="lat">Inquisitio et
+        <form><orth type="lemma">KERHERE</orth></form><dictScrap xml:id="KERHERE-1"><form rend="b">KERHERE</form>. In Bundello Eschaet. de anno 3. Edw. I. n. 29. sic legitur : <quote xml:lang="lat">Inquisitio et
             extenta terrarum et tenementorum, quæ fuerunt Roberti de Montealto nuper defuncti, in
             Rising in Norff. facta die Lunæ in crastino S. Fidis virginis, videlicet regni Regis
             Edwardi tertio..... Item de quadam consuetudine, quæ vocatur Kerhere, ad festum S.
@@ -1540,7 +1540,7 @@ toute publication dérivée de ses ressources électroniques comporte :
               colligeretur.</add></dictScrap>
       </entry>
       <entry xml:id="KERKA" rend="ducange">
-        <dictScrap xml:id="KERKA-1"><form rend="b">KERKA</form>, Onus, ex Gall. <foreign xml:lang="fro">Charge</foreign>, Hisp. <foreign xml:lang="lat">Cargo</foreign>. Theloneum Mon. S. Bertini :
+        <form><orth type="lemma">KERKA</orth></form><dictScrap xml:id="KERKA-1"><form rend="b">KERKA</form>, Onus, ex Gall. <foreign xml:lang="fro">Charge</foreign>, Hisp. <foreign xml:lang="lat">Cargo</foreign>. Theloneum Mon. S. Bertini :
             <quote xml:lang="lat">Kerka Bersil, dabit 4. den. dimidia Kerka 2. den... Kerka piperis, 4. den.
           etc.</quote></dictScrap>
         <dictScrap xml:id="KERKA-2" rend="carpentier">Nostris, <foreign xml:lang="lat">Kerke</foreign>. Charta
@@ -1554,14 +1554,14 @@ toute publication dérivée de ses ressources électroniques comporte :
           Kierkiés.</quote></dictScrap>
       </entry>
       <entry xml:id="KERKEBODE" rend="carpentier">
-        <dictScrap xml:id="KERKEBODE-1"><form rend="b">KERKEBODE</form>, Ecclesiæ fundus ; Flandris enim <foreign xml:lang="lat">Kerk</foreign>, ecclesia, et <hi rend="i">Boden</hi>, fundus,
+        <form><orth type="lemma">KERKEBODE</orth></form><dictScrap xml:id="KERKEBODE-1"><form rend="b">KERKEBODE</form>, Ecclesiæ fundus ; Flandris enim <foreign xml:lang="lat">Kerk</foreign>, ecclesia, et <hi rend="i">Boden</hi>, fundus,
           latifundium. Vide <ref target="BODA">Boda</ref>. Charta Balduini Fland. march. ann. 1119. in Chartul. S.
           Bert. pag. 181 : <quote xml:lang="lat">Sic tamen ut ubi hospites comitis, qui super vaccarias et
             berquarias ejus manent, per Kerkebode ierint, ibi quoque hospites S. Bertini
           eant.</quote></dictScrap>
       </entry>
       <entry xml:id="KERKEMAGISTER" rend="benedictin">
-        <dictScrap xml:id="KERKEMAGISTER-1"><form rend="b">KERKEMAGISTER</form>, Quasi Magister Ecclesiæ ; Belgis enim <foreign xml:lang="lat">Kerck</foreign> Ecclesia, unde ipsis
+        <form><orth type="lemma">KERKEMAGISTER</orth></form><dictScrap xml:id="KERKEMAGISTER-1"><form rend="b">KERKEMAGISTER</form>, Quasi Magister Ecclesiæ ; Belgis enim <foreign xml:lang="lat">Kerck</foreign> Ecclesia, unde ipsis
             <foreign xml:lang="lat">Kerck-meester</foreign>, Ædituus, Gall. <foreign xml:lang="fro">Marguillier</foreign>. Litteræ ann. 1270. ex Archivo
           Audomarensi : <quote xml:lang="lat">Cum diu habita esset quæstio... Curatum de Lampernelle ex una parte
             et Kerkemagistros et parrochianos dicti loci ex altera, super quadam domo sita in solo
@@ -1569,10 +1569,10 @@ toute publication dérivée de ses ressources électroniques comporte :
             asserebant se pro parte jus habere.</quote></dictScrap>
       </entry>
       <entry xml:id="KERKEMANIA" rend="benedictin">
-        <dictScrap xml:id="KERKEMANIA-1"><form rend="b">KERKEMANIA</form>, Fixio limitum in agris. Vide <ref target="CIRCAMANARIA">Circamanaria</ref>.</dictScrap>
+        <form><orth type="lemma">KERKEMANIA</orth></form><dictScrap xml:id="KERKEMANIA-1"><form rend="b">KERKEMANIA</form>, Fixio limitum in agris. Vide <ref target="CIRCAMANARIA">Circamanaria</ref>.</dictScrap>
       </entry>
       <entry xml:id="KERKERIA" rend="benedictin">
-        <dictScrap xml:id="KERKERIA-1"><form rend="b">KERKERIA</form>, <form rend="sc">Kerrida</form>, Ecclesia, parochia, a Germ. <foreign xml:lang="lat">Kerck</foreign>. Charta Roberti
+        <form><orth type="lemma">KERKERIA</orth></form><dictScrap xml:id="KERKERIA-1"><form rend="b">KERKERIA</form>, <form rend="sc">Kerrida</form>, Ecclesia, parochia, a Germ. <foreign xml:lang="lat">Kerck</foreign>. Charta Roberti
           Leodiensis Episc. : <quote xml:lang="lat">Abbas S. Remigii cadente vel decedente investito loci ad
             Kerkidam de Mersne, præsentet investitum, ubi de jure et consuetudine fuerit
             præsentandum, cui quidem investito de bonis ipsis Kerkeriæ ad valorem viginti marcarum
@@ -1581,17 +1581,17 @@ toute publication dérivée de ses ressources électroniques comporte :
             partibus vulgariter appellatur.</quote></dictScrap>
       </entry>
       <entry xml:id="KERMESINUS" rend="benedictin">
-        <dictScrap xml:id="KERMESINUS-1"><form rend="b">KERMESINUS <seg>Color</seg></form>, Purpureus lucidior. Vide <ref target="CRAMESINUM">Cramesinum</ref>.</dictScrap>
+        <form><orth type="lemma">KERMESINUS Color</orth></form><dictScrap xml:id="KERMESINUS-1"><form rend="b">KERMESINUS <seg>Color</seg></form>, Purpureus lucidior. Vide <ref target="CRAMESINUM">Cramesinum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KERMISSE" rend="carpentier">
-        <dictScrap xml:id="KERMISSE-1"><form rend="b">KERMISSE</form>, Nundinæ, Fland. <foreign xml:lang="lat">Kermis</foreign>, a <foreign xml:lang="lat">Kerk</foreign>, ecclesia, et <foreign xml:lang="lat">Missa</foreign>, quo
+        <form><orth type="lemma">KERMISSE</orth></form><dictScrap xml:id="KERMISSE-1"><form rend="b">KERMISSE</form>, Nundinæ, Fland. <foreign xml:lang="lat">Kermis</foreign>, a <foreign xml:lang="lat">Kerk</foreign>, ecclesia, et <foreign xml:lang="lat">Missa</foreign>, quo
           nomine appellari nundinas, quod in festis principalibus indici et celebrari soleant,
           observatur in <foreign xml:lang="lat">Missa 4.</foreign> Bulla Honor. PP. III. ann. 1219. in Suppl. ad Miræum pag.
           82. 1 : <quote xml:lang="lat">Redditus nundinarum atque alios, qui Kermisse vocantur, vobis
             competentes... confirmamus.</quote></dictScrap>
       </entry>
       <entry xml:id="KERNELLARE" rend="ducange">
-        <dictScrap xml:id="KERNELLARE-1"><form rend="b">KERNELLARE</form>, <add rend="benedictin">Murum pinnis seu <ref target="QUERNELARE">quernellis</ref> munire,
+        <form><orth type="lemma">KERNELLARE</orth></form><dictScrap xml:id="KERNELLARE-1"><form rend="b">KERNELLARE</form>, <add rend="benedictin">Murum pinnis seu <ref target="QUERNELARE">quernellis</ref> munire,
             Gall. <foreign xml:lang="fro">Creneler un mur</foreign>. Charta ann. 1293. apud Rymer. tom. 2. pag. 609 :
               <quote xml:lang="lat">Sciatis quod concessimus Edmundo fratri nostro quod ipse mansum suum... muro de
               petra et calce firmare et Kernellare ; et illud sic firmatum et Kernellatum tenere
@@ -1603,45 +1603,45 @@ toute publication dérivée de ses ressources électroniques comporte :
             concedit.</add> Vide <ref target="QUARNELLUS">Quarnellus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KERNELLUS" rend="benedictin">
-        <dictScrap xml:id="KERNELLUS-1"><form rend="b">KERNELLUS</form>, Pinna muri, Gall. <foreign xml:lang="fro">Creneau</foreign>. Computus ann. 1202. apud D. <foreign xml:lang="fro">Brussel</foreign> de
+        <form><orth type="lemma">KERNELLUS</orth></form><dictScrap xml:id="KERNELLUS-1"><form rend="b">KERNELLUS</form>, Pinna muri, Gall. <foreign xml:lang="fro">Creneau</foreign>. Computus ann. 1202. apud D. <foreign xml:lang="fro">Brussel</foreign> de
           Usu feud. tom. 2. pag. <num>cliv</num> : <quote xml:lang="lat">Et pro muro purferir et pro plumbo, et pro
             Kernellis, <num>xx.</num> l.</quote> Vide <ref target="QUARNELLUS">Quarnellus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KERNYS" rend="benedictin">
-        <dictScrap xml:id="KERNYS-1"><form rend="b">KERNYS</form>, Vagi, errabundi, interprete Th. <name>Blount</name> in Nomolex. Angl. Iidem videntur
+        <form><orth type="lemma">KERNYS</orth></form><dictScrap xml:id="KERNYS-1"><form rend="b">KERNYS</form>, Vagi, errabundi, interprete Th. <name>Blount</name> in Nomolex. Angl. Iidem videntur
           qui supra <ref target="KATHERANI">Katherani</ref>. Charta Eduardi III. Reg. Angl. ann. 13. ejus regni :
             <quote xml:lang="lat">Nec non de illis qui dicuntur homines otiosi, et malefactoribus, qui etiam Kernys
             dicuntur.</quote></dictScrap>
       </entry>
       <entry xml:id="KERSONARIA" rend="ducange">
-        <dictScrap xml:id="KERSONARIA-1"><form rend="b">KERSONARIA</form>, Nasturtiaria area, Gall. <foreign xml:lang="fro">Cressoniere</foreign>. <add rend="carpentier">Vel potius, Palus, lacus, stagnum. Vide supra
+        <form><orth type="lemma">KERSONARIA</orth></form><dictScrap xml:id="KERSONARIA-1"><form rend="b">KERSONARIA</form>, Nasturtiaria area, Gall. <foreign xml:lang="fro">Cressoniere</foreign>. <add rend="carpentier">Vel potius, Palus, lacus, stagnum. Vide supra
               <ref target="CRESSONARIA">Cressonaria</ref>.</add> Charta Joiæ Dominæ <foreign xml:lang="fro">de Wallaincourt</foreign>
           ann. 1241. in Tabulario Monasterii Montis S. Martini : <quote xml:lang="lat">Molendino, sclusa, fundo,
             Kersonariis.</quote> Alia anni 1260. in Tabulario Belliloci in diœcesi Rothom. pag. 45 :
             <quote xml:lang="lat">Confirmo eleemosynam, Quersonariæ cujusdam.</quote></dictScrap>
       </entry>
       <entry xml:id="KERSTRATA" rend="benedictin">
-        <dictScrap xml:id="KERSTRATA-1"><form rend="b">KERSTRATA</form>, Via quæ ad Ecclesiam ducit, a Belgico <foreign xml:lang="lat">Kerck</foreign>, Ecclesia, et <foreign xml:lang="lat">Strata</foreign>,
+        <form><orth type="lemma">KERSTRATA</orth></form><dictScrap xml:id="KERSTRATA-1"><form rend="b">KERSTRATA</form>, Via quæ ad Ecclesiam ducit, a Belgico <foreign xml:lang="lat">Kerck</foreign>, Ecclesia, et <foreign xml:lang="lat">Strata</foreign>,
           Via. Consuetud. Furnenses ex Archivo Audomar. ann. 1240 : <quote xml:lang="lat">Qui viam Ecclesiæ, id est
             Kerstrata foderit vel artaverit et super hoc convictus fuerit per veritatem, emendabit
             Comiti 3. lib.</quote></dictScrap>
       </entry>
       <entry xml:id="KETEL" rend="ducange">
-        <dictScrap xml:id="KETEL-1"><form rend="b">KETEL</form>, Cacabus, olla ferrea, aut ærea, Belgis. Theloneum Monasterii S. Audomari :
+        <form><orth type="lemma">KETEL</orth></form><dictScrap xml:id="KETEL-1"><form rend="b">KETEL</form>, Cacabus, olla ferrea, aut ærea, Belgis. Theloneum Monasterii S. Audomari :
             <quote xml:lang="lat">Centum veteris metalli, 4. den. unus brotketel, 6. den. unus setrekeel, 2. den.
             unus Ketel, de 5. den. unum den.</quote></dictScrap>
       </entry>
       <entry xml:id="KETHRES" rend="carpentier">
-        <dictScrap xml:id="KETHRES-1"><form rend="b">KETHRES</form>. Vide supra <ref target="KECHRES">Kechres</ref>.</dictScrap>
+        <form><orth type="lemma">KETHRES</orth></form><dictScrap xml:id="KETHRES-1"><form rend="b">KETHRES</form>. Vide supra <ref target="KECHRES">Kechres</ref>.</dictScrap>
       </entry>
       <entry xml:id="KEVERE" rend="benedictin">
-        <dictScrap xml:id="KEVERE-1"><form rend="b">KEVERE</form>, Operculum seu vas quoddam quo lactariæ utuntur. Kennet. in Gloss. ad calcem
+        <form><orth type="lemma">KEVERE</orth></form><dictScrap xml:id="KEVERE-1"><form rend="b">KEVERE</form>, Operculum seu vas quoddam quo lactariæ utuntur. Kennet. in Gloss. ad calcem
           Antiquit. Ambrosden. : <quote xml:lang="lat">Compotus Henrici Deye et Johannæ uxoris de exitibus et
             proventibus de Dayri... Allocantur pro novo Kevere empto <num>viii.</num> den.
           <oVar>Kevera</oVar>,</quote> in Gloss. Lipsii est Bruchus, Germanis hodie <foreign xml:lang="gmh">Kafer</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KEUREN" rend="benedictin">
-        <dictScrap xml:id="KEUREN-1"><form rend="b">KEUREN</form>, Lex, judicium, Belgis <hi rend="i">Keuren</hi> est judicare, legem constituere. Charta ann.
+        <form><orth type="lemma">KEUREN</orth></form><dictScrap xml:id="KEUREN-1"><form rend="b">KEUREN</form>, Lex, judicium, Belgis <hi rend="i">Keuren</hi> est judicare, legem constituere. Charta ann.
           1291. apud Miræum tom. 2. pag. 876 : <quote xml:lang="lat">Leges etiam et judicia, vulgariter Keuren
             appellata, edendi, instituendi et faciendi observari, recipiendique quod inde evenerit
             usque ad summam prætaxatam.</quote></dictScrap>
@@ -1655,24 +1655,24 @@ toute publication dérivée de ses ressources électroniques comporte :
         <ref target="CHORA">Chora</ref>.</dictScrap>
       </entry>
       <entry xml:id="KEVROD" rend="benedictin">
-        <dictScrap xml:id="KEVROD-1"><form rend="b">KEVROD</form>, Idem quod <ref target="KEMROD">Kemrod</ref>, Armoricis, præstationis genus. Tabularium
+        <form><orth type="lemma">KEVROD</orth></form><dictScrap xml:id="KEVROD-1"><form rend="b">KEVROD</form>, Idem quod <ref target="KEMROD">Kemrod</ref>, Armoricis, præstationis genus. Tabularium
           Kemperleg. : <quote xml:lang="lat">Ego Budic frater Hoeli Comitis concedo monasterio sanctæ Crucis villam
             quæ dicitur Lesumadru, terram videlicet trium mensurarum mellis. De ipsa autem terra hic
             redditus est : scilicet terguisiaeth, Kevrod, multones, pastus,
         decima.</quote></dictScrap>
       </entry>
       <entry xml:id="KEYE" rend="ducange">
-        <dictScrap xml:id="KEYE-1"><form rend="b">KEYE</form>, <add rend="benedictin">Operculum, clavis.</add> Vide
+        <form><orth type="lemma">KEYE</orth></form><dictScrap xml:id="KEYE-1"><form rend="b">KEYE</form>, <add rend="benedictin">Operculum, clavis.</add> Vide
             <ref target="CONE">Cone</ref>.</dictScrap>
       </entry>
       <entry xml:id="KEYS" rend="ducange">
-        <dictScrap xml:id="KEYS-1"><form rend="b">KEYS</form>. Charta Edw. III. Regis Angl. tom. 2. Monastici Angl. pag. 71 : <quote xml:lang="lat">Nolo etiam,
+        <form><orth type="lemma">KEYS</orth></form><dictScrap xml:id="KEYS-1"><form rend="b">KEYS</form>. Charta Edw. III. Regis Angl. tom. 2. Monastici Angl. pag. 71 : <quote xml:lang="lat">Nolo etiam,
             quod aliquis Senescallus, Constabularius, Ballivus, Keys, sive forestarius, serviens vel
             venator,... per terras eorum venientes, ab ipsis nec ab hominibus suis pascantur.</quote>
           <cb n="489b"/></dictScrap>
       </entry>
       <entry xml:id="KHU-KHAN" rend="carpentier">
-        <dictScrap xml:id="KHU-KHAN-1"><form rend="b">KHU KHAN</form>, Creber et subitus campanæ pulsus, Gall. <foreign xml:lang="lat">Tocsin</foreign>. Chron. vetus ad ann. 1379.
+        <form><orth type="lemma">KHU KHAN</orth></form><dictScrap xml:id="KHU-KHAN-1"><form rend="b">KHU KHAN</form>, Creber et subitus campanæ pulsus, Gall. <foreign xml:lang="lat">Tocsin</foreign>. Chron. vetus ad ann. 1379.
           ubi de rebellione Montispess. ex Cod. reg. 9612. A. B. M. : <quote xml:lang="lat">Quod nobiliores de
             villa extraherent submersos, et universitas fundaret unam capellam sex capellanorum,
             quorum quilibet haberet quadraginta libras Turon. redditus, et in dicta capella esset
@@ -1682,7 +1682,7 @@ toute publication dérivée de ses ressources électroniques comporte :
           qui tumultum movet. Vide supra <ref target="TANQHANUM">Tanqhanum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KIDELLUS" rend="ducange">
-        <dictScrap xml:id="KIDELLUS-1"><form rend="b">KIDELLUS</form>, Machina piscatoria in fluminibus ad salmones, aliosque pisces intercipiendos.
+        <form><orth type="lemma">KIDELLUS</orth></form><dictScrap xml:id="KIDELLUS-1"><form rend="b">KIDELLUS</form>, Machina piscatoria in fluminibus ad salmones, aliosque pisces intercipiendos.
             <hi rend="i">Bettles, et Weres</hi> Angli vocant. Magna Charta Joannis Regis Angl. cap. 24. apud
           Matth. Paris : <quote xml:lang="lat">Omnes Kidelli deponantur de cætero per Thamesiam, et Medeweiam, et
             per totam Angliam, nisi per costeram maris.</quote> Fleta lib. 1. cap. 20. § 40 :
@@ -1696,28 +1696,28 @@ toute publication dérivée de ses ressources électroniques comporte :
         Paris.</dictScrap>
       </entry>
       <entry xml:id="KIDRIA" rend="benedictin">
-        <dictScrap xml:id="KIDRIA-1"><form rend="b">KIDRIA</form>, <foreign xml:lang="lat">Gummi cedri</foreign>, Matth. Silvatico. Vide <ref target="CEDRIA">Cedria</ref>.</dictScrap>
+        <form><orth type="lemma">KIDRIA</orth></form><dictScrap xml:id="KIDRIA-1"><form rend="b">KIDRIA</form>, <foreign xml:lang="lat">Gummi cedri</foreign>, Matth. Silvatico. Vide <ref target="CEDRIA">Cedria</ref>.</dictScrap>
       </entry>
       <entry xml:id="KIENNES" rend="carpentier">
-        <dictScrap xml:id="KIENNES-1"><form rend="b">KIENNES</form>, Monetæ Alemannicæ vel Leodiensis species. Lit. remiss. ann. 1382. in Reg. 121.
+        <form><orth type="lemma">KIENNES</orth></form><dictScrap xml:id="KIENNES-1"><form rend="b">KIENNES</form>, Monetæ Alemannicæ vel Leodiensis species. Lit. remiss. ann. 1382. in Reg. 121.
           Chartoph. reg. ch. 299 : <quote xml:lang="fro">En l'éveschié et ou pais du Liége acheterent d'un accort
             et d'une volonté certaine monnoie, que on appelloit Kiennes ;... ladite monnoie de
             Kiennes montans à la somme de deux cent et cinquante mars ou environ.</quote> Vide supra
             <ref target="CHIENES">Chienes</ref>.</dictScrap>
       </entry>
       <entry xml:id="KIFERA" rend="carpentier">
-        <dictScrap xml:id="KIFERA-1"><form rend="b">KIFERA</form>, Charta authentica, diploma. Chron. Danic. ad ann. 1290. apud Ludewig. tom. 9.
+        <form><orth type="lemma">KIFERA</orth></form><dictScrap xml:id="KIFERA-1"><form rend="b">KIFERA</form>, Charta authentica, diploma. Chron. Danic. ad ann. 1290. apud Ludewig. tom. 9.
           Reliq. MSS. pag. 161 : <quote xml:lang="lat">Eodem anno captus est archiepiscopus, et omnes gratiarum et
             privilegiorum Kiferæ vel literæ in choro Lundensis ecclesiæ combustæ
         sunt.</quote></dictScrap>
       </entry>
       <entry xml:id="KIL" rend="benedictin">
-        <dictScrap xml:id="KIL-1"><form rend="b">KIL</form>, Cella, Monasterium, Hibernis. Beda Hist. Eccl. l. 5. cap. 9 : <quote xml:lang="lat">Cui erat
+        <form><orth type="lemma">KIL</orth></form><dictScrap xml:id="KIL-1"><form rend="b">KIL</form>, Cella, Monasterium, Hibernis. Beda Hist. Eccl. l. 5. cap. 9 : <quote xml:lang="lat">Cui erat
             composito vocabulo a cella et columba, vocatus est Kolum-Killus.</quote> Vide
         Spelman.</dictScrap>
       </entry>
       <entry xml:id="KILIANUS" rend="benedictin">
-        <dictScrap xml:id="KILIANUS-1"><form rend="b">KILIANUS</form>, Nota temporis, quæ in veteribus Chartis aliisque MSS. Codicibus occurrit. Charta
+        <form><orth type="lemma">KILIANUS</orth></form><dictScrap xml:id="KILIANUS-1"><form rend="b">KILIANUS</form>, Nota temporis, quæ in veteribus Chartis aliisque MSS. Codicibus occurrit. Charta
           Eberhardi Abb. Weissenburg. apud Fred. Schannat. Vindem. litter. pag. 13 : <quote xml:lang="lat">Emit
             quoque a Monasterio Heilsbruggen partem decimarum in Rodt prope Riebberg pro
             <num>c.</num> florenis. Anno 1375. feria 2. post Kiliani.</quote> Codex Mellicensis MS.
@@ -1728,95 +1728,95 @@ toute publication dérivée de ses ressources électroniques comporte :
           testatur Schannatus ibid. pag. 51.</dictScrap>
       </entry>
       <entry xml:id="KILINGE" rend="benedictin">
-        <dictScrap xml:id="KILINGE-1"><form rend="b">KILINGE</form>, Armorum genus. Statuta Equitum Theuton. art. 73. apud R. Duellium Miscel. lib. 2.
+        <form><orth type="lemma">KILINGE</orth></form><dictScrap xml:id="KILINGE-1"><form rend="b">KILINGE</form>, Armorum genus. Statuta Equitum Theuton. art. 73. apud R. Duellium Miscel. lib. 2.
           pag. 59 : <quote xml:lang="lat">Ipse <note>(Treperarius)</note> tenetur dare Fratribus ad arma deputatis
             spallaria, wappenrock, Kilinge, phavones, wappenhersum... cingulos, et
           vestimenta.</quote></dictScrap>
       </entry>
       <entry xml:id="KILINNAS" rend="benedictin">
-        <dictScrap xml:id="KILINNAS-1"><form rend="b">KILINNAS</form>. Charta ann. 1065. apud D. Calmet. tom. 1. Hist. Lotharing. col. 461 :
+        <form><orth type="lemma">KILINNAS</orth></form><dictScrap xml:id="KILINNAS-1"><form rend="b">KILINNAS</form>. Charta ann. 1065. apud D. Calmet. tom. 1. Hist. Lotharing. col. 461 :
             <quote xml:lang="lat">Decimam partem tam in arboribus quam de pretio porcorum, sive utilitate apium eum
             per omnia habere volumus <cb n="489c"/> atque firmamus, tam in Kilinnade, quam in sylva
             juxta curtem Stensicla.</quote> f. nomen est alicujus loci proprium.</dictScrap>
       </entry>
       <entry xml:id="KILKET" rend="ducange">
-        <dictScrap xml:id="KILKET-1"><form rend="b">KILKET</form>, Servilis quædam solutio. Vetus Charta apud Spelmannum : <quote xml:lang="lat">Kilket, pro
+        <form><orth type="lemma">KILKET</orth></form><dictScrap xml:id="KILKET-1"><form rend="b">KILKET</form>, Servilis quædam solutio. Vetus Charta apud Spelmannum : <quote xml:lang="lat">Kilket, pro
             qualibet husbandrea 2. den.</quote></dictScrap>
       </entry>
       <entry xml:id="KILLAGIUM" rend="benedictin">
-        <dictScrap xml:id="KILLAGIUM-1"><form rend="b">KILLAGIUM</form>, Tributum, quod pro facultate figendi in portu anchoram conceditur, a Gall.
+        <form><orth type="lemma">KILLAGIUM</orth></form><dictScrap xml:id="KILLAGIUM-1"><form rend="b">KILLAGIUM</form>, Tributum, quod pro facultate figendi in portu anchoram conceditur, a Gall.
             <foreign xml:lang="fro">Quille</foreign>, quæ est navis infima pars. Literæ Henrici IV. Regis Angliæ ann. 1409.
           apud Rymer. tom. 8. pag. 573 : <quote xml:lang="lat">Capit ibi Killagium, scilicet de qualibet navi cum
             batello applicante ibi, octo denarios, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KILLYTHSTALLON" rend="ducange">
-        <dictScrap xml:id="KILLYTHSTALLON-1"><form rend="b">KILLYTHSTALLON</form>, Quod domino penditur ad inveniendum equum admissarium (<foreign xml:lang="fro">estallon</foreign>) in
+        <form><orth type="lemma">KILLYTHSTALLON</orth></form><dictScrap xml:id="KILLYTHSTALLON-1"><form rend="b">KILLYTHSTALLON</form>, Quod domino penditur ad inveniendum equum admissarium (<foreign xml:lang="fro">estallon</foreign>) in
           tenentium suorum beneficium. Spelm.</dictScrap>
       </entry>
       <entry xml:id="KILTH" rend="ducange">
-        <dictScrap xml:id="KILTH-1"><form rend="b">KILTH</form>, <foreign xml:lang="lat">Libertas villæ</foreign>, in MS. interpretatur, ait Spelman. qui vocis originem
+        <form><orth type="lemma">KILTH</orth></form><dictScrap xml:id="KILTH-1"><form rend="b">KILTH</form>, <foreign xml:lang="lat">Libertas villæ</foreign>, in MS. interpretatur, ait Spelman. qui vocis originem
           ignorare se fatetur.</dictScrap>
       </entry>
       <entry xml:id="KIMBA" rend="benedictin">
-        <dictScrap xml:id="KIMBA-1"><form rend="b">KIMBA</form>, pro Cimba. Abbo Floriac. de Obsidione Parisiacæ urbis, apud Spelmannum : <quote xml:lang="lat">
+        <form><orth type="lemma">KIMBA</orth></form><dictScrap xml:id="KIMBA-1"><form rend="b">KIMBA</form>, pro Cimba. Abbo Floriac. de Obsidione Parisiacæ urbis, apud Spelmannum : <quote xml:lang="lat">
             <l>Corripiunt ternas rabidi Kimbas satis altas.</l>
           </quote></dictScrap>
       </entry>
       <entry xml:id="KIMELIARCHA" rend="benedictin">
-        <dictScrap xml:id="KIMELIARCHA-1"><form rend="b">KIMELIARCHA</form>, Thesaurarius. Vide <ref target="CIMELIA-3">Cimeliarcha</ref>.</dictScrap>
+        <form><orth type="lemma">KIMELIARCHA</orth></form><dictScrap xml:id="KIMELIARCHA-1"><form rend="b">KIMELIARCHA</form>, Thesaurarius. Vide <ref target="CIMELIA-3">Cimeliarcha</ref>.</dictScrap>
       </entry>
       <entry xml:id="KINGELD" rend="ducange">
-        <dictScrap xml:id="KINGELD-1"><form rend="b">KINGELD</form>, Tributi species, sic dicta, quod Regi exsolveretur : <foreign xml:lang="ang">King</foreign> enim
+        <form><orth type="lemma">KINGELD</orth></form><dictScrap xml:id="KINGELD-1"><form rend="b">KINGELD</form>, Tributi species, sic dicta, quod Regi exsolveretur : <foreign xml:lang="ang">King</foreign> enim
           Anglis Rex dicitur. Vide tom. 1. Monast. Anglic. pag. 830.</dictScrap>
       </entry>
       <entry xml:id="KINSICA" rend="carpentier">
-        <dictScrap xml:id="KINSICA-1"><form rend="b">KINSICA</form>, Pisarum suburbii nomen, ab apothecis Saracenorum mercatorum in eo habitantium sic
+        <form><orth type="lemma">KINSICA</orth></form><dictScrap xml:id="KINSICA-1"><form rend="b">KINSICA</form>, Pisarum suburbii nomen, ab apothecis Saracenorum mercatorum in eo habitantium sic
           dicti ; <foreign xml:lang="lat">Kinsica</foreign> enim vel <foreign xml:lang="lat">Chinsica</foreign>, aut potius <hi rend="i">Henticha</hi> et
           <foreign xml:lang="lat">Entheca</foreign> est Apotheca, reconditorium. Annal. Pisan. apud Murator. tom. 2. Antiq.
           Ital. med. ævi col. 885 : <quote xml:lang="lat">Kinsicam muraverunt a turre, etc.</quote> Vide supra
             <ref target="CHINCITHA">Chincitha</ref>.</dictScrap>
       </entry>
       <entry xml:id="KINTAL" rend="benedictin">
-        <dictScrap xml:id="KINTAL-1"><form rend="b">KINTAL</form>, Ponderis genus, alias 100. librarum, sed e more loci varium. Hujus sæpe mentio
+        <form><orth type="lemma">KINTAL</orth></form><dictScrap xml:id="KINTAL-1"><form rend="b">KINTAL</form>, Ponderis genus, alias 100. librarum, sed e more loci varium. Hujus sæpe mentio
           fit in casu Fogossæ apud Plowdanum. Hæc Spelmannus. Vide <ref target="QUINTALE">Quintale</ref>.</dictScrap>
       </entry>
       <entry xml:id="KIRALITER" rend="ducange">
-        <dictScrap xml:id="KIRALITER-1"><form rend="b">KIRALITER</form>, Vox conficta ex Gr. <foreign xml:lang="grc">ϰύριος</foreign>. Fragmentum Anonymi
+        <form><orth type="lemma">KIRALITER</orth></form><dictScrap xml:id="KIRALITER-1"><form rend="b">KIRALITER</form>, Vox conficta ex Gr. <foreign xml:lang="grc">ϰύριος</foreign>. Fragmentum Anonymi
           Beneventani cap. 5. apud Camillum Peregrinum lib. 1. Hist. Longob. : <quote xml:lang="lat">Cepit eumdem
             Præsulem, qui ei Beneventum Kiraliter præbuerat, etc.</quote> Id est, cum plena
           potestate et omni dominio. Vide <ref target="POTESTATIVE">Potestative</ref>.</dictScrap>
       </entry>
       <entry xml:id="KIRI" rend="carpentier">
-        <dictScrap xml:id="KIRI-1"><form rend="b">KIRI</form>. <foreign xml:lang="lat">Lo segniore</foreign>. Glossar. Lat. Ital. MS. Vide
+        <form><orth type="lemma">KIRI</orth></form><dictScrap xml:id="KIRI-1"><form rend="b">KIRI</form>. <foreign xml:lang="lat">Lo segniore</foreign>. Glossar. Lat. Ital. MS. Vide
         <ref target="KIRALITER">Kiraliter</ref>.</dictScrap>
       </entry>
       <entry xml:id="KIRRI" rend="carpentier">
-        <dictScrap xml:id="KIRRI-1"><form rend="b">KIRRI</form>, <hi rend="i">Lo porcho</hi>, in eod. Glossar.</dictScrap>
+        <form><orth type="lemma">KIRRI</orth></form><dictScrap xml:id="KIRRI-1"><form rend="b">KIRRI</form>, <hi rend="i">Lo porcho</hi>, in eod. Glossar.</dictScrap>
       </entry>
       <entry xml:id="KIRTEL" rend="ducange">
-        <dictScrap xml:id="KIRTEL-1"><form rend="b">KIRTEL</form>, Vestimenti species : <quote xml:lang="fro">L'ordre observé à la Creation des Chevaliers des
+        <form><orth type="lemma">KIRTEL</orth></form><dictScrap xml:id="KIRTEL-1"><form rend="b">KIRTEL</form>, Vestimenti species : <quote xml:lang="fro">L'ordre observé à la Creation des Chevaliers des
             Bains : Un autre luy baillera ses brages, le tiers luy donnera un pourpoint, un autre
             luy vestira avec un Kirtel de rouge Tartarin.</quote></dictScrap>
       </entry>
       <entry xml:id="KIRVA" rend="benedictin">
-        <dictScrap xml:id="KIRVA-1"><form rend="b">KIRVA <seg>Turbæ</seg></form>, Certa <foreign xml:lang="lat">turbarum</foreign> quantitas. Charta apud <foreign xml:lang="lat">Madox</foreign> Formul. Anglic. pag.
+        <form><orth type="lemma">KIRVA Turbæ</orth></form><dictScrap xml:id="KIRVA-1"><form rend="b">KIRVA <seg>Turbæ</seg></form>, Certa <foreign xml:lang="lat">turbarum</foreign> quantitas. Charta apud <foreign xml:lang="lat">Madox</foreign> Formul. Anglic. pag.
           251 : <quote xml:lang="lat">In puram et perpetuam eleemosynam ad fodiendum singulis annis perpetuo
             septies viginti Kirvas turbæ in marisco meo de Kima.</quote></dictScrap>
       </entry>
       <entry xml:id="KITONITA" rend="ducange">
-        <dictScrap xml:id="KITONITA-1"><form rend="b">KITONITA</form>, <foreign xml:lang="grc">ϰοιτωνίτης</foreign>, <foreign xml:lang="lat">Cubicularius</foreign>, in Gloss. Gr.
+        <form><orth type="lemma">KITONITA</orth></form><dictScrap xml:id="KITONITA-1"><form rend="b">KITONITA</form>, <foreign xml:lang="grc">ϰοιτωνίτης</foreign>, <foreign xml:lang="lat">Cubicularius</foreign>, in Gloss. Gr.
           Lat. Luithprandus in Legat. <foreign xml:lang="lat">Leo Kitonita</foreign>. Ignotus Barensis in Chron. ann. 1025 :
             <quote xml:lang="lat">Descendit Oresti Kitoniti cum exercitu.</quote> Vide Notas ad Alexiadem pag.
         250.</dictScrap>
       </entry>
       <entry xml:id="KIVIT" rend="ducange">
-        <dictScrap xml:id="KIVIT-1"><form rend="b">KIVIT</form>, Avis prædatoriæ species. Tidericus Langenius in Saxonia : <quote xml:lang="lat">
+        <form><orth type="lemma">KIVIT</orth></form><dictScrap xml:id="KIVIT-1"><form rend="b">KIVIT</form>, Avis prædatoriæ species. Tidericus Langenius in Saxonia : <quote xml:lang="lat">
             <l>Est avis Kivit, quæ bellat quam cito vivit,</l>
             <l>Signans iratos homines ad bella paratos.</l>
           </quote></dictScrap>
       </entry>
       <entry xml:id="KLIMIA" rend="carpentier">
-        <dictScrap xml:id="KLIMIA-1"><form rend="b">KLIMIA</form>
+        <form><orth type="lemma">KLIMIA</orth></form><dictScrap xml:id="KLIMIA-1"><form rend="b">KLIMIA</form>
           <hi rend="i">seu</hi>
           <form rend="sc">Climia</form>, <gloss>apud Avicennam, est fumus
             seu fuligo adhærens superioribus fornacis in purificatione cujuscumque metalli :
@@ -1825,22 +1825,22 @@ toute publication dérivée de ses ressources électroniques comporte :
           <cb n="490a"/></dictScrap>
       </entry>
       <entry xml:id="KLIOTETRA" rend="benedictin">
-        <dictScrap xml:id="KLIOTETRA-1"><form rend="b">KLIOTETRA</form>. Sella plicatilis. Vide <ref target="CLIOTHEDRUM">Cliothedrum</ref>.</dictScrap>
+        <form><orth type="lemma">KLIOTETRA</orth></form><dictScrap xml:id="KLIOTETRA-1"><form rend="b">KLIOTETRA</form>. Sella plicatilis. Vide <ref target="CLIOTHEDRUM">Cliothedrum</ref>.</dictScrap>
       </entry>
       <entry xml:id="KLOCKUM" rend="carpentier">
-        <dictScrap xml:id="KLOCKUM-1"><form rend="b">KLOCKUM</form>, a Belgico <foreign xml:lang="lat">Klocke</foreign>, Campana. Acta S. Liobæ tom. 7. Sept. pag. 762. col. 2 :
+        <form><orth type="lemma">KLOCKUM</orth></form><dictScrap xml:id="KLOCKUM-1"><form rend="b">KLOCKUM</form>, a Belgico <foreign xml:lang="lat">Klocke</foreign>, Campana. Acta S. Liobæ tom. 7. Sept. pag. 762. col. 2 :
             <quote xml:lang="lat">Signum ecclesiæ, quod vulgo Klockum vocant, etc.</quote> Vide <ref target="CLOCA2">Cloca
         2</ref>.</dictScrap>
       </entry>
       <entry xml:id="KLOCUM" rend="benedictin">
-        <dictScrap xml:id="KLOCUM-1"><form rend="b">KLOCUM</form>, Campana. Vide <ref target="CLOCA2">Cloca 2</ref>.</dictScrap>
+        <form><orth type="lemma">KLOCUM</orth></form><dictScrap xml:id="KLOCUM-1"><form rend="b">KLOCUM</form>, Campana. Vide <ref target="CLOCA2">Cloca 2</ref>.</dictScrap>
       </entry>
       <entry xml:id="KLOXCS" rend="carpentier">
-        <dictScrap xml:id="KLOXCS-1"><form rend="b">KLOXCS</form>, <foreign xml:lang="lat">Singultus, pulsus viscerum, suspirium</foreign>, in Glossar. Simon. Januens. Vide
+        <form><orth type="lemma">KLOXCS</orth></form><dictScrap xml:id="KLOXCS-1"><form rend="b">KLOXCS</form>, <foreign xml:lang="lat">Singultus, pulsus viscerum, suspirium</foreign>, in Glossar. Simon. Januens. Vide
             <ref target="CLOCIRE">Clocire</ref>.</dictScrap>
       </entry>
       <entry xml:id="KMETHONES" rend="ducange">
-        <dictScrap xml:id="KMETHONES-1"><form rend="b">KMETHONES</form>, Servilis conditionis homines, apud Polonos, in Legibus Polonicis Chopini libris
+        <form><orth type="lemma">KMETHONES</orth></form><dictScrap xml:id="KMETHONES-1"><form rend="b">KMETHONES</form>, Servilis conditionis homines, apud Polonos, in Legibus Polonicis Chopini libris
           de Domanio subditis.</dictScrap>
         <dictScrap xml:id="KMETHONES-2" rend="carpentier"><hi rend="i">Villanus seu
           Kmetho</hi>, in Stat. Casimiri ann. 1346. inter Leg. Polon. tom. 1. pag. 9. <foreign xml:lang="lat">Kmethonalia
@@ -1848,18 +1848,18 @@ toute publication dérivée de ses ressources électroniques comporte :
           col. 1. Vide <ref target="CMETO">Cmeto</ref>.</dictScrap>
       </entry>
       <entry xml:id="KNACKIUS" rend="benedictin">
-        <dictScrap xml:id="KNACKIUS-1"><form rend="b">KNACKIUS</form>, Monetæ Fuldensis species. Litteræ fundationis Collegii Jesuitarum Fuldæ ann.
+        <form><orth type="lemma">KNACKIUS</orth></form><dictScrap xml:id="KNACKIUS-1"><form rend="b">KNACKIUS</form>, Monetæ Fuldensis species. Litteræ fundationis Collegii Jesuitarum Fuldæ ann.
           1573. apud Schannat. Diœc. Fuld. pag. 355 : <quote xml:lang="lat">Tradimus mille florenos, quorum singuli
             quadraginta duobus Fuldensibus Knackiis constant.</quote></dictScrap>
       </entry>
       <entry xml:id="KNAPONES" rend="ducange">
-        <dictScrap xml:id="KNAPONES-1"><form rend="b">KNAPONES</form>, Pedites milites. Hist. Australis ann. 1286 : <quote xml:lang="lat">Præcone Regis Aragonum per
+        <form><orth type="lemma">KNAPONES</orth></form><dictScrap xml:id="KNAPONES-1"><form rend="b">KNAPONES</form>, Pedites milites. Hist. Australis ann. 1286 : <quote xml:lang="lat">Præcone Regis Aragonum per
             exercitum valenter clamante, quod neminem occidant nisi milites galeatos, Knapones vero
             et scutiferos illæsos permittant abire.</quote> Theutonibus <foreign xml:lang="gmh">Knap</foreign>, est, alacer,
           agilis, celer : <foreign xml:lang="gmh">Knape</foreign> vero, servus, minister, famulus.</dictScrap>
       </entry>
       <entry xml:id="KNAVE" rend="ducange">
-        <dictScrap xml:id="KNAVE-1"><form rend="b">KNAVE</form>. Charta ann. 22. Henrici VII. Reg. Angl. apud Spelm. : <quote xml:lang="lat">Joannes filius
+        <form><orth type="lemma">KNAVE</orth></form><dictScrap xml:id="KNAVE-1"><form rend="b">KNAVE</form>. Charta ann. 22. Henrici VII. Reg. Angl. apud Spelm. : <quote xml:lang="lat">Joannes filius
             Willelmi Couper de Denby Knave, ad satisfaciendum Regi de omni eo, quod ad Regem
             pertinet, occasione cujusdam utlagariæ in ipsum in placito transgressionis ad sectam
             Regis promulgatæ 22. Maii.</quote> Ubi vox <foreign xml:lang="lat">Knave</foreign> conditionem ac classem hominis
@@ -1869,127 +1869,127 @@ toute publication dérivée de ses ressources électroniques comporte :
           pag. 8. Edit. Danicæ.</dictScrap>
       </entry>
       <entry xml:id="KNEZ" rend="ducange">
-        <dictScrap xml:id="KNEZ-1"><form rend="b">KNEZ</form>, vel <form rend="sc">Kneg</form>, <form rend="sc">Knezius</form>,
+        <form><orth type="lemma">KNEZ</orth></form><dictScrap xml:id="KNEZ-1"><form rend="b">KNEZ</form>, vel <form rend="sc">Kneg</form>, <form rend="sc">Knezius</form>,
               Princeps. Vide <ref target="CAGANUS">Caganus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KNIGHT" rend="benedictin">
-        <dictScrap xml:id="KNIGHT-1"><form rend="b">KNIGHT</form>, Puer, minister, famulus, Sax. Cnyt ; eodem sensu a Germanis etiamnum usurpatur ;
+        <form><orth type="lemma">KNIGHT</orth></form><dictScrap xml:id="KNIGHT-1"><form rend="b">KNIGHT</form>, Puer, minister, famulus, Sax. Cnyt ; eodem sensu a Germanis etiamnum usurpatur ;
           Anglis vero hodiernis est Miles, licet, ut ohservat Spelmannus, in veteribus eorum
           Instrumentis pro ministro adhibeatur. Vide <ref target="KNAVE">Knave</ref>.</dictScrap>
       </entry>
       <entry xml:id="KNIP" rend="benedictin">
-        <dictScrap xml:id="KNIP-1"><form rend="b">KNIP</form>, vox Belgica, Talitrum, Gall. <foreign xml:lang="fro">Chiquenaude</foreign>. Epist. obscur. Virorum pag. 21 :
+        <form><orth type="lemma">KNIP</orth></form><dictScrap xml:id="KNIP-1"><form rend="b">KNIP</form>, vox Belgica, Talitrum, Gall. <foreign xml:lang="fro">Chiquenaude</foreign>. Epist. obscur. Virorum pag. 21 :
             <quote xml:lang="lat">Ipse dixit, ecce Joannes Reuchlin est doctior quam vos, et dedit ei unum
           Knip.</quote></dictScrap>
       </entry>
       <entry xml:id="KNIPULUS" rend="benedictin">
-        <dictScrap xml:id="KNIPULUS-1"><form rend="b">KNIPULUS</form>, <form rend="sc">Knivus</form>, Ensis brevior, vel cultellus, Gallis <foreign xml:lang="lat">Canif</foreign>. Vide
+        <form><orth type="lemma">KNIPULUS</orth></form><dictScrap xml:id="KNIPULUS-1"><form rend="b">KNIPULUS</form>, <form rend="sc">Knivus</form>, Ensis brevior, vel cultellus, Gallis <foreign xml:lang="lat">Canif</foreign>. Vide
             <ref target="CANIPULUS">Canipulus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KNOPIS" rend="ducange">
-        <dictScrap xml:id="KNOPIS-1"><form rend="b">KNOPIS</form>, Tuber, nodus, Anglis <foreign xml:lang="lat">Knob</foreign> et <foreign xml:lang="lat">Knot</foreign>. Monasticum Anglic. tom. 3. pag.
+        <form><orth type="lemma">KNOPIS</orth></form><dictScrap xml:id="KNOPIS-1"><form rend="b">KNOPIS</form>, Tuber, nodus, Anglis <foreign xml:lang="lat">Knob</foreign> et <foreign xml:lang="lat">Knot</foreign>. Monasticum Anglic. tom. 3. pag.
           365 : <quote xml:lang="lat">Textus super Evangeliis, cum uno claspi, habens ex uno latere quinque Knopes
             argenteas, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KOGGE" rend="benedictin">
-        <dictScrap xml:id="KOGGE-1"><form rend="b">KOGGE</form>, Navigii genus, Gall. <foreign xml:lang="fro">Coquets</foreign>. Vide locum in <ref target="COGO">Cogo</ref>.</dictScrap>
+        <form><orth type="lemma">KOGGE</orth></form><dictScrap xml:id="KOGGE-1"><form rend="b">KOGGE</form>, Navigii genus, Gall. <foreign xml:lang="fro">Coquets</foreign>. Vide locum in <ref target="COGO">Cogo</ref>.</dictScrap>
         <dictScrap xml:id="KOGGE-2" rend="benedictin"><form rend="sc">Koka</form>, Eadem notione. Epistola Roberti Regis Calabriæ ad Barchinonenses in Chron.
           Siciliæ apud Marten. tom. 3. Anecd. col. 70 : <quote xml:lang="lat">Recepimus vestras litteras
             continentes disrobationem cujusdam Kokæ Bernardi Garrigæ civis Majoricarum, factam, ut
             asserit, per quosdam piratas regni nostri Siciliæ.</quote></dictScrap>
       </entry>
       <entry xml:id="KOKBON" rend="carpentier">
-        <dictScrap xml:id="KOKBON-1"><form rend="b">KOKBON</form>, <foreign xml:lang="lat">Granum coctum, i. frumentum</foreign>. Glossar. medic. MS. Simon. Januens. ex Cod.
+        <form><orth type="lemma">KOKBON</orth></form><dictScrap xml:id="KOKBON-1"><form rend="b">KOKBON</form>, <foreign xml:lang="lat">Granum coctum, i. frumentum</foreign>. Glossar. medic. MS. Simon. Januens. ex Cod.
           reg. 6959.</dictScrap>
       </entry>
       <entry xml:id="KOKKUS" rend="carpentier">
-        <dictScrap xml:id="KOKKUS-1"><form rend="b">KOKKUS</form>, Piscis testacei species, <cb n="490b"/> Angl. <foreign xml:lang="ang">Cockle</foreign>. Elmham. in vita
+        <form><orth type="lemma">KOKKUS</orth></form><dictScrap xml:id="KOKKUS-1"><form rend="b">KOKKUS</form>, Piscis testacei species, <cb n="490b"/> Angl. <foreign xml:lang="ang">Cockle</foreign>. Elmham. in vita
           Henr. V. reg. Angl. edit. Hearn. cap. 20. pag. 44 : <quote xml:lang="lat">Piscium tamen marinorum,
             excepto quodam de Kokkis accursu, non prius ibidem solito, nulla copia reficit
             obsidentes.</quote></dictScrap>
       </entry>
       <entry xml:id="KOLOS" rend="carpentier">
-        <dictScrap xml:id="KOLOS-1"><form rend="b">KOLOS</form>, <foreign xml:lang="lat">Anus</foreign>, in jam laudato Glossar. Simon. Jan.</dictScrap>
+        <form><orth type="lemma">KOLOS</orth></form><dictScrap xml:id="KOLOS-1"><form rend="b">KOLOS</form>, <foreign xml:lang="lat">Anus</foreign>, in jam laudato Glossar. Simon. Jan.</dictScrap>
       </entry>
       <entry xml:id="KONINHKGESHUIVE" rend="carpentier">
-        <dictScrap xml:id="KONINHKGESHUIVE-1"><form rend="b">KONINHKGESHUIVE</form>. Gloss. Cæsar. Heisterbac. in Reg. Prum. tom. 1. Hist. Trevir. Joan. Nic. ab
+        <form><orth type="lemma">KONINHKGESHUIVE</orth></form><dictScrap xml:id="KONINHKGESHUIVE-1"><form rend="b">KONINHKGESHUIVE</form>. Gloss. Cæsar. Heisterbac. in Reg. Prum. tom. 1. Hist. Trevir. Joan. Nic. ab
             <foreign xml:lang="lat">Hontheim</foreign> pag. 662. col. 1 : <quote xml:lang="lat">Quilibet istorum mansorum habet clx. jurnales
             terræ, quos appellamus vulgariter Koninhkgeshuive.</quote></dictScrap>
       </entry>
       <entry xml:id="KOPCE" rend="carpentier">
-        <dictScrap xml:id="KOPCE-1"><form rend="b">KOPCE</form>, Polonicæ vocis sensum docent Statuta Vladisl. Jagell. ann. 1420. inter Leg.
+        <form><orth type="lemma">KOPCE</orth></form><dictScrap xml:id="KOPCE-1"><form rend="b">KOPCE</form>, Polonicæ vocis sensum docent Statuta Vladisl. Jagell. ann. 1420. inter Leg.
           Polon. tom. 1. pag. 76 : <quote xml:lang="lat">Quod si contigerit aliquem litigantem pro limitibus docere
             vel ostendere scopulos dictos Kopce, ad minus tres, aut alia signa notabilia in campis,
             vulgariter Wyiasdy, etc.</quote> Ubi significantur silices ad metas appositi, ut metam
           esse ostendant. Vide in <ref target="TESTIS3">Testis 3</ref>.</dictScrap>
       </entry>
       <entry xml:id="KOPIEC" rend="carpentier">
-        <dictScrap xml:id="KOPIEC-1"><form rend="b">KOPIEC</form>, Colliculus apud Polonos. Charta ann. 1473. tom. 5. Cod. diplom. Polon. pag. 142.
+        <form><orth type="lemma">KOPIEC</orth></form><dictScrap xml:id="KOPIEC-1"><form rend="b">KOPIEC</form>, Colliculus apud Polonos. Charta ann. 1473. tom. 5. Cod. diplom. Polon. pag. 142.
           col. 2 : <quote xml:lang="lat">Feci unum colliculum, alias Kopiec, et fossatam, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KOSMUS" rend="benedictin">
-        <dictScrap xml:id="KOSMUS-1"><form rend="b">KOSMUS</form>, Mundus, orbis terrarum, a Græco <foreign xml:lang="grc">ϰόσμος</foreign>. Charta
+        <form><orth type="lemma">KOSMUS</orth></form><dictScrap xml:id="KOSMUS-1"><form rend="b">KOSMUS</form>, Mundus, orbis terrarum, a Græco <foreign xml:lang="grc">ϰόσμος</foreign>. Charta
           Willelmi Pictav. Comitis apud Stephanotium tom. 3. Fragm. Hist. MSS. : <quote xml:lang="lat">Cunctis in
             propatulo per quadripartis Kosmi climata clarere dignoscitur ob protoplasti nostri
             insolentiam omnem ejus successionis plantationem toxicato infectum esse
           antidoto.</quote></dictScrap>
       </entry>
       <entry xml:id="KOTARIUS" rend="benedictin">
-        <dictScrap xml:id="KOTARIUS-1"><form rend="b">KOTARIUS</form>, Rusticus, mansionarius. Charta apud Somnerum in Tract. de <name>Gavelkynd</name> pag.
+        <form><orth type="lemma">KOTARIUS</orth></form><dictScrap xml:id="KOTARIUS-1"><form rend="b">KOTARIUS</form>, Rusticus, mansionarius. Charta apud Somnerum in Tract. de <name>Gavelkynd</name> pag.
           29 : <quote xml:lang="lat">Item, si dominus Archiepiscopus fecerit scotallum infra boscum, quilibet
             terram tenens dabit ibi pro se et uxore sua 52. obolos et vidua vel Kotarius 1.
           obolum.</quote> Vide <ref target="COTA2">Cota 2</ref>.</dictScrap>
       </entry>
       <entry xml:id="KOVER" rend="benedictin">
-        <dictScrap xml:id="KOVER-1"><form rend="b">KOVER</form>, Operculum, clavis. Vide <ref target="CONE">Cone</ref>.</dictScrap>
+        <form><orth type="lemma">KOVER</orth></form><dictScrap xml:id="KOVER-1"><form rend="b">KOVER</form>, Operculum, clavis. Vide <ref target="CONE">Cone</ref>.</dictScrap>
       </entry>
       <entry xml:id="KRAGE" rend="ducange">
-        <dictScrap xml:id="KRAGE-1"><form rend="b">KRAGE</form>, inquit Saxo Grammaticus in Hist. Danica, <foreign xml:lang="lat">dicitur lingua Danica, truncus, cujus
+        <form><orth type="lemma">KRAGE</orth></form><dictScrap xml:id="KRAGE-1"><form rend="b">KRAGE</form>, inquit Saxo Grammaticus in Hist. Danica, <foreign xml:lang="lat">dicitur lingua Danica, truncus, cujus
             semicæsis ramis fastigia conscenduntur ; ita ut pes præcisorum stipitum obsequio perinde
             ac scalæ beneficio nixus, sensimque ad superiora provectus, petitæ celsitudinis
             compendium assequatur</foreign>.</dictScrap>
       </entry>
       <entry xml:id="KRENELLUS" rend="carpentier">
-        <dictScrap xml:id="KRENELLUS-1"><form rend="b">KRENELLUS</form>, Pinna muri, Gall. <foreign xml:lang="fro">Creneau</foreign>. Reg. Phil. Aug. ex Chartoph. reg. sign. 34. bis
+        <form><orth type="lemma">KRENELLUS</orth></form><dictScrap xml:id="KRENELLUS-1"><form rend="b">KRENELLUS</form>, Pinna muri, Gall. <foreign xml:lang="fro">Creneau</foreign>. Reg. Phil. Aug. ex Chartoph. reg. sign. 34. bis
           part. 1. fol. 96. r°. col. 2 : <quote xml:lang="lat">Tornellæ erunt de vj. pedes spissitudinis et x.
             pedes concavitatis, et duo paria stagiarum <note>(sic)</note> et scutum et Krenellum
             magis altum quam murus.</quote> Vide supra <ref target="CRANELLUS">Cranellus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KRETAL" rend="benedictin">
-        <dictScrap xml:id="KRETAL-1"><form rend="b">KRETAL</form>, <foreign xml:lang="lat">Mumia</foreign>. Matth. Silvaticus.</dictScrap>
+        <form><orth type="lemma">KRETAL</orth></form><dictScrap xml:id="KRETAL-1"><form rend="b">KRETAL</form>, <foreign xml:lang="lat">Mumia</foreign>. Matth. Silvaticus.</dictScrap>
       </entry>
       <entry xml:id="KRODO" rend="ducange">
-        <dictScrap xml:id="KRODO-1"><form rend="b">KRODO</form>, apud Saxones pro Deo cultus. Crantzius in Metrop. lib. 1. cap. 3 : <quote xml:lang="lat">Krodo
+        <form><orth type="lemma">KRODO</orth></form><dictScrap xml:id="KRODO-1"><form rend="b">KRODO</form>, apud Saxones pro Deo cultus. Crantzius in Metrop. lib. 1. cap. 3 : <quote xml:lang="lat">Krodo
             nomen erat Idolo, quod Saturnum sunt arbitrati... Pertinet hodie in Gente execrationis
             vocabulum. ut quoties abominanda res est visa, Krodo cum indignatione
         dicant.</quote></dictScrap>
       </entry>
       <entry xml:id="KROLESTWO" rend="carpentier">
-        <dictScrap xml:id="KROLESTWO-1"><form rend="b">KROLESTWO</form>, Polonica vox. Charta Vladisl. Jagel. ann. 1422. inter Leg. Polon. tom. 1. pag.
+        <form><orth type="lemma">KROLESTWO</orth></form><dictScrap xml:id="KROLESTWO-1"><form rend="b">KROLESTWO</form>, Polonica vox. Charta Vladisl. Jagel. ann. 1422. inter Leg. Polon. tom. 1. pag.
           84 : <quote xml:lang="lat">Pro exactionibus nostris, vulgariter Krolestwo nuncupatis, in signum
             subjectionis et veri dominii, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KRWAWNE" rend="carpentier">
-        <dictScrap xml:id="KRWAWNE-1"><form rend="b">KRWAWNE</form>, Polonica vox. Stat. Casimiri ann. 1347. inter Leg. Polon. tom. 1. pag. 27 :
+        <form><orth type="lemma">KRWAWNE</orth></form><dictScrap xml:id="KRWAWNE-1"><form rend="b">KRWAWNE</form>, Polonica vox. Stat. Casimiri ann. 1347. inter Leg. Polon. tom. 1. pag. 27 :
             <quote xml:lang="lat">Consuetudine iniquissima ministerialium extitit observatum, quod dum ad aliquem
             in via, vel alias occisum vocabantur, ipsum vestibus, in quibus fuerat occisus, jure
             ipsorum, quod ipsi Krwawne nominabant, expoliebant.</quote></dictScrap>
       </entry>
       <entry xml:id="KULKORN" rend="carpentier">
-        <dictScrap xml:id="KULKORN-1"><form rend="b">KULKORN</form>, Danis, Vectigalis species. Constit. Cristof. reg. Danor. ann. <cb n="490c"/>
+        <form><orth type="lemma">KULKORN</orth></form><dictScrap xml:id="KULKORN-1"><form rend="b">KULKORN</form>, Danis, Vectigalis species. Constit. Cristof. reg. Danor. ann. <cb n="490c"/>
           1320. apud Ludewig. tom. 12. Reliq. MSS. pag. 201 : <quote xml:lang="lat">Item, ut omnia et singula
             gravamina noviter imposita amodo non petantur, videlicet ploghs penninge, Kulkorn,
             thelonea, aut alia quæcunque post mortem Voldemari regis imposita et
         inventa.</quote></dictScrap>
       </entry>
       <entry xml:id="KUNIGSTEUR" rend="ducange">
-        <dictScrap xml:id="KUNIGSTEUR-1"><form rend="b">KUNIGSTEUR</form>, Regium Tributum : vox Germanica, ex <foreign xml:lang="lat">kunig</foreign>, Rex, et <foreign xml:lang="gmh">steur</foreign>, seu
+        <form><orth type="lemma">KUNIGSTEUR</orth></form><dictScrap xml:id="KUNIGSTEUR-1"><form rend="b">KUNIGSTEUR</form>, Regium Tributum : vox Germanica, ex <foreign xml:lang="lat">kunig</foreign>, Rex, et <foreign xml:lang="gmh">steur</foreign>, seu
             <ref target="STEURA">steura</ref>, tributum. Charta Henrici VI. Imp. ann. 1193. in Metropol. Salisburg. tom.
           1. pag. 378 : <quote xml:lang="lat">Videlicet cum advocatia, et servitio Regio, subsidio, sive
             supplemento, seu steura, quod in vulgari Kunig-steur dicitur, etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KUNIKEGES" rend="carpentier">
-        <dictScrap xml:id="KUNIKEGES-1"><form rend="b">KUNIKEGES</form>. Gloss. Cæsar. Heisterbac. in Reg. Prum. tom. 1. Hist. Trevir. Joan. Nic. ab
+        <form><orth type="lemma">KUNIKEGES</orth></form><dictScrap xml:id="KUNIKEGES-1"><form rend="b">KUNIKEGES</form>. Gloss. Cæsar. Heisterbac. in Reg. Prum. tom. 1. Hist. Trevir. Joan. Nic. ab
             <foreign xml:lang="lat">Hontheim</foreign> pag. 663. col. 1 : <quote xml:lang="lat">Quilibet mansus tenetur Prumiam adducere
             glavem, id est lignarium sive acervum lignorum : qui acervus habebit xij. pedes in
             longitudine et vij. in latitudine ; et pro lignario isto adducet quilibet mansus
@@ -1997,27 +1997,27 @@ toute publication dérivée de ses ressources électroniques comporte :
           <ref target="KUNIGSTEUR">Kunigsteur</ref>.</dictScrap>
       </entry>
       <entry xml:id="KUNINGA" rend="benedictin">
-        <dictScrap xml:id="KUNINGA-1"><form rend="b">KUNINGA</form>, Regina. De S. Cunigunde Imper. tom. 1. Martii pag. 271 : <quote xml:lang="lat">Et fit Kunigunda
+        <form><orth type="lemma">KUNINGA</orth></form><dictScrap xml:id="KUNINGA-1"><form rend="b">KUNINGA</form>, Regina. De S. Cunigunde Imper. tom. 1. Martii pag. 271 : <quote xml:lang="lat">Et fit Kunigunda
             Kuninga, quod Latine interpretari potest regia, regina.</quote></dictScrap>
       </entry>
       <entry xml:id="KURDAWANARIUS" rend="ducange">
-        <dictScrap xml:id="KURDAWANARIUS-1"><form rend="b">KURDAWANARIUS</form>. Vide in <ref target="CORDEBISUS">Cordebisus</ref>.</dictScrap>
+        <form><orth type="lemma">KURDAWANARIUS</orth></form><dictScrap xml:id="KURDAWANARIUS-1"><form rend="b">KURDAWANARIUS</form>. Vide in <ref target="CORDEBISUS">Cordebisus</ref>.</dictScrap>
       </entry>
       <entry xml:id="KYLYW" rend="benedictin">
-        <dictScrap xml:id="KYLYW-1"><form rend="b">KYLYW</form>, Jusculi esse genus suspicatur Th. <name>Blount</name> in Nomolexico Anglic. Charta ann.
+        <form><orth type="lemma">KYLYW</orth></form><dictScrap xml:id="KYLYW-1"><form rend="b">KYLYW</form>, Jusculi esse genus suspicatur Th. <name>Blount</name> in Nomolexico Anglic. Charta ann.
           1131. in Monast. Angl. tom. 4. pag. 722 : <quote xml:lang="lat">Et sint ipsi abbas et monachi et eorum
             successores et omnes tenentes sui liberi et quieti... de pastu et de Kylyw et omnibus
             aliis exactionibus, quas forestarii et alii ballivi seu servientes terræ solent
           exigere.</quote></dictScrap>
       </entry>
       <entry xml:id="KYNS-NEFFN" rend="carpentier">
-        <dictScrap xml:id="KYNS-NEFFN-1"><form rend="b">KYNS-NEFFN</form>. Constit. Woldem. reg. Danor. apud Ludewig. tom. 12. Reliq. MSS. pag. 173 :
+        <form><orth type="lemma">KYNS-NEFFN</orth></form><dictScrap xml:id="KYNS-NEFFN-1"><form rend="b">KYNS-NEFFN</form>. Constit. Woldem. reg. Danor. apud Ludewig. tom. 12. Reliq. MSS. pag. 173 :
             <quote xml:lang="lat">Item apertæ litteræ quæ dantur, debent stabiles esse, nisi possessor sigilli,
             cognatorum juramento, quod dicitur Kynsneffn, se possit defendere, quod litteræ tales
             nunquam ex consensu suo datæ erant.</quote></dictScrap>
       </entry>
       <entry xml:id="KYRIALIS" rend="benedictin">
-        <dictScrap xml:id="KYRIALIS-1"><form rend="b">KYRIALIS</form>, Dominicus, a Gr. <foreign xml:lang="grc">ϰύριος</foreign>. Vita S. Wilfridi sæc.
+        <form><orth type="lemma">KYRIALIS</orth></form><dictScrap xml:id="KYRIALIS-1"><form rend="b">KYRIALIS</form>, Dominicus, a Gr. <foreign xml:lang="grc">ϰύριος</foreign>. Vita S. Wilfridi sæc.
           4. Bened. part. 1. pag. 725 : <quote xml:lang="lat">
             <l>Vimineo condens corpus Kyriale canistro,</l>
             <l>Exhausit vitro vitalem digne cruorem.</l>
@@ -2026,7 +2026,7 @@ toute publication dérivée de ses ressources électroniques comporte :
             in vitro.</quote></dictScrap>
       </entry>
       <entry xml:id="KYRIE-ELEYSON" rend="carpentier">
-        <dictScrap xml:id="KYRIE-ELEYSON-1"><form rend="b">KYRIE ELEYSON</form>, Milites ad pugnam procedentes cantare solitos, docent Mirac. S. Verenæ tom. 1.
+        <form><orth type="lemma">KYRIE ELEYSON</orth></form><dictScrap xml:id="KYRIE-ELEYSON-1"><form rend="b">KYRIE ELEYSON</form>, Milites ad pugnam procedentes cantare solitos, docent Mirac. S. Verenæ tom. 1.
           Sept. pag. 170. col. 2 : <quote xml:lang="lat">Kyrie eleyson cantantes, more fidelium militum
             properantium ad bellum, saliendo ingressi sunt Rhenum.</quote> Et quidem <oVar>Kyrie
             eleyson</oVar> pro tessera militari datum ab Henrico rege, cum Hungaros profligavit ann.
@@ -2048,7 +2048,7 @@ toute publication dérivée de ses ressources électroniques comporte :
             <quote xml:lang="lat">Omnis plebs cantantes Kyrieeleisabant.</quote></dictScrap>
       </entry>
       <entry xml:id="KYRIELES" rend="ducange">
-        <dictScrap xml:id="KYRIELES-1"><form rend="b">KYRIELES</form>, Litaniæ publicæ, in quibus <foreign xml:lang="grc">Κύριε ἐλέησον</foreign>
+        <form><orth type="lemma">KYRIELES</orth></form><dictScrap xml:id="KYRIELES-1"><form rend="b">KYRIELES</form>, Litaniæ publicæ, in quibus <foreign xml:lang="grc">Κύριε ἐλέησον</foreign>
           decantatur : nos etiam <oVar>Kyrieles</oVar> dicimus. Auctor Miraculorum S. Berlendis Virg. cap.
           2. n. 11 : <quote xml:lang="lat">Omnibus Clericis Hymnum concinentibus, Laicis vero Kyrieles
             celebrantibus.</quote> Concil. Vasense, ann. 529. cap. 3 : <quote xml:lang="lat">Et quia tam in Sede
@@ -2070,11 +2070,11 @@ toute publication dérivée de ses ressources électroniques comporte :
         etc.</quote></dictScrap>
       </entry>
       <entry xml:id="KYROFALCO" rend="benedictin">
-        <dictScrap xml:id="KYROFALCO-1"><form rend="b">KYROFALCO</form>, <foreign xml:lang="lat">id est, dominus falco, secundum Græcam linguam</foreign> ; ita Fridericus II. lib.
+        <form><orth type="lemma">KYROFALCO</orth></form><dictScrap xml:id="KYROFALCO-1"><form rend="b">KYROFALCO</form>, <foreign xml:lang="lat">id est, dominus falco, secundum Græcam linguam</foreign> ; ita Fridericus II. lib.
           2. de Arte venandi cap. 4. Vide <ref target="GYROFALCONES">Gyrofalcones</ref>.</dictScrap>
       </entry>
       <entry xml:id="KYRRII" rend="carpentier">
-        <dictScrap xml:id="KYRRII-1"><form rend="b">KYRRII</form>, Kyrie eleison. Graduale Arelat. vel potius Narbon. 600. ann. in Bibl. reg. ubi de
+        <form><orth type="lemma">KYRRII</orth></form><dictScrap xml:id="KYRRII-1"><form rend="b">KYRRII</form>, Kyrie eleison. Graduale Arelat. vel potius Narbon. 600. ann. in Bibl. reg. ubi de
           Ord. tonor. inter exempla referuntur quædam de <foreign xml:lang="lat">Officiis</foreign>, id est Introitibus, alia
           de <oVar>Kyrriis</oVar>.</dictScrap>
       </entry>

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="ducange.rng" type="xml"?><?xml-stylesheet type="text/css" href="ducange_tei.css" title="editor"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?oxygen RNGSchema="ducange.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="ducange_tei.css" title="editor"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
   <fileDesc>
     <titleStmt>
@@ -106,7 +108,7 @@ toute publication dérivée de ses ressources électroniques comporte :
       <pb n="419"/>
       <cb n="419a"/>
       <entry rend="ducange" xml:id="X">
-        <dictScrap xml:id="X-1"><form rend="b">X</form>. <form rend="sc">Litera</form> numeralis, quæ decem sonat. Unde versus : <quote xml:lang="lat">
+        <form><orth type="lemma">X</orth></form><dictScrap xml:id="X-1"><form rend="b">X</form>. <form rend="sc">Litera</form> numeralis, quæ decem sonat. Unde versus : <quote xml:lang="lat">
             <l>X. duplex denos numero tibi dat retinendos.</l>
           </quote> Seu ut habet Ugutio : <quote xml:lang="lat">
             <l>Duplex X. solito decem jam more putatur.</l>
@@ -134,10 +136,10 @@ toute publication dérivée de ses ressources électroniques comporte :
             <hi rend="i">Sc</hi>, ut videre est infra in <ref target="XANCCIO">Xanccio</ref>, <ref target="XANTUS">Xantus</ref>, <ref target="XEXUS">Xexus</ref> et <ref target="XIRE">Xire</ref>. <cb n="419c"/></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XABATENSES">
-        <dictScrap xml:id="XABATENSES-1"><form rend="b">XABATENSES</form>, Hæretici Valdensium asseclæ et sectarii. Vide <ref target="SABATATI">Sabatati</ref>.</dictScrap>
+        <form><orth type="lemma">XABATENSES</orth></form><dictScrap xml:id="XABATENSES-1"><form rend="b">XABATENSES</form>, Hæretici Valdensium asseclæ et sectarii. Vide <ref target="SABATATI">Sabatati</ref>.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XACHIA">
-        <dictScrap xml:id="XACHIA-1"><form rend="b">XACHIA</form>. Tabular. Gellonense ann. 1097 : <quote xml:lang="lat">Raimundus de Nant..... usaticum omnem et
+        <form><orth type="lemma">XACHIA</orth></form><dictScrap xml:id="XACHIA-1"><form rend="b">XACHIA</form>. Tabular. Gellonense ann. 1097 : <quote xml:lang="lat">Raimundus de Nant..... usaticum omnem et
             Xachiam, quam in hominibus et feminis, vel in honore..... habet,</quote> tradit S.
           Salvatori Gellonensi. Leg. fortassis <hi rend="i">Tachiam</hi>. Vide <ref cRef="TASCA">Tasca</ref>.</dictScrap>
         <dictScrap rend="carpentier" xml:id="XACHIA-2"><hi rend="i">Xaintura</hi>, nostris
@@ -146,21 +148,21 @@ toute publication dérivée de ses ressources électroniques comporte :
             clos d'argent.</quote> Vide supra <ref target="CENTURA">Centura</ref>.</dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XAMITUM">
-        <dictScrap xml:id="XAMITUM-1"><form rend="b">XAMITUM</form>, Pannus holosericus. Vide <ref target="EXAMETUM">Exametum</ref>.</dictScrap>
+        <form><orth type="lemma">XAMITUM</orth></form><dictScrap xml:id="XAMITUM-1"><form rend="b">XAMITUM</form>, Pannus holosericus. Vide <ref target="EXAMETUM">Exametum</ref>.</dictScrap>
       </entry>
       <entry rend="carpentier" xml:id="XAMPLUM">
-        <dictScrap xml:id="XAMPLUM-1"><form rend="b">XAMPLUM</form>, Ager recens exaratus, proscissus, idem quod <ref target="EXARTUS">Exartus</ref>.
+        <form><orth type="lemma">XAMPLUM</orth></form><dictScrap xml:id="XAMPLUM-1"><form rend="b">XAMPLUM</form>, Ager recens exaratus, proscissus, idem quod <ref target="EXARTUS">Exartus</ref>.
           Charta ann. 1198. apud Murator. tom. 2. Antiq. Ital. med. ævi col. 85 : <quote xml:lang="lat">Petebat
             scilicet.... novalia omnia sive Xampla, et flumina navigabilia.</quote> Vide <ref target="EXEMPLUM2">Exemplum 2.</ref>
           <pb n="420"/>
           <cb n="420a"/></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XANCCIO">
-        <dictScrap xml:id="XANCCIO-1"><form rend="b">XANCCIO</form>, pro Sanctio, <hi rend="i">Constitutio pœna vallata</hi>, in Vocabulario Johan.
+        <form><orth type="lemma">XANCCIO</orth></form><dictScrap xml:id="XANCCIO-1"><form rend="b">XANCCIO</form>, pro Sanctio, <hi rend="i">Constitutio pœna vallata</hi>, in Vocabulario Johan.
           Erlebachensis.</dictScrap>
       </entry>
       <entry rend="carpentier" xml:id="XANOTERIUS">
-        <dictScrap xml:id="XANOTERIUS-1"><form rend="b">XANOTERIUS</form>, nostris <foreign xml:lang="fro">Xanotier</foreign>, pro <foreign xml:lang="fro">Chanotier, X</foreign> enim pro <hi rend="i">Ch</hi> usurparunt,
+        <form><orth type="lemma">XANOTERIUS</orth></form><dictScrap xml:id="XANOTERIUS-1"><form rend="b">XANOTERIUS</form>, nostris <foreign xml:lang="fro">Xanotier</foreign>, pro <foreign xml:lang="fro">Chanotier, X</foreign> enim pro <hi rend="i">Ch</hi> usurparunt,
           Cui canalium cura commissa est, a <hi rend="i">Chanecia</hi>, alveus, canalis : quod divinando
           proponimus. Lit. remiss. ann. 1458. in Reg. 188. Chartoph. reg. ch. 39 : <quote xml:lang="fro">Ilz
             chargerent une petite coulevrine, que icellui Richart avoit ledit jour achattée, et
@@ -168,15 +170,15 @@ toute publication dérivée de ses ressources électroniques comporte :
             Maixent)</note>.</quote></dictScrap>
       </entry>
       <entry rend="carpentier" xml:id="XANTIUM">
-        <dictScrap xml:id="XANTIUM-1"><form rend="b">XANTIUM</form>, <cit><quote xml:lang="lat">Herba, quæ vocatur Fagasmon, i. gladiolus. Theod. Priscianus,</quote><lbl> in </lbl><bibl>Glossar. MS. medic. Simon. Januens. ex Cod. reg. 6959.</bibl></cit></dictScrap>
+        <form><orth type="lemma">XANTIUM</orth></form><dictScrap xml:id="XANTIUM-1"><form rend="b">XANTIUM</form>, <cit><quote xml:lang="lat">Herba, quæ vocatur Fagasmon, i. gladiolus. Theod. Priscianus,</quote><lbl> in </lbl><bibl>Glossar. MS. medic. Simon. Januens. ex Cod. reg. 6959.</bibl></cit></dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XANTUS">
-        <dictScrap xml:id="XANTUS-1"><form rend="b">XANTUS</form>, pro <hi rend="i">Sanctus</hi>. Commodianus Instr. 35 : <quote xml:lang="lat">
+        <form><orth type="lemma">XANTUS</orth></form><dictScrap xml:id="XANTUS-1"><form rend="b">XANTUS</form>, pro <hi rend="i">Sanctus</hi>. Commodianus Instr. 35 : <quote xml:lang="lat">
             <l>Xanta Dei lex est quæ mortuos vivere docet.</l>
           </quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XAPHARDUM">
-        <dictScrap xml:id="XAPHARDUM-1"><form rend="b">XAPHARDUM</form>, Tabulatum, ferale pegma, Gall. <foreign xml:lang="fro">Echafaut</foreign>. Adrianus de Veteri-busco de Reb.
+        <form><orth type="lemma">XAPHARDUM</orth></form><dictScrap xml:id="XAPHARDUM-1"><form rend="b">XAPHARDUM</form>, Tabulatum, ferale pegma, Gall. <foreign xml:lang="fro">Echafaut</foreign>. Adrianus de Veteri-busco de Reb.
           Leod. apud Marten. tom. 4. Ampl. Collect. col. 1214 : <quote xml:lang="lat">Requisierunt ab officiali
             Leodiensi eum condemnari, et ad manus villici tradi. Quod factum est, et facto Xaphardo
             in medio Mosæ, ad vicum tinctorum, decollatus est.</quote> Ibidem col. 1308 :
@@ -184,25 +186,25 @@ toute publication dérivée de ses ressources électroniques comporte :
             possent videre.</quote> Occurrit rursum col. 1311. et 1321.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XECHES">
-        <dictScrap xml:id="XECHES-1"><form rend="b">XECHES</form>, Regulus, Arabibus. Thuanus lib. 26. Hist. : <quote xml:lang="lat">Dynasta quidam Solimanus
+        <form><orth type="lemma">XECHES</orth></form><dictScrap xml:id="XECHES-1"><form rend="b">XECHES</form>, Regulus, Arabibus. Thuanus lib. 26. Hist. : <quote xml:lang="lat">Dynasta quidam Solimanus
             nomine, cujusmodi regulos vulgo Xeches vocant, idque nominis Arabes iis tribuunt, quorum
             angustæ ditiones regni titulo non habentur.</quote></dictScrap>
       </entry>
       <entry rend="favre" xml:id="XEMODOCHIUM">
-        <dictScrap xml:id="XEMODOCHIUM-1"><form rend="b">XEMODOCHIUM</form>, <oVar>Xemodochium</oVar>, <foreign xml:lang="fro">ostelerie</foreign>. (Lex. Lat. Gal. Bibl. Ebroic. n. 23, <num>xiii.</num>
+        <form><orth type="lemma">XEMODOCHIUM</orth></form><dictScrap xml:id="XEMODOCHIUM-1"><form rend="b">XEMODOCHIUM</form>, <oVar>Xemodochium</oVar>, <foreign xml:lang="fro">ostelerie</foreign>. (Lex. Lat. Gal. Bibl. Ebroic. n. 23, <num>xiii.</num>
             s.)</dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XEMPLARE">
-        <dictScrap xml:id="XEMPLARE-1"><form rend="b">XEMPLARE</form>. Charta ann. 781. apud Joan. Petrum Puricellum in Monumentis Ambrosianæ Basilicæ
+        <form><orth type="lemma">XEMPLARE</orth></form><dictScrap xml:id="XEMPLARE-1"><form rend="b">XEMPLARE</form>. Charta ann. 781. apud Joan. Petrum Puricellum in Monumentis Ambrosianæ Basilicæ
           Mediolan. pag. 13 : <quote xml:lang="lat">Ut acceptet ipse vorsus pro ista donatione a Theoperto
             Cellerario S. Ambrosii camixiam unam, et bragarum par unum, valentia solido uno,
             Xemplare unum, valens tremessibus duobus.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XEMUS">
-        <dictScrap xml:id="XEMUS-1"><form rend="b">XEMUS</form>, Imperfectus, non plenarius, pro <hi rend="i">Semus</hi>. Vide in hac voce.</dictScrap>
+        <form><orth type="lemma">XEMUS</orth></form><dictScrap xml:id="XEMUS-1"><form rend="b">XEMUS</form>, Imperfectus, non plenarius, pro <hi rend="i">Semus</hi>. Vide in hac voce.</dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XENIUM">
-        <dictScrap xml:id="XENIUM-1"><form rend="b">XENIUM</form>, Præstatio muneris vice. Testamentum S. Remigii Remensis Archiepisc. :
+        <form><orth type="lemma">XENIUM</orth></form><dictScrap xml:id="XENIUM-1"><form rend="b">XENIUM</form>, Præstatio muneris vice. Testamentum S. Remigii Remensis Archiepisc. :
             <quote xml:lang="lat">Incolæ loci illius multiplicibus Xeniis gravati, etc.</quote> Capitula Caroli M.
           lib. 1. cap. 146 : <quote xml:lang="lat">Ut nullus Presbyter ad introitum Ecclesiæ Xenia donet.</quote>
           Id est, pro facultate <hi rend="i">Intitulationis</hi> ad Ecclesiam. Concilium Nannetense cap. 16 :
@@ -237,33 +239,33 @@ toute publication dérivée de ses ressources électroniques comporte :
             ereptione animarum nostrarum exoret libentius.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XENODOCHARIUS">
-        <dictScrap xml:id="XENODOCHARIUS-1"><form rend="b">XENODOCHARIUS</form>, <form rend="sc">Xenodocharia</form>, in Gemma, pro <hi rend="i">Xenodochii</hi> præfecto, præfectave.
+        <form><orth type="lemma">XENODOCHARIUS</orth></form><dictScrap xml:id="XENODOCHARIUS-1"><form rend="b">XENODOCHARIUS</form>, <form rend="sc">Xenodocharia</form>, in Gemma, pro <hi rend="i">Xenodochii</hi> præfecto, præfectave.
             <hi rend="i">Xenodochiarius</hi>, eadem notione, in Gloss. MSS. apud Vossium lib. 3. de Vitiis
           serm. cap. 56. Vide infra <ref target="XENODOCHUS">Xenodochus</ref>.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XENODOCHIUM">
-        <dictScrap xml:id="XENODOCHIUM-1"><form rend="b">XENODOCHIUM</form>, <cit><quote xml:lang="lat">id est, Locus venerabilis in quo peregrini suscipiuntur,</quote><lbl> in </lbl><bibl>lib. 2. Capitul. cap. 29. Occurrit passim.</bibl></cit></dictScrap>
+        <form><orth type="lemma">XENODOCHIUM</orth></form><dictScrap xml:id="XENODOCHIUM-1"><form rend="b">XENODOCHIUM</form>, <cit><quote xml:lang="lat">id est, Locus venerabilis in quo peregrini suscipiuntur,</quote><lbl> in </lbl><bibl>lib. 2. Capitul. cap. 29. Occurrit passim.</bibl></cit></dictScrap>
         <dictScrap rend="benedictin" xml:id="XENODOCHIUM-2"><form rend="sc">Xenodochium</form>, pro Monasterium. Vita S. Eugendi tom. 1. Jan. pag. 54 : <quote xml:lang="lat">Destructis namque
             mansionum ædiculis, uno cunctos secum Xenodochio quiescere fecit.</quote></dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XENODOCHUS">
-        <dictScrap xml:id="XENODOCHUS-1"><form rend="b">XENODOCHUS</form>, Xenodochii Præfectus, apud Gregorium M. lib. 1. Epist. 9. lib. 3. Epist. 24. <add rend="benedictin">Vide <ref target="XENODOCHARIUS">Xenodocharius</ref>.</add></dictScrap>
+        <form><orth type="lemma">XENODOCHUS</orth></form><dictScrap xml:id="XENODOCHUS-1"><form rend="b">XENODOCHUS</form>, Xenodochii Præfectus, apud Gregorium M. lib. 1. Epist. 9. lib. 3. Epist. 24. <add rend="benedictin">Vide <ref target="XENODOCHARIUS">Xenodocharius</ref>.</add></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XENODOXIA">
-        <dictScrap xml:id="XENODOXIA-1"><form rend="b">XENODOXIA</form>, Vana gloria, a Græco <foreign xml:lang="grc">ϰενοδοζία</foreign>. Vita S.
+        <form><orth type="lemma">XENODOXIA</orth></form><dictScrap xml:id="XENODOXIA-1"><form rend="b">XENODOXIA</form>, Vana gloria, a Græco <foreign xml:lang="grc">ϰενοδοζία</foreign>. Vita S.
           Johannis Valentin. Episc. apud Marten. tom. 3. Anecd. col. 1697 : <quote xml:lang="lat">Pauperes ad
             prandium coram se reficiebat, multos latenter, vitans Xenodoxiam, indumentis
           operiebat.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XENODOZIOLUM">
-        <dictScrap xml:id="XENODOZIOLUM-1"><form rend="b">XENODOZIOLUM</form>, diminut. a <hi rend="i">Xenodochium</hi>. Acta S. Arnulfi Episc. : <quote xml:lang="lat">Egenorum etiam et
+        <form><orth type="lemma">XENODOZIOLUM</orth></form><dictScrap xml:id="XENODOZIOLUM-1"><form rend="b">XENODOZIOLUM</form>, diminut. a <hi rend="i">Xenodochium</hi>. Acta S. Arnulfi Episc. : <quote xml:lang="lat">Egenorum etiam et
             maxime leprosorum misertus, iis <oVar>Xenodoziolum</oVar> condidit juxta cellulam, ipsisque quævis
             solatia, etiam usque ad viliora sese obsequia demittens, vir beatus impendit.</quote>
           Gloss. Lat. Gall. Sangerm. : <gloss><oVar>Xenodociolum</oVar>, <foreign xml:lang="fro">petit
             hospital</foreign>.</gloss></dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XENOSTORIUM">
-        <dictScrap xml:id="XENOSTORIUM-1"><form rend="b">XENOSTORIUM</form>. Durandus lib. 1. Ration. cap. 5. num. 1 : <quote xml:lang="lat">Loca humanæ necessitati deputata
+        <form><orth type="lemma">XENOSTORIUM</orth></form><dictScrap xml:id="XENOSTORIUM-1"><form rend="b">XENOSTORIUM</form>. Durandus lib. 1. Ration. cap. 5. num. 1 : <quote xml:lang="lat">Loca humanæ necessitati deputata
             sunt Xenodochium, <oVar>Xenostorium</oVar>, quod idem est, etc.</quote> Vox, ni fallor, ibrida, ex
           Gr. <foreign xml:lang="grc">ξένος</foreign>, et <hi rend="i">stare</hi> Lat. ubi peregrini stant.</dictScrap>
         <dictScrap rend="benedictin" xml:id="XENOSTORIUM-2"><form rend="sc">Xenotrophium</form>, Eadem notione, quia ibi nutriuntur peregrini, in Gloss. Lat. Gall. Sangerm. :
@@ -271,7 +273,7 @@ toute publication dérivée de ses ressources électroniques comporte :
         <dictScrap rend="benedictin" xml:id="XENOSTORIUM-3"><form rend="sc">Xenotropita</form>, in iisdem Glossis <foreign xml:lang="fro">Hospiteleur de pelerins</foreign>.</dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XERAMPINUS">
-        <dictScrap xml:id="XERAMPINUS-1"><form rend="b">XERAMPINUS</form>, pro <hi rend="i">Xerampelinus</hi>, ex Gr. <foreign xml:lang="grc">ξηραμπέλινος</foreign>,
+        <form><orth type="lemma">XERAMPINUS</orth></form><dictScrap xml:id="XERAMPINUS-1"><form rend="b">XERAMPINUS</form>, pro <hi rend="i">Xerampelinus</hi>, ex Gr. <foreign xml:lang="grc">ξηραμπέλινος</foreign>,
           color <hi rend="i">inter coccinum et muricem medius</hi>, Scholiastæ Juvenalis Sat. 6. quasi vitis
           siccæ, ut est apud Scaligerum Exercit. 325. in Cardanum. Errant enim Grammatici
           recentiores, qui xerampelinas vestes veteres et quasi <cb n="420c"/> desiccatas
@@ -293,16 +295,16 @@ toute publication dérivée de ses ressources électroniques comporte :
           <oVar>xeranpinium</oVar>, occurrit in Notis Tyron. pag. 159.</dictScrap>
       </entry>
       <entry rend="carpentier" xml:id="XERATUS">
-        <dictScrap xml:id="XERATUS-1"><form rend="b">XERATUS</form>, <gloss>Locus deambulationis</gloss>, in vet. Glossar. ex Cod. reg. 7613.</dictScrap>
+        <form><orth type="lemma">XERATUS</orth></form><dictScrap xml:id="XERATUS-1"><form rend="b">XERATUS</form>, <gloss>Locus deambulationis</gloss>, in vet. Glossar. ex Cod. reg. 7613.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XERGA">
-        <dictScrap xml:id="XERGA-1"><form rend="b">XERGA</form>, vox Hispanica, Pannus <hi rend="i">sericolaneus</hi>, Gall. <foreign xml:lang="fro">Serge</foreign>. Vide <ref target="SARGINEUM">Sargineum</ref>. Synodus Limæ ann. 1582. inter Conc. Hisp. tom. 4.
+        <form><orth type="lemma">XERGA</orth></form><dictScrap xml:id="XERGA-1"><form rend="b">XERGA</form>, vox Hispanica, Pannus <hi rend="i">sericolaneus</hi>, Gall. <foreign xml:lang="fro">Serge</foreign>. Vide <ref target="SARGINEUM">Sargineum</ref>. Synodus Limæ ann. 1582. inter Conc. Hisp. tom. 4.
           pag. 249 : <quote xml:lang="lat">Veste autem utantur nigra (Eremitæ.) Quod si paupertatis causa viliori
             panno uti velint, quem Hispanice vocamus Xerga, poterunt facile nigro colore
           inficere.</quote></dictScrap>
       </entry>
       <entry rend="ducange" xml:id="XEROMYRRHA">
-        <dictScrap xml:id="XEROMYRRHA-1"><form rend="b">XEROMYRRHA</form>. Sedulius in Hymno de Christo : <quote xml:lang="lat">
+        <form><orth type="lemma">XEROMYRRHA</orth></form><dictScrap xml:id="XEROMYRRHA-1"><form rend="b">XEROMYRRHA</form>. Sedulius in Hymno de Christo : <quote xml:lang="lat">
             <l>Xeromyrrham post Sabbatum</l>
             <l>Quædam vehebant corpori,</l>
             <l>Quas allocutus Angelus,</l>
@@ -325,7 +327,7 @@ toute publication dérivée de ses ressources électroniques comporte :
           loco citato.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XEROPHAGIA">
-        <dictScrap xml:id="XEROPHAGIA-1"><form rend="b">XEROPHAGIA</form>, Gr. <foreign xml:lang="grc">ξηροφαγία</foreign>, Aridus victus, arida comestio.
+        <form><orth type="lemma">XEROPHAGIA</orth></form><dictScrap xml:id="XEROPHAGIA-1"><form rend="b">XEROPHAGIA</form>, Gr. <foreign xml:lang="grc">ξηροφαγία</foreign>, Aridus victus, arida comestio.
           Gloss. Lat. Gall. Sangerm. : <gloss><oVar>Xerofagia</oVar>, <foreign xml:lang="fro">seiche
             commestion</foreign></gloss>. Hæc cum athletis ad robur corporis, tum Christianis ad vivendi
           sobrietatem et castimoniam in usu fuit. Tertull. de Jejuniis cap. 1 : <quote xml:lang="lat">Arguunt nos
@@ -335,12 +337,12 @@ toute publication dérivée de ses ressources électroniques comporte :
             quoque Xerophagiis invalescunt.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XEXUS">
-        <dictScrap xml:id="XEXUS-1"><form rend="b">XEXUS</form>, pro <hi rend="i">Sexus</hi>, in Charta Henrici I. Imper. ann. 1014. apud Murator. delle
+        <form><orth type="lemma">XEXUS</orth></form><dictScrap xml:id="XEXUS-1"><form rend="b">XEXUS</form>, pro <hi rend="i">Sexus</hi>, in Charta Henrici I. Imper. ann. 1014. apud Murator. delle
           Antic. Estens. pag. 111. <pb n="421"/>
           <cb n="421a"/></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XIA">
-        <dictScrap xml:id="XIA-1"><form rend="b">XIA</form>, Vestis species. Concil. Tarracon. ann. 1591. inter Hispan. tom. 4. pag. 615 :
+        <form><orth type="lemma">XIA</orth></form><dictScrap xml:id="XIA-1"><form rend="b">XIA</form>, Vestis species. Concil. Tarracon. ann. 1591. inter Hispan. tom. 4. pag. 615 :
             <quote xml:lang="lat">Exceptis canonicis cathedralium ecclesiarum,..... nullus clericus in sacris
             ordinibus constitutus vel beneficiatus deferat sericum cujuscumque qualitatis, neque
             vestes superiores de camelloto, neque Xias de tafatano.</quote></dictScrap>
@@ -349,25 +351,25 @@ toute publication dérivée de ses ressources électroniques comporte :
           tæniis super dorsum defluentibus constabat. Vide <ref target="CHIAS">Chias</ref>.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XILIVUM">
-        <dictScrap xml:id="XILIVUM-1"><form rend="b">XILIVUM</form>, Xyli bombix, Gall. <foreign xml:lang="fro">Goton</foreign>. Statuta Avenion. rubr. 28. art. 1. pag. 100 :
+        <form><orth type="lemma">XILIVUM</orth></form><dictScrap xml:id="XILIVUM-1"><form rend="b">XILIVUM</form>, Xyli bombix, Gall. <foreign xml:lang="fro">Goton</foreign>. Statuta Avenion. rubr. 28. art. 1. pag. 100 :
             <quote xml:lang="lat">Statuimus quod candelæ fiant ex bono sevo, et illarum ellichnium sit ex bono
             Xilivo seu bombaci, pœna viginti solidorum Turonensium et perditionis
           candelarum.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XIRE">
-        <dictScrap xml:id="XIRE-1"><form rend="b">XIRE</form>, Scire. Judicium ann. 873. inter Probat. tom. 1. Hist. Occitan. col. 125 :
+        <form><orth type="lemma">XIRE</orth></form><dictScrap xml:id="XIRE-1"><form rend="b">XIRE</form>, Scire. Judicium ann. 873. inter Probat. tom. 1. Hist. Occitan. col. 125 :
             <quote xml:lang="lat">Quia nos jam dicti testes Ximus, et bene in veritate notum havemus, et vidimus,
             etc.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XISTUS">
-        <dictScrap xml:id="XISTUS-1"><form rend="b">XISTUS</form>, Tribunal, pulpitum. Vita S. <cb n="421b"/> Dionysii Mediol. Episc. tom. 6. Maii
+        <form><orth type="lemma">XISTUS</orth></form><dictScrap xml:id="XISTUS-1"><form rend="b">XISTUS</form>, Tribunal, pulpitum. Vita S. <cb n="421b"/> Dionysii Mediol. Episc. tom. 6. Maii
           pag. 46 : <quote xml:lang="lat">Cumque de Arianorum sævitia quædam improbe loqui voluissent, ita ut quæ
             illi sævissime agerent, ita digna putaret, et Germinius jam tribunal conscendens
             resideret ; ingrate ferentes religiosi viri, a Xisto eum dejicientes abstraxerunt cum
             eunucho, et ita ecclesia sunt ejecti.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XIUS">
-        <dictScrap xml:id="XIUS-1"><form rend="b">XIUS</form>, Leges Palat. Jacobi II. Reg. Majoric. inter Acta SS. tom. 3. Jun. pag.
+        <form><orth type="lemma">XIUS</orth></form><dictScrap xml:id="XIUS-1"><form rend="b">XIUS</form>, Leges Palat. Jacobi II. Reg. Majoric. inter Acta SS. tom. 3. Jun. pag.
             <num>xlviii</num> : <quote xml:lang="lat">Summe laudabile atque bonum nec non caritati consonum
             judicamus, ut de iis quæ in mensa nostra pro refectione tam nobis quam aliis in eadem
             sedentibus apponuntur, partem optimis nostris Xiis Christi pauperibus, immo ipsi a quo
@@ -375,30 +377,30 @@ toute publication dérivée de ses ressources électroniques comporte :
           vocis ignorant, nisi sit idem quod patronus.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XOCA">
-        <dictScrap xml:id="XOCA-1"><form rend="b">XOCA</form>, <form rend="sc">Xocca</form>, Vestis genus. Ricobaldi Ferrar. Hist. Imp. apud Murator. tom. 6.
+        <form><orth type="lemma">XOCA</orth></form><dictScrap xml:id="XOCA-1"><form rend="b">XOCA</form>, <form rend="sc">Xocca</form>, Vestis genus. Ricobaldi Ferrar. Hist. Imp. apud Murator. tom. 6.
           col. 128 : <quote xml:lang="lat">Virgines in domibus patrum tunica de pignolato, quæ appellatur sotanum,
             et paludamento linteo quod dicebant Xoccum, erant contentæ.</quote> Vide <ref target="SUBTANEUM">Subtaneum</ref>. <cb n="421c"/></dictScrap>
         <dictScrap rend="carpentier" xml:id="XOCA-2">Eadem est quæ supra <ref target="SOCCA1">Socca 1.</ref> Vide in hac voce.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XPIANUS">
-        <dictScrap xml:id="XPIANUS-1"><form rend="b">XPIANUS</form>, <hi rend="i">Crestien. Xristus, Crist</hi>, <cit><lbl>in </lbl><bibl>Gloss. Lat. Gall. Sangerman.
+        <form><orth type="lemma">XPIANUS</orth></form><dictScrap xml:id="XPIANUS-1"><form rend="b">XPIANUS</form>, <hi rend="i">Crestien. Xristus, Crist</hi>, <cit><lbl>in </lbl><bibl>Gloss. Lat. Gall. Sangerman.
               Charta apud <title>Madox</title> in Formul. Anglic. pag. 244</bibl><lbl> : </lbl><quote xml:lang="lat">Ricardo
               Episcopo Cæstriæ, et omnibus prælatis ecclesiæ, et omnibus hominibus suis, et omnibus
               Xpianis Johannes de Stutewil salutem.</quote></cit> Ubi scribendum cum <foreign xml:lang="grc">ρ</foreign> Græco. Vide in <ref target="X">X</ref>.</dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XSANSSA">
-        <dictScrap xml:id="XSANSSA-1"><form rend="b">XSANSSA</form>. Bern. <persName type="author">de Breydenbach</persName> Iter Hierosol. pag. 212 : <quote xml:lang="lat">Inde ipse quatuor
+        <form><orth type="lemma">XSANSSA</orth></form><dictScrap xml:id="XSANSSA-1"><form rend="b">XSANSSA</form>. Bern. <persName type="author">de Breydenbach</persName> Iter Hierosol. pag. 212 : <quote xml:lang="lat">Inde ipse quatuor
             potentissimis regibus suis convicinis encenia transmittit, videlicet Magno Cham de
             Cathey, Presbytero Joanni, Xsanssa domino Tartarorum, et Magno
         Turco.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XUNGIA">
-        <dictScrap xml:id="XUNGIA-1"><form rend="b">XUNGIA</form>, Unctum, adeps, Gall. <foreign xml:lang="fro">Saindoux</foreign>. Statuta Montis Regal. fol. 308 :
+        <form><orth type="lemma">XUNGIA</orth></form><dictScrap xml:id="XUNGIA-1"><form rend="b">XUNGIA</form>, Unctum, adeps, Gall. <foreign xml:lang="fro">Saindoux</foreign>. Statuta Montis Regal. fol. 308 :
             <quote xml:lang="lat">Item, pro quolibet rubo olei, sevi candellarum, sevi et salacii Xungiæ, solvat
             den. octo.</quote></dictScrap>
       </entry>
       <entry rend="benedictin" xml:id="XYSTARCHES">
-        <dictScrap xml:id="XYSTARCHES-1"><form rend="b">XYSTARCHES</form>, a Gr. <foreign xml:lang="grc">ξυστάρχης</foreign>, Præses certaminis seu xysti.
+        <form><orth type="lemma">XYSTARCHES</orth></form><dictScrap xml:id="XYSTARCHES-1"><form rend="b">XYSTARCHES</form>, a Gr. <foreign xml:lang="grc">ξυστάρχης</foreign>, Præses certaminis seu xysti.
           Tertull. ad Mart. cap. 3 : <quote xml:lang="lat">Bonum agonem subituri estis, in quo agonothetes Deus
             vivus est : Xystarches Spiritus sanctus.</quote></dictScrap>
       </entry>

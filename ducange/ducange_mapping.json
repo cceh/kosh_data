@@ -5,15 +5,17 @@
         "id": "./@xml:id",
         "root": "//tei:entry",
         "fields": {
-          "[rend_b]": ".//tei:dictScrap/tei:form[@rend='b']",
+          "lemma": "./tei:form/tei:orth[@type='lemma']",
           "[rend_sc]": ".//tei:dictScrap/tei:form[@rend='sc']",
           "[ref_target]": ".//tei:ref/@target",
-          "[ref_cRef]": ".//tei:ref/@cRef"
+          "[ref_cRef]": ".//tei:ref/@cRef",
+          "[foreign_fro]": ".//tei:foreign[@xml:lang='fro']",
+          "[foreign_grc]": ".//tei:foreign[@xml:lang='grc']"
         }
       }
     },
     "properties": {
-      "rend_b": {
+      "lemma": {
         "type": "text"
       },
       "rend_sc": {
@@ -24,6 +26,12 @@
       },
       "ref_cRef": {
         "type": "keyword"
+      },
+      "foreign_fro": {
+        "type": "text"
+      },
+      "foreign_grc": {
+        "type": "text"
       }
     }
   }
