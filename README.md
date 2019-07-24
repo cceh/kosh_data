@@ -8,38 +8,37 @@ To learn more about Kosh, visit <a href="https://kosh.uni-koeln.de">https://kosh
 
 Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
-### Wörterbuch der Kölner Mundart - Fritz Hönig (Kölsch-Deutsch)
-**10.780 Entries**
-* Swagger UI: <http://kosh.uni-koeln.de/api/hoenig/restful>
+### Diccionario Geográfico-Histórico de las Indias Occidentales ó América (1786-1789) de Antonio de Alcedo
 
-* GraphiQL: <http://kosh.uni-koeln.de/api/hoenig/graphql>
+**19.010 Entries**
+
+* Swagger UI: <http://kosh.uni-koeln.de/api/de_alcedo/restful>
+* GraphiQL:  <http://kosh.uni-koeln.de/api/de_alcedo/graphql>
 ```
 {
-  entries(queryType: prefix, query: "scha", field:lemma_ksh ) {
+  entries(queryType: wildcard, query: "*HUE", field: lemma) {
     id 
-    lemmaKsh
-    translationDeu
+    lemma
+    xml
   }
 }
 ```
 
-### TuniCo - [A Dictionary of Tunis Arabic](https://arche.acdh.oeaw.ac.at/browser/oeaw_detail/id.acdh.oeaw.ac.at/uuid/175b8cdf-5d04-f4d3-a778-67910aa8fd37)
-**7.543 Entries**
+### [English Wordnet](https://en-word.net/)
 
-* Swagger UI: <http://kosh.uni-koeln.de/api/tunico/restful>
+Entries Index:
 
-* GraphiQL: <http://kosh.uni-koeln.de/api/tunico/graphql>
+**160.051 Entries**
 
-```
-{
-  entries(queryType: regexp, query: ".*ung", field: trans_de) {
-    id 
-    lemma	 
-    transEn
-    transDe
-  }
-}
-```
+* Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_entry/restful>
+* GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_entry/graphql>
+
+Synsets Index:
+
+**117.791 Synsets**
+
+* Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_synset/restful>
+* GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_synset/graphql>
 
 ### [Freedict German - Dutch](https://github.com/freedict/fd-dictionaries/tree/master/deu-nld)
 
@@ -55,7 +54,6 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
   }
 }
 ```
-
 
 ### [Freedict Breton - French](https://github.com/freedict/fd-dictionaries/tree/master/bre-fra)
 
@@ -93,37 +91,45 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 ```
 
 
-### Diccionario Geográfico-Histórico de las Indias Occidentales ó América (1786-1789) de Antonio de Alcedo
+### TuniCo - [A Dictionary of Tunis Arabic](https://arche.acdh.oeaw.ac.at/browser/oeaw_detail/id.acdh.oeaw.ac.at/uuid/175b8cdf-5d04-f4d3-a778-67910aa8fd37)
+**7.543 Entries**
 
-**19.010 Entries**
+* Swagger UI: <http://kosh.uni-koeln.de/api/tunico/restful>
 
-* Swagger UI: <http://kosh.uni-koeln.de/api/de_alcedo/restful>
-* GraphiQL:  <http://kosh.uni-koeln.de/api/de_alcedo/graphql>
+* GraphiQL: <http://kosh.uni-koeln.de/api/tunico/graphql>
+
 ```
 {
-  entries(queryType: wildcard, query: "*HUE", field: lemma) {
+  entries(queryType: regexp, query: ".*ung", field: trans_de) {
     id 
-    lemma
-    xml
+    lemma	 
+    transEn
+    transDe
   }
 }
 ```
 
-### [English Wordnet](https://en-word.net/)
+### Wörterbuch der Kölner Mundart - Fritz Hönig (Kölsch-Deutsch)
+**10.780 Entries**
+* Swagger UI: <http://kosh.uni-koeln.de/api/hoenig/restful>
 
-Entries Index:
+* GraphiQL: <http://kosh.uni-koeln.de/api/hoenig/graphql>
+```
+{
+  entries(queryType: prefix, query: "scha", field:lemma_ksh ) {
+    id 
+    lemmaKsh
+    translationDeu
+  }
+}
+```
 
-**160.051 Entries**
 
-* Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_entry/restful>
-* GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_entry/graphql>
 
-Synsets Index:
 
-**117.791 Synsets**
 
-* Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_synset/restful>
-* GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_synset/graphql>
+
+
 
 ## Contact 
 If you have any questions, contact the Kosh team: info-kosh[a]uni-koeln.de
