@@ -4,4 +4,4 @@ schema: ducange_mapping.json
 
 [ducange_index]
 files: ["glossaire.tei"]
-schema: ducange_index_mapping.json
+schema: ducange_fr_mapping.json
