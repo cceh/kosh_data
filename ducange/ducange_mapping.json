@@ -10,7 +10,11 @@
           "[ref_target]": ".//tei:ref/@target",
           "[ref_cRef]": ".//tei:ref/@cRef",
           "[foreign_fro]": ".//tei:foreign[@xml:lang='fro']",
-          "[foreign_grc]": ".//tei:foreign[@xml:lang='grc']"
+          "[foreign_grc]": ".//tei:foreign[@xml:lang='grc']",
+          "[foreign_lat]": ".//tei:foreign[@xml:lang='lat']",
+          "[quote_fro]": ".//tei:quote[@xml:lang='fro']",
+          "[quote_grc]": ".//tei:quote[@xml:lang='grc']",
+          "[quote_lat]": ".//tei:quote[@xml:lang='lat']"
         }
       }
     },
@@ -31,6 +35,18 @@
         "type": "text"
       },
       "foreign_grc": {
+        "type": "text"
+      },
+      "foreign_lat": {
+        "type": "text"
+      },
+      "quote_fro": {
+        "type": "text"
+      },
+      "quote_grc": {
+        "type": "text"
+      },
+      "quote_lat": {
         "type": "text"
       }
     }
