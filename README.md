@@ -72,6 +72,24 @@ Synsets Index:
 }
 ```
 
+
+### [Glossarium mediæ et infimæ latinitatis] (https://sourceforge.net/p/ducange/code/HEAD/tree/xml/)
+
+**89.975 Entries**
+
+Swagger: https://kosh.uni-koeln.de/api/ducange/restful
+
+GraphQL: https://kosh.uni-koeln.de/api/ducange/graphql
+
+```
+{entries(query:"*άϐα*", queryType:wildcard, field:foreign_grc){
+  lemma
+  foreignGrc
+}}
+```
+
+
+
 ### [Hiztegi Batu Oinarriduna](http://www.euskaltzaindia.eus/dok/eaeb/hiztegibatua/hiztegibatua.xml) (Basque)
 
 **37.973 Entries**
