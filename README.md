@@ -77,9 +77,9 @@ Synsets Index:
 
 **89.975 Entries**
 
-Swagger: https://kosh.uni-koeln.de/api/ducange/restful
+* Swagger: <https://kosh.uni-koeln.de/api/ducange/restful>
 
-GraphQL: https://kosh.uni-koeln.de/api/ducange/graphql
+* GraphiQL: <https://kosh.uni-koeln.de/api/ducange/graphql>
 
 ```
 {
