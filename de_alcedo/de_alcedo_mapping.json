@@ -5,13 +5,17 @@
         "id": "./@xml:id",
         "root": "//tei:entry",
         "fields": {
-          "lemma": "./tei:form/tei:orth"
+          "lemma": "./tei:form/tei:orth", 
+          "sense": "./tei:sense"
         }
       }
     },
     "properties": {
       "lemma": {
         "type": "keyword"
+      },
+      "sense": {
+        "type": "text"
       }
     }
   }
