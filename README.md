@@ -16,7 +16,7 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 * GraphiQL:  <http://kosh.uni-koeln.de/api/de_alcedo/graphql>
 ```
 {
-  entries(queryType: wildcard, query: "*HUE", field: lemma) {
+  entries(queryType: wildcard, query: "*hue", field: lemma) {
     id 
     lemma
     xml
