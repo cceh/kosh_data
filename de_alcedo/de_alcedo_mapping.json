@@ -12,7 +12,7 @@
     },
     "properties": {
       "lemma": {
-        "type": "keyword"
+        "type": "text"
       },
       "sense": {
         "type": "text"
