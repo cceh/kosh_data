@@ -751,10 +751,9 @@
         </entry>
         <entry xml:id="alcedo00051">
           <form>
-            <orth type="lemma">ACAPAZINGO San Diego de ) Pueblo de la Cabecera de Partido y Alcaldía
-              mayor de Cuernavaca</orth>
+            <orth type="lemma">ACAPAZINGO San Diego de </orth>
           </form>
-          <sense/>
+          <sense>Pueblo de la Cabecera de Partido y Alcaldía mayor de Cuernavaca</sense>
         </entry>
         <entry xml:id="alcedo00052">
           <form>
@@ -1089,14 +1088,13 @@
         </entry>
         <entry xml:id="alcedo00085">
           <form>
-            <orth type="lemma">ACAXETE Santa Mará de ) Pueblo y Cabecera de Partido de la Alcaldía
-              mayor de Tepeaca</orth>
+            <orth type="lemma">ACAXETE Santa Mará de </orth>
           </form>
-          <sense>situado en Urrepecho de la eminente sierra de Tlascak Es de temperamento frío y
-            seco: tiene 7 familias de Españoles 10 de Mestizos y Mulatos y 176 de Indios Mexicanos
-            En su inmediación hay una caxa ó arca de agua de piedra de cantería en que se recogen
-            las que baxan de la sierra y se conducen á Tepeaca Está 3 leguas al N N O de su
-            Capital</sense>
+          <sense>Pueblo y Cabecera de Partido de la Alcaldía mayor de Tepeacasituado en Urrepecho de
+            la eminente sierra de Tlascak Es de temperamento frío y seco: tiene 7 familias de
+            Españoles 10 de Mestizos y Mulatos y 176 de Indios Mexicanos En su inmediación hay una
+            caxa ó arca de agua de piedra de cantería en que se recogen las que baxan de la sierra y
+            se conducen á Tepeaca Está 3 leguas al N N O de su Capital</sense>
         </entry>
         <entry xml:id="alcedo00086">
           <fs type="hgis_info">
@@ -1220,10 +1218,10 @@
         </entry>
         <entry xml:id="alcedo00097">
           <form>
-            <orth type="lemma">ACHALA Montañas de) en la Provincia y Gobierno del Tucuman</orth>
+            <orth type="lemma">ACHALA Montañas de</orth>
           </form>
-          <sense>confinantes con las de Cuyo ó Mendoza del Reyno de Chile: corren del NNOal S SE en
-            en las Cabeceras del río quarto</sense>
+          <sense>en la Provincia y Gobierno del Tucumanconfinantes con las de Cuyo ó Mendoza del
+            Reyno de Chile: corren del NNOal S SE en en las Cabeceras del río quarto</sense>
         </entry>
         <entry xml:id="alcedo00098">
           <form>
@@ -1240,10 +1238,10 @@
         </entry>
         <entry xml:id="alcedo00100">
           <form>
-            <orth type="lemma">ACHEPE Ensenada de) Puerto pequeño de la mar del N en la Costa del E
-              de la Isla Real ó Cabo Bretón</orth>
+            <orth type="lemma">ACHEPE Ensenada de</orth>
           </form>
-          <sense>Está junto al Cabo del N</sense>
+          <sense>Puerto pequeño de la mar del N en la Costa del E de la Isla Real ó Cabo BretónEstá
+            junto al Cabo del N</sense>
         </entry>
         <entry xml:id="alcedo00101">
           <form>
@@ -1377,12 +1375,12 @@
         </entry>
         <entry xml:id="alcedo00118">
           <form>
-            <orth type="lemma">ACOLMAN San Agustin de ) Pueblo de la Cabecera y Alcaldía mayor de
-              Tezcoco</orth>
+            <orth type="lemma">ACOLMAN San Agustin de </orth>
           </form>
-          <sense>en Nueva España situado en un ameno valle de benigno temperamento; tiene agregados
-            á su Feligresía algunos Barrios con los quales numera 240 familias de Indios y un
-            Convento de Religiosos de San Agustin</sense>
+          <sense>Pueblo de la Cabecera y Alcaldía mayor de Tezcocoen Nueva España situado en un
+            ameno valle de benigno temperamento; tiene agregados á su Feligresía algunos Barrios con
+            los quales numera 240 familias de Indios y un Convento de Religiosos de San
+            Agustin</sense>
         </entry>
         <entry xml:id="alcedo00119">
           <form>
@@ -1716,13 +1714,13 @@
         </entry>
         <entry xml:id="alcedo00158">
           <form>
-            <orth type="lemma">ACULA San Pedro de ) Pueblo de la Cabecera y Alcaldía mayor de
-              Cozamaloapan</orth>
+            <orth type="lemma">ACULA San Pedro de </orth>
           </form>
-          <sense>en Nueva España: situado en una loma alta y rodeado de un estero de agua salobre
-            que los Indios llaman Pueda JDesagua en el mar por la barra de Alvarado cuyas aguas
-            quando crece en Invierno inundan de tal modo la tierra que hasta la Población alcanzan
-            sus derrames Tiene 505 familias de Indios y está 4 leguas al E de su Capital</sense>
+          <sense>Pueblo de la Cabecera y Alcaldía mayor de Cozamaloapanen Nueva España: situado en
+            una loma alta y rodeado de un estero de agua salobre que los Indios llaman Pueda
+            JDesagua en el mar por la barra de Alvarado cuyas aguas quando crece en Invierno inundan
+            de tal modo la tierra que hasta la Población alcanzan sus derrames Tiene 505 familias de
+            Indios y está 4 leguas al E de su Capital</sense>
         </entry>
         <entry xml:id="alcedo00159">
           <form>
@@ -2033,8 +2031,7 @@
           <form>
             <orth type="lemma">AGUA BUENA Y DULCE</orth>
           </form>
-          <sense>ó Fresh Water en Inglés Bahía del extrecho de Magallanes cerca de la de la Gente
-          </sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo00199">
           <form>
@@ -2775,8 +2772,7 @@
           <form>
             <orth type="lemma">AHUACAZINGO 5 Pueblo de la Cabecera de Partido de Atengo</orth>
           </form>
-          <sense>y Alcaldía mayor de Chilapa en Nueva España ; tiene 46 familias de Indios y está 10
-            leguas al Oriente de su Cabecera</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo00289">
           <form>
@@ -3393,8 +3389,7 @@
             <orth type="lemma">ALACLATZALA Pueblo de la Cabecera de Partido de San Luis de la Costa
               y Alcaldía mayor de Tlapa</orth>
           </form>
-          <sense>en Nueva España ; tiene ia5 familias deludios y está una legua del de
-            Quauzoquitengo </sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo00363">
           <form>
@@ -3566,8 +3561,7 @@
           <form>
             <orth type="lemma">ALARA Rio de la Provincia y Gobierno de Antioquía</orth>
           </form>
-          <sense>en el Nuevo Reyno de Granada nace al pie de la sierra de Guamoco al S de la Villa
-            de este nombre; corre al O y entra en el de Cauca</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo00382">
           <form>
@@ -3792,10 +3786,10 @@
         </entry>
         <entry xml:id="alcedo00407">
           <form>
-            <orth type="lemma">ALCATRACES Isla de los ) una de las que están al N de Santo
-              Domingo</orth>
+            <orth type="lemma">ALCATRACES Isla de los </orth>
           </form>
-          <sense>entre la punta del S del Caico grande y el Pañuelo quadrado</sense>
+          <sense>una de las que están al N de Santo Domingoentre la punta del S del Caico grande y
+            el Pañuelo quadrado</sense>
         </entry>
         <entry xml:id="alcedo00408">
           <form>
@@ -3845,15 +3839,14 @@
         </entry>
         <entry xml:id="alcedo00414">
           <form>
-            <orth type="lemma">ALDEA del Espíritu Santo ) Pueblo de la Provincia y Capitanía de
-              todos Santos</orth>
+            <orth type="lemma">ALDEA del Espíritu Santo </orth>
           </form>
-          <sense>en el Brasil situado en la Cesta á la beca del rio Joana</sense>
+          <sense>Pueblo de la Provincia y Capitanía de todos Santosen el Brasil situado en la Cesta
+            á la beca del rio Joana</sense>
         </entry>
         <entry xml:id="alcedo00415">
           <form>
-            <orth type="lemma">ALDEA del Espíritu Santo ) Pueblo de la Provincia y Capitanía de
-              todos Santos</orth>
+            <orth type="lemma">ALDEA del Espíritu Santo </orth>
           </form>
           <sense>Otro Pueblo hay del misino nombre en la Provincia y Capitanía de Seregipe, en el
             propio Rey no, situado á orilla y entrada del rio Real.</sense>
@@ -3867,14 +3860,13 @@
         </entry>
         <entry xml:id="alcedo00417">
           <form>
-            <orth type="lemma">ALEBASTER ó Eleuthera ) Isla del Canal de Bahama ó una de las
-              Lucayas</orth>
+            <orth type="lemma">ALEBASTER ó Eleuthera </orth>
           </form>
-          <sense>en que tienen los Ingleses un pequeño fuerte y guarnición; está cerca del banco
-            grande que da nombre al canal; tiene á la parte del N un buen Puerto y el terreno es
-            mejor que el de la Providencia y abundante de colmenas el clima es tan sano que no se
-            extraña en ella ver personas que llegan á 100 años Long desde 76 55 hasta 77 lat de 25 á
-            26</sense>
+          <sense>Isla del Canal de Bahama ó una de las Lucayasen que tienen los Ingleses un pequeño
+            fuerte y guarnición; está cerca del banco grande que da nombre al canal; tiene á la
+            parte del N un buen Puerto y el terreno es mejor que el de la Providencia y abundante de
+            colmenas el clima es tan sano que no se extraña en ella ver personas que llegan á 100
+            años Long desde 76 55 hasta 77 lat de 25 á 26</sense>
         </entry>
         <entry xml:id="alcedo00418">
           <form>
@@ -3984,11 +3976,12 @@
         </entry>
         <entry xml:id="alcedo00433">
           <form>
-            <orth type="lemma">ALLANTE; Volcan del Reyno de Chile</orth>
+            <orth type="lemma">ALLANTE</orth>
           </form>
-          <sense>en la Provincia y Pais de Arauco: el año de 1640 rebentó abriéndose el monte en dos
-            partes; y arrojando disformes peñascos encendidos con tanto estruendo que se oyó el
-            golpe á distancia de muchas leguas y causó infinitos daños</sense>
+          <sense>Volcan del Reyno de Chileen la Provincia y Pais de Arauco: el año de 1640 rebentó
+            abriéndose el monte en dos partes; y arrojando disformes peñascos encendidos con tanto
+            estruendo que se oyó el golpe á distancia de muchas leguas y causó infinitos
+            daños</sense>
         </entry>
         <entry xml:id="alcedo00434">
           <fs type="hgis_info">
@@ -4127,10 +4120,10 @@
         </entry>
         <entry xml:id="alcedo00451">
           <form>
-            <orth type="lemma">ALMACENES del Rey) Pueblo de la Provincia y Corregimiento de Cañete
-              en el Perú</orth>
+            <orth type="lemma">ALMACENES del Rey</orth>
           </form>
-          <sense>situado en la Costa frente de las Islas de Chincha</sense>
+          <sense>Pueblo de la Provincia y Corregimiento de Cañete en el Perúsituado en la Costa
+            frente de las Islas de Chincha</sense>
         </entry>
         <entry xml:id="alcedo00452">
           <form>
@@ -5343,10 +5336,11 @@
         </entry>
         <entry xml:id="alcedo00596">
           <form>
-            <orth type="lemma">AMENGOACA; Rio de la Provincia y Gobierno de Mainas</orth>
+            <orth type="lemma">AMENGOACA</orth>
           </form>
-          <sense>en el Reyno de Quito: nace en el territorio de los Indios Uniguesas corre del O al
-            E y torciendo su curso al N entra en el de Ucayale</sense>
+          <sense>Rio de la Provincia y Gobierno de Mainasen el Reyno de Quito: nace en el territorio
+            de los Indios Uniguesas corre del O al E y torciendo su curso al N entra en el de
+            Ucayale</sense>
         </entry>
         <entry xml:id="alcedo00597">
           <form>
@@ -5828,10 +5822,10 @@
         </entry>
         <entry xml:id="alcedo00628">
           <form>
-            <orth type="lemma">AMULALAS ó Amulaes ) Pueblo de la Provincia y Gobierno del
-              Tucumán</orth>
+            <orth type="lemma">AMULALAS ó Amulaes </orth>
           </form>
-          <sense>llamado antes Mataray: es Población de los antiguos Indios Abipones</sense>
+          <sense>Pueblo de la Provincia y Gobierno del Tucumánllamado antes Mataray: es Población de
+            los antiguos Indios Abipones</sense>
         </entry>
         <entry xml:id="alcedo00629">
           <form>
@@ -6456,9 +6450,9 @@
         </entry>
         <entry xml:id="alcedo00711">
           <form>
-            <orth type="lemma">ANCASTE y</orth>
+            <orth type="lemma">ANCASTE</orth>
           </form>
-          <sense>Pueblo de la Provincia y Gobierno del Tucuman en la jurisdicción de Catamarca
+          <sense>y Pueblo de la Provincia y Gobierno del Tucuman en la jurisdicción de Catamarca
           </sense>
         </entry>
         <entry xml:id="alcedo00712">
@@ -7443,19 +7437,18 @@
         </entry>
         <entry xml:id="alcedo00831">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
-          <sense>en Nueva España de agradable y delicioso temperamento poblado de casas huertas y
-            jardines que sirven de recreo y diversión á las gentes de México; en el hay un Convento
-            de Religiosos de San Francisco y otro magnífico de Carmelitas Descalzos que es Colegio
-            de Estudios: hace algún comercio de paños y bayetas que texen sus obrajes: dista poco
-            mas de un quaito de legua al Poniente de su Capital</sense>
+          <sense>Pueblo de la Cabecera de Partido y Alcaldía mayor de Coyoacanen Nueva España de
+            agradable y delicioso temperamento poblado de casas huertas y jardines que sirven de
+            recreo y diversión á las gentes de México; en el hay un Convento de Religiosos de San
+            Francisco y otro magnífico de Carmelitas Descalzos que es Colegio de Estudios: hace
+            algún comercio de paños y bayetas que texen sus obrajes: dista poco mas de un quaito de
+            legua al Poniente de su Capital</sense>
         </entry>
         <entry xml:id="alcedo00832">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Otro Pueblo hay de este nombre en la Cabecera de Partido y Alcaldía mayor de Per
             iban, en el propio Reyno: tiene 36 familias de Indios y 6 de Mestizos, que viven de
@@ -7465,32 +7458,28 @@
         </entry>
         <entry xml:id="alcedo00833">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Otro del Reyno de Chile, que es Plaza de armas y frontera de los Indios Araucanos,
             cerca del rio Biobio.</sense>
         </entry>
         <entry xml:id="alcedo00834">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Otro de la Provincia y Corregimiento de Pasto en el Reyno de Quito, situado en el
             camino que baxa á Popayan.</sense>
         </entry>
         <entry xml:id="alcedo00835">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno de la Sonora, en Nueva España, á orilla de un rio
             que entra en el de Gila, al O del Presidio de Horcasitas.</sense>
         </entry>
         <entry xml:id="alcedo00836">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Otro de las Misiones que tenían los Regulares de la Compañía, en la Provincia y
             Gobierno del Paraguay, situado á orilla del rio Yui; en él tubiéron los Portugueses,
@@ -7500,24 +7489,21 @@
         </entry>
         <entry xml:id="alcedo00837">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Otro de la Provincia y Corregimiento de Ibarra, en el Reyno de Quito, situado en la
             Cabecera del rio de su nombre.</sense>
         </entry>
         <entry xml:id="alcedo00838">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Una Isla grande del Golfo de California ó mar roxo de Cortes, situada en lo mas
             interior de él, poco distante de la Costa, siguiendo su dirección.</sense>
         </entry>
         <entry xml:id="alcedo00839">
           <form>
-            <orth type="lemma">ANGEL s San) Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Coyoacan</orth>
+            <orth type="lemma">ANGEL s San</orth>
           </form>
           <sense>Un rio de la Provincia y Corregimiento de Ibarra, en el Reyno de Quito, nace del
             páramo del Angel, corre al SSE,y entra en el de Mira, poco antes de un puente que tiene
@@ -7771,11 +7757,7 @@
           <form>
             <orth type="lemma">ANGRA de los Reyes</orth>
           </form>
-          <sense>Ciudad de la Provincia y Capitanía del rio Geneiro en el Brasil situada en la Costa
-            de una pequeña Bahía llamada de los Reyes que le da el nombre: tiene dos Iglesias un
-            Monasterio de Religiosas y la guarnece un destacamento de 20 hombres: la pesca que hacen
-            es el único producto con que comercian: está 36 millas del rio Geneiro en 411 gr q8 min
-            de latit merid y 41 gr 10 min de longitud Occidental</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo00858">
           <form>
@@ -7916,28 +7898,28 @@
         </entry>
         <entry xml:id="alcedo00876">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
-          <sense>corre al E y entra en el de Rapabanock Otro llamado del S para distinguirlo de
-            aquel en la misma Provincia y Colonia corre también al E y entra en el de
-            Pamunkey</sense>
+          <sense>Rio de la Provincia y Colonia de Virginiacorre al E y entra en el de Rapabanock
+            Otro llamado del S para distinguirlo de aquel en la misma Provincia y Colonia corre
+            también al E y entra en el de Pamunkey</sense>
         </entry>
         <entry xml:id="alcedo00877">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Un Condado de la Provincia y Colonia de Mariland; uno de los 10 que la componen.
           </sense>
         </entry>
         <entry xml:id="alcedo00878">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Otro con el Sobrenombre de Arundel, en la misma Provincia y Colonia.</sense>
         </entry>
         <entry xml:id="alcedo00879">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Una Isla de la Nueva. Francia, en el lago superior, entre la de Pont Chartrain y la
             Costa del S. Un fuerte de los Ingleses en la Provincia y Colonia de Nueva Yorok, situado
@@ -7945,7 +7927,7 @@
         </entry>
         <entry xml:id="alcedo00880">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Un Cabo ó Punta de tierra de la Costa de Nueva Inglatera, en la Provincia y Colonia
             de Massadiusséf, sale muchas leguas á la mar entre el rio de Pennycook y el Puerto de
@@ -7953,21 +7935,21 @@
         </entry>
         <entry xml:id="alcedo00881">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Un Puerto de la misma Provincia y Colonia que el Cabo antecedente, que le da el
             nombre, y está junto á él.</sense>
         </entry>
         <entry xml:id="alcedo00882">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Otro Cabo de la Costa del S del rio de San Lorenzo, en la Provincia de Acadia ó
             Nueva Escocia.</sense>
         </entry>
         <entry xml:id="alcedo00883">
           <form>
-            <orth type="lemma">ANNA del Norte ) Rio de la Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">ANNA del Norte </orth>
           </form>
           <sense>Un Pueblo y establecimiento de los Franceses, llamado el Crique ó Barranco de Santa
             Ana, en la parte que poseen de la Guayana.</sense>
@@ -8074,9 +8056,10 @@
         </entry>
         <entry xml:id="alcedo00892">
           <form>
-            <orth type="lemma">ANOURAMA ) Rio de la Provincia y Capitanía del Para</orth>
+            <orth type="lemma">ANOURAMA </orth>
           </form>
-          <sense>en el Brasil: corre al E y sale al Marañón entre los de Urupi y Marácapucú</sense>
+          <sense>Rio de la Provincia y Capitanía del Paraen el Brasil: corre al E y sale al Marañón
+            entre los de Urupi y Marácapucú</sense>
         </entry>
         <entry xml:id="alcedo00893">
           <form>
@@ -9755,10 +9738,10 @@
         </entry>
         <entry xml:id="alcedo01089">
           <form>
-            <orth type="lemma">ARAGANATUBA; Pueblo de la Provincia y Pais de las Amazonas</orth>
+            <orth type="lemma">ARAGANATUBA</orth>
           </form>
-          <sense>en la parte de ella que poseen los Portugueses situado á la orilla de aquel rio
-          </sense>
+          <sense>Pueblo de la Provincia y Pais de las Amazonasen la parte de ella que poseen los
+            Portugueses situado á la orilla de aquel rio </sense>
         </entry>
         <entry xml:id="alcedo01090">
           <fs type="hgis_info">
@@ -10084,8 +10067,7 @@
           <form>
             <orth type="lemma">ARAUJA: Pueblo de la Isla de la Trinidad</orth>
           </form>
-          <sense>en el Reyno de Tierra Firme situado en la Costa del E detras de la Punta de los
-            Arfacifes s</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo01128">
           <form>
@@ -10132,10 +10114,11 @@
         </entry>
         <entry xml:id="alcedo01134">
           <form>
-            <orth type="lemma">ARAXAI; Rio rápido y violento del Reyno del Brasil</orth>
+            <orth type="lemma">ARAXAI</orth>
           </form>
-          <sense>en la Provincia y Capitanía de Paraiba baxa de los montes que tiene al Poniente
-            pasa por medio de unos dilatados bosques y entra en el de Mongaguaba</sense>
+          <sense>Rio rápido y violento del Reyno del Brasilen la Provincia y Capitanía de Paraiba
+            baxa de los montes que tiene al Poniente pasa por medio de unos dilatados bosques y
+            entra en el de Mongaguaba</sense>
         </entry>
         <entry xml:id="alcedo01135">
           <form>
@@ -10644,7 +10627,7 @@
             <orth type="lemma">ARIBA Pueblo de las misiones que tienen los Padres Carmelitas
               Portugueses</orth>
           </form>
-          <sense>en la Provincia y País de las Amazonas situado á orilla del rio Negro</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo01190">
           <form>
@@ -10813,7 +10796,7 @@
           <form>
             <orth type="lemma">ARICAPANA Pueblo de la Provincia y Gobierno de Venezuela</orth>
           </form>
-          <sense>situado á orilla del rio Guarico al N de la sierra del Carrizal</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo01205">
           <form>
@@ -10824,21 +10807,21 @@
         </entry>
         <entry xml:id="alcedo01206">
           <form>
-            <orth type="lemma">ARICORIS ó Aricores) Nación bárbara de Indios de la Guayana</orth>
+            <orth type="lemma">ARICORIS ó Aricores</orth>
           </form>
-          <sense>al SO y N del rio Marañon; son del mismo origen que los Yaos y confinan á Levante
-            con los Arbacas al N con los Caribes y al Poniente con los Mayos; son de poco espíritu
-            pero vengativos; andan desnudos hombres y mugeres creen la inmortalidad del alma y hacen
-            grandes fiestas y honores á sus difuntos algunas veces matan al esclavo para que le
-            acompañe y sirva á su amo en el otro mundo 5 dan culto al sol y á la luna que tienen por
-            su madre y á ambos por cuerpos animados dicen que las estrellas grandes son hijas del
-            sol y de la luna y las menores sus criadas: los sacerdotes y hechiceros les hacen creer
-            que hablan con el espíritu grande que llaman vatipa y es el demonio que se les aparece
-            en varias formas: andan por los bosques en tropas y; y llevan sus mugeres é hijos
-            manteniéndose de la caza y de frutas silvestres; multiplican mucho así por la poligamia
-            como porque creen que el tener muchos hijos es de las obras mas meritorias y dignas de
-            premio del vatipa porque aumentan su nación sobre todas para vencer á los enemigos
-          </sense>
+          <sense>Nación bárbara de Indios de la Guayanaal SO y N del rio Marañon; son del mismo
+            origen que los Yaos y confinan á Levante con los Arbacas al N con los Caribes y al
+            Poniente con los Mayos; son de poco espíritu pero vengativos; andan desnudos hombres y
+            mugeres creen la inmortalidad del alma y hacen grandes fiestas y honores á sus difuntos
+            algunas veces matan al esclavo para que le acompañe y sirva á su amo en el otro mundo 5
+            dan culto al sol y á la luna que tienen por su madre y á ambos por cuerpos animados
+            dicen que las estrellas grandes son hijas del sol y de la luna y las menores sus
+            criadas: los sacerdotes y hechiceros les hacen creer que hablan con el espíritu grande
+            que llaman vatipa y es el demonio que se les aparece en varias formas: andan por los
+            bosques en tropas y; y llevan sus mugeres é hijos manteniéndose de la caza y de frutas
+            silvestres; multiplican mucho así por la poligamia como porque creen que el tener muchos
+            hijos es de las obras mas meritorias y dignas de premio del vatipa porque aumentan su
+            nación sobre todas para vencer á los enemigos </sense>
         </entry>
         <entry xml:id="alcedo01207">
           <form>
@@ -11165,25 +11148,23 @@
         </entry>
         <entry xml:id="alcedo01250">
           <form>
-            <orth type="lemma">ARRECIFE ó Capilla del Señor ) Pueblo pequeño de la Provincia y
-              Gobierno de Buenos Ayres</orth>
+            <orth type="lemma">ARRECIFE ó Capilla del Señor </orth>
           </form>
-          <sense>en el camino que va de Lima á esta Ciudad donde hay una Capilla en que va á decir
-            Misa los dias de fiesta el Cura del Pueblo del Baradero distante 14 leguas: está situado
-            á orilla de un rio de su nombre y dista 34 leguas de la Capital</sense>
+          <sense>Pueblo pequeño de la Provincia y Gobierno de Buenos Ayresen el camino que va de
+            Lima á esta Ciudad donde hay una Capilla en que va á decir Misa los dias de fiesta el
+            Cura del Pueblo del Baradero distante 14 leguas: está situado á orilla de un rio de su
+            nombre y dista 34 leguas de la Capital</sense>
         </entry>
         <entry xml:id="alcedo01251">
           <form>
-            <orth type="lemma">ARRECIFE ó Capilla del Señor ) Pueblo pequeño de la Provincia y
-              Gobierno de Buenos Ayres</orth>
+            <orth type="lemma">ARRECIFE ó Capilla del Señor </orth>
           </form>
           <sense>El rio citado corre del SO al NE 1 y entra en el de la Plata, entre el de Areco y
             el de Tres Hermanas.</sense>
         </entry>
         <entry xml:id="alcedo01252">
           <form>
-            <orth type="lemma">ARRECIFE ó Capilla del Señor ) Pueblo pequeño de la Provincia y
-              Gobierno de Buenos Ayres</orth>
+            <orth type="lemma">ARRECIFE ó Capilla del Señor </orth>
           </form>
           <sense>Tiene el mismo nombre una Ciudad del Reyno del Brasil, en la Provincia y Capitanía
             de Pernambuco, con una buena Fortaleza, bien bien guarnecida, y un Puerto cómodo y
@@ -11194,8 +11175,7 @@
         </entry>
         <entry xml:id="alcedo01253">
           <form>
-            <orth type="lemma">ARRECIFE ó Capilla del Señor ) Pueblo pequeño de la Provincia y
-              Gobierno de Buenos Ayres</orth>
+            <orth type="lemma">ARRECIFE ó Capilla del Señor </orth>
           </form>
           <sense>Una Isla de la Costa del mismo Reyno, en la Provincia y Gobierno de Marañan,
             situado á la boca del rio Paraguas, entre el de Igarasú y la Punta Gorda.</sense>
@@ -11879,40 +11859,41 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">ATACAMA ) Provincia y Corregimiento del Perú</orth>
+            <orth type="lemma">ATACAMA </orth>
           </form>
-          <sense>confína por el N con la de Arica: por el NE con la de Lipes: por el E y SE con el
-            territorio de Salta jurisdicción de Tucuman: por el S en que hay un despoblado hasta
-            Copíapo con el Reyno de Chile: por el O con la mar del Sur: divídese en alta y baxa; la
-            primera es de temperamento frío abuodante de frutas de sierra semillas papas y en la
-            cordillera se crian algunos abestruces y muchas vicuñas que cazan los Indios comercian
-            sus pieles y comen la carne que siendo tierna no es esagradablé: también sacan de ella
-            muchas piedras bezoares; aunque estos animales son muy ligeros se cazan con gran
-            facilidad así en esta como en otras Provincias íixando con piedras para que se tengan
-            derechos unos palitos de una ó dos varas en fila en alguna cañada y poniendo de unos á
-            otros un hilo ó cuerda atan en ella de trecho á trecho unas lanas de colores que mueve
-            el viento; preparado esto van algunos á caballo á correr y espantar las vicuñas por
-            diferentes lados haciendo que se dirijan acia aquella parte donde luego que llegan
-            atemorizadas con las lanitas se detiene toda la tropa sirviéndoles de inveccible muro
-            aquella débil valla; llevan los cazadores una cuerda de mas de á vara con una piedra en
-            cada extremo la arrojan á los pies de las vicuñas y enredadas las cojen: si por
-            desgracia se ha juntado á la tropa algún huanaco se pierde el lance porque no teniendo
-            estos miedo á las lanitas quiebran la barrera y se escapan todas: no faltan en esta
-            Provincia minas de plata y oro; pero no hay labor formal de ellas: tiene varios
-            manantiales de agua cabiente y una laguna que llaman blanca abundantísima de sal; otra
-            que llaman azul de legua y media de largo tan salada como el mar La Provincia baxa tiene
-            algunos Puertos en su Costa donde va alguna gente á pescar congrios para vender en la
-            sierra: en el cerro nombrado Conche del parage de Santa Bárbara y otras partes hay minas
-            de cobre que se trabajan y hacen Almádanas ó Almadanetas que llevan á Potosí ú otros
-            minerales donde hay Ingenios: hállanse vetas de cristal de varios colores de jaspe talco
-            y de alcaparrosa piedra lipis y alumbre; es esta Provincia muy pobre de aguas; el rio de
-            alguna consideración que tiene es el que baxa al mar por el valle de Loa sirviendo por
-            allí de límite á esta Provincia y la de Arica: sus habitantes solo llegan á 2500 La
-            Capital es el Pueblo de San Francisco de Atacama</sense>
+          <sense>Provincia y Corregimiento del Perúconfína por el N con la de Arica: por el NE con
+            la de Lipes: por el E y SE con el territorio de Salta jurisdicción de Tucuman: por el S
+            en que hay un despoblado hasta Copíapo con el Reyno de Chile: por el O con la mar del
+            Sur: divídese en alta y baxa; la primera es de temperamento frío abuodante de frutas de
+            sierra semillas papas y en la cordillera se crian algunos abestruces y muchas vicuñas
+            que cazan los Indios comercian sus pieles y comen la carne que siendo tierna no es
+            esagradablé: también sacan de ella muchas piedras bezoares; aunque estos animales son
+            muy ligeros se cazan con gran facilidad así en esta como en otras Provincias íixando con
+            piedras para que se tengan derechos unos palitos de una ó dos varas en fila en alguna
+            cañada y poniendo de unos á otros un hilo ó cuerda atan en ella de trecho á trecho unas
+            lanas de colores que mueve el viento; preparado esto van algunos á caballo á correr y
+            espantar las vicuñas por diferentes lados haciendo que se dirijan acia aquella parte
+            donde luego que llegan atemorizadas con las lanitas se detiene toda la tropa
+            sirviéndoles de inveccible muro aquella débil valla; llevan los cazadores una cuerda de
+            mas de á vara con una piedra en cada extremo la arrojan á los pies de las vicuñas y
+            enredadas las cojen: si por desgracia se ha juntado á la tropa algún huanaco se pierde
+            el lance porque no teniendo estos miedo á las lanitas quiebran la barrera y se escapan
+            todas: no faltan en esta Provincia minas de plata y oro; pero no hay labor formal de
+            ellas: tiene varios manantiales de agua cabiente y una laguna que llaman blanca
+            abundantísima de sal; otra que llaman azul de legua y media de largo tan salada como el
+            mar La Provincia baxa tiene algunos Puertos en su Costa donde va alguna gente á pescar
+            congrios para vender en la sierra: en el cerro nombrado Conche del parage de Santa
+            Bárbara y otras partes hay minas de cobre que se trabajan y hacen Almádanas ó
+            Almadanetas que llevan á Potosí ú otros minerales donde hay Ingenios: hállanse vetas de
+            cristal de varios colores de jaspe talco y de alcaparrosa piedra lipis y alumbre; es
+            esta Provincia muy pobre de aguas; el rio de alguna consideración que tiene es el que
+            baxa al mar por el valle de Loa sirviendo por allí de límite á esta Provincia y la de
+            Arica: sus habitantes solo llegan á 2500 La Capital es el Pueblo de San Francisco de
+            Atacama</sense>
         </entry>
         <entry xml:id="alcedo01337">
           <form>
-            <orth type="lemma">ATACAMA ) Provincia y Corregimiento del Perú</orth>
+            <orth type="lemma">ATACAMA </orth>
           </form>
           <sense>Tiene el mismo nombre el desierto, que es un despoblado grande de esta Provincia,
             en que se dividen los Reynos del Perú y Chile; es un arenal estéril y despoblado, en que
@@ -11920,7 +11901,7 @@
         </entry>
         <entry xml:id="alcedo01338">
           <form>
-            <orth type="lemma">ATACAMA ) Provincia y Corregimiento del Perú</orth>
+            <orth type="lemma">ATACAMA </orth>
           </form>
           <sense>Un Puerto de esta Provincia en la Costa de la mar del Sur, pequeño; pero muy
             frecuentado de embarcaciones menores, que van á pescar tollo, en que abunda, y es una
@@ -11928,12 +11909,13 @@
         </entry>
         <entry xml:id="alcedo01339">
           <form>
-            <orth type="lemma">ATACAMES; Pueblo de la Provincia y Gobierno de Esmeraldas</orth>
+            <orth type="lemma">ATACAMES</orth>
           </form>
-          <sense>en el Reyno de Quito con un buen Puerto en la mar del Sur á cuya orilla está
-            situado en un gran despoblado que rodean unas montañas muy altas en que hace tanto frío
-            que se hielan las gentes: está cerca del trópico de Capricornio y fué un tiempo la
-            Capital de la Provincia Long 309 10 lat bor 51 min</sense>
+          <sense>Pueblo de la Provincia y Gobierno de Esmeraldasen el Reyno de Quito con un buen
+            Puerto en la mar del Sur á cuya orilla está situado en un gran despoblado que rodean
+            unas montañas muy altas en que hace tanto frío que se hielan las gentes: está cerca del
+            trópico de Capricornio y fué un tiempo la Capital de la Provincia Long 309 10 lat bor 51
+            min</sense>
         </entry>
         <entry xml:id="alcedo01340">
           <fs type="hgis_info">
@@ -12443,11 +12425,11 @@
         </entry>
         <entry xml:id="alcedo01399">
           <form>
-            <orth type="lemma">ATLATITLA ) San Miguel de) Pueblo y Cabecera de Partido de la
-              Alcaldía mayor de Chalco</orth>
+            <orth type="lemma">ATLATITLA </orth>
           </form>
-          <sense>en Nueva España: tiene 181 familias y un Convento de Religiosos de Santo Domingo:
-            está 5 leguas al S \ al SO de su Capital</sense>
+          <sense>San Miguel de) Pueblo y Cabecera de Partido de la Alcaldía mayor de Chalcoen Nueva
+            España: tiene 181 familias y un Convento de Religiosos de Santo Domingo: está 5 leguas
+            al S \ al SO de su Capital</sense>
         </entry>
         <entry xml:id="alcedo01400">
           <form>
@@ -13040,14 +13022,13 @@
         </entry>
         <entry xml:id="alcedo01462">
           <form>
-            <orth type="lemma">AGUILA de los Cofanes) Ciudad de la Provincia y Gobierno de Quixos y
-              Macas</orth>
+            <orth type="lemma">AGUILA de los Cofanes</orth>
           </form>
-          <sense>en el Reyno de Quito 5 es de temperamento templado y rerreno fértil; pero sus
-            naturales solo cultivan yucas plátanos y maíz de que se alimentan: es muy corta y apenas
-            merece el nombre de Pueblo por las invasiones de los Indios infieles que la tienen
-            destruida: está á la orilla del rio Suno que entra en el Napo y en 40 minut de lat aust
-          </sense>
+          <sense>Ciudad de la Provincia y Gobierno de Quixos y Macasen el Reyno de Quito 5 es de
+            temperamento templado y rerreno fértil; pero sus naturales solo cultivan yucas plátanos
+            y maíz de que se alimentan: es muy corta y apenas merece el nombre de Pueblo por las
+            invasiones de los Indios infieles que la tienen destruida: está á la orilla del rio Suno
+            que entra en el Napo y en 40 minut de lat aust </sense>
         </entry>
         <entry xml:id="alcedo01463">
           <form>
@@ -13717,8 +13698,7 @@
             <orth type="lemma">BABONOIABA: Pueblo de la Misión que tienen los Religiosos de San
               Francisco</orth>
           </form>
-          <sense>en la Provincia de Taraumara y Reyno del Nueva Vizcaya situado 14 leguas al S del
-            Real de San Felipe de Chiguagua</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo01535">
           <form>
@@ -14448,8 +14428,7 @@
           <form>
             <orth type="lemma">BALSO Rio del Reyno de Quito</orth>
           </form>
-          <sense>que baxa de la montaña llamada Suchahuaca-urca y después de bañar aquellos bosques
-            corriendo del N al S entra en el de Bobonasa en 1 grad 33 min de lat aust</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo01629">
           <form>
@@ -14564,11 +14543,11 @@
         </entry>
         <entry xml:id="alcedo01644">
           <form>
-            <orth type="lemma">BANCO de Perdomo) Banco de arena á flor de agua</orth>
+            <orth type="lemma">BANCO de Perdomo</orth>
           </form>
-          <sense>en el Golfo de Guayaquil frente de la Costa de Máchala de donde dista una legua y
-            de la Punta de Arenas de la Isla de la Puna se extiende mas de 3 leguas del N 1/2 al NE
-            al S 5 al S E y está en 3 grad de lat aust</sense>
+          <sense>Banco de arena á flor de aguaen el Golfo de Guayaquil frente de la Costa de Máchala
+            de donde dista una legua y de la Punta de Arenas de la Isla de la Puna se extiende mas
+            de 3 leguas del N 1/2 al NE al S 5 al S E y está en 3 grad de lat aust</sense>
         </entry>
         <entry xml:id="alcedo01645">
           <form>
@@ -15464,8 +15443,7 @@
           <form>
             <orth type="lemma">BARRAGAN y Pueblo de la Provincia y Gobierno de Buenos Ayres</orth>
           </form>
-          <sense>en el Perú situado en la Ensenada de su nombre á la boca del rio de la Plata
-          </sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo01742">
           <form>
@@ -16043,9 +16021,10 @@
         </entry>
         <entry xml:id="alcedo01815">
           <form>
-            <orth type="lemma">BAXANES ó Baxanas) Puerto de la Isla de Cuba</orth>
+            <orth type="lemma">BAXANES ó Baxanas</orth>
           </form>
-          <sense>en la costa del N entre la: Bahía de Xavara y el rio de las Palmas</sense>
+          <sense>Puerto de la Isla de Cubaen la costa del N entre la: Bahía de Xavara y el rio de
+            las Palmas</sense>
         </entry>
         <entry xml:id="alcedo01816">
           <form>
@@ -18995,199 +18974,7 @@
             <orth type="lemma">CATALOGO DE LAS NACIONES BARBARAS y de los Lugares principales del
               Brasil</orth>
           </form>
-          <sense>Naciones Bárb
-            AmacachesAmixócoresAnnaciorisApotousApuyesAquiguiresAracuresArpesAryesAugarasGuastacasiosMargajatesMaribucesMariquitesObacatiarasPetiguaresQuirigujesSiguaresTapuyesTibuaresTobaxaresTocantinesTomomimesToparosTopinambosTupiquesVayanabasonesVaimoresViatanisCIUDADES
-            AngraArracifeComutaGoyanaGran ParaIlheosJeneyroMatagrosoParaibaPernambuco OlindaPuerto
-            SeguroSan Luis del MarañanParaibaSan PabloPatipeSan SalvadorPatipingaSan
-            VicentePaxacaSeregipePeriperiSiaraPinareEspíritu SantoPonicaTodos SantosPovucaRio
-            RealRIOS AlagoaSan FranciscoSan
-            MiguelTapadosTapocuruAniembiTocantinesArariTrembiAraxayVaririnAruguayaVazabazasBibiriceVermellas
-            ó IpeninCamuriCapí
-            YariCirigiInayaComasItapemeriCunhaoYucaruCururuiDulceDunaGalioloGrandeGuaraiguazuIpocheJeneyroLaguaribeMaracúMartinMeariMongaguaba
-            MeniMujuOvaquezupiParanáibaPotocalmoParapinzingaaParashuiMINAS Vuyaba diamGeraes
-            oroGuayaz diam Mato gros oroPicurú plata PROMONTORIOS BlancoCorsoFrióLedoSan RoqueSan
-            AgustínSousa PUERTOS CayvoJeneiroParaSan Luis de MarañonSan Salvador ó la
-            BahíaSeregipeTamaracaTojuqua ISLAS AscensionCananeaCatherinaDel GalloDe los Ilheos
-            GoareGrandeMachianaMaragnauMarayoMaricanaMartin Vas NoroñaPicosSan SalvadorSanta AnaSan
-            AntonioSanta BárbaraSipotubaEspíritu
-            SantoTaparicaTatiparaTrinidadUpayaYgarapotoeARZOBISPOS QUE HA HABIDO en el Brasil hasta
-            el año de 17111 Don Gaspar Barata de Mendoza electo primer Arzobispo el año de 1677 y de
-            que tomó posesión por su Procurador pero murió antes de ir á aquel Reyno 2 Don Fr Juan
-            de la Madre de Dios del Orden de San Francisco Provincial en ella Predicador del Rey y
-            Examinador de las Ordenes Militares tenido por uno de los mas famosos y elocuentes
-            Oradores de su tiempo: tomó posesión del Arzobispado en 1683 y solo gobernó: 3 años;
-            porque murió de un contagio que reynaba entonces el año de 16863 Don Fr Manuel de la
-            Resurrección Colegial de San Pedro Doctor en Cánones y Leyes Canónigo de Santa Iglesia
-            de Lamego y Diputado del Santo Oficio de la Inquisición; desengañado del mundo dexó
-            estas Dignidades y entró en el Convento de Varatojo donde la fama de sus virtudes lo
-            hizo degir Arzobispo de la Bahía y entró el año de 1688 y murió el de 16914 Don Juan
-            Franco de Oliveira promovido del Obispado de Angola que egercia á esta Mitra
-            Metropolitana el año de 1692 que gobernó 8 años hasta el de 1700 que volvió á Portugal
-            para ocupar la de la Diócesis de Miranda5 Don Sebastian Monteiro da Vide que habia sido
-            Religioso de la Compañía de Jesús y expulso de ella se dedicó á la Milicia en que fue
-            Capitán de Infantería; pero poco satisfecho se aplicó al estudio en la Universidad de
-            Coimbra y abrazando nuevamente el estado Ecclesiástico; tuvo diferentes; comisiones y
-            por último Prior de Santa Martina y Vicario General del Arzobispado de Lisboa de donde
-            fué electo para este Arzobispado de la Bahía el año de 170a que gobernó con sumo acierto
-            por espacio de 20 años sin embargo de la penosa y larga enfermedad que lo tuvo casi todo
-            este tiempo en la Cama de que murió el de 1721GOBERNADORES VIREYES Y CAPITANES Generales
-            que ha habido en el Brasil hasta el año de 17021 Tomé de Sousa sngeto de ilustre
-            nacimiento en Portugal que habia servido con mucho crédito en las expediciones de Africa
-            y Asia; fué elegido por el Rey Don Juan III para establecer el Gobierno en el Brasil el
-            año de 1549 y lo executó con acierto gobernando hasta el de 1553 que volvió á Lisboa
-            promovido al empleo de Veedor de la Casa Real2 Don Duartede Costa Armero Mayor del Rey
-            entró elaño de 1553 Y Gobernó hasta el de 1558 que llegó nombrado por su sucesor3 Mendo
-            de Sa ilustre rama de la casa de los Marqueses de Abrantes; fué elegido por sus
-            singulares prendas instrucción y Pericia militar desempeñándolas con los felices
-            establecimientos fundaciones de Pueblos y Conquistas de Infieles que le debió el Brasil
-            durante 14 años que gobernó hasta el de 1572 que murió en la Bahía con general
-            sentimiento4 Don Luis de Vasconcelos; murió en la mar antes de llegar á su destino por
-            las desgracias y dilatada navegación de la desgraciada flota en que se embarcó el año de
-            15725 Luis Brito de Almeida en cuyo tiempo se descubrieron en el Brasil y empezaron á
-            sacar los diamantes y topacios: gobernó 5 años hasta el de 1578 que le llegó nombrado
-            por sucesor6 Lorenzo de Vega que habiendo ido de muy abanzada edad solo gobernó 3 años y
-            murió el de 168 1 por cuya vacante quedó gobernando durante a años el Senado de la
-            Cámara y su Oidor mas antiguo Don Cosme Rangel de Macedo hasta que llegó el
-            proprietario7 Manuel Teílez Barreto nombrado por Felipe II Rey de España en 1583 que
-            habia heredado la Corona de Portugal; y sin embargo de su mucha edad no estuvo ocioso
-            los 4 años que gobernó hasta su muerte el 1587; y habiendo llevado nombramiento para que
-            ocupasen el gobierno en caso de vacante se verificó en el Obispo Don Antonio Barreiros y
-            el Proveedor General de la Real Hacienda Christóbal de Barros que lo exerciéron 4 años
-            hasta el de 15918 Francisco Giraldes Señor de la Capitanía de los IIheos que su padre
-            habia comprado á Gerónimo Fitueredo; fué nombrado por Gobernador y habiénose embarcado
-            en Lisboa volvió dos veces de arribada y formando mal aguero de este contratiempo hizo
-            dexacion por la qual fué nombrado 9 Don Francisco de Sousa que entró en la Bahía el año
-            de 1591 fué primer Marques de las Minas por gracia que le concedió el Rey si se
-            descubrian las que según algunos habia hallado Roberio Diaz como se verificó y por sus
-            aciertos y felices disposiciones prorrogado en el gobierno que tuvo 1 1 años hasta el de
-            160210 Diego Botelho primer Gobernador que nombró Felipe III y gobernó 5 años desde ióoa
-            hasta 160711 Don Diego de Meneses llegó á la Bahía en 1608 y gobernó hasta el de 16 13
-            que llegó por sucesor12 Gaspar de Sousa que entró el referido año y hizo glorioso su
-            gobierno con la expulsión de los Franceses que se habían establecido en la Isla de San
-            Luis de Marañón: visitó todas las Provincias del Reyno de que resultó increible
-            beneficio á los Pueblos y aumento de rentas en el corto tiempo de 4 años que duró su
-            gobierno hasta el de 161713 Don Luis de Sousa entró el referido año á suceder á su
-            antecesor y habiendo egercido el gobierno otros 4 años hasta el de 1611 lo entregó á 14
-            Diego de Mendoza Hurtado que entró el año de 1611 en cuyo tiempo invadieron los
-            Holandeses el Brasil y sitiando la Bahía ftié hecho prisionero defendiéndose solo con 18
-            hombres y conducido á Holanda por trofeo el año de 162415 Matías de Alburquerque estaba
-            gobernando á Pernambuco quando fué llamado por estar nombrado á prevención en pliego
-            reservado que tenían para el caso de vacante los PP de la Extinguida Compañía; pero como
-            distaba 150 leguas y tenían ocupado el Pais los enemigos se encargó interinamente el
-            Auditor General Antón Mezquita de Oliveira que por su edad y falta de pericia militar
-            tan precisa en aquellas circunstancias cedió el gobierno á los Coroneles Don Lorenzo
-            Cavalcanti de Alburquerque y Don Juan de Barros Cardoso que igualmente lo cedieron al
-            Obispo Don Marcos Texeira que entregó el pesado encargo á Francisco Nuñez Marinho de Eza
-            enviado por el Gobernador propietario desde Pernambuco y sin haber venido él llegó por
-            sucesor16 Don Francisco de Moura Rolim natural de Pernambuco que habia seguido la
-            carrera militar con mucho crédito en Italia y Flandes y con no menos aplauso en este
-            gobierno que exerció durante la guerra hasta el año de 161617 Don Diego Luis de Oliveira
-            Fidalgo de brillante calidad y estimación adquirida entre las tropas de Flandes de modo
-            que le hicieron buscar para que fuese al Brasil á oponerse á los progresos que hacían
-            los Holandeses; desempeñó completamente la elección hasta el año de 1634 que fué
-            destinado á echar á los Holandeses de la Isla de Curazao entregando el Gobierno á 18
-            Pedro de Silva que tomó posesión el año de 1635; pero habiendose suscitado competencias
-            con el General de las tropas Conde Banholo cedió á este con heroyco desinterés el
-            Gobierno y todas sus facultades mirando solo que no se perjudicase aLReal Servicio cuya
-            acción premió el Rey dándole el título de Conde de San Lorenzo y nombrándole por
-            sucesor19 Don Fernando Mascareñas Conde de la Torre persona de la primera suposición en
-            Portugal por su nacimiento virtudes calidades personales y conocimientos militares;
-            entró en la Bahía el año de y tomando el Gobierno del Exército contra los Holandeses
-            cedió el político del Reyno á 20 Don Vasco Mascareñas Conde de Ovidos que lo exerció
-            hasta el año de 1640 que llegó nombrado por el Rey21 Don Jorge Mascareñas Marques de
-            Montalvan el primero que tuvo título de Virey; pero empeñado en ruidosas competencias
-            fué depuesto del Empleo preso y remitido á Lisboa el año de 1641 por el Obispo Don Pedro
-            de Silva el Maestre de Campo Luis Becerra y el Proveedor mayor Lorenzo de Bri- 22 Correa
-            que se apropiaron el Gobierno y desaprobó el nuevo Rey Don Juan IV antes Duque de
-            Braganza 23 Antonio Tellez de Silva llegó el año de 1641 y gobernó 5 años hasta el de
-            1647; se ahogó volviendo á Europa23 Antonio Tellez de Meneses Conde de Villa Pouca de
-            esclarecida sangre y ilustre mérito adquirido en la India; gobernó con acierto hasta el
-            año de 165224 Juan Rodríguez de Vasconcelos Conde de Castelmayor ilustre por su
-            nacimiento y por la injusta prisión que sufrió en Cartaxena de Indias fué Gobernador de
-            las armas de Portugal en las Provincias de entre Duero y Miño y de Alentejo de donde
-            pasó al del Brasil el año de 165325 Don Gerónimo de Ataide Conde de Atoguia que en la
-            Corte y en la campaña habia tenido los mayoyores empleos desempeñados con crédito y
-            acierto por lo qual se hallaba de Gobernador de la Provincia de Tras los Montes quando
-            fue nombrado para el del Brasil donde la rectitud y la afabilidad dexáron perpetua
-            memoria de su gobierno que duró hasta el año de 165726 Francisco Barreto de Meneses
-            nombrado por la Reyna Regente de Portugal en premio de las proezas y valor con que habia
-            logrado la restauración de Pernambuco siendo Maestre de Campo General que con entereza
-            se hizo respetar en algunas disensiones que tuvo hasta que entregó el Gobierno á su
-            sucesor27 Don Vasco Mascarenas Conde de Ovidos Gobernador de las armas y Provincia de
-            Alentejo Virey que habia sido de la India del Consejo de Estado y segundo Virey del
-            Reyno del Brasil entró el año de 1664 y con el conocimiento que tenia por haber servido
-            de Maestre de Campo y de General de Artillería gobernó con acierto 5 años hasta el de
-            166828 Alexandro de Sousa Freyre que después de la carrera de muchos méritos era
-            Gobernador de la Plaza de Mazagan en Africa pasó á este Gobierno en que se mantuvo hasta
-            el año de 167129 Alonso Hurtado de Mendoza tan estimado por la nobleza de su sangre como
-            por su heroyco valor que constituyó por uno de los héroes Portugueses de su siglo; pero
-            la ligereza con que procedió en las disposiciones para el descubrimiento de unas minas
-            que no tuvieron efecto le originó una profunda melancolía que le causó la muerte el año
-            de 1675 dexando nombrados para el gobierno interino al Canciller Agustín Acevedo Montero
-            al Maestre de Campo mas antiguo Alvaro de Acevedo y al Juez mas antiguo Antonio Guedes
-            de Brito los quales gobernaron mas de 2 años hasta el de 1678 que llegó el propietario
-            30 Roque de Acosta Barreto persona de tan buenas qualidades que le habian grangeado la
-            estimación de la Corte y empleos correspondientes á su mérito se hallaba de Sargento
-            Mayor de Batalla de la Provincia de Estremadura quando fué nombrado por Gobernador y
-            Capitán General del Brasil y el aplauso que mereció por sus virtudes comprobó el acierto
-            de la elección contándole aquel Reyno por uno de sus mas célebres que duró hasta el año
-            de 168231 Antonio de Sousa Meneses lleno de méritos y con un brazo menos que traia de
-            plata envejecido en muchos gobiernos y empleos se hallaba por su edad ya sin el vigor
-            que necesitaba el vasto gobierno del Brasil lo qual produxo muchas disensiones é
-            inquietudes que duraron hasta el año de 1682 que llegó32 Don Antonio Luis de Sousa Tello
-            de Meneses Marques de las Minas se hallaba exerciendo el Gobierno de las armas y
-            Provincia de entre Duero y Miño de donde le sacaron por su acreditado talento y
-            prudencia para aquietar los disturbios del Brasil en que puso el mayor cuidado como en
-            socorrer y asistir á sus naturales en el terrible contagio que padecieron en su Gobierno
-            que duró hasta el año de 1687 que solicitando volver á Lisboa le nombraron por
-            succesor33 Matias de Acuña Comisario General de la Caballería de Montejo Maestre de
-            Campo del tercio de la Armada y Gobernador del rio Jeneyro y después de la Provincia de
-            entre Duero y Miño acreditó su talento y su justicia en este que le duró poco por haber
-            muerto el año de 1688 nombrando interinamente con aprobación de todos para que le
-            succediese al Arzobispo Don Fray Manuel de la Resurrección que lo obtuvo hasta el de
-            169034 Antonio Luis González de Cámara Coutinho se hallaba de Gobernador de la Provincia
-            de Pernambuco quando fué elegido para la Capitanía General del Brasil de que tomó
-            posesión el año de 1690 y exerció hasta el de 169435 Don Juan de Lancaster de la Casa
-            Real de Inglaterra empezó desde muy niño la carrera militar y siendo Capitán de Caballos
-            se distinguió en la batalla del Canal; fué después Maestre de Campo del tercio de la
-            Armada Gobernador y Capitán General de Angola General de la Caballería de Alentejo y
-            últimamente Capitán General del Brasil de que tomó posesión en 1694 y en su dilatado
-            gobierno que tiene pocos exemplos dio muestras de sus grandes qualidades con las
-            excelentes providencias que tomó en aumento del Estado y beneficio de los vasallos
-            entregándole el de 1702 á su succesor36 Don Rodrigo da Costa que por su nacimiento y
-            méritos había sido el favorito de dos Monarcas y Gobernador de la Isla de la Madera pasó
-            á la Capitanía General del Brasil en que continuando sus aciertos fué promovido al
-            Vireynato de la India el año de 1705 nombrándole por succesor á 37 Luis César de Meneses
-            Alférez mayor del Reyno de Portugal descendiente del famoso Vasco Fernandez y ya
-            conocido por su feliz gobierno en el rio Jeneyro y en el Reyno de Angola no menos que en
-            el de la Ciudad de Ebora en la guerra de succesion de Felipe V Rey de España pasó al del
-            Brasil el año de 1705 y continuó con singular aplauso hasta el de 1710 que le llegó el
-            succesor38 Don Lorenzo de Almada entró con peca satisfacción que pareció presagio de los
-            disturbios que tuvo en su gobierno con las alteraciones de la Provincia de Pernambuco
-            que le hicieron dexar con gusto el año siguiente de 1711 el cargo á su succesor39 Don
-            Pedro de Vasconcelos y Sousa estimado por su valor y conducta durante la guerra se
-            hallaba de Maestre de Campo General quando fué nombrado para el Gobierno del Brasil
-            donde la memoria de su antecesor y Abuelo el Conde de Castelmayor le hizo recibir con
-            grandes esperanzas que frustraron los alborotos de Pernambuco la invasión de los
-            Franceses en el río Jeneyro y la sublevación de la Bahía cuyos contratiempos le hicieron
-            pedir encarecidamente al Rey le nombrase sucesor como lo hizo40 Don Pedro Antonio de
-            Noroña Marques de Angeja Consejero de Estado y Veedor General de la Hacienda Real había
-            desde muy corta edad empezado á acreditarse en el Vireynato de la India y entró con el
-            título y carácter de Virey el año de 1714 siendo uno de los que mas acertadas
-            providencias y disposiciones dieron durante su gobierno hasta el de 171841 Don Sancho de
-            Faro Conde de Vimeiro de la Casa Real de Braganza por línea de varón sirvió en la guerra
-            del Reyno y fué Veedor de la casa de la serenísima Reyna Doña María Ana de Austria
-            Gobernador de Mazagan y de la Provincia de Miño quando fué nombrado Capitán General del
-            Brasil el año qde 1711 donde sus providencias tuvieron mas zelo que fortuna y en poco
-            mas de un año terminó su carrera dexando por su muerte encargado el gobierno al
-            Arzobispo Don Sebastian Montero da Vide al Maestre de Campo mas antiguo Don Juan de
-            Araujo y Acevedo y al Oidor Don Cayetano Brito de Figueredo que unidos gobernaron basta
-            el año de 17120 que llegó el propietario 42 Don Vasco Fernandez César de Meneses hijo de
-            Don Luis Vasco César de Meneses y sobrino de Don Juan de Lencaster que ambos habían
-            gobernado el Brasil se había distinguido por sus acciones en la guerra y merecido que lo
-            eligiese el Rey por Virey de la India y destinado á el gobierno del Brasil el año de
-            1700 en que excedió con sus acertadas providencias á quantos le habían precedido y
-            gobernó hasta el año de 1704</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo02184">
           <form>
@@ -19432,9 +19219,9 @@
         </entry>
         <entry xml:id="alcedo02215">
           <form>
-            <orth type="lemma">BROKEN; Punta de) en la Isla de la Barbada y costa del E</orth>
+            <orth type="lemma">BROKEN; Punta de</orth>
           </form>
-          <sense>entre los Pueblos de Beetle y Howe</sense>
+          <sense>en la Isla de la Barbada y costa del Eentre los Pueblos de Beetle y Howe</sense>
         </entry>
         <entry xml:id="alcedo02216">
           <form>
@@ -20520,7 +20307,7 @@
           <form>
             <orth type="lemma">CABA: Rio de la Provincia y País de las Amazonas</orth>
           </form>
-          <sense>corre del N al S S O y entra en el Rio Negro</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo02334">
           <form>
@@ -21498,9 +21285,7 @@
           <form>
             <orth type="lemma">CAICO grande ó delNorte</orth>
           </form>
-          <sense>una de las Islas que estan al N de la de Santo Domingo y la mayor de todas es de
-            figura larga y estrecha que se extiende en forma de media luna cuya figura se
-            perfecciona con otras muchas</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo02462">
           <form>
@@ -21579,15 +21364,16 @@
         </entry>
         <entry xml:id="alcedo02468">
           <form>
-            <orth type="lemma">CAYETANO San) Pueblo de la Provincia y Gobierno de Cartagena</orth>
+            <orth type="lemma">CAYETANO San</orth>
           </form>
-          <sense>en el Reyno de Tierra-Firme situado en la montaña del Partido de María 6 leguas al
-            N NE de la Ciénega que toma el nombre de esta Villa Es una de las Poblaciones nuevas que
-            fundó el añO de 1776 el Gobernador Don Juan Pimienta</sense>
+          <sense>Pueblo de la Provincia y Gobierno de Cartagenaen el Reyno de Tierra-Firme situado
+            en la montaña del Partido de María 6 leguas al N NE de la Ciénega que toma el nombre de
+            esta Villa Es una de las Poblaciones nuevas que fundó el añO de 1776 el Gobernador Don
+            Juan Pimienta</sense>
         </entry>
         <entry xml:id="alcedo02469">
           <form>
-            <orth type="lemma">CAYETANO San) Pueblo de la Provincia y Gobierno de Cartagena</orth>
+            <orth type="lemma">CAYETANO San</orth>
           </form>
           <sense>Tiene el mismo nombre otro Pueblo de la Provincia y Gobierno de la Sonora, en Nueva
             España: situado en el Pais de los Indios Sobaipuris, á la orilla de un Rio entre los
@@ -21595,7 +21381,7 @@
         </entry>
         <entry xml:id="alcedo02470">
           <form>
-            <orth type="lemma">CAYETANO San) Pueblo de la Provincia y Gobierno de Cartagena</orth>
+            <orth type="lemma">CAYETANO San</orth>
           </form>
           <sense>Otro Pueblo de la Provincia y Capitanía del Rey, en el Brasil, situado á la orilla
             del Rio Grande.</sense>
@@ -21778,10 +21564,11 @@
         </entry>
         <entry xml:id="alcedo02493">
           <form>
-            <orth type="lemma">CAIOS los) Villa de los Franceses</orth>
+            <orth type="lemma">CAIOS los</orth>
           </form>
-          <sense>en la parte que poseen de la Isla de Santo Domingo: está en la Costa del S con un
-            buen Puerto entre la Punta de Margot y la de la belle Roche</sense>
+          <sense>Villa de los Francesesen la parte que poseen de la Isla de Santo Domingo: está en
+            la Costa del S con un buen Puerto entre la Punta de Margot y la de la belle
+            Roche</sense>
         </entry>
         <entry xml:id="alcedo02494">
           <form>
@@ -21869,9 +21656,10 @@
         </entry>
         <entry xml:id="alcedo02506">
           <form>
-            <orth type="lemma">CAITAPERA o Femian) Rio de la Provincia y Capitanía del Para</orth>
+            <orth type="lemma">CAITAPERA o Femian</orth>
           </form>
-          <sense>en el Brasil: corre al N y sale al Mar al E de la Ciudad de</sense>
+          <sense>Rio de la Provincia y Capitanía del Paraen el Brasil: corre al N y sale al Mar al E
+            de la Ciudad de</sense>
         </entry>
         <entry xml:id="alcedo02507">
           <form>
@@ -23022,11 +22810,11 @@
         </entry>
         <entry xml:id="alcedo02640">
           <form>
-            <orth type="lemma">CAMINDEI ó Jacha) rio pequeño de la Provincia y Capitanía de
-              Marañón</orth>
+            <orth type="lemma">CAMINDEI ó Jacha</orth>
           </form>
-          <sense>en el Brasil: nace cerca de la Costa: corre al N entre los de Otatay y Pergiucas y
-            sale al mar en medio de los dos</sense>
+          <sense>rio pequeño de la Provincia y Capitanía de Marañónen el Brasil: nace cerca de la
+            Costa: corre al N entre los de Otatay y Pergiucas y sale al mar en medio de los
+            dos</sense>
         </entry>
         <entry xml:id="alcedo02641">
           <form>
@@ -23417,24 +23205,22 @@
         </entry>
         <entry xml:id="alcedo02681">
           <form>
-            <orth type="lemma">CANARDS ó Patos) rio de la Georgia ó parte de la Florida: corre al
-              S</orth>
+            <orth type="lemma">CANARDS ó Patos</orth>
           </form>
-          <sense>y sale caudaloso al mar; entra en el de Apalachicola y la Bahía de San Marcos; los
-            Españoles le llaman de Patos y con este nombre le conocen nuestros Geógrafos</sense>
+          <sense>rio de la Georgia ó parte de la Florida: corre al Sy sale caudaloso al mar; entra
+            en el de Apalachicola y la Bahía de San Marcos; los Españoles le llaman de Patos y con
+            este nombre le conocen nuestros Geógrafos</sense>
         </entry>
         <entry xml:id="alcedo02682">
           <form>
-            <orth type="lemma">CANARDS ó Patos) rio de la Georgia ó parte de la Florida: corre al
-              S</orth>
+            <orth type="lemma">CANARDS ó Patos</orth>
           </form>
           <sense>Tiene el mismo nombre un Pueblo de la Nueva Escocia, situado en la Balsa de las
             minas, en la Bahía de Fundy.</sense>
         </entry>
         <entry xml:id="alcedo02683">
           <form>
-            <orth type="lemma">CANARDS ó Patos) rio de la Georgia ó parte de la Florida: corre al
-              S</orth>
+            <orth type="lemma">CANARDS ó Patos</orth>
           </form>
           <sense>Unas Islas llamadas también de Duck, en la Costa del O de la Acadia, entre el Cabo
             Forchá y las Islas de Veaux, Marins ó Vacas Marinas.</sense>
@@ -23828,12 +23614,11 @@
         </entry>
         <entry xml:id="alcedo02727">
           <form>
-            <orth type="lemma">CANOTS ó Canoas ) Rio del Reyno del Brasil en la Provincia y
-              Capitanía de San Pablo: nace muy cerca de la Costa enfrente de la Isla de Santa
-              Catalina</orth>
+            <orth type="lemma">CANOTS ó Canoas </orth>
           </form>
-          <sense>corre al O serpenteando y sirve de origen 6 nacimiento del rio grande de Uruguay
-          </sense>
+          <sense>Rio del Reyno del Brasil en la Provincia y Capitanía de San Pablo: nace muy cerca
+            de la Costa enfrente de la Isla de Santa Catalinacorre al O serpenteando y sirve de
+            origen 6 nacimiento del rio grande de Uruguay </sense>
         </entry>
         <entry xml:id="alcedo02728">
           <form>
@@ -23992,8 +23777,7 @@
           <form>
             <orth type="lemma">CAP ó Cabo grueso</orth>
           </form>
-          <sense>punta ó extremidad de la Costa del E del lago superior en Canadá donde empieza su
-            desague para entrar en el de Hurón</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo02744">
           <form>
@@ -24281,10 +24065,9 @@
         </entry>
         <entry xml:id="alcedo02783">
           <form>
-            <orth type="lemma">CAPITUTU Bañado de) río de la Provincia y Gobierno del
-              Paraguay</orth>
+            <orth type="lemma">CAPITUTU Bañado de</orth>
           </form>
-          <sense>corre al O y entra en éste</sense>
+          <sense>río de la Provincia y Gobierno del Paraguaycorre al O y entra en éste</sense>
         </entry>
         <entry xml:id="alcedo02784">
           <form>
@@ -24520,13 +24303,13 @@
         </entry>
         <entry xml:id="alcedo02812">
           <form>
-            <orth type="lemma">CAQUEZA; Pueblo del Corregimiento de Ubaque en el Nuevo Reyno de
-              Granada</orth>
+            <orth type="lemma">CAQUEZA</orth>
           </form>
-          <sense>situado en un terreno cálido pero sano y agradable aunque con la pensión de muchas
-            culebras venenosas que llaman tayas; muy abundante en frutos de tierra cálida: tiene mas
-            de 200 vecinos y está 9 leguas de Santa Fe al SO en el camino que va de San Juan de los
-            Llanos á esta Capital</sense>
+          <sense>Pueblo del Corregimiento de Ubaque en el Nuevo Reyno de Granadasituado en un
+            terreno cálido pero sano y agradable aunque con la pensión de muchas culebras venenosas
+            que llaman tayas; muy abundante en frutos de tierra cálida: tiene mas de 200 vecinos y
+            está 9 leguas de Santa Fe al SO en el camino que va de San Juan de los Llanos á esta
+            Capital</sense>
         </entry>
         <entry xml:id="alcedo02813">
           <form>
@@ -25023,10 +24806,10 @@
         </entry>
         <entry xml:id="alcedo02847">
           <form>
-            <orth type="lemma">CARAIMA Alta</orth>
+            <orth type="lemma">CARAIMA</orth>
           </form>
-          <sense>Pueblo de la Provincia y Corregimiento de Quillota en el Reyno de Chile situado en
-            la Costa entre la Punta de Caraimilla y la de la Peña blanca</sense>
+          <sense>Alta Pueblo de la Provincia y Corregimiento de Quillota en el Reyno de Chile
+            situado en la Costa entre la Punta de Caraimilla y la de la Peña blanca</sense>
         </entry>
         <entry xml:id="alcedo02848">
           <form>
@@ -26298,11 +26081,11 @@
         </entry>
         <entry xml:id="alcedo02997">
           <form>
-            <orth type="lemma">CARRION de Velazco) Ciudad pequeña</orth>
+            <orth type="lemma">CARRION de Velazco</orth>
           </form>
-          <sense>pero hermosa y bien poblada del Reyno del Perú en la llanura amena de Guaura: es de
-            clima templado alegre y sano de fértil y delicioso terreno habitada de no pocas familias
-            distinguidas y ricas: está en 10 gr 48 min de lat aust</sense>
+          <sense>Ciudad pequeñapero hermosa y bien poblada del Reyno del Perú en la llanura amena de
+            Guaura: es de clima templado alegre y sano de fértil y delicioso terreno habitada de no
+            pocas familias distinguidas y ricas: está en 10 gr 48 min de lat aust</sense>
         </entry>
         <entry xml:id="alcedo02998">
           <form>
@@ -26958,13 +26741,12 @@
         </entry>
         <entry xml:id="alcedo03027">
           <form>
-            <orth type="lemma">CASABLANCA San Gabriel de ) Pueblo de la Cabecera de Teutítlán y
-              Alcaldía mayor de Cuicatlán en Nueva España: tiene 34 familias de Indios que viven del
-              comercio de la sal</orth>
+            <orth type="lemma">CASABLANCA San Gabriel de </orth>
           </form>
-          <sense>de unas salinas que hay en su distrito á distancia de una legua en cuyos contornos
-            hacen sus siembras de maiz: es de temperamento cálido y está dos leguas de su Cabecera
-          </sense>
+          <sense>Pueblo de la Cabecera de Teutítlán y Alcaldía mayor de Cuicatlán en Nueva España:
+            tiene 34 familias de Indios que viven del comercio de la salde unas salinas que hay en
+            su distrito á distancia de una legua en cuyos contornos hacen sus siembras de maiz: es
+            de temperamento cálido y está dos leguas de su Cabecera </sense>
         </entry>
         <entry xml:id="alcedo03028">
           <fs type="hgis_info">
@@ -26973,9 +26755,7 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">CASABLANCA San Gabriel de ) Pueblo de la Cabecera de Teutítlán y
-              Alcaldía mayor de Cuicatlán en Nueva España: tiene 34 familias de Indios que viven del
-              comercio de la sal</orth>
+            <orth type="lemma">CASABLANCA San Gabriel de </orth>
           </form>
           <sense>Tiene el mismo nombre con la advocación de Santa Bárbara una Villa de la Provincia
             y Corregimiento de Quillota en el Reyno de Chile, situada en la Costa; antes pertenecía
@@ -27958,10 +27738,10 @@
         </entry>
         <entry xml:id="alcedo03148">
           <form>
-            <orth type="lemma">CATAN l San Francisco de ) Pueblo de la Provincia y Corregimiento de
-              Caxamarca en el Perú</orth>
+            <orth type="lemma">CATAN l San Francisco de </orth>
           </form>
-          <sense>anexo al Curato de Chetú</sense>
+          <sense>Pueblo de la Provincia y Corregimiento de Caxamarca en el Perúanexo al Curato de
+            Chetú</sense>
         </entry>
         <entry xml:id="alcedo03149">
           <form>
@@ -28619,19 +28399,19 @@
         </entry>
         <entry xml:id="alcedo03220">
           <form>
-            <orth type="lemma">CAXICA ó Busongote) Pueblo del Corregimiento de Zipaquira en el nuevo
-              Reyno de Granada: es de temperamento frío sin exceso</orth>
+            <orth type="lemma">CAXICA ó Busongote</orth>
           </form>
-          <sense>agradable sano y benigno produce mucho trigo maiz cebada y demás frutos de tierra
-            fria; su vecindario es de 150 vecinos y otros tantos Indios que en él tenían una célebre
-            fortaleza en que se encerró el Zipa ó Rey de Bogotá para defender la entrada en su Reyno
-            á los Españoles; pero fué derrotado y preso por Gonzalo Ximenez de Quesada el año de
-            1537: está 5 leguas al N de Santa Fe</sense>
+          <sense>Pueblo del Corregimiento de Zipaquira en el nuevo Reyno de Granada: es de
+            temperamento frío sin excesoagradable sano y benigno produce mucho trigo maiz cebada y
+            demás frutos de tierra fria; su vecindario es de 150 vecinos y otros tantos Indios que
+            en él tenían una célebre fortaleza en que se encerró el Zipa ó Rey de Bogotá para
+            defender la entrada en su Reyno á los Españoles; pero fué derrotado y preso por Gonzalo
+            Ximenez de Quesada el año de 1537: está 5 leguas al N de Santa Fe</sense>
         </entry>
         <entry xml:id="alcedo03221">
           <fs type="hgis_info">
             <f name="id">
-              <symbol value="JUGDGDCA&quot;"/>
+              <symbol value="JUGDGDCA&#34;"/>
             </f>
           </fs>
           <form>
@@ -28655,10 +28435,10 @@
         </entry>
         <entry xml:id="alcedo03223">
           <form>
-            <orth type="lemma">CAZAPE ó Gazapa) Pueblo de la Provincia y Gobierno del
-              Paraguay</orth>
+            <orth type="lemma">CAZAPE ó Gazapa</orth>
           </form>
-          <sense>situado al S de la Villa del Espíritu Santo</sense>
+          <sense>Pueblo de la Provincia y Gobierno del Paraguaysituado al S de la Villa del Espíritu
+            Santo</sense>
         </entry>
         <entry xml:id="alcedo03224">
           <form>
@@ -29293,9 +29073,9 @@
         </entry>
         <entry xml:id="alcedo03301">
           <form>
-            <orth type="lemma">CHACHAGUI ) Véase Tambo Pintado</orth>
+            <orth type="lemma">CHACHAGUI </orth>
           </form>
-          <sense/>
+          <sense>Véase Tambo Pintado</sense>
         </entry>
         <entry xml:id="alcedo03302">
           <fs type="hgis_info">
@@ -30052,10 +29832,10 @@
         </entry>
         <entry xml:id="alcedo03383">
           <form>
-            <orth type="lemma">CHAMELUCONO Chaimaletón</orth>
+            <orth type="lemma">CHAMELUCONO</orth>
           </form>
-          <sense>cómo le nombran otros rio de la Provincia y Gobierno de Honduras: corre al N y sale
-            al mar en el golfo de este nombre entre la Caldera y el rio de Uláa</sense>
+          <sense>Chaimaletón cómo le nombran otros rio de la Provincia y Gobierno de Honduras: corre
+            al N y sale al mar en el golfo de este nombre entre la Caldera y el rio de Uláa</sense>
         </entry>
         <entry xml:id="alcedo03384">
           <form>
@@ -30150,16 +29930,14 @@
         </entry>
         <entry xml:id="alcedo03393">
           <form>
-            <orth type="lemma">CHAMPLAIN ) Pueblo de los Franceses en la Nueva Francia ó
-              Canadá</orth>
+            <orth type="lemma">CHAMPLAIN </orth>
           </form>
-          <sense>situado á orilla del rio San Lorenzo cerca de la boca llamada Trois Rivieres ó Tres
-            Rios</sense>
+          <sense>Pueblo de los Franceses en la Nueva Francia ó Canadásituado á orilla del rio San
+            Lorenzo cerca de la boca llamada Trois Rivieres ó Tres Rios</sense>
         </entry>
         <entry xml:id="alcedo03394">
           <form>
-            <orth type="lemma">CHAMPLAIN ) Pueblo de los Franceses en la Nueva Francia ó
-              Canadá</orth>
+            <orth type="lemma">CHAMPLAIN </orth>
           </form>
           <sense>Tiene el mismo nombre un lago de la misma Provincia de mas de 20 leguas de largo y
             10 6 12 de ancho, en que hay abundancia de excelente pescado: lo descubrió el año de
@@ -30351,12 +30129,12 @@
         </entry>
         <entry xml:id="alcedo03410">
           <form>
-            <orth type="lemma">CHANQUIO Achamqui</orth>
+            <orth type="lemma">CHANQUIO</orth>
           </form>
-          <sense>Promontorio ó Cabo de la Provincia y Corregimiento de Valdivia en el Reyno de Chile
-            distante 8 leguas del de San Marcelo: forma y cubre la boca ó entrada del golfo de los
-            Coronados con el otro Cabo que está al S llamado de la Ballena en 4 grad 26 min de lat
-            aust</sense>
+          <sense>Achamqui Promontorio ó Cabo de la Provincia y Corregimiento de Valdivia en el Reyno
+            de Chile distante 8 leguas del de San Marcelo: forma y cubre la boca ó entrada del golfo
+            de los Coronados con el otro Cabo que está al S llamado de la Ballena en 4 grad 26 min
+            de lat aust</sense>
         </entry>
         <entry xml:id="alcedo03411">
           <form>
@@ -30428,17 +30206,16 @@
         </entry>
         <entry xml:id="alcedo03420">
           <form>
-            <orth type="lemma">CHAPALA; Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Caxititlán en Nueva España</orth>
+            <orth type="lemma">CHAPALA</orth>
           </form>
-          <sense>situado á la orilla de la gran laguna ó mar de este nombre: tiene un buen Convento
+          <sense>Pueblo de la Cabecera de Partido y Alcaldía mayor de Caxititlán en Nueva
+            Españasituado á la orilla de la gran laguna ó mar de este nombre: tiene un buen Convento
             de San Francisco y en su Valle que es muy fértil se dan con abundancia toda especie de
             semillas como trigo maiz frí— xoles y muchas frutas delicadas</sense>
         </entry>
         <entry xml:id="alcedo03421">
           <form>
-            <orth type="lemma">CHAPALA; Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Caxititlán en Nueva España</orth>
+            <orth type="lemma">CHAPALA</orth>
           </form>
           <sense>Tiene el mismo nombre otro Pueblo de la Alcaldía mayor de Zaiula en el mismo Reyno,
             situado en un llano de temperamento templado: tiene 42 familias de Indios que tratan en
@@ -30448,8 +30225,7 @@
         </entry>
         <entry xml:id="alcedo03422">
           <form>
-            <orth type="lemma">CHAPALA; Pueblo de la Cabecera de Partido y Alcaldía mayor de
-              Caxititlán en Nueva España</orth>
+            <orth type="lemma">CHAPALA</orth>
           </form>
           <sense>Una gran laguna del Reyno de la Nueva Galicia llamado mar de Chápala por su
             dilatada extensión: navegan en ella muchas embarcaciones, y es abundantísima de pescado,
@@ -31534,11 +31310,10 @@
         </entry>
         <entry xml:id="alcedo03554">
           <form>
-            <orth type="lemma">CHERAKILICHI ó Apalachicola) Fuerte de los Ingleses en la Provincia y
-              Colonia de Georgia</orth>
+            <orth type="lemma">CHERAKILICHI ó Apalachicola</orth>
           </form>
-          <sense>á orilla del rió Apalachicola y en el Confluente donde le entra el de Caillou
-          </sense>
+          <sense>Fuerte de los Ingleses en la Provincia y Colonia de Georgiaá orilla del rió
+            Apalachicola y en el Confluente donde le entra el de Caillou </sense>
         </entry>
         <entry xml:id="alcedo03555">
           <form>
@@ -31723,14 +31498,15 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">CHEUELUS Chávelos</orth>
+            <orth type="lemma">CHEUELUS</orth>
           </form>
-          <sense>Nación bárbara de indios del País del Marañon: habita en las selvas inmediatas al
-            rio Aguarico al Levante y en las inmediaciones de las lagunas: son belicosos de genio
-            cruel y traidores y viven en guerra continua eon sus confinantes Mr de la Martiniere da
-            la etimología del nombre Chávelos de la voz francesa Cheveux porque así las mugeres como
-            los hombres se dexan crecer el pelo hasta la cintura como si estos Indios supieran el
-            Francés quando se descubrieron ó sus descubridores hubieran sido Franceses</sense>
+          <sense>Chávelos Nación bárbara de indios del País del Marañon: habita en las selvas
+            inmediatas al rio Aguarico al Levante y en las inmediaciones de las lagunas: son
+            belicosos de genio cruel y traidores y viven en guerra continua eon sus confinantes Mr
+            de la Martiniere da la etimología del nombre Chávelos de la voz francesa Cheveux porque
+            así las mugeres como los hombres se dexan crecer el pelo hasta la cintura como si estos
+            Indios supieran el Francés quando se descubrieron ó sus descubridores hubieran sido
+            Franceses</sense>
         </entry>
         <entry xml:id="alcedo03580">
           <form>
@@ -32510,10 +32286,7 @@
             <orth type="lemma">CHIGUACHI Pueblo del Corregimiento de la baque en el Nuevo Reyno de
               Granada</orth>
           </form>
-          <sense>situado detras de los montes de Guadalupe y Monserrat de la Ciudad de Santa Fe de
-            donde dista 5 leguas al Oriente: es de temperamento agradable y delicioso abundante en
-            trigo maiz cebada papas cañas de azúcar y plátanos: tiene de vecindario mas de 200
-            familias de Españoles y muy pocos Iridios</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03654">
           <fs type="hgis_info">
@@ -33316,15 +33089,14 @@
         </entry>
         <entry xml:id="alcedo03712">
           <form>
-            <orth type="lemma">CHIMALTEPEC ) Pueblo de la Alcaldía mayor de Tlapa en Nueva España:
-              tiene 29 familias de Indios</orth>
+            <orth type="lemma">CHIMALTEPEC </orth>
           </form>
-          <sense>y está 2 leguas del Real de Minas de Cairo</sense>
+          <sense>Pueblo de la Alcaldía mayor de Tlapa en Nueva España: tiene 29 familias de Indiosy
+            está 2 leguas del Real de Minas de Cairo</sense>
         </entry>
         <entry xml:id="alcedo03713">
           <form>
-            <orth type="lemma">CHIMALTEPEC ) Pueblo de la Alcaldía mayor de Tlapa en Nueva España:
-              tiene 29 familias de Indios</orth>
+            <orth type="lemma">CHIMALTEPEC </orth>
           </form>
           <sense>Hay otro Pueblo pequeño del mismo nombre en la Cabecera de Malacatepee y Alcaldía
             mayor de Nexapa, muy inmediato á su Cabecera.</sense>
@@ -33392,10 +33164,10 @@
         </entry>
         <entry xml:id="alcedo03722">
           <form>
-            <orth type="lemma">CHIMBACALLE ó San Juan Evangelista ) Pueblo del Reyno de Quito</orth>
+            <orth type="lemma">CHIMBACALLE ó San Juan Evangelista </orth>
           </form>
-          <sense>en el Corregimiento del distrito de las cinco leguas de la Capital de quien se
-            reputa como arrabal por su inmediación</sense>
+          <sense>Pueblo del Reyno de Quitoen el Corregimiento del distrito de las cinco leguas de la
+            Capital de quien se reputa como arrabal por su inmediación</sense>
         </entry>
         <entry xml:id="alcedo03723">
           <form>
@@ -33448,22 +33220,22 @@
         </entry>
         <entry xml:id="alcedo03726">
           <form>
-            <orth type="lemma">CHIMBORAZO o Xhímborasu ) Monte muy alto ó páramo de la Cordillera de
-              la Provincia y Corregimiento de Riobamba en el Reyno de Quito</orth>
+            <orth type="lemma">CHIMBORAZO o Xhímborasu </orth>
           </form>
-          <sense>que en el idioma del pais significa monte de la otra vanda cubierto siempre de
-            nieve: es el mas alto que se conoce hoy en todo el mundo pues tiene de altura medido por
-            los Académicos de las ciencias de París 3220 toesas desde el nivel del mar hasta su
-            cumbre que termina en la figura de un cono ó pirame truncada: sus faldas están cubiertas
-            de arena blanca ó materia calcinada de piedras sueltas y de cierta yerva que llaman
-            pajón en que pasta el ganado de las haciendas inmediatas: el agua caliente que mana por
-            la parte del N dan indicio de que en su centro haya algún volcan: de su cumbre baxan
-            algunos rios que toman diversos giros como el de Guaranda al S el de Guano al SE y el de
-            Máchala á Levante: por su falda pasa el camino que va de Quito á Guayaquil y es preciso
-            para pasarlo esperar que el tiempo sea menos rigoroso para no experimentar la misma
-            desgracia que muchos de los conquistadores Españoles de esta Provincia que murieron allí
-            helados: está al N de la Villa de Riobamba en 1 gr 27 min 18 seg de lat aust según la
-            observación de Mr La Condamine</sense>
+          <sense>Monte muy alto ó páramo de la Cordillera de la Provincia y Corregimiento de
+            Riobamba en el Reyno de Quitoque en el idioma del pais significa monte de la otra vanda
+            cubierto siempre de nieve: es el mas alto que se conoce hoy en todo el mundo pues tiene
+            de altura medido por los Académicos de las ciencias de París 3220 toesas desde el nivel
+            del mar hasta su cumbre que termina en la figura de un cono ó pirame truncada: sus
+            faldas están cubiertas de arena blanca ó materia calcinada de piedras sueltas y de
+            cierta yerva que llaman pajón en que pasta el ganado de las haciendas inmediatas: el
+            agua caliente que mana por la parte del N dan indicio de que en su centro haya algún
+            volcan: de su cumbre baxan algunos rios que toman diversos giros como el de Guaranda al
+            S el de Guano al SE y el de Máchala á Levante: por su falda pasa el camino que va de
+            Quito á Guayaquil y es preciso para pasarlo esperar que el tiempo sea menos rigoroso
+            para no experimentar la misma desgracia que muchos de los conquistadores Españoles de
+            esta Provincia que murieron allí helados: está al N de la Villa de Riobamba en 1 gr 27
+            min 18 seg de lat aust según la observación de Mr La Condamine</sense>
         </entry>
         <entry xml:id="alcedo03727">
           <form>
@@ -33685,8 +33457,7 @@
           <form>
             <orth type="lemma">CHINCHILCA ó Chunchilca como llaman otros</orth>
           </form>
-          <sense>rio del Partido de Guadalabquien y Reyno de Chile: corre al N NO y entra en el de
-            Calla-calla</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03755">
           <form>
@@ -33863,7 +33634,7 @@
             <orth type="lemma">CHIPAYA Pueblo de la Provincia y Corregimiento le Carangas en el Perú
               y del Arzobispado de Charca</orth>
           </form>
-          <sense>c anexo al Curato de Huachacalla</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03778">
           <fs type="hgis_info">
@@ -34057,16 +33828,14 @@
             <orth type="lemma">CHIQUEA Pueblo del Corregimiento de Sachica y jurisdicción de Leiba
               en el Nuevo Reyno de Granada: es de temperamento frío</orth>
           </form>
-          <sense>y produce trigo maíz cebada papas y demás frutos de este clima: su vecindario es
-            tan corto que apenas tendrá 30 vecinos y otros tantos Indios: está 4 leguas al NO de
-            Tunja y algo ménos de Velez</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03791">
           <form>
             <orth type="lemma">CHIRA Pueblo y asiento de minas de plata de la Provincia y
               Corregimiento de Piura en el Perú</orth>
           </form>
-          <sense>anexo al Curato de Paita</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03792">
           <form>
@@ -34285,10 +34054,9 @@
         </entry>
         <entry xml:id="alcedo03813">
           <form>
-            <orth type="lemma">CHISAHALO ó Tocazo) Pueblo de la Provincia y Corregimiento de Tacunga
-              en el Reyno de Quito</orth>
+            <orth type="lemma">CHISAHALO ó Tocazo</orth>
           </form>
-          <sense/>
+          <sense>Pueblo de la Provincia y Corregimiento de Tacunga en el Reyno de Quito</sense>
         </entry>
         <entry xml:id="alcedo03814">
           <form>
@@ -34319,7 +34087,7 @@
             <orth type="lemma">CHISME y Pueblo de la Cabecera de Puxmecatan y Alcaldía mayor de
               Villalta: tiene 71 familias de Indios</orth>
           </form>
-          <sense>y está 1 8 leguas de su Capital</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03818">
           <form>
@@ -34372,9 +34140,10 @@
         </entry>
         <entry xml:id="alcedo03823">
           <form>
-            <orth type="lemma">CHITAGA; Puente de) en la Provincia y Gobierno de Mérida</orth>
+            <orth type="lemma">CHITAGA; Puente de</orth>
           </form>
-          <sense>al S de la Ciudad de Pamplona sobre el rio de este nombre</sense>
+          <sense>en la Provincia y Gobierno de Méridaal S de la Ciudad de Pamplona sobre el rio de
+            este nombre</sense>
         </entry>
         <entry xml:id="alcedo03824">
           <form>
@@ -34422,12 +34191,11 @@
         </entry>
         <entry xml:id="alcedo03829">
           <form>
-            <orth type="lemma">CHIUAO ó Sibauri) Rio pequeño de la Provincia y Colonia de Surinam ó
-              parte de la Guayan a que poseen los Holandeses: nace en el monte de Sincomay: corre al
-              N</orth>
+            <orth type="lemma">CHIUAO ó Sibauri</orth>
           </form>
-          <sense>y torciendo al O entra en otro sin nombre donde se juntan varios para salir al
-            Cuyuni por la banda del S</sense>
+          <sense>Rio pequeño de la Provincia y Colonia de Surinam ó parte de la Guayan a que poseen
+            los Holandeses: nace en el monte de Sincomay: corre al Ny torciendo al O entra en otro
+            sin nombre donde se juntan varios para salir al Cuyuni por la banda del S</sense>
         </entry>
         <entry xml:id="alcedo03830">
           <form>
@@ -34500,10 +34268,10 @@
         </entry>
         <entry xml:id="alcedo03839">
           <form>
-            <orth type="lemma">CHOCAIA Nueva) Pueblo de la Provincia de Chichas y Tarija en el
-              Perú</orth>
+            <orth type="lemma">CHOCAIA Nueva</orth>
           </form>
-          <sense>del Partido del primero anexo al Curato de Tatasi</sense>
+          <sense>Pueblo de la Provincia de Chichas y Tarija en el Perúdel Partido del primero anexo
+            al Curato de Tatasi</sense>
         </entry>
         <entry xml:id="alcedo03840">
           <form>
@@ -34956,10 +34724,10 @@
         </entry>
         <entry xml:id="alcedo03888">
           <form>
-            <orth type="lemma">CHOROU ) Crike du ) Arroyo y establecimiento de los Franceses en la
-              parte que poseen de la Guayana</orth>
+            <orth type="lemma">CHOROU </orth>
           </form>
-          <sense/>
+          <sense>Crike du ) Arroyo y establecimiento de los Franceses en la parte que poseen de la
+            Guayana</sense>
         </entry>
         <entry xml:id="alcedo03889">
           <form>
@@ -34970,10 +34738,9 @@
         </entry>
         <entry xml:id="alcedo03890">
           <form>
-            <orth type="lemma">CHOSAPEACK ó Chesapeak) Bahía grande y hermosa en la Costa de la
-              Provincia y Colonia de Virginia</orth>
+            <orth type="lemma">CHOSAPEACK ó Chesapeak</orth>
           </form>
-          <sense/>
+          <sense>Bahía grande y hermosa en la Costa de la Provincia y Colonia de Virginia</sense>
         </entry>
         <entry xml:id="alcedo03891">
           <form>
@@ -35000,8 +34767,7 @@
           <form>
             <orth type="lemma">CHOTEHECHEL ó el Paso</orth>
           </form>
-          <sense>Pueblo de Indios del Reyno de Chile situado en lo mas interior de él á orilla del
-            rio Como-Leuvu</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03895">
           <form>
@@ -35234,7 +35000,7 @@
             <orth type="lemma">SAN CHRISTIANO Pueblo de la Provincia y Capitanía de Sergipé en el
               Brasil</orth>
           </form>
-          <sense>situado en la Costa y á la boca del rio Cirii</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03923">
           <form>
@@ -35575,8 +35341,7 @@
           <form>
             <orth type="lemma">CHUMAY Rio del Nuevo Reyno de Granada</orth>
           </form>
-          <sense>que baxade las montañas de Bogotá: riega el territorio de Mérida pasando delante
-            _de esta Ciudad y entra por la parte austral en la laguna de Maracaybo</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo03961">
           <form>
@@ -36292,9 +36057,9 @@
         </entry>
         <entry xml:id="alcedo04025">
           <form>
-            <orth type="lemma">CICLADAS Grandes ) Islas de la mar del Sur</orth>
+            <orth type="lemma">CICLADAS Grandes </orth>
           </form>
-          <sense>descubiertas por Mr de Bouganvile el año de 1763</sense>
+          <sense>Islas de la mar del Surdescubiertas por Mr de Bouganvile el año de 1763</sense>
         </entry>
         <entry xml:id="alcedo04026">
           <form>
@@ -36372,46 +36137,7 @@
             <orth type="lemma">CINALOA Provincia y Gobierno de Nueva España: está entre Poniente y N
               de México</orth>
           </form>
-          <sense>de donde dista 300 leguas: tiene de longitud hasta donde se ha reducido al
-            Evangelio 140 y de latitud ó anchura 40: por el Oriente tiene las altísimas sierras de
-            Topia que van declinando al N; por el Occidente la cerca el brazo de mar llamado
-            California que también va dando vuelta al N; por el Mediodía tiene la Villa de Culiacan
-            y al N las inumerables naciones de Indios cuyo término se ignora: tiene principio esta
-            Provincia en 27 grados de altura al N hasta 32 término á donde han penetrado los
-            Misioneros: el temple es sumámente cálido sin embargo de que en los dos meses de
-            Diciembre y Enero es grande el frío: llueve muy poco especialmente en la Costa que suele
-            ser al año quatro 6 cinco veces de que resulta tanta sequedad en la tierra que seria
-            inhabitable si no fuese por los muchos rios caudalosos que la riegan y hace que el
-            temple sea sano: la mayor parte es terreno llano poblado de arbustos y árboles
-            silvestres formando selvas espesas de tres y quatro leguas en que se halla palo de
-            Brasil évano y otras maderas y sirven de asilo á las fieras como leopardos javalies
-            venados y conejos variedad de gatos monteses coyotes muchas serpientes y vivoras; en los
-            valles se halla multitud de aves codornices tórtolas faisanes grullas papagayos
-            guacamayas muy estimadas por el hermoso color de sus plumas con que se adornan los
-            Indios y otra infinita variedad de paxaros: los ríos que todos baxan de las sierras de
-            Topia en tiempo de lluvias tienen crecientes tan grandes que se extienden dos y tres
-            leguas inundando los campos y suelen durar ocho días en cuyo tiempo como no tienen
-            montes ni alturas forman los Indios una terraza con tablas y tierra sobre los árboles
-            para hacer fuego; tiene muchas salinas minas de plata que no se trabajan por falta de
-            operarios estaba poblada esta Provincia de muchas naciones de Indios que tenían sus
-            aldeas y chozas á la orilla de los rios: se mantenían del maiz que cultivaban como
-            también calabazas muy dulces y sabrosas fríxoles y un género de algarrovilla silvestre
-            que llaman Mesquites y molidas bebían en agua a semejanza del chocolate; también les
-            servia de regalo otra planta que llaman Mezcal semejante á la savila aunque la hay de
-            varias especies de que hacen vino miel y vinagre de sus pencas hilo y de las puntas
-            agujas; abunda en nopales pitahayas y en otras plantas dándose asimismo muchas de las de
-            Europa: Alvar Nuñez Cabeza de Vaca fué el primero que descubrió esta dilatada Provincia
-            en su peregrinación quando naufragó desde la Florida á México y con su relación envió á
-            ella descubridores el Virey Don Antonio de Mendoza: el año de 1590 entraron á predicar
-            el Evangelio los Regulares de la Compañia que reduxéron á sus naturales estableciendo
-            una Misión para cuyo fomento regaló la Reyna Dona Margarita de Austria muger de Felipe
-            III muchas alhajas ornamentos y demas cosas precisas al culto divino: la Capital es la
-            Villa de San Felipe y Santiago y las demás poblaciones son: Montes Claros Real de Alamos
-            Bocaverito Noguera CamoaGuarabeOcosconiMocoritoSan IgnacioSanta
-            AnaAchogoaCaurimpoMocoyaguyChiguaguillaTeguecoSivirijoaCharayMochicahuú San
-            MiguelHaoméSanta MaríaToroConcepciónLoretoNavajoaTeciaTepehueReal de los
-            FraylesVacaTorizCuytesTemorisChinipasValle umbrosoGuazaparesSateboGuadalupeMayoCanamoas
-            Batacosa</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04035">
           <form>
@@ -36458,7 +36184,7 @@
             <orth type="lemma">CINIO Pueblo de la Provincia y Colonia de Maryland en el Condado de
               Kent</orth>
           </form>
-          <sense>situado á orilla de la Bahía de Chesapeack en lo último de ella</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04041">
           <form>
@@ -36475,10 +36201,9 @@
         </entry>
         <entry xml:id="alcedo04043">
           <form>
-            <orth type="lemma">CINTORI ) Pueblo de la Provincia y Corregimiento de Caxamarquilla en
-              el Perú</orth>
+            <orth type="lemma">CINTORI </orth>
           </form>
-          <sense/>
+          <sense>Pueblo de la Provincia y Corregimiento de Caxamarquilla en el Perú</sense>
         </entry>
         <entry xml:id="alcedo04044">
           <form>
@@ -36961,10 +36686,10 @@
         </entry>
         <entry xml:id="alcedo04105">
           <form>
-            <orth type="lemma">COCULA Asunción de ) Pueblo de la Cabecera y Alcaldía mayor de Iguala
-              en Nueva España: contiene 37 familias de Indios</orth>
+            <orth type="lemma">COCULA Asunción de </orth>
           </form>
-          <sense/>
+          <sense>Pueblo de la Cabecera y Alcaldía mayor de Iguala en Nueva España: contiene 37
+            familias de Indios</sense>
         </entry>
         <entry xml:id="alcedo04106">
           <fs type="hgis_info">
@@ -36973,20 +36698,20 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">COAGUILA o Nueva Extremadura ) Provincia de Nueva España</orth>
+            <orth type="lemma">COAGUILA o Nueva Extremadura </orth>
           </form>
-          <sense>confinante con el Nuevo Reyno de León: sus términos se extienden hasta el rio de
-            Medina: tiene por el N 200 leguas de largo y 160 de ancho del SO al N E todo este
-            dilatado pais está quasi despoblado y solo hay en él algunos Pueblos de las Misiones con
-            que han reducido á sus naturales los Religiosos de S Francisco de la Ciudad de Queretano
-            y 3 Presidios fronterizos á las sierras y Pais de los Indios Infieles para contener sus
-            incursiones: riéganlo muchos rios caudalosos de que son los principales el de Nadadores
-            de Santo Domingo: tiene algunas haciendas en que se cria mucho ganado mayor y menor por
-            la abundancia de pastos La Capital es la Villa y Presidio de Santiago de la Monclova las
-            demás poblaciones son las siguientes: San Francisco AguayoSan MiguelEl Presidio del
-            SacramentoSan Juan Bautista de rio grandePetoyesSan Francisco de BizarronNtra Sra de la
-            VictoriaSan BuenaventuraCatañoVilla del SaltilloLas JuntasLa hacienda del AlamoLos
-            RanchosSan Pedro de Boca LeonesMonte Rey</sense>
+          <sense>Provincia de Nueva Españaconfinante con el Nuevo Reyno de León: sus términos se
+            extienden hasta el rio de Medina: tiene por el N 200 leguas de largo y 160 de ancho del
+            SO al N E todo este dilatado pais está quasi despoblado y solo hay en él algunos Pueblos
+            de las Misiones con que han reducido á sus naturales los Religiosos de S Francisco de la
+            Ciudad de Queretano y 3 Presidios fronterizos á las sierras y Pais de los Indios
+            Infieles para contener sus incursiones: riéganlo muchos rios caudalosos de que son los
+            principales el de Nadadores de Santo Domingo: tiene algunas haciendas en que se cria
+            mucho ganado mayor y menor por la abundancia de pastos La Capital es la Villa y Presidio
+            de Santiago de la Monclova las demás poblaciones son las siguientes: San Francisco
+            AguayoSan MiguelEl Presidio del SacramentoSan Juan Bautista de rio grandePetoyesSan
+            Francisco de BizarronNtra Sra de la VictoriaSan BuenaventuraCatañoVilla del SaltilloLas
+            JuntasLa hacienda del AlamoLos RanchosSan Pedro de Boca LeonesMonte Rey</sense>
         </entry>
         <entry xml:id="alcedo04107">
           <form>
@@ -37361,8 +37086,7 @@
           <form>
             <orth type="lemma">COBESICOUT Rio pequeño de la Provincia y Colonia de Continent</orth>
           </form>
-          <sense>una de las quatro de la Nueva Inglaterra: nace de una laguna corre al E y entra en
-            el de Eenebéc</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04148">
           <form>
@@ -37966,9 +37690,10 @@
         </entry>
         <entry xml:id="alcedo04220">
           <form>
-            <orth type="lemma">COCUS (Punta de) en la Costa del JE de la Isla de Terranova</orth>
+            <orth type="lemma">COCUS (Punta de</orth>
           </form>
-          <sense>entre el Cabo Spear y la Bahía de Tor</sense>
+          <sense>en la Costa del JE de la Isla de Terranovaentre el Cabo Spear y la Bahía de
+            Tor</sense>
         </entry>
         <entry xml:id="alcedo04221">
           <form>
@@ -38488,20 +38213,19 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">COLIMA) Alcaldía mayor y jurisdicción de la Provincia y Obispado de
-              Mechoacan en Nueva España: confina por el Oriente con la jurisdicción de
-              Zapotlán</orth>
+            <orth type="lemma">COLIMA</orth>
           </form>
-          <sense>por el S con la de Motines por el N con la de Tuzcacuesco y por el Poniente con la
-            de Autlán y Puerto de la Navidad en el Reyno de Nueva Galicia: hace mucho comercio de
-            sal que benefician en las Costas de la mar del Sur donde tienen pozos eras y salinas de
-            que sacan mucha utilidad por el consumo que hay de ella en las Provincias interiores:
-            antiguamente hacían en ésta el mejor vino de coco de todo el Reyno por la abundancia que
-            tienen todas las haciendas de palmas de este fruto; pero perdieron el arte de
-            perfeccionarlo y decayó este ramo considerable de su comercio desde que el Virey Duque
-            de Alburquerque prohibió el beneficio de esta bebida que solo era útil para la
-            embriaguez: la Capital tiene el mismo nombre: los Pueblos de este partido son:
-            AlmololoyanCómalaZaqualpaXuluaXilotlán
+          <sense>Alcaldía mayor y jurisdicción de la Provincia y Obispado de Mechoacan en Nueva
+            España: confina por el Oriente con la jurisdicción de Zapotlánpor el S con la de Motines
+            por el N con la de Tuzcacuesco y por el Poniente con la de Autlán y Puerto de la Navidad
+            en el Reyno de Nueva Galicia: hace mucho comercio de sal que benefician en las Costas de
+            la mar del Sur donde tienen pozos eras y salinas de que sacan mucha utilidad por el
+            consumo que hay de ella en las Provincias interiores: antiguamente hacían en ésta el
+            mejor vino de coco de todo el Reyno por la abundancia que tienen todas las haciendas de
+            palmas de este fruto; pero perdieron el arte de perfeccionarlo y decayó este ramo
+            considerable de su comercio desde que el Virey Duque de Alburquerque prohibió el
+            beneficio de esta bebida que solo era útil para la embriaguez: la Capital tiene el mismo
+            nombre: los Pueblos de este partido son: AlmololoyanCómalaZaqualpaXuluaXilotlán
             GuezalapaNagualapaCochimatlánZinacantepecTotolmaloyanCaxitlánTecomanIxtlahuacaTómalaCuatlán
           </sense>
         </entry>
@@ -38512,9 +38236,7 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">COLIMA) Alcaldía mayor y jurisdicción de la Provincia y Obispado de
-              Mechoacan en Nueva España: confina por el Oriente con la jurisdicción de
-              Zapotlán</orth>
+            <orth type="lemma">COLIMA</orth>
           </form>
           <sense>La Capital es una Villa situada en la Costa de la mar del Sur, cerca de las
             fronteras de Xalisco en el valle mas fértil y mas ameno de toda la Nueva España,
@@ -38581,28 +38303,7 @@
           <form>
             <orth type="lemma">COLLAUAS y Asiento de Minas de Caylloma</orth>
           </form>
-          <sense>Provincia y Corregimiento del Perú: confina por el N con la de Chumbivilcas por el
-            E con la de Canes y Canches 6 Tinta por el SE con la de Lampa por el S con la de
-            Arequipa y por el O con la de Camaná: tiene de largo 5 2 leguas SE NO y 16 de ancho: es
-            de temperamento frío por estar situada en la Cordillera á excepción de la parte que
-            confina con la de Camaná que es bien templada especialmente en las 5 leguas que entra su
-            jurisdicciou en el valle de Sihuas; las otras 5 hasta el mar son de la de Camaná: sus
-            frutos son varios; los del valle referido se reducen á vino aguardientes trigo maíz
-            legumbres y frutas principalmente higos que pasados sirven de alimento á mucha gente
-            pobre; los demás territorios de esta Provincia son de igual temperamento pero excasos:
-            abunda de ganados mayor y menor de carneros de la tierra vicuñas y algunos animales
-            monteses: sus caminos son peligrosos por ser tierra sumamente desigual y lo mas de ella
-            una quebrada por la qual se despeña mas bien que corre un rio de bastante agua que tiene
-            su origen dentro de la Provincia: hay en ella muchas minas de plata de que en otro
-            tiempo se sacó gran riqueza pues daban á 80 y á 100 marcos por caxon hoy han escaseado
-            mucho por la gran profundidad que tienen pues en algunas es de 200 estados; pero todavía
-            se trabajan con mediana utilidad: el cerro principal de ellas es Caylloma que dio motivo
-            á la fundación de la Capital y no le faltan minas de oro estaño plomo cobre y azufre que
-            110 se trabajan por no sufragar al costo: la Capital como hemos dicho es Caylloma: tenia
-            su Corregidor de repartimiento 5 70100 pesos pagando 456 de alcavala cada año: los demás
-            Pueblos de la jurisdicción son: TiscoCoperaque
-            CallalliLarySybayoHuancaTutyYuraLlautaMadrigalTayaTapayChibayYanquiCanocotaAchomaMurcoSihuasMacaYchupampaChabanaconde
-            PincholloHuamboHucan</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04295">
           <form>
@@ -38706,7 +38407,7 @@
           <form>
             <orth type="lemma">COLLIUE Pueblo de Indios del Reyno de Chile</orth>
           </form>
-          <sense>situado á orilla del rio Tolpan</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04307">
           <form>
@@ -38755,8 +38456,7 @@
           <form>
             <orth type="lemma">COLOCOLO y Pueblo de indios del Reyno de Chile</orth>
           </form>
-          <sense>situado á orilla del rio Carara pangue y llamado asi por el célebre Cazique de este
-            nombre uno de los caudillos de la guerra que hicieron á los Españoles</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04314">
           <form>
@@ -38799,12 +38499,12 @@
         </entry>
         <entry xml:id="alcedo04319">
           <form>
-            <orth type="lemma">COLONIAS Inglesas</orth>
+            <orth type="lemma">COLONIAS</orth>
           </form>
-          <sense>véanse los artículos Virginia Carolina Nueva Inglaterra Nueva Yorck t Jersey
-            Massachusets Rode Ysland Pensilvania t Nueva Escocia Olandesas véase Surinain Bervice t
-            Corentin Curazao Portuguesa San Gabriel Francesas Casena Santo Domingo Martinica
-            Dinamarquesas Santo Tomé</sense>
+          <sense>Inglesas véanse los artículos Virginia Carolina Nueva Inglaterra Nueva Yorck t
+            Jersey Massachusets Rode Ysland Pensilvania t Nueva Escocia Olandesas véase Surinain
+            Bervice t Corentin Curazao Portuguesa San Gabriel Francesas Casena Santo Domingo
+            Martinica Dinamarquesas Santo Tomé</sense>
         </entry>
         <entry xml:id="alcedo04320">
           <form>
@@ -39096,15 +38796,14 @@
         </entry>
         <entry xml:id="alcedo04357">
           <form>
-            <orth type="lemma">COMARU ó de los Angeles) Pueblo de las Misiones que tienen los
-              Portugueses en el Pais de las Amazonas á orilla del rio Negro</orth>
+            <orth type="lemma">COMARU ó de los Angeles</orth>
           </form>
-          <sense/>
+          <sense>Pueblo de las Misiones que tienen los Portugueses en el Pais de las Amazonas á
+            orilla del rio Negro</sense>
         </entry>
         <entry xml:id="alcedo04358">
           <form>
-            <orth type="lemma">COMARU ó de los Angeles) Pueblo de las Misiones que tienen los
-              Portugueses en el Pais de las Amazonas á orilla del rio Negro</orth>
+            <orth type="lemma">COMARU ó de los Angeles</orth>
           </form>
           <sense>Otro Pueblo hay del mismo nombre en la Provincia y Capitanía del Para y Reyno del
             Brasil, situado á la orilla del S del rio de las Amazonas en una punta ó lengua de
@@ -39402,7 +39101,7 @@
           <form>
             <orth type="lemma">COMO-LEWU ó Río de los Sauces</orth>
           </form>
-          <sense>llamado también gran desaguadero Vease Sauces r</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04392">
           <form>
@@ -39559,75 +39258,75 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
-          <sense>Capital de la Provincia y Corregimiento de su nombre fundada el año de 1550 por
-            Pedro de Valdivia: su situación es en un terreno arenoso y desigual de alguna elevación
-            á la orilla del mar y de una Bahía grande cómoda y capaz: por la parte del N la
-            atraviesa un riachuelo y por la del Mediodía la baña el rio Anda lien y no muy distante
-            el Biobio: es Ciudad pequeña y sus casas y edificios reducidos y pobres: tiene ademas de
-            la Iglesia Catedral Conventos de Religiosos de las Ordenes de San Francisco Santo
-            Domingo la Merced San Agustín Hospital de San Juan de Dios y Colegio que fué de los
-            Regulares de la Compañía y es el mejor edificio que hay en ella su clima es caliente con
-            moderación y se distinguen las quatro estaciones del año como en Europa aunque en el
-            Invierno es grande el frío: es muy abundante de toda especie de granos ganados y frutas
-            delicadas que cultivan en jardines que hay en casi todas las casas: está abierta por
-            todas partes dominada de cinco eminencias entre las quales sobresale; la que llaman del
-            Romitorio y se extiende hasta la Ciudad y solo tiene para su defensa una batería á flor
-            de agua que defiende el fondeadero de la Bahía: sus naturales son como los demas de este
-            Reyno fuertes robustos valerosos y bien hechos díestrísimos en el manejo de los caballos
-            en que les igualan las mugeres y la gente común en manejar el lazo que hedían á
-            qualquier animal corriendo sin errarle jamas el tiro ni dexar de enlazarla por donde
-            quieren Ha padecido esta Ciudad muchos infortunios desde su fundación pues á poco tiempo
-            de esta se vio precisado su vecindario á abandonarla retirándose á Santiago por la
-            invasión de los Indios Araucanos y Tucapeles que se apoderaron de ella la saquearon y
-            quemaron el año de 1 5 5 4 gobernados por el Cacique Lautaro; y aunque volvieron á
-            poblarla á poco tiempo sucedió lo mismo y tercera vez el año de 1603 quando volvió el
-            Gobernador Don García Hurtado de Mendoza Marques de Cañete en la sublevación general de
-            los Indios y poco después volvieron á reedificarla; el año de 1 730 se volvió á arruinar
-            quarta vez con un grande terremoto que experimentó inundándola el mar que salió al mismo
-            tiempo; y no padeció menos en otro el de 1 7 5 1: en la Plaza mayor tiene una hermosa
-            fuente que mandó hacer D Diego Gonzalo Montero: estuvo en esta Ciudad el Tribunal de
-            Real Audiencia desde el año de 1567 que se fundó hasta el de 1574 que se trasladó á la
-            Capital del Reyno Santiago: es cabeza de Obispado desde 1620 que se transfirió de la
-            Ciudad Imperial: reside en ella un Gobernador dependiente del Capitán General y
-            Presidente que debe estar 6 meses del año en Santiago y los otros 6 en ésta que dista de
-            la otra 70 leguas al S en 36 grad 43 min 1 5 seg de lar aust y 304 grad 27 min de long
-            OBISPOS QUE HA HABIDO en la Concepción de Chile1 Don Fray Antonio de San Miguel
-            Religiosa del Orden de San Francisco natural de Salamanca electo por primer Obispo el
-            año de 1564 fué proamovido á Quito el de 1587 - 2 Don Agustin de Gsneros Dean de la
-            Iglesia de Santiago de Chile electo Obispo de esta de la Concepción en 1587 murió en
-            1594 3 Don Fray Pedro de Azuaga y no Diego de Zuaga como dice Gil González Dávila
-            Religioso del Orden de San Francisco electo el año de 1595 murió antes de consagrarse4
-            Don Fray Reginaldo de Lizarraga natural de Lima electo el año de 1596 murió el de 16 135
-            Don Carlos Marcelo Corni natural de Truxillo en el Perú Canónigo Magistral de Lima
-            promovido al Obispado de su patria en 16206 Don Fray Luis Gerónimo de Oré del Orden de
-            San Francisco natural de Guamanga célebre escritor en diferentes idiomas de los Indios
-            de que tuvo particular don electo el año de 1620 murió el de 1628 7 Don Fray Alonso de
-            Castro del Orden de San Agustin no aceptó el Obispado8 Don Diego de Zambrana y
-            Villalobos promovido á Santiago de Chile t r&gt; 9 Don Fray Dionisio Cimbrón del Orden
-            de San Bernardo natural de Cintruenigo en Navarra; fué Prior en los Monasterios de
-            Espina Junquera y Ossera Secretario del General Dinnidor y Comisario general presentado
-            para Obispo de la Concepción el año de 165 1 _ 10 Don Fray Diego Medellin del Orden de
-            San Francisco natural de Lima11 Don Fray Antonio de Morales natural de Lima del Orden de
-            Predicadores Provincial en su Religion12 Don Fray Francisco de Vergara Loyola de Iza del
-            Orden de San Agustín Provincial de su Religión natural de Lima 13 Don Fray Andrés de
-            Betancúr del Orden de San Francisco Provincial en la Provincia de Santa Fe electo en
-            1664 14 Don Fray Luis de Lemos y Usategui del Orden de San Agustín Predicador del Rey
-            Don Carlos II natural de Lima; 15 Don Diego Montero del Aguila promovido al Obispado de
-            Truxillo el año de 17 161 ó Don Francisco Antonio de Escandon promovido al Obispado de
-            Quito en 173017 Don Salvador Bermudez Maestre-Escuela de la Iglesia de Quito; no admitió
-            y en su lugar nombró el Rey para la presentación á 18 Don Andrés de Paredes Polanco y
-            Armendáriz que luego pasó promovido á Quito el año de 1734- 19 Don Pedro Azua Iturgoyen
-            natural de Lima promovido el año de 1744 á Arzobispo de Santa Fe20 Don Joseph de Toro
-            Zambrano natural de Santiago de Chile Canónigo Doctoral de su Iglesia electo el año de
-            1744 Obispo de la Concepción gobernó hasta su muerte el año de 176021 Don Fray Pedro de
-            Espineira electo en 1762 hasta su muerte en 177822 Don Francisco Joseph de Maran electo
-            en el año de 1779</sense>
+          <sense>Ciudad del Reyno de ChileCapital de la Provincia y Corregimiento de su nombre
+            fundada el año de 1550 por Pedro de Valdivia: su situación es en un terreno arenoso y
+            desigual de alguna elevación á la orilla del mar y de una Bahía grande cómoda y capaz:
+            por la parte del N la atraviesa un riachuelo y por la del Mediodía la baña el rio Anda
+            lien y no muy distante el Biobio: es Ciudad pequeña y sus casas y edificios reducidos y
+            pobres: tiene ademas de la Iglesia Catedral Conventos de Religiosos de las Ordenes de
+            San Francisco Santo Domingo la Merced San Agustín Hospital de San Juan de Dios y Colegio
+            que fué de los Regulares de la Compañía y es el mejor edificio que hay en ella su clima
+            es caliente con moderación y se distinguen las quatro estaciones del año como en Europa
+            aunque en el Invierno es grande el frío: es muy abundante de toda especie de granos
+            ganados y frutas delicadas que cultivan en jardines que hay en casi todas las casas:
+            está abierta por todas partes dominada de cinco eminencias entre las quales sobresale;
+            la que llaman del Romitorio y se extiende hasta la Ciudad y solo tiene para su defensa
+            una batería á flor de agua que defiende el fondeadero de la Bahía: sus naturales son
+            como los demas de este Reyno fuertes robustos valerosos y bien hechos díestrísimos en el
+            manejo de los caballos en que les igualan las mugeres y la gente común en manejar el
+            lazo que hedían á qualquier animal corriendo sin errarle jamas el tiro ni dexar de
+            enlazarla por donde quieren Ha padecido esta Ciudad muchos infortunios desde su
+            fundación pues á poco tiempo de esta se vio precisado su vecindario á abandonarla
+            retirándose á Santiago por la invasión de los Indios Araucanos y Tucapeles que se
+            apoderaron de ella la saquearon y quemaron el año de 1 5 5 4 gobernados por el Cacique
+            Lautaro; y aunque volvieron á poblarla á poco tiempo sucedió lo mismo y tercera vez el
+            año de 1603 quando volvió el Gobernador Don García Hurtado de Mendoza Marques de Cañete
+            en la sublevación general de los Indios y poco después volvieron á reedificarla; el año
+            de 1 730 se volvió á arruinar quarta vez con un grande terremoto que experimentó
+            inundándola el mar que salió al mismo tiempo; y no padeció menos en otro el de 1 7 5 1:
+            en la Plaza mayor tiene una hermosa fuente que mandó hacer D Diego Gonzalo Montero:
+            estuvo en esta Ciudad el Tribunal de Real Audiencia desde el año de 1567 que se fundó
+            hasta el de 1574 que se trasladó á la Capital del Reyno Santiago: es cabeza de Obispado
+            desde 1620 que se transfirió de la Ciudad Imperial: reside en ella un Gobernador
+            dependiente del Capitán General y Presidente que debe estar 6 meses del año en Santiago
+            y los otros 6 en ésta que dista de la otra 70 leguas al S en 36 grad 43 min 1 5 seg de
+            lar aust y 304 grad 27 min de long OBISPOS QUE HA HABIDO en la Concepción de Chile1 Don
+            Fray Antonio de San Miguel Religiosa del Orden de San Francisco natural de Salamanca
+            electo por primer Obispo el año de 1564 fué proamovido á Quito el de 1587 - 2 Don
+            Agustin de Gsneros Dean de la Iglesia de Santiago de Chile electo Obispo de esta de la
+            Concepción en 1587 murió en 1594 3 Don Fray Pedro de Azuaga y no Diego de Zuaga como
+            dice Gil González Dávila Religioso del Orden de San Francisco electo el año de 1595
+            murió antes de consagrarse4 Don Fray Reginaldo de Lizarraga natural de Lima electo el
+            año de 1596 murió el de 16 135 Don Carlos Marcelo Corni natural de Truxillo en el Perú
+            Canónigo Magistral de Lima promovido al Obispado de su patria en 16206 Don Fray Luis
+            Gerónimo de Oré del Orden de San Francisco natural de Guamanga célebre escritor en
+            diferentes idiomas de los Indios de que tuvo particular don electo el año de 1620 murió
+            el de 1628 7 Don Fray Alonso de Castro del Orden de San Agustin no aceptó el Obispado8
+            Don Diego de Zambrana y Villalobos promovido á Santiago de Chile t r&gt; 9 Don Fray
+            Dionisio Cimbrón del Orden de San Bernardo natural de Cintruenigo en Navarra; fué Prior
+            en los Monasterios de Espina Junquera y Ossera Secretario del General Dinnidor y
+            Comisario general presentado para Obispo de la Concepción el año de 165 1 _ 10 Don Fray
+            Diego Medellin del Orden de San Francisco natural de Lima11 Don Fray Antonio de Morales
+            natural de Lima del Orden de Predicadores Provincial en su Religion12 Don Fray Francisco
+            de Vergara Loyola de Iza del Orden de San Agustín Provincial de su Religión natural de
+            Lima 13 Don Fray Andrés de Betancúr del Orden de San Francisco Provincial en la
+            Provincia de Santa Fe electo en 1664 14 Don Fray Luis de Lemos y Usategui del Orden de
+            San Agustín Predicador del Rey Don Carlos II natural de Lima; 15 Don Diego Montero del
+            Aguila promovido al Obispado de Truxillo el año de 17 161 ó Don Francisco Antonio de
+            Escandon promovido al Obispado de Quito en 173017 Don Salvador Bermudez Maestre-Escuela
+            de la Iglesia de Quito; no admitió y en su lugar nombró el Rey para la presentación á 18
+            Don Andrés de Paredes Polanco y Armendáriz que luego pasó promovido á Quito el año de
+            1734- 19 Don Pedro Azua Iturgoyen natural de Lima promovido el año de 1744 á Arzobispo
+            de Santa Fe20 Don Joseph de Toro Zambrano natural de Santiago de Chile Canónigo Doctoral
+            de su Iglesia electo el año de 1744 Obispo de la Concepción gobernó hasta su muerte el
+            año de 176021 Don Fray Pedro de Espineira electo en 1762 hasta su muerte en 177822 Don
+            Francisco Joseph de Maran electo en el año de 1779</sense>
         </entry>
         <entry xml:id="alcedo04410">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otra Ciudad hay del mismo nombre con el aditamento de la Vega en la Isla de Santo
             Domingo, fundada por el Almirante Don Christóval Colon, en una hermosa y dilatada
@@ -39640,7 +39339,7 @@
         </entry>
         <entry xml:id="alcedo04411">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otra en la Provincia y Gobierno del Paraguay, fundada sobre la orilla oriental del
             rio Bermejo ó Grande, que entra en el de la Plata: fué decayendo poco á poco, hasta que
@@ -39649,47 +39348,47 @@
         </entry>
         <entry xml:id="alcedo04412">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Un Pueblo Capital de la Provincia y Corregimiento de Xauja en el Perú.</sense>
         </entry>
         <entry xml:id="alcedo04413">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la misma Provincia y Corregimiento en que hay un Convento de Religiosos de
             San Francisco.</sense>
         </entry>
         <entry xml:id="alcedo04414">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Corregimiento de Lucanas en el mismo Reyno, anexo al Curato
             de Otoca.</sense>
         </entry>
         <entry xml:id="alcedo04415">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la misma Provincia y Reyno, anexo al Curato de Paraisancos.</sense>
         </entry>
         <entry xml:id="alcedo04416">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Corregimiento de Chichas y Tarija en el mismo Reyno, y del
             partido del primero.</sense>
         </entry>
         <entry xml:id="alcedo04417">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Corregimiento de Vilcas Huaman en el mismo Reyno, anexo al
             Curato de Vizchongo.</sense>
         </entry>
         <entry xml:id="alcedo04418">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Cabecera y Alcaldía mayor de León en Nueva España, y del Obispado de
             Mechoacan, anexo al Curato de Rincón: tiene 208 familias de Indios, 100 de Españoles, y
@@ -39698,14 +39397,14 @@
         </entry>
         <entry xml:id="alcedo04419">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro pequeño 6 barrio agregado al de Tequiszitlán de la Alcaldía mayor de
             Theotihuacan en el mismo Reyno.</sense>
         </entry>
         <entry xml:id="alcedo04420">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tienen los Religiosos de San Francisco en la Provincia de
             Texas y Reyno de Nueva España: está 112 leguas al ENE del Presidio de San Antonio de
@@ -39713,7 +39412,7 @@
         </entry>
         <entry xml:id="alcedo04421">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tenian los Regulares de la Compañía en la Provincia y
             Gobierno de Mainas del Reyno de Quito, situado á orilla del gran rio Marañon en una
@@ -39721,7 +39420,7 @@
         </entry>
         <entry xml:id="alcedo04422">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tenian los Regulares de la Compañía en la Provincia de
             Tepeguana y Reyno del Nueva Vizcaya, situado en la ribera del rio Florido cerca del
@@ -39729,7 +39428,7 @@
         </entry>
         <entry xml:id="alcedo04423">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tiene la Religión de San Francisco en la Provincia de
             Taraumara y Reyno del Nueva Vizcaya, distante 17 leguas entre SE y O SO del Real de
@@ -39737,7 +39436,7 @@
         </entry>
         <entry xml:id="alcedo04424">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro con el sobrenombre de Achaguas, porque se compone de indios de esta Nación en
             el Nuevo Reyno de Granada, de las Misiones que tenian los Regulares de la Compañía en el
@@ -39745,7 +39444,7 @@
         </entry>
         <entry xml:id="alcedo04425">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro Capital de la Provincia y Capitanía de Itamaraca en el Brasil, situado en la
             altura de un monte á orilla del mar: tiene una magnífica Parroquial y dos Compañías de
@@ -39755,14 +39454,14 @@
         </entry>
         <entry xml:id="alcedo04426">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Corregimiento de Pacajes en el Perú, situado á orilla de la
             laguna Titicaca, y en la boca del rio del Desaguadero.</sense>
         </entry>
         <entry xml:id="alcedo04427">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno de los Indios Chiquitos en el mismo Reyno,
             reducción de las Misiones que tenian en ella los Regulares de la Compañía, situado entre
@@ -39770,21 +39469,21 @@
         </entry>
         <entry xml:id="alcedo04428">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno de Moxos en el Reyno de Quito, situado entre los
             ríos Guandes y Yraibi, casi en el parage donde se juntan.</sense>
         </entry>
         <entry xml:id="alcedo04429">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno antecedente, situado á orilla l del. rio Itenes.
           </sense>
         </entry>
         <entry xml:id="alcedo04430">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Pais de las Amazonas en la parte que poseen los Portugueses,
             reducción de las Misiones que tienen los Padres Carmelitas de esta nación, situado á
@@ -39792,14 +39491,14 @@
         </entry>
         <entry xml:id="alcedo04431">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tenian los Regulares de la Compañía en la California,
             situado cerca de la Costa del mar y del Puerto Nuevo.</sense>
         </entry>
         <entry xml:id="alcedo04432">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno del Tucuman en el Perú, y del distrito del Chaco,
             reducción de Indios Abipones, de la Misión que tenian los Regulares de la Compañía, y
@@ -39807,34 +39506,34 @@
         </entry>
         <entry xml:id="alcedo04433">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro llamado también Fuenclara ó la Cañada, de las Misiones que tiene la Religión
             de San Francisco en el Reyno del Nuevo México .</sense>
         </entry>
         <entry xml:id="alcedo04434">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro que es Real de Minas de Plata de la Provincia y Gobierno de Sonora en Nueva
             España.</sense>
         </entry>
         <entry xml:id="alcedo04435">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Capitanía del rio Jeneiro en el Brasil, situado en la Costa
             a frente de la Isla grande.</sense>
         </entry>
         <entry xml:id="alcedo04436">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Capitanía de San Vicente en el mismo Reyno.</sense>
         </entry>
         <entry xml:id="alcedo04437">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno de Buenos Ayres en el Perú, situado á la boca del
             rio Saladillo en la Costa que media entre el rio de la Plata y el estrecho de
@@ -39842,27 +39541,27 @@
         </entry>
         <entry xml:id="alcedo04438">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tenian los Regulares de la Compañía en la Provincia y
             Gobierno del Paraguay, situado á orilla del rio Uruguay.</sense>
         </entry>
         <entry xml:id="alcedo04439">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de las Misiones que tenian los Regulares de la Compañía en el País de los
             Indios Chiquitos y Reyno del Perú, situado al E del de San Francisco Xavier.</sense>
         </entry>
         <entry xml:id="alcedo04440">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno de Cinaloa en Nueva España.</sense>
         </entry>
         <entry xml:id="alcedo04441">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro de la Provincia y Gobierno de Quixos y Macas en el Reyno de Quito, que solo
             produce maiz, yucas, plátanos y mucha pita, con que pagan el tributo sus naturales, y es
@@ -39870,7 +39569,7 @@
         </entry>
         <entry xml:id="alcedo04442">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Una Villa de la Provincia y Gobierno del Tucuman en el Perú, en la jurisdicción de
             la Ciudad de Santiago del Estero, entre los ríos Bermejo y Salado, que fué destruida por
@@ -39878,48 +39577,48 @@
         </entry>
         <entry xml:id="alcedo04443">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Una Bahía del Reyno de Chile, en la qual se halla en lo último á quatro leguas de
             su entrada un fondo de Conchas de que hacen excelente cal.</sense>
         </entry>
         <entry xml:id="alcedo04444">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otra Bahía en el golfo de California ó mar Roxo de Cortés, muy grande y capaz, con
             varias Islas dentro, pero su entrada es muy estrecha.</sense>
         </entry>
         <entry xml:id="alcedo04445">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otra Bahía grande y hermosa en la Costa del O de la Isla de Terranpva.</sense>
         </entry>
         <entry xml:id="alcedo04446">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Un rio en la Provincia y Gobierno de Costarica, que sale al mar entre el de San
             Antonio y el Pórtete.</sense>
         </entry>
         <entry xml:id="alcedo04447">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro del Reyno del Brasil: nace al O de la Villa de Goyas, corre al S SO, y se une
             con el de los Remedios para entrar en el rio Prieto o de la Palma.</sense>
         </entry>
         <entry xml:id="alcedo04448">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro, que es un brazo del rio Picazuru en la Provincia y Gobierno del Paraguay.
           </sense>
         </entry>
         <entry xml:id="alcedo04449">
           <form>
-            <orth type="lemma">CONCEPCION ó Penco) Ciudad del Reyno de Chile</orth>
+            <orth type="lemma">CONCEPCION ó Penco</orth>
           </form>
           <sense>Otro del Reyno de Chile, que corre por medio de la Ciudad de la Concepción, y sale
             al mar en la Bahía de este nombre.</sense>
@@ -40460,15 +40159,14 @@
         </entry>
         <entry xml:id="alcedo04512">
           <form>
-            <orth type="lemma">CONNETABLE ó Condestable) Isla pequeña del País de Cayena
-              perteneciente á los Franceses entre la Ciudad de Cayena y el Cabo de Orange</orth>
+            <orth type="lemma">CONNETABLE ó Condestable</orth>
           </form>
-          <sense/>
+          <sense>Isla pequeña del País de Cayena perteneciente á los Franceses entre la Ciudad de
+            Cayena y el Cabo de Orange</sense>
         </entry>
         <entry xml:id="alcedo04513">
           <form>
-            <orth type="lemma">CONNETABLE ó Condestable) Isla pequeña del País de Cayena
-              perteneciente á los Franceses entre la Ciudad de Cayena y el Cabo de Orange</orth>
+            <orth type="lemma">CONNETABLE ó Condestable</orth>
           </form>
           <sense>Otra Isla pequeña hay también de esta misma Provincia con el aditamento de Petite
             para distinguirla de la otra.</sense>
@@ -40551,20 +40249,19 @@
         </entry>
         <entry xml:id="alcedo04524">
           <form>
-            <orth type="lemma">CONSTANCE ó Constancia) Ciudad pequeña de los Ingleses en la Isla de
-              Barbada</orth>
+            <orth type="lemma">CONSTANCE ó Constancia</orth>
           </form>
-          <sense>1</sense>
+          <sense>Ciudad pequeña de los Ingleses en la Isla de Barbada1</sense>
         </entry>
         <entry xml:id="alcedo04525">
           <form>
-            <orth type="lemma">CONSTANTINO Pérez) Isla del rio de Valdivia en el Reyno de
-              Chile</orth>
+            <orth type="lemma">CONSTANTINO Pérez</orth>
           </form>
-          <sense>frente de la misma Ciudad con otras dos pequeñas una delante y otra detras que
-            forman el célebre Puerto de este nombre: por ambos lados se navega pero por ser el canal
-            de la parte austral mas ancho entran por él los navios y embarcaciones grandes y por la
-            Septentrional que es mas estrecha las fragatas y barcos chicos</sense>
+          <sense>Isla del rio de Valdivia en el Reyno de Chilefrente de la misma Ciudad con otras
+            dos pequeñas una delante y otra detras que forman el célebre Puerto de este nombre: por
+            ambos lados se navega pero por ser el canal de la parte austral mas ancho entran por él
+            los navios y embarcaciones grandes y por la Septentrional que es mas estrecha las
+            fragatas y barcos chicos</sense>
         </entry>
         <entry xml:id="alcedo04526">
           <form>
@@ -40581,11 +40278,11 @@
         </entry>
         <entry xml:id="alcedo04528">
           <form>
-            <orth type="lemma">CONTINENT ó Main) Provincia de la Nueva Inglaterra</orth>
+            <orth type="lemma">CONTINENT ó Main</orth>
           </form>
-          <sense>una de las 4 que la componen es de figura de un romboide: por el lado del O y NO
-            confina con la de Hampshire por el E con la de Sagadahook y por el SE con el Océano
-          </sense>
+          <sense>Provincia de la Nueva Inglaterrauna de las 4 que la componen es de figura de un
+            romboide: por el lado del O y NO confina con la de Hampshire por el E con la de
+            Sagadahook y por el SE con el Océano </sense>
         </entry>
         <entry xml:id="alcedo04529">
           <form>
@@ -40972,10 +40669,9 @@
         </entry>
         <entry xml:id="alcedo04576">
           <form>
-            <orth type="lemma">COPUENO) Pueblo de la Provincia y Gobierno de Quixos y Macas en el
-              Reyno de Quito</orth>
+            <orth type="lemma">COPUENO</orth>
           </form>
-          <sense/>
+          <sense>Pueblo de la Provincia y Gobierno de Quixos y Macas en el Reyno de Quito</sense>
         </entry>
         <entry xml:id="alcedo04577">
           <form>
@@ -41532,15 +41228,14 @@
         </entry>
         <entry xml:id="alcedo04635">
           <form>
-            <orth type="lemma">COROA Grande) Pueblo de la Provincia y Capitanía del Para en el
-              Brasil</orth>
+            <orth type="lemma">COROA Grande</orth>
           </form>
-          <sense>situado á orilla del rio Tocamines</sense>
+          <sense>Pueblo de la Provincia y Capitanía del Para en el Brasilsituado á orilla del rio
+            Tocamines</sense>
         </entry>
         <entry xml:id="alcedo04636">
           <form>
-            <orth type="lemma">COROA Grande) Pueblo de la Provincia y Capitanía del Para en el
-              Brasil</orth>
+            <orth type="lemma">COROA Grande</orth>
           </form>
           <sense>Tiene el mismo nombre un baxo grande cerca de la Costa de la Provincia y Capitanía
             del Marañón en el Brasil, a la entrada del rio Coras.</sense>
@@ -41819,10 +41514,10 @@
         </entry>
         <entry xml:id="alcedo04672">
           <form>
-            <orth type="lemma">CORRAL Quemado</orth>
+            <orth type="lemma">CORRAL</orth>
           </form>
-          <sense>Pueblo de la Provincia y Corregimiento de Piura en el Perú situado en un recodo que
-            forma el rio de este nombre</sense>
+          <sense>Quemado Pueblo de la Provincia y Corregimiento de Piura en el Perú situado en un
+            recodo que forma el rio de este nombre</sense>
         </entry>
         <entry xml:id="alcedo04673">
           <form>
@@ -42103,10 +41798,10 @@
         </entry>
         <entry xml:id="alcedo04708">
           <form>
-            <orth type="lemma">COSSA ó Cosaibo) Rio de la Provincia y Gobierno de la Guayana en la
-              parte de ella que poseen los Franceses</orth>
+            <orth type="lemma">COSSA ó Cosaibo</orth>
           </form>
-          <sense/>
+          <sense>Rio de la Provincia y Gobierno de la Guayana en la parte de ella que poseen los
+            Franceses</sense>
         </entry>
         <entry xml:id="alcedo04709">
           <form>
@@ -42835,20 +42530,20 @@
         </entry>
         <entry xml:id="alcedo04789">
           <form>
-            <orth type="lemma">CREEK ó Yammacraw) Pueblo de Indios de la Georgia en la América
-              Septentrional</orth>
+            <orth type="lemma">CREEK ó Yammacraw</orth>
           </form>
-          <sense>cuyos naturales tienen hecha alianza con los Ingleses su Rey Reyna y un hijo
-            vinieron á Inglaterra con el General Oglethorp el año de 1734: esta nación de Indios
-            llamados así porque el pais esta cortado de nos; se extiende desde el de Savanaah hasta
-            los lagos de la Florida montañas de los Cherokees y rio Coussa</sense>
+          <sense>Pueblo de Indios de la Georgia en la América Septentrionalcuyos naturales tienen
+            hecha alianza con los Ingleses su Rey Reyna y un hijo vinieron á Inglaterra con el
+            General Oglethorp el año de 1734: esta nación de Indios llamados así porque el pais esta
+            cortado de nos; se extiende desde el de Savanaah hasta los lagos de la Florida montañas
+            de los Cherokees y rio Coussa</sense>
         </entry>
         <entry xml:id="alcedo04790">
           <form>
-            <orth type="lemma">CREUSE ó rio Hondo) Rio de la Nueva Francia ó Canadá: corre al SO y
-              entra en el de San Lorenzo en el Pais de los Indios Acaens</orth>
+            <orth type="lemma">CREUSE ó rio Hondo</orth>
           </form>
-          <sense/>
+          <sense>Rio de la Nueva Francia ó Canadá: corre al SO y entra en el de San Lorenzo en el
+            Pais de los Indios Acaens</sense>
         </entry>
         <entry xml:id="alcedo04791">
           <form>
@@ -42871,56 +42566,57 @@
         </entry>
         <entry xml:id="alcedo04794">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
-          <sense>el mismo que con el nombre de Gvadeba&gt; corre hasta que se le incorpora el de
-            Ynsovaoudela y desde allí adelante hasta que entra en el Missisipi toma éste</sense>
+          <sense>Rio de la Provincia y Gobierno de la Luisianael mismo que con el nombre de
+            Gvadeba&gt; corre hasta que se le incorpora el de Ynsovaoudela y desde allí adelante
+            hasta que entra en el Missisipi toma éste</sense>
         </entry>
         <entry xml:id="alcedo04795">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Tiene el mismo nombre otro rio de la Nueva Escocia ó Acadia: nace en el Lago
             Konsaki, corre al S y sale al mar en el Puerto de Portages.</sense>
         </entry>
         <entry xml:id="alcedo04796">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Otro de la misma Provincia y Colonia: nace cerca de la Costa y de la Ciudad de
             Halifax, corre al N y entra en el Basin des Mines de la Bahía de Fundy.</sense>
         </entry>
         <entry xml:id="alcedo04797">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Una Isla cerca de la Costa de la misma Provincia y Colonia entre la de Cannes y la
             Bahía de Mirligueche.</sense>
         </entry>
         <entry xml:id="alcedo04798">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Una Ensenada de la Islade Guadalupe en la Costa del SO entre el rio Sence y la
             Punta de la Petite Fontaine ó Fuente Chica.</sense>
         </entry>
         <entry xml:id="alcedo04799">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Un Puerto de la Costa del N en la Isla de Terranova y estrecho de BelieIsle.
           </sense>
         </entry>
         <entry xml:id="alcedo04800">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Un Lago de la Nueva Francia o Canadá en el Pais y territorio de los Indios
             Algonovins entre el de Santo Tomas y el rio Bastican.</sense>
         </entry>
         <entry xml:id="alcedo04801">
           <form>
-            <orth type="lemma">CROIX ó Cruz) Rio de la Provincia y Gobierno de la Luisiana</orth>
+            <orth type="lemma">CROIX ó Cruz</orth>
           </form>
           <sense>Un Pueblo ó Capilla en la Isla de Martinica.</sense>
         </entry>
@@ -42960,11 +42656,11 @@
         </entry>
         <entry xml:id="alcedo04807">
           <form>
-            <orth type="lemma">CROUUN ó Pointe á la Chevelure ó de Frederic ) Fuerte de los
-              Franceses en el territorio y Pais de los Indios Iraqueses</orth>
+            <orth type="lemma">CROUUN ó Pointe á la Chevelure ó de Frederic </orth>
           </form>
-          <sense>á la orilla y extremidad del S del lago de este nombre en la Provincia y Colonia de
-            la Nueva Yorck</sense>
+          <sense>Fuerte de los Franceses en el territorio y Pais de los Indios Iraquesesá la orilla
+            y extremidad del S del lago de este nombre en la Provincia y Colonia de la Nueva
+            Yorck</sense>
         </entry>
         <entry xml:id="alcedo04808">
           <form>
@@ -43984,11 +43680,11 @@
         </entry>
         <entry xml:id="alcedo04903">
           <form>
-            <orth type="lemma">CUCHIUARA ó Cuchiguara ) Isla de la Provincia y País de las Amazonas
-              en la parte que poseen los Portugueses: está en el rio de su nombre á la misma boca
-              por donde entra en el Marañon</orth>
+            <orth type="lemma">CUCHIUARA ó Cuchiguara </orth>
           </form>
-          <sense>y destacando un brazo de agua la rodean éste y el Marañon</sense>
+          <sense>Isla de la Provincia y País de las Amazonas en la parte que poseen los Portugueses:
+            está en el rio de su nombre á la misma boca por donde entra en el Marañony destacando un
+            brazo de agua la rodean éste y el Marañon</sense>
         </entry>
         <entry xml:id="alcedo04904">
           <form>
@@ -44645,9 +44341,7 @@
           <form>
             <orth type="lemma">CAL DE SAC ó Callejón sin salida</orth>
           </form>
-          <sense>Pueblo y Parroquia de los Franceses en la parte que poseen de la Isla de Santo
-            Domingo: está en la Cabeza del O y Costa de este rumbo á orilla de un rio entre el
-            Puerto Príncipe y el rio de los Naranjos</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo04976">
           <form>
@@ -45555,9 +45249,10 @@
         </entry>
         <entry xml:id="alcedo05078">
           <form>
-            <orth type="lemma">CURAZILLO ó Curazao Chico ) Isla pequeña de la mar del N</orth>
+            <orth type="lemma">CURAZILLO ó Curazao Chico </orth>
           </form>
-          <sense>cerca de la Costa de Tierra-Firme y inmediata á la de Curazao por el E</sense>
+          <sense>Isla pequeña de la mar del Ncerca de la Costa de Tierra-Firme y inmediata á la de
+            Curazao por el E</sense>
         </entry>
         <entry xml:id="alcedo05079">
           <form>
@@ -45745,7 +45440,7 @@
             <orth type="lemma">CURUAI Rio de la Provincia y Capitanía del Para en el Brasil: nace en
               el Pais de los Indios Aritues</orth>
           </form>
-          <sense>corre al N NE y entra en el de las Amazonas por la banda del S</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05103">
           <form>
@@ -45756,10 +45451,10 @@
         </entry>
         <entry xml:id="alcedo05104">
           <form>
-            <orth type="lemma">CURUAU o Qoariana) Isla de la mar del N</orth>
+            <orth type="lemma">CURUAU o Qoariana</orth>
           </form>
-          <sense>situada á la boca ó entrada del rio de las Amazonas al S de la de la Penitencia
-          </sense>
+          <sense>Isla de la mar del Nsituada á la boca ó entrada del rio de las Amazonas al S de la
+            de la Penitencia </sense>
         </entry>
         <entry xml:id="alcedo05105">
           <form>
@@ -45786,8 +45481,7 @@
           <form>
             <orth type="lemma">CURUGUATT Pueblo de la Provincia y Gobierno del Paraguay</orth>
           </form>
-          <sense>situado á orilla del rio Xexuy:era en tiempos pasados muy considerable pero hoy
-            está reducido á un corto numero de gente de color y á mucha miseria</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05109">
           <form>
@@ -45832,15 +45526,14 @@
         </entry>
         <entry xml:id="alcedo05114">
           <form>
-            <orth type="lemma">CURUPA ó Coropa ) Pueblo de la Provincia y Capitanía de Para en el
-              Brasil</orth>
+            <orth type="lemma">CURUPA ó Coropa </orth>
           </form>
-          <sense>situado á orilla del rio Marañon</sense>
+          <sense>Pueblo de la Provincia y Capitanía de Para en el Brasilsituado á orilla del rio
+            Marañon</sense>
         </entry>
         <entry xml:id="alcedo05115">
           <form>
-            <orth type="lemma">CURUPA ó Coropa ) Pueblo de la Provincia y Capitanía de Para en el
-              Brasil</orth>
+            <orth type="lemma">CURUPA ó Coropa </orth>
           </form>
           <sense>Tiene el mismo nombre un rio de la Provincia y Gobierno de Buenos-Ayres, que corre
             al E y entra en el de Aguapey.</sense>
@@ -45918,10 +45611,10 @@
         </entry>
         <entry xml:id="alcedo05125">
           <form>
-            <orth type="lemma">CUSABATAY 6 Cocomas ) Rio de la Provincia y Gobierno de Mainas en el
-              Reyno de Quito: corre al E muchas leguas y entra en el Ucayale</orth>
+            <orth type="lemma">CUSABATAY 6 Cocomas </orth>
           </form>
-          <sense/>
+          <sense>Rio de la Provincia y Gobierno de Mainas en el Reyno de Quito: corre al E muchas
+            leguas y entra en el Ucayale</sense>
         </entry>
         <entry xml:id="alcedo05126">
           <form>
@@ -46052,10 +45745,10 @@
         </entry>
         <entry xml:id="alcedo05143">
           <form>
-            <orth type="lemma">CUTAWA 6 Catswba) Rio de la Carolina Septentrional: corre al N y
-              entra en el Ohio</orth>
+            <orth type="lemma">CUTAWA 6 Catswba</orth>
           </form>
-          <sense>sus aguas corren siempre llenas de carbón</sense>
+          <sense>Rio de la Carolina Septentrional: corre al N y entra en el Ohiosus aguas corren
+            siempre llenas de carbón</sense>
         </entry>
         <entry xml:id="alcedo05144">
           <form>
@@ -46489,42 +46182,13 @@
           <form>
             <orth type="lemma">ADICIONES Y CORRECCIONES á este primer Tomo</orth>
           </form>
-          <sense>Mi deseo de dar cada vez mayor perfección á esta Obra en que no dexamos de trabajar
-            continuamente nos obliga á dar ahora enmendadas las erratas que hemos advertido y las
-            que son inevitables en la Imprenta; añadiendo al mismo tiempo las noticias comunicadas
-            por algunos curiosos que desean contribuir al bien público como el Ilustrísimo Señor Don
-            Juan Manuel Moscoso Obispo del Cuzco: Don Joseph de Ugarte Coronel de Milicias de la
-            Provincia de Abancay: el M R P Fr Pedro González de Agueros del Orden de San Francisco
-            Misionero Apostólico muchos años en el Archipiélago de Islas de Chiloé: el M R P Ir
-            Francisco de Ajofriñ Religioso Capuchino: Don Manuel del Campo natural de la Ciudad de
-            Cartago y Don Joseph Lindo que todos se hallan actualmente en esta Corte á quienes
-            confieso mi reconocimiento y no es justo defraudar el que les debe el público por su
-            zelo: y aunque nos consta que otros que pudieran hacer lo mismo se han contentado con
-            criticar algunos Artículos del primer Quaderno y pudiéramos convencer á alguno del poco
-            fundamento con que lo ha hecho nos hemos propuesto no entrar en contextacion y seguir lo
-            ofrecido en el Prólogo bastándonos para satisfacción la buena acogida que ha tenido la
-            Obra así en todo el Reyno como en la América y Países extrangeros y el juicio con que
-            todas las personas sensatas se hacen cargo de las dificultades que tiene la empresa para
-            no esperar en sus principios aquella perfección que debe tener con el tiempo mayormente
-            considerando la falta de auxilios que hemos tenido pues con el incendio del Palacio y
-            Secretarías del Despacho el año de 1734 y la remisión que al cabo de algunos años se
-            hace de los Papeles de los Tribunales al Archivo de Simancas no queda el recurso que
-            desearíamos y se hace preciso mendigar noticias de los Curiosos como nos ha sucedido
-            para completar y corregir las series de los Obispos y Gobernadores no habiendo podido
-            conseguirlo en los muchos Libros y Papeles que hemos reconocido y esperamos lograr con
-            las noticias que se nos comuniquen como sucede ahora en el Obispado de Arequipa y en los
-            de Caracas y del Cuzco que tuvimos á tiempo</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05172">
           <form>
             <orth type="lemma">ABANCAI De debe notar en este Artículo</orth>
           </form>
-          <sense>que el Puente de que se habla es de mimbres ó bejucos con unas tablas encima cuya
-            explicación omitió Don Cosme Bueno Cosmógrafo del Perú en la descripción de esta
-            Provincia á quien hemos seguido: su jurisdicción consta de los 17 Pueblos siguientes: La
-            CapitalLimatamboIbinHuanicapaMollepataChachaypuc
-            quioCurahuasiPantipataCachoraPibilSumataAntillaChontaSuriteAntaPocquiuraHuaracondo
-          </sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05173">
           <form>
@@ -46572,13 +46236,13 @@
         </entry>
         <entry xml:id="alcedo05177">
           <form>
-            <orth type="lemma">AGUA de Culebra) San Francisco Xavier</orth>
+            <orth type="lemma">AGUA de Culebra</orth>
           </form>
-          <sense>Pueblo de la Provincia y Gobierno de Venezuela reducción de Indios por los Padres
-            Capuchinos de aquella Misión donde también habitan algunos Españoles: pertenece al
-            distrito y jurisdicción de la Ciudad de San Felipe y en sus inmediaciones habita mucha
-            gente en las haciendas que tiene y produce con abundancia cacao plátanos yucas y otros
-            frutos</sense>
+          <sense>San Francisco XavierPueblo de la Provincia y Gobierno de Venezuela reducción de
+            Indios por los Padres Capuchinos de aquella Misión donde también habitan algunos
+            Españoles: pertenece al distrito y jurisdicción de la Ciudad de San Felipe y en sus
+            inmediaciones habita mucha gente en las haciendas que tiene y produce con abundancia
+            cacao plátanos yucas y otros frutos</sense>
         </entry>
         <entry xml:id="alcedo05178">
           <form>
@@ -46616,11 +46280,7 @@
           <form>
             <orth type="lemma">AIMARAEZ Faltan los Pueblos de su jurisdicción</orth>
           </form>
-          <sense>que son: ChaluancaCoicaMollebamba
-            CarabambaMataraAntabambaOropesaTotoraTraparoChacocheCaleauzoViriPampamarcaSilcoAtuncamaChacnaCapayaMuctáPachaconasAyahuasaHuancaraySabainoCatarosíAntillaHuaquirca
-            PocoancaTapairihua ChalvaniCaypiCaracaraSañaicaHuaillaripaPichihuaArnocaYanaca
-            SaraicoSubyuncaLucreSircaPichurhuaColcabamba SorayaHuairahuacho
-            TorayaChuquingaAncobambaParnpayactaChapimarcaLambrama Pairaca</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05183">
           <form>
@@ -46700,11 +46360,11 @@
         </entry>
         <entry xml:id="alcedo05194">
           <form>
-            <orth type="lemma">ALTOS de San Pedro ) Cerros ó montes muy altos de la Provincia de
-              Venezuela</orth>
+            <orth type="lemma">ALTOS de San Pedro </orth>
           </form>
-          <sense>cerca de la Ciudad de Caracas muy poblados de Españoles por donde pasa el camino
-            que atraviesa la Provincia para diferentes partes de ella</sense>
+          <sense>Cerros ó montes muy altos de la Provincia de Venezuelacerca de la Ciudad de Caracas
+            muy poblados de Españoles por donde pasa el camino que atraviesa la Provincia para
+            diferentes partes de ella</sense>
         </entry>
         <entry xml:id="alcedo05195">
           <form>
@@ -47011,7 +46671,7 @@
           <form>
             <orth type="lemma">ARJONA Línea 7 dice Don Francisco Díaz Pimienta</orth>
           </form>
-          <sense>ha de decir Don Juan Pimienta</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05223">
           <form>
@@ -47020,8 +46680,7 @@
               al S de la Punta de Tucaca: se forma de las vertientes de la Serranía de las Ciudades
               de San Felipe y de Barquisimeto:</orth>
           </form>
-          <sense>corre fertilizando un gran Valle en que hay un Pueblo y muy buenas haciendas de
-            cacao</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05224">
           <form>
@@ -47089,7 +46748,7 @@
           <form>
             <orth type="lemma">Línea 4 dice salta</orth>
           </form>
-          <sense>ha de decir Salta</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05231">
           <form>
@@ -47283,165 +46942,8 @@
             <orth type="lemma">BARUTA</orth>
           </form>
           <sense>Pueblo de la Provincia y Gobierno de Venezuela célebre por las ricas minas de oro
-            que tiene y han dado mucha riqueza pero hoy están arruinadas: dista 3 leguas de Caracas
-            BATAUANO y no Batavano BATCHOUENLinea 6 dice Genieveve ha de decir Genovtéve BEATALínea
-            6 dice 300 4 ha de decir 300 gr 4 min Id dice 17 30 ha de decu 1 y gr 30 min Tol 228 col
-            2 lk 23 dice Westchestes ha de decir Westchester BETAS linea 23 dice Copiapo ha de decir
-            Copiapó BETE O Línea 6 dice Apute ha de decir Apure BETOIESLínea 7 dice 17 7 ha de decir
-            1717 BEUER Línea 5 dice Genieveve ha de decir Genovtéve BEXARlinea 13 dice 30 5 ha de
-            decir 30 gr y 5 min BEZANI Línea 6 dice Primeria ha de decir Pimeria BICHADAS Col 2 lín
-            3 dice Thesbast ha de decir Teobast BLANCA Col 2 lín 3 5 dice Reyeo ha de decir Reyno
-            BLANCHE Col 1 fol 243 lín 9 dice Osiviego ha de decir Osvvego Fol 245 col 1 lín 11 dice
-            lat 9 20 ha de decir 9 gr 20 min BOCONO Añade: Tiene la advocación de San Genaro: fué
-            fundado por los Padres Capuchinos de la Provincia de Venezuela en el camino real que va
-            de la Ciudad de Guanare á la de Barinas El rio de este nombre después de salir de la
-            estrechura en que corre dentro de la Serranía empieza 3 servir de línea de demarcación á
-            las Provincias de Barinas y Venezuela y saliendo á tierra llana donde riega varias
-            haciendas de rarao añil y cañas dulces establecidas en sus fértiles Vegas entra en el de
-            Guanare cerca del Pueblo de San Juan Bautista del Mijagual de la Provincia de Barinas
-            desde donde toma éste la división de las referidas Provincias que tenia el otro hasta
-            que tributando sus aguas al de la Portuguesa le sobs tituye éste y sucesivamente el de
-            Apure quando Id recibe hasta entrar en el Orinoco BOGOTA ha de decir BOGOTA BONAIRE
-            Línea 9 dice muy grande ha de decir muy grandes Línea 2 7 dice 308 40 ha de decir 308 gr
-            40 min lat 1 2 bórrese BONZA Línea 10 dice Bogota ha de decir Bogotá BOQUERONLínea 4
-            dice ó Panamá ha de decir Panamá BOS últ dice el extremo ha de decir Fol 2j6 col 1 lín
-            en el extremo BRAMADORLínea 5 dice Copiapo ha de decir Copiapo BRASIL Fol 265 en la
-            serie de los Arzobispos añade:Don Luis Alz de Figueredo el año de 1725Don Joseph
-            FialhoDon Joseph Botelío de MatosDon Joaquín Borges de FigueroaDon Antonio CorreaFol 272
-            en la serie de los Vireyes y Capitanes Generales añade: Don Andrés de Mello y Castro
-            Conde de GalveasEl Conde de AtoguiaEl Conde de los ArcosEl Marques de Labradío PadreEl
-            Conde de Bobadela que murió antes de llegar á tomar posesiónEl Conde de AsambujaEl
-            Marques de Labradío hijo último de los que tuvieron título de VireyEl Conde de Povolide
-            que fué el primero que con el título de Gobernador y Capitán General se estableció en el
-            rio GeneiroDon Manuel de Acuña MenesesEl Marques de ValenciaDon Rodrigo Joseph de
-            Meneses BUCARANAOLínea 3 dice fortificado ha da decir fortificada BUENAUISTAFol 280 col
-            1 lín 7 dice lo traslado ha de decir la trasladóBUENOS-AIRES Fol 282 col 2 lín 14 dice
-            Obispo sufragáneo de Lima ha de decir del Arzobispado de Charcas Fol 283 en el Catálogo
-            de los Obispos Don Cristoval de Arreiti etc dice Azád ha de decir Abad Fol 287 Don
-            Francisco Bucareli etc dice extrañamiento ha de decir el extrañamiento BUFELE ha de
-            decir BUFFLE BURGO Línea 13 dice Essequeve ha de decir Esquivo BURITICA Línea 8 dice
-            Juan Padillo ha de decir Juan Badillo BURLINGTON Fol 291 col 2 lín 13 dice Selém ha de
-            decir Salém BUSH Fol 292 col 2 lín 6 dice Chesapeach ha de decir Chesapeack CABELLOLínea
-            8 dice que van á cargar en el sebo ha de decir que van a cargar en el sebo CABIERESLínea
-            4 dice Tunca ha de decir Yuncas CACAGUAN Línea 4 dice del Nuevo Reyno añade de Granada
-            CACHIRI Línea 2 dice Ocapoco ha de decir Oyapoco CAGUANLínea 15 dice Moradoros ha de
-            decir Moradores CAHOQUI Línea 5 dice Missisipi ha de decir del Missisipi CAIENAFol 306
-            col 1 lín 3 dice que habitan de Judíos ha de decir los Judíos CALAMARLínea 3 dice Lusya
-            ha de decir Luya CALIDONIALínea 3 dice Darcen ha de decir Darien CALIFORNIAFol 318 col 1
-            lín 37 dice que lo permite ha de decir que lo que permite CALUOLínea 3 dice Fernambuco
-            ha de decir Pernambuco CANA Línea 5 dice Jaque á Santiago ha de decir Jaque 6 San-
-            CANADAFol 333 col 1 lín 38 dice Mussisipi ha de decir Missisipi Id col 2 lín 11 lo
-            mismoCAÑETELos Pueblos de esta Provincia son: CañeteChucaCalangoChinchaSan Pedro de
-            Almagro TacaránMala Lunaguana Zuñiga Fol 365 dice Don Francisco Solano ha de decir Don
-            Joseph Solano y Bote CARAIBAMBA Línea 3 dice Almaraez ha de decir Aimaraez y
-            CARAPATOLínea 6 dice Chuquavo ha de decir Chuquiavo CARIACOFol 375 col 1 lín 32 dice en
-            tiempo invierno ha de decir de invierno CAROPA ha de decir CARORACARTAGENAFol 388 en el
-            Catálogo de los Pueblos de esta Provincia col 2 dice Timirignaco lia de decir
-            TimiriguacoFol 398 en el Catálogo de los Obispos Don Bernardo de Arbiza dice natural de
-            Lima ha de decir del CuzcoFol 399 Don Blas Sobrino etc dice al Arzobispado de Quito ha
-            de decir al Obispado de QuitoFol 422 col 1 lín 31 dice Higney ha de decir Higuey
-            CATARACUILínea 6 dice Quuevec ha de decir Quevéc CERMEN Fol 441 col 2 lín 5 dice Agna
-            Culebras ha de decir Agua Culebras CESARES Línea 10 dice do Magallanes ha de decir de
-            Magallanes CHAHUALTEPEQUELínea 4 dice Mexilcaltzinge ha de decir Mexilcaltzingo CHAL-
-            CHALCOLínea 1 dice Fiamanalco ha de decir Tlamanalco CHAMBIRA línea 9 dice Pastara ha de
-            decir Pastaza CHANCAY Fol 464 col 2 lín 10 dice algunos ha de decir algunas CHANUI Fol
-            467 col 1 lín 1 dice GuafTaga ha de decir GuallagaCHARCAS Provincia dilatada del Reyno
-            del Perú compuesta de otras varias cuya jurisdicción comprehende el distrito de esta
-            Real Audiencia que empieza en Vilcanota del Corregimiento de Lampa y Obispado del Cuzco
-            y llega hasta Buenos-Ayres por la parte del Sur: confina por el Oriente con el Brasil
-            sirviéndole de términos el Meridiano de demarcación y por el Occidente llega hasta la
-            mar del Sur por el Corregimiento de Atacama que es de su distrito y lo mas Septentrional
-            de ella por aquella parte y en lo restante confina con el Reyno de Chile: tiene de largo
-            300 leguas desde 20 hasta 28 gr de lat aust: en muchos parajes está poco poblada y tiene
-            dilatados desiertos que la interrumpen y montañas asperísimas é impenetrables y de otra
-            parte las elevadas cordilleras de los Andes y las espaciosas llanuras ó Pampas que
-            median entre sus distancias: el temperamento de toda ella es sumamente frío aunque no le
-            faltan parajes donde es templado: quando la poseían los Indios antes de la entrada de
-            los Españoles se comprehendian baxo el nombre de Charcas muchas Provincias muy pobladas
-            cuya conquista empezó Capác Yupanqui V Emperador; pero no pudo pasar del territorio de
-            los Indios Tutiras y del Chaqui donde puso término y dio fin á sus conquistas por la
-            parte del Collasuyo hasta que después de su muerte habiendo subido al trono su hijo Inca
-            Roca VI Emperador continuó éste conquistando por aquella misma parte y se hizo reconocer
-            Señor de todas las naciones que mediaban hasta la de Chuquisaca en que se fundó después
-            la Ciudad de este nombre llamada también la Plata: después que los Españoles reduxéron
-            la parte del Perú que hay desde Tumbez hasta el Cuzco y que cesaron las guerras civiles
-            y disensiones que hubo entre ellos quisieron seguir la empresa sujetando las naciones
-            mas retiradas á cuyo fin salid del Cuzco el año de 1538 Gonzalo Pizarra con mucha gente
-            y encaminándose á los Charcas y á los Carangues encontró en ellos tanta oposición que
-            después de diferentes batallas le costó no poca dificultad el vencerlos y mucho mas á
-            los Chuquisacas que sobstu vieron su libertad valerosamente en muchos reencuentros y al
-            fin lo extrecháron de modo que á no haber recibido un fuerte socorro que le envió del
-            Cuzco su hermano el Marques Don Francisco Pizarro hubiera perecido con todos los
-            Españoles de su exército en aquel suceso pero empeñado nuevamente con este auxilio pudo
-            desbaratar á los Indios y obligarlos á rendir la cerviz al dominio Español; y el año
-            siguiente de 1539 viendo el Marques Don Francisco Pizarro la importancia de establecerse
-            allí dispuso que se fundase una Villa dando la comisión al Capitán Pedro Anzures que lo
-            executó en el mismo parage que estaba el Pueblo de Chuquisaca donde se avecindaron
-            muchos de sus Conquisdores dándole el nombre de la Plata por unas minas de este metal
-            que hay en el cerro de Porco poco distante de ella de las quales sacaron mucha riqueza
-            los Emperadores Incas; pero siempre ha conservado el primitivo nombre de Chuquisaca mal
-            pronunciado de los Españoles y por los Indios con propiedad Choquezaca Choquechaca ó
-            Choquisacha que de todos modos la pronuncian y significa del primero montes de oro: del
-            segundo cunchos de oro ó matorrales que dan unas varas amarillas y del tercero puentes
-            de oro: aunque esta dilatada Provincia se compone de otras varias de que daremos razón
-            en los Artículos que corresponde conserva el nombre por ser la mas rica en minerales
-            siembras y ganados como la mas poblada de Indios: rieganla muchos rios caudalosos y toda
-            compone un Arzobisla muchos rios caudalosos y toda compone un Arzobispado que tiene por
-            sufragáneos los Obispados de la Paz Santa Cruz de la Sierra Tucuman Paraguay y
-            BuenosAyres á cuyo Vireynato pertenece desde su erección y su Gobierno al de la Real
-            Audiencia erigida el año de 1 5 59 comprehendiendo todo el distrito referido las
-            Provincias y Corregimientos siguientes: Tomina
-            OruroParíaPorcoPilayaCarangasTarijaCochabambaCicasicaLipesChayantaAtacamaAmparaezen que
-            se contienen 188 Pueblos y Curatos en que había el año de 165 1 cerca de 1000 Indios: la
-            Capital de toda la jurisdicción es la referida Ciudad de Chuquisaca ó la
-            PlataPRESIDENTES QUE HA HABIDO En la Real Audiencia de Charcas1 El Licenciado Pedro
-            Ramírez de Quiñones primer Presidente el año de 15592 El Licenciado Juan de Matienzo
-            célebre Jurisconsulto año de 15803 El Licenciado Zepeda año de 1 4 El Licenciado Alonso
-            Maldonado de Torres el año de 1606; 5 Don Juan de Lizarazu Caballero del Orden de
-            Santiago pasó á la distrito ydistrito y Presidencia de Quito el año de 161 26 Don Diego
-            de Portugal el año de 16147 Don Alonso Pérez de Salazar era Presidente de Quito y pasó
-            promovido á ésta gobernó hasta el año de 16208 Don Juan de Caravajal y Sande año de 1633
-            9 Don Dionisio Pérez Manrique Caballero del Orden de Santiago Colegial en el Colegio de
-            los Manriques de Alcalá Rector de su Universidad Oidor de Lima y Presidente de Quito de
-            donde pasó á serlo de esta Audiencia de Charcas el año de 1646 exerciéndola hasta 1654
-            que fué promovido á la de Santa Fe10 Don Pedro Vázquez de Velasco hasta el año de 166111
-            Don Bartolomé González de Poveda año de 1678: fué hecho Arzobispo de esta Santa Iglesia
-            de Charcas conservando la Presidencia hasta 168812 Don Diego Mesía natural de Lima Oidor
-            de su Real Audiencia y antes de la de Quito promovido á Presidente de Charcas el año de
-            1688;13 Don Jorge Manrique de Lara fué Oidor de Panamá luego de Charcas y Presidente en
-            14 Don Gabriel Antonio Matienzo año de 172315 Don Francisco de Herboso año de 1725 hasta
-            173216 Don Agustín de Jáuregui Caballero del Orden de Santiago natural de Lima 17 Don
-            Juan Francisco Pestaña primer Ayudante mayor del Regimiento de Guardias Españolas
-            nombrado el año de 1752 hasta el de 176918 Don Ambrosio de Benavides entró el referido
-            año hasta el de 177719 Don Agustín de Pinedo sucedió al anterior y gobernó hasta el año
-            de 178220 Don Ignacio de Flores natural de Quito que había servido de Capitán de
-            Caballos en el Regimiento de Voluntarios de Aragón y estaba de Gobernador do la
-            Provincia de Moxos graduado de Coronel fué nombrado Presidente en premio de lo que habia
-            trabajado en la pacificación de los Indios del Perú y socorro de la Ciudad de la Paz que
-            tenían sitiada los rebeldes gobernó hasta el año de 1786 que fué separado del empleo
-            CHECACUPILínea 5 dice Guispicanchi ha de decir Quispicanchu CHEPILLOLinea 2 dice del mar
-            repetido CHEPOIf 2 COI 2la 24 des P ues de C paurí faltan afo CHIAPA Fol 487 col 2 32
-            dice Emperador anade Cárlos VFoL 49o en la serie de los Obispos dice Don Fray Tomas
-            Blanes etc presentado ha de decir fue presentadoFol 491 dice Don Fray Domingo de
-            Villaexcusa ha de decir de Villaescusa CHICHAS Los Pueblos de esta Provincia son:
-            Santiago de CotagaitaSan Antonio de Rio
-            BlancoCotagaitillaTociaChacnacochaEscaraChequeltiColnacaCalccliaTomólaTumálaEstarcaTupisaOplocaTatasiIngenio
-            del OroNueva
-            ChocayaTalinaVerqueChacapaChoromaLibilibiMorayaMoxoTojoSocochaRemediosChislocaSuipacha Y
-            en el Partido de Tarija: Tarija la ViejaSan Bernardo de Tarija La ConcepciónBermeoFol
-            519 en la serie de los Gobernadores dice Don Francisco Xavier de Moreles etc Capitán del
-            de Granaderos ha de decir Captan de Granaderos CHIMBORAZOLínea 17 dice pirame ha de
-            decir pirámide Línea 26 dice dan indicio ha de decir da indicio CHIPATALínea 6 dice
-            excaso ha de decir escaso CHOLULAFol 550 en los Pueblos de esta Provincia col 2 lín 1
-            dice Haltenango ha de decir Tlantenango CHOROSLínea 5 dice excasísimo ha de decir
-            escasísimo CHORILLOS ha de decir CHORRILLOS CHUCUITO Fol 561 col 1 lín 4 dice NO SE lia
-            de decir NO SJS Id col 2 lín 8 dice Hunos ha de decir Uros CHUMBIUILCASLínea 3 dice con
-            el N ha de decir por el N Fol 572 en el Catálogo de los Obispos dice: Don Alonso Ramírez
-            natural de Villa excusa ha da decir Villaescusa Fol 574 Don Fray Gaspar de Villaróel
-            dice natural de Quito ha de decir de Riobamba Fol 575 Don Francisco Luis Romero dice del
-            Obispado de Quito el año de 4725 ha de decir pasó del Obispado de Quito el año de 1725
-            Fol 576 col 1 lín 27 dice fanigoso ha de decir fangoso Fol 588 col 1 lín 10 dice
-            formando ha de decir formado CLARENDON Línea 16 dice capaz ha de decir capaz</sense>
+            que tiene y han dado mucha riqueza pero hoy están arruinadas: dista 3 leguas de
+            Caracas</sense>
         </entry>
         <entry xml:id="alcedo05250">
           <form>
@@ -47520,10 +47022,10 @@
         </entry>
         <entry xml:id="alcedo05262">
           <form>
-            <orth type="lemma">BLANCHE Col</orth>
+            <orth type="lemma">BLANCHE</orth>
           </form>
-          <sense>1 fol 243 lín 9 dice Osiviego ha de decir Osvvego Fol 245 col 1 lín 11 dice lat 9
-            20 ha de decir 9 gr 20 min</sense>
+          <sense>Col 1 fol 243 lín 9 dice Osiviego ha de decir Osvvego Fol 245 col 1 lín 11 dice lat
+            9 20 ha de decir 9 gr 20 min</sense>
         </entry>
         <entry xml:id="alcedo05263">
           <form>
@@ -47573,9 +47075,9 @@
         </entry>
         <entry xml:id="alcedo05269">
           <form>
-            <orth type="lemma">BOS últ</orth>
+            <orth type="lemma">BOS</orth>
           </form>
-          <sense>dice el extremo ha de decir Fol 2j6 col 1 lín en el extremo</sense>
+          <sense>últ dice el extremo ha de decir Fol 2j6 col 1 lín en el extremo</sense>
         </entry>
         <entry xml:id="alcedo05270">
           <form>
@@ -47649,9 +47151,9 @@
         </entry>
         <entry xml:id="alcedo05279">
           <form>
-            <orth type="lemma">BUSH Fol</orth>
+            <orth type="lemma">BUSH</orth>
           </form>
-          <sense>292 col 2 lín 6 dice Chesapeach ha de decir Chesapeack</sense>
+          <sense>Fol 292 col 2 lín 6 dice Chesapeach ha de decir Chesapeack</sense>
         </entry>
         <entry xml:id="alcedo05280">
           <form>
@@ -47808,9 +47310,9 @@
         </entry>
         <entry xml:id="alcedo05302">
           <form>
-            <orth type="lemma">CERMEN Fol</orth>
+            <orth type="lemma">CERMEN</orth>
           </form>
-          <sense>441 col 2 lín 5 dice Agna Culebras ha de decir Agua Culebras</sense>
+          <sense>Fol 441 col 2 lín 5 dice Agna Culebras ha de decir Agua Culebras</sense>
         </entry>
         <entry xml:id="alcedo05303">
           <form>
@@ -47828,7 +47330,7 @@
           <form>
             <orth type="lemma">CHALCO Línea 1 dice Fiamanalco</orth>
           </form>
-          <sense>ha de decir Tlamanalco</sense>
+          <sense/>
         </entry>
         <entry xml:id="alcedo05306">
           <form>
@@ -47843,9 +47345,9 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">CHANCAY Fol</orth>
+            <orth type="lemma">CHANCAY</orth>
           </form>
-          <sense>464 col 2 lín 10 dice algunos ha de decir algunas</sense>
+          <sense>Fol 464 col 2 lín 10 dice algunos ha de decir algunas</sense>
         </entry>
         <entry xml:id="alcedo05308">
           <form>
@@ -47958,11 +47460,11 @@
         </entry>
         <entry xml:id="alcedo05313">
           <form>
-            <orth type="lemma">CHIAPA Fol</orth>
+            <orth type="lemma">CHIAPA</orth>
           </form>
-          <sense>487 col 2 32 dice Emperador anade Cárlos VFoL 49o en la serie de los Obispos dice
-            Don Fray Tomas Blanes etc presentado ha de decir fue presentadoFol 491 dice Don Fray
-            Domingo de Villaexcusa ha de decir de Villaescusa</sense>
+          <sense>Fol 487 col 2 32 dice Emperador anade Cárlos VFoL 49o en la serie de los Obispos
+            dice Don Fray Tomas Blanes etc presentado ha de decir fue presentadoFol 491 dice Don
+            Fray Domingo de Villaexcusa ha de decir de Villaescusa</sense>
         </entry>
         <entry xml:id="alcedo05314">
           <fs type="hgis_info">
@@ -48199,9 +47701,9 @@
         </entry>
         <entry xml:id="alcedo05345">
           <form>
-            <orth type="lemma">CUGUI Lín</orth>
+            <orth type="lemma">CUGUI</orth>
           </form>
-          <sense>5 dice de Tolten ha de decir de Tolten</sense>
+          <sense>Lín 5 dice de Tolten ha de decir de Tolten</sense>
         </entry>
         <entry xml:id="alcedo05346">
           <form>
@@ -48249,10 +47751,11 @@
             </f>
           </fs>
           <form>
-            <orth type="lemma">CUZCO Fol</orth>
+            <orth type="lemma">CUZCO</orth>
           </form>
-          <sense>745 col 1 lín 38 dice primorosas ha de decir primeras En la serie de Obispos fol
-            751 Don Juan de la Nava etc dice después es electo ha de decir después de electo</sense>
+          <sense>Fol 745 col 1 lín 38 dice primorosas ha de decir primeras En la serie de Obispos
+            fol 751 Don Juan de la Nava etc dice después es electo ha de decir después de
+            electo</sense>
         </entry>
       </div>
       <div type="agradecimientos">
