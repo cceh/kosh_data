@@ -62,7 +62,7 @@ Synsets Index:
 
 
 
-### [Hiztegi Batu Oinarriduna](http://www.euskaltzaindia.eus/dok/eaeb/hiztegibatua/hiztegibatua.xml) (Basque)
+### Hiztegi Batua (Basque) [XML](http://www.euskaltzaindia.eus/dok/eaeb/hiztegibatua/hiztegibatua.xml), [PDF](http://www.euskaltzaindia.eus/dok/eaeb/hiztegibatua/hiztegibatua.pdf): 
 
 **37.973 Entries**
 
@@ -71,7 +71,7 @@ Synsets Index:
 * GraphiQL:  <http://kosh.uni-koeln.de/api/hiztegibatua/graphql>
 ```
 {
-  entries(queryType: wildcard, query: "*etsu", field: lemma) {
+  entries(queryType: prefix, query: "aban", field: lemma) {
     id 
     lemma
     sensePos
