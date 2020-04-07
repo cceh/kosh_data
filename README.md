@@ -40,37 +40,6 @@ Synsets Index:
 * Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_synset/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_synset/graphql>
 
-### [Freedict German - Dutch](https://github.com/freedict/fd-dictionaries/tree/master/deu-nld)
-
-**12.812 Entries**
-
-* Swagger UI: <http://kosh.uni-koeln.de/api/freedict_deu_nld/restful>
-* GraphiQL:  <http://kosh.uni-koeln.de/api/freedict_deu_nld/graphql>
-```
-{
-  entries(queryType: term, query: "lieben", field: lemma_deu) {
-    id 
-    translationNld
-  }
-}
-```
-
-### [Freedict Breton - French](https://github.com/freedict/fd-dictionaries/tree/master/bre-fra)
-
-**27.034 Entries**
-
-* Swagger UI: <http://kosh.uni-koeln.de/api/freedict_bre_fra/restful>
-
-* GraphiQL:  <http://kosh.uni-koeln.de/api/freedict_bre_fra/graphql>
-```
-{
-  entries(queryType: wildcard, query: "*eler", field: lemma_bre) {
-    id 
-    lemmaBre
-    translationFra
-  }
-}
-```
 
 
 ### [Glossarium mediæ et infimæ latinitatis](https://sourceforge.net/p/ducange/code/HEAD/tree/xml/) - Charles du Fresne, sieur du Cange
