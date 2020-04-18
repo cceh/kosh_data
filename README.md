@@ -26,19 +26,20 @@ Kosh offers instances of Swagger UI and  GraphiQL per indexed dataset.
 
 ### [English Wordnet](https://en-word.net/)
 
-Entries Index:
-
-**160.051 Entries**
-
-* Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_entry/restful>
-* GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_entry/graphql>
-
 Synsets Index:
 
-**117.791 Synsets**
+**120.053 Synsets**
 
 * Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_synset/restful>
 * GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_synset/graphql>
+
+
+Entries Index:
+
+**163.079 Entries**
+
+* Swagger UI: <http://kosh.uni-koeln.de/api/wordnet_en_entry/restful>
+* GraphiQL:  <http://kosh.uni-koeln.de/api/wordnet_en_entry/graphql>
 
 
 
