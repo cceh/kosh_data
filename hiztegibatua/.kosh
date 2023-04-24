@@ -1,3 +1,7 @@
 [hiztegibatua]
 files: ["hiztegibatua.xml"]
 schema: hiztegibatua_mapping.json
+title: "Hiztegi batua"
+authors: ["Euskaltzaindia"]
+source_languages: ["eus"]
+target_languages: ["eus"]

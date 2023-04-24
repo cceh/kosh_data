@@ -1,7 +1,15 @@
 [ducange]
 files: ["A.xml", "B.xml", "C.xml", "D.xml", "E.xml", "F.xml", "G.xml", "H.xml", "I.xml","K.xml", "L.xml", "M.xml", "N.xml", "O.xml", "P.xml", "Q.xml", "R.xml", "S.xml", "T.xml","V.xml", "X.xml", "Y.xml", "Z.xml"]
 schema: ducange_mapping.json
+title: "Glossarium mediae et infimae latinitatis"
+authors: ["Charles du Fresne, sieur du Cange"]
+source_languages: ["lat"]
+target_languages: ["lat", "fro", "grc"]
 
 [ducange_fr]
 files: ["glossaire.tei"]
 schema: ducange_fr_mapping.json
+title: "Glossarium mediae et infimae latinitatis"
+authors: ["Charles du Fresne, sieur du Cange"]
+source_languages: ["lat"]
+target_languages: ["lat", "fro", "grc"]

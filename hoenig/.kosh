@@ -1,3 +1,7 @@
 [hoenig]
 files: ["hoenig.tei"]
 schema: hoenig_mapping.json
+title: "Wörterbuch der Kölner Mundart"
+authors: ["Fritz Hönig"]
+source_languages: ["ksh"]
+target_languages: ["deu"]

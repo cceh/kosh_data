@@ -1,3 +1,7 @@
 [de_alcedo]
 files: ["alcedo-1.tei", "alcedo-2.tei", "alcedo-3.tei", "alcedo-4.tei", "alcedo-5.tei"]
 schema: de_alcedo_mapping.json
+title: "Diccionario Geográfico-Histórico de las Indias Occidentales ó América"
+authors: ["Antonio de Alcedo"]
+source_languages: ["spa"]
+target_languages: ["spa"]

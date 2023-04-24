@@ -1,7 +1,15 @@
 [wordnet_en_entry]
 files: ["english-wordnet-2020.xml"]
 schema: english-wordnet-2020_entry_mapping.json
+title: "Open English WordNet"
+authors: ["John P. McCrae", "Alexandre Rademaker", "Ewa Rudnicka", "Francis Bond"]
+source_languages: ["eng"]
+target_languages: ["eng"]
 
 [wordnet_en_synset]
 files: ["english-wordnet-2020.xml"]
 schema: english-wordnet-2020_synset_mapping.json
+title: "Open English WordNet"
+authors: ["John P. McCrae", "Alexandre Rademaker", "Ewa Rudnicka", "Francis Bond"]
+source_languages: ["eng"]
+target_languages: ["eng"]

@@ -1,7 +1,15 @@
 [tunico]
 files: ["dc_aeb_eng.xml"]
 schema: dc_aeb_eng_entry_mapping.json
+title: "TuniCo: A Digital Dictionary of Tunis Arabic"
+authors: ["Stephan Procházka", "Ines Dallaji", "Ines Gabsi"]
+source_languages: ["aeb"]
+target_languages: ["eng"]
 
 [tunico_example]
 files: ["dc_aeb_eng.xml"]
 schema: dc_aeb_eng_example_mapping.json
+title: "TuniCo: A Digital Dictionary of Tunis Arabic"
+authors: ["Stephan Procházka", "Ines Dallaji", "Ines Gabsi"]
+source_languages: ["aeb"]
+target_languages: ["eng"]
